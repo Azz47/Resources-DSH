@@ -29,11 +29,6 @@ __pycache__/
 .dsh-imagegen/
 .mindmaps/
 
-# 二进制与大体积中间产物（.pptx/.pdf 等交付件由 decks 单独管理，不入库）
-*.pptx
-*.docx
-*.xlsx
-*.pdf
 # 诊断用的原始会话/日志快照（体积大且非知识资产）
 *.jsonl
 _probe/_*
@@ -49,3 +44,12 @@ generate/image/
 
 # 内嵌图片占比 98.5% 的素材型大 HTML（非文档）
 _specs/layout-atlas.html
+
+decks/ 目录下的成品课件（.pptx）**允许入库**——体积小（单个 <5 MB），需版本可追溯
+
+# _probe 下的 Office 冒烟测试产物（调试残留，非交付）
+_probe/**/*.docx
+_probe/**/*.pptx
+_probe/**/*.xlsx
+_probe/**/*.pdf
+
