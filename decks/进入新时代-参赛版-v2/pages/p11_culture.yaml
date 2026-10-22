@@ -1,0 +1,547 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "展板五 · 文化：让传统“活”在今天",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "12 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p11i0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    139,
+    176.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p11i0_im",
+   "elementType": "image",
+   "bounds": [
+    56,
+    156,
+    123,
+    136
+   ],
+   "src": "media/image11.jpeg",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p11i0_cp",
+   "elementType": "text",
+   "bounds": [
+    57,
+    298,
+    121,
+    18.85
+   ],
+   "content": {
+    "text": "三星堆",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p11i1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    199,
+    148,
+    139,
+    176.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p11i1_im",
+   "elementType": "image",
+   "bounds": [
+    207,
+    156,
+    123,
+    136
+   ],
+   "src": "media/image12.jpeg",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p11i1_cp",
+   "elementType": "text",
+   "bounds": [
+    208,
+    298,
+    121,
+    18.85
+   ],
+   "content": {
+    "text": "良渚",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p11i2_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    148,
+    139,
+    176.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p11i2_im",
+   "elementType": "image",
+   "bounds": [
+    358,
+    156,
+    123,
+    136
+   ],
+   "src": "media/image13.jpeg",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p11i2_cp",
+   "elementType": "text",
+   "bounds": [
+    359,
+    298,
+    121,
+    18.85
+   ],
+   "content": {
+    "text": "国家版本馆",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p11i3_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    501,
+    148,
+    139,
+    176.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p11i3_im",
+   "elementType": "image",
+   "bounds": [
+    509,
+    156,
+    123,
+    136
+   ],
+   "src": "media/image14.png",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p11i3_cp",
+   "elementType": "text",
+   "bounds": [
+    510,
+    298,
+    121,
+    18.85
+   ],
+   "content": {
+    "text": "《只此青绿》",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p11c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    344,
+    592,
+    111.9
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p11c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    354,
+    3,
+    91.9
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p11c_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    360,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "让传统“活”在今天",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p11c_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    390.3,
+    557,
+    49.6
+   ],
+   "content": {
+    "text": "传承弘扬中华优秀传统文化，推动创造性转化、创新性发展——文物不再只是“被保护”，而是被看见、被使用、被喜欢。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "图片来源：新华社",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s1.png",
+  "fit": "cover"
+ },
+ "notes": "问：文物为什么“活”了？答：“因为有保护”。接：更因为被使用——被看见、被喜欢，才算活着。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p11i0_bg",
+    "p11i0_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i0_bg",
+    "p11i0_cp"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i1_bg",
+    "p11i1_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i1_bg",
+    "p11i1_cp"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i2_bg",
+    "p11i2_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i2_bg",
+    "p11i2_cp"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i3_bg",
+    "p11i3_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11i3_bg",
+    "p11i3_cp"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11c_bg",
+    "p11c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11c_bg",
+    "p11c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p11c_bg",
+    "p11c_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

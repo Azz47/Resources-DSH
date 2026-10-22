@@ -1,0 +1,38 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "23"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [66, 134, 573, 360]
+    content:
+      text: "研学活动要求·搜集资料，了解家乡的变化发展。 ·分小组拟定活动方案，细化走访调研的目的、对象、内容及方式，分工明确。 ·开展走访调研活动。 调研过程中，重点关注新时代以来家乡的变化发展情况及存在的主要问题，做好记录。 ·做好各类资料的整理、分析、留存等工作，提出针对性对策建议。 ·小组深入讨论交流，共同完成一篇调研报告。"
+      fontSize: 28
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [117, 77, 492, 44]
+    content:
+      text: "子任务3：拓展策展——循迹盐湖行"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_11"
+    elementType: line
+    bounds: [146, 127, 438, 2]
+    points: [[146,129],[584,127]]
+    line: {color: "#711000", width: 1}
+  - elementId: "矩形_13"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#711000"
+    line: {color: "#000000"}
+  - elementId: "矩形_14"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#AE0203"
+    line: {color: "#000000"}

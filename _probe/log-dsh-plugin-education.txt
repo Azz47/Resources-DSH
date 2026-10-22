@@ -1,0 +1,19 @@
+﻿dsh.cmd : 
+At D:\Resources\DSH\_probe\install-plugins.ps1:44 char:10
++   $raw = & $dshCmd plugin --profile desktop add $pkg 2>&1 | Out-Strin ...
++          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+dsh: installation rejected: Plugin dsh-plugin-education@0.3.2 is incompatible with dsh 0.2.0-rc.2: peerDependencies {"@
+deepseek-ai/dsh-fs":"^0.1.0-rc.6","@deepseek-ai/dsh-system-prompt":"^0.1.0-rc.6","@deepseek-ai/dsh-tools":"^0.1.0-rc.6"
+}. Running it may cause crashes or data loss. Update the plugin or install a plugin version compatible with this dsh ru
+ntime. To accept this risk explicitly, grant the exact-version exemption for dsh-plugin-education@0.3.2 on dsh 0.2.0-rc
+.2 with `dsh plugin allow-version` or the plugin manager, then retry the installation or restart dsh. Exact-version exe
+mption: not active.
+dsh: nothing was installed.
+dsh: to accept the risk, run: dsh plugin --profile desktop allow-version dsh-plugin-education@0.3.2 --dsh-version 0.2.0
+-rc.2 --accept-risk
+dsh: plugin command failed; diagnostics: C:\Users\Administrator\.dsh\profiles\desktop\.plugin-manager\logs\operation-6v
+erHf\pnpm.log
+

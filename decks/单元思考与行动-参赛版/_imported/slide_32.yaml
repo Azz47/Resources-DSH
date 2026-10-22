@@ -1,0 +1,38 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "32"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_76"
+    elementType: text
+    bounds: [131, 84, 438, 44]
+    content:
+      text: "课堂小结"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_77"
+    elementType: line
+    bounds: [131, 135, 438, 2]
+    points: [[131,137],[569,135]]
+    line: {color: "#711000", width: 1}
+  - elementId: "矩形_79"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#711000"
+    line: {color: "#000000"}
+  - elementId: "矩形_80"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#AE0203"
+    line: {color: "#000000"}
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [37, 182, 601, 264]
+    content:
+      text: "新时代新征程，社会主义中国巍然屹立，中华民族伟大复兴势不可挡。 我们是实现强国建设、民族复兴伟业的中坚力量， “勿忘昨天的苦难辉煌，无愧今天的使命担当，不负明天的伟大梦想”， “自觉做习近平新时代中国特色社会主义思想的坚定信仰者、积极传播者、忠实实践者。 ”以青春见证中国腾飞，用成长助推家乡发展——这就是我们的青春答卷！"
+      fontSize: 24
+      color: "#333333"
+      fontFamily: "华文楷体"

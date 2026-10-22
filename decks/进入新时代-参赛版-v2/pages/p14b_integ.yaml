@@ -1,0 +1,379 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "重点整合：把“看见”收成“判据”",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "16 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p14b_n0",
+   "elementType": "text",
+   "bounds": [
+    48,
+    152,
+    30,
+    36
+   ],
+   "content": {
+    "text": "①",
+    "fontSize": 22,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_t0",
+   "elementType": "text",
+   "bounds": [
+    82,
+    154,
+    558,
+    30
+   ],
+   "content": {
+    "text": "六块展板凭什么代表新时代",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_b0",
+   "elementType": "text",
+   "bounds": [
+    82,
+    188,
+    558,
+    42
+   ],
+   "content": {
+    "text": "它们分别落在“五位一体”的五个方面，且都带可核实的数字与来源。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p14b_n1",
+   "elementType": "text",
+   "bounds": [
+    48,
+    236,
+    30,
+    36
+   ],
+   "content": {
+    "text": "②",
+    "fontSize": 22,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_t1",
+   "elementType": "text",
+   "bounds": [
+    82,
+    238,
+    558,
+    30
+   ],
+   "content": {
+    "text": "选一件展品，凭什么？",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_b1",
+   "elementType": "text",
+   "bounds": [
+    82,
+    272,
+    558,
+    42
+   ],
+   "content": {
+    "text": "三条判据：落到具体领域、有可核实数据、能说清“变了什么”。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p14b_n2",
+   "elementType": "text",
+   "bounds": [
+    48,
+    320,
+    30,
+    36
+   ],
+   "content": {
+    "text": "③",
+    "fontSize": 22,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_t2",
+   "elementType": "text",
+   "bounds": [
+    82,
+    322,
+    558,
+    30
+   ],
+   "content": {
+    "text": "一块展板的说服力从哪来",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14b_b2",
+   "elementType": "text",
+   "bounds": [
+    82,
+    356,
+    558,
+    42
+   ],
+   "content": {
+    "text": "事实（数据）＋ 机制（为什么变）＋ 价值（对谁好），缺一条就只是图片。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p14b_x",
+   "elementType": "text",
+   "bounds": [
+    48,
+    412,
+    592,
+    24
+   ],
+   "content": {
+    "text": "这三条判据，带到环节二——解说词写不下去时，回头看它们。",
+    "fontSize": 15,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s1.png",
+  "fit": "cover"
+ },
+ "notes": "问：这一环节你带走了什么？答：“看到很多成就”。接：带走三条判据：落领域、有数据、说清变了什么。下一环节要用。"
+}

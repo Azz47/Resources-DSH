@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "D:\\Resources\\DSH\\decks\\进入新时代-参赛版-v2\\第二单元 进入新时代-单元思考与行动-参赛版-v2.pptx",
+  "sourceSha256": "0e1858360775a4d26f24029348a7a43a6d2b62b140b78191979af48e492ea0de",
+  "dpi": 144,
+  "pageCount": 44,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "D:\\Resources\\DSH\\decks\\进入新时代-参赛版-v2\\rendered-final\\page-0001.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 238768
+    },
+    {
+      "index": 2,
+      "page": 9,
+      "path": "D:\\Resources\\DSH\\decks\\进入新时代-参赛版-v2\\rendered-final\\page-0002.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 582815
+    },
+    {
+      "index": 3,
+      "page": 11,
+      "path": "D:\\Resources\\DSH\\decks\\进入新时代-参赛版-v2\\rendered-final\\page-0003.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1256304
+    },
+    {
+      "index": 4,
+      "page": 28,
+      "path": "D:\\Resources\\DSH\\decks\\进入新时代-参赛版-v2\\rendered-final\\page-0004.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 190270
+    }
+  ],
+  "missingFonts": []
+}

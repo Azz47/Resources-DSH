@@ -1,0 +1,197 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "念一遍五个维度，重点解释星级差别在哪。请学生当场给自己打一次自评。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "活动评价量表 · 自评 互评 师评", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "32 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p32r0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 110, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p32r0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 106, 596, 45.879999999999995]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p32r0_cap", "p32r0_t"]
+  - elementId: "p32r0_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 112, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p32r0_t"
+    elementType: "text"
+    bounds: [56, 113, 572, 31.879999999999995]
+    content: {text: "资料搜集与准备｜★★★主动全面、真实清晰　★★能搜集基本素材　★素材欠缺", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p32r1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 163.88, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p32r1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 159.88, 596, 45.879999999999995]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p32r1_cap", "p32r1_t"]
+  - elementId: "p32r1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 165.88, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p32r1_t"
+    elementType: "text"
+    bounds: [56, 166.88, 572, 31.879999999999995]
+    content: {text: "小组合作与参与度｜★★★主动承担任务，协作强　★★能完成分配任务　★参与度低", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p32r2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 217.76, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p32r2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 213.76, 596, 45.879999999999995]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p32r2_cap", "p32r2_t"]
+  - elementId: "p32r2_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 219.76, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p32r2_t"
+    elementType: "text"
+    bounds: [56, 220.76, 572, 31.879999999999995]
+    content: {text: "展板设计成果质量｜★★★主题鲜明、贴合成就　★★展板完整、主题明确　★内容单薄", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p32r3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 271.64, 592, 65.75999999999999]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p32r3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 267.64, 596, 65.75999999999999]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p32r3_cap", "p32r3_t"]
+  - elementId: "p32r3_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 273.64, 4, 53.75999999999999]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p32r3_t"
+    elementType: "text"
+    bounds: [56, 274.64, 572, 51.75999999999999]
+    content: {text: "研学探究表现｜★★★观察深入、分析准确有深度　★★能完成观察与简单分析　★思考\n浅显", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p32r4_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 345.4, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p32r4"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 341.4, 596, 45.879999999999995]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p32r4_cap", "p32r4_t"]
+  - elementId: "p32r4_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 347.4, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p32r4_t"
+    elementType: "text"
+    bounds: [56, 348.4, 572, 31.879999999999995]
+    content: {text: "成果展示与感悟反思｜★★★表达流畅、能谈感悟　★★能完成展示　★表达不完整", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}

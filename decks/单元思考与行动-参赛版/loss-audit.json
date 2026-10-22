@@ -1,0 +1,402 @@
+{
+  "generatedBy": "dsh-ppt-studio",
+  "version": 1,
+  "source": "单元思考与行动(1).pptx",
+  "kind": "pptx-rebuild-loss-audit",
+  "clean": false,
+  "total": 27,
+  "visibleTotal": 21,
+  "themeStyleOnly": false,
+  "counts": {
+    "animation": 18,
+    "effect": 0,
+    "hyperlink": 0,
+    "transition": 0,
+    "smartart": 0,
+    "media": 0,
+    "gradient": 9
+  },
+  "scannedParts": 244,
+  "slides": 40,
+  "categories": [
+    {
+      "id": "animation",
+      "label": "动画",
+      "count": 18,
+      "visible": 18,
+      "loss": "DSL 中间层没有动画通道：整册重渲后动画全丢",
+      "evidence": [
+        {
+          "page": 5,
+          "part": "ppt/slides/slide5.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 6,
+          "part": "ppt/slides/slide6.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 7,
+          "part": "ppt/slides/slide7.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 8,
+          "part": "ppt/slides/slide8.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 4,
+          "detail": "时间轴含 4 个动画效果节点"
+        },
+        {
+          "page": 13,
+          "part": "ppt/slides/slide13.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 18,
+          "part": "ppt/slides/slide18.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 1,
+          "detail": "时间轴含 1 个动画效果节点"
+        },
+        {
+          "page": 19,
+          "part": "ppt/slides/slide19.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 1,
+          "detail": "时间轴含 1 个动画效果节点"
+        },
+        {
+          "page": 20,
+          "part": "ppt/slides/slide20.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 26,
+          "part": "ppt/slides/slide26.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 27,
+          "part": "ppt/slides/slide27.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 4,
+          "detail": "时间轴含 4 个动画效果节点"
+        },
+        {
+          "page": 33,
+          "part": "ppt/slides/slide33.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 34,
+          "part": "ppt/slides/slide34.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 35,
+          "part": "ppt/slides/slide35.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 36,
+          "part": "ppt/slides/slide36.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 1,
+          "detail": "时间轴含 1 个动画效果节点"
+        },
+        {
+          "page": 37,
+          "part": "ppt/slides/slide37.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 1,
+          "detail": "时间轴含 1 个动画效果节点"
+        },
+        {
+          "page": 38,
+          "part": "ppt/slides/slide38.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 39,
+          "part": "ppt/slides/slide39.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        },
+        {
+          "page": 40,
+          "part": "ppt/slides/slide40.xml",
+          "element": null,
+          "tag": "timing",
+          "anims": 2,
+          "detail": "时间轴含 2 个动画效果节点"
+        }
+      ]
+    },
+    {
+      "id": "effect",
+      "label": "阴影/发光",
+      "count": 0,
+      "visible": 0,
+      "loss": "DSL 没有 effectLst 通道（import-styles.json 只留 rawShadow 标志）：整册重渲后阴影/发光消失",
+      "evidence": []
+    },
+    {
+      "id": "hyperlink",
+      "label": "超链接",
+      "count": 0,
+      "visible": 0,
+      "loss": "DSL 没有链接通道：整册重渲后链接退化为纯文本",
+      "evidence": []
+    },
+    {
+      "id": "transition",
+      "label": "页切换",
+      "count": 0,
+      "visible": 0,
+      "loss": "DSL 没有 transition 通道：整册重渲后切换效果丢",
+      "evidence": []
+    },
+    {
+      "id": "smartart",
+      "label": "SmartArt",
+      "count": 0,
+      "visible": 0,
+      "loss": "SmartArt 图形框架被当作图表降级为文本占位",
+      "evidence": []
+    },
+    {
+      "id": "media",
+      "label": "不可嵌入媒体",
+      "count": 0,
+      "visible": 0,
+      "loss": "导出仅内嵌 png/jpeg/jpg/gif/webp：EMF/WMF 等矢量图、音视频、OLE 嵌入对象不会被带入成品",
+      "evidence": []
+    },
+    {
+      "id": "gradient",
+      "label": "主题/背景渐变",
+      "count": 9,
+      "visible": 3,
+      "loss": "主题渐变与页面背景渐变被归一为纯色（形状渐变有直通，不计）",
+      "evidence": [
+        {
+          "page": null,
+          "part": "ppt/theme/theme1.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "bgFillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（bgFillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme1.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 2,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 2 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色",
+          "visible": true
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme1.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme2.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "bgFillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（bgFillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme2.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 2,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 2 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色",
+          "visible": true
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme2.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme3.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "bgFillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（bgFillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme3.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 2,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 2 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色",
+          "visible": true
+        },
+        {
+          "page": null,
+          "part": "ppt/theme/theme3.xml",
+          "element": null,
+          "tag": "gradFill",
+          "scope": "theme",
+          "holder": "fillStyleLst",
+          "index": 3,
+          "count": 3,
+          "colors": [
+            "scheme:phClr",
+            "scheme:phClr",
+            "scheme:phClr"
+          ],
+          "detail": "主题渐变（fillStyleLst 第 3 项，3 个 stop：scheme:phClr→scheme:phClr→scheme:phClr）→ 归一为纯色；未被引用（样式表模板）",
+          "visible": false
+        }
+      ]
+    }
+  ],
+  "themeRefs": {
+    "bgRef": [],
+    "fillRef": [
+      1,
+      2
+    ]
+  },
+  "note": "判据：动画=非空 p:timing；阴影/发光=含效果子节点的 a:effectLst/a:effectDag 或裸效果节点（空 effectLst 与主题 effectStyleLst 不计）；超链接=a:hlinkClick/a:hlinkHover；切换=p:transition；SmartArt=graphicData@uri 含 /diagram（无引用时包内部件合计 1 处）；不可嵌入媒体=ppt/media 扩展名 ∉ {png,jpeg,jpg,gif,webp}、ppt/embeddings、幻灯片内 OLE/音视频引用；渐变=p:bg 下 a:gradFill（可见）+ 主题 a:gradFill（被 bgRef idx=1001+N / fillRef idx=N 引用者 visible:true，未被引用者 visible:false=样式表模板）；形状渐变直通不计。证据字段：page（1 基，非幻灯片为 null）/part/element/tag/visible。",
+  "advice": "整册重渲会丢上述 21 处可见特性；若只需改某几页 / 改一处文字，优先 ppt_splice（只把工作区目标页替换进原稿，其余页逐字节不变）——动画/阴影/超链接等留在原稿里。",
+  "note_shapeGradientsPreserved": "包内另有 8 处形状渐变：v0.9.1 起直通 fill.gradient，不计入损失。",
+  "hitSummary": [
+    {
+      "id": "animation",
+      "label": "动画",
+      "count": 18,
+      "visible": 18
+    },
+    {
+      "id": "gradient",
+      "label": "主题/背景渐变",
+      "count": 9,
+      "visible": 3
+    }
+  ]
+}

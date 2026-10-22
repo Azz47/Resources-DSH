@@ -1,0 +1,381 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "变的不只是环境，还有它的用法",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "28 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p25a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    290,
+    196
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p25a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    176
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p25a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "文化之变 · 盐韵新生",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p25a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    255,
+    99.2
+   ],
+   "content": {
+    "text": "晒盐技艺（运城盐池晒盐技艺）列入国家级非遗；池盐博物馆建成开放。退盐还湖后，技艺由生产转为展示与传承。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p25b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    148,
+    290,
+    196
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p25b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    158,
+    3,
+    176
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p25b_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "生态之变 · 退盐还湖",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p25b_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    194.3,
+    255,
+    99.2
+   ],
+   "content": {
+    "text": "停止工业采盐，实施生态修复：水系连通、湿地恢复、堤埝修整。恢复的是湿地功能，而不是“原来的样子”。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p25ev",
+   "elementType": "image",
+   "bounds": [
+    48,
+    356,
+    592,
+    88
+   ],
+   "src": "media/doc_saltuse.png",
+   "fit": "contain"
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：停产的代价是什么？答：“少赚钱”。接：代价真实，但换回来的是湿地功能和一座城市的呼吸空间。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p25a_bg",
+    "p25a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p25a_bg",
+    "p25a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p25a_bg",
+    "p25a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p25b_bg",
+    "p25b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p25b_bg",
+    "p25b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p25b_bg",
+    "p25b_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

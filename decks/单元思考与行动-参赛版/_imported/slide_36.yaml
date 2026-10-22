@@ -1,0 +1,37 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "36"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [267, 70, 438, 44]
+    content:
+      text: "课堂练习"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_1"
+    elementType: line
+    bounds: [270, 123, 438, 2]
+    points: [[270,125],[708,123]]
+    line: {color: "#014E6A", width: 1}
+  - elementId: "矩形_4"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#014E6A"
+    line: {color: "#000000"}
+  - elementId: "矩形_10"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000"}
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [68, 140, 824, 360]
+    content:
+      text: "4.新中国成立之初，我国“连铁钉和火柴都需要进口”，工业基础薄弱，科技前沿几近空白。 77 载岁月，神州大地天翻地覆：如今，我国建成全球最完整、规模最大的研发体系和工业体系，进入创新型国家行列——“奋斗者”号深潜万米，“中国天眼”巡天观测，中国空间站遨游太空，国产大模型引领全球开源生态……这些成就的背后，是一以贯之的方向引领。 党中央提出“以科技创新为引领，大力培育壮大新兴产业和未来产业”，从基础研究的系统部署，到“十五五”规划对新兴产业的整体布局，再到广大科技工作者数十年如一日地攻关“卡脖子”难题……一代代人接力奋斗，让“中国制造”加速迈向“中国创造”。"
+      fontSize: 24
+      fontFamily: "华文楷体"

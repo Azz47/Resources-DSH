@@ -1,0 +1,71 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "20"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [117, 77, 492, 44]
+    content:
+      text: "子任务3：拓展策展——循迹盐湖行"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_11"
+    elementType: line
+    bounds: [146, 127, 438, 2]
+    points: [[146,129],[584,127]]
+    line: {color: "#711000", width: 1}
+  - elementId: "矩形_13"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#711000"
+    line: {color: "#000000"}
+  - elementId: "矩形_14"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#AE0203"
+    line: {color: "#000000"}
+  - elementId: "文本框_7"
+    elementType: text
+    bounds: [66, 242, 581, 75]
+    content:
+      text: "围绕展览主题，立足家乡的变化发展，开展一次研学活动。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [66, 153, 280, 39]
+    content:
+      text: "实践活动·小组研学"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [66, 153, 280, 39]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_4_txt"
+    elementType: text
+    bounds: [66, 374, 573, 39]
+    content:
+      text: "黄河流域生态保护和高质量发展·盐湖之变"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_4"
+    elementType: shape
+    bounds: [66, 374, 573, 39]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_下_5"
+    elementType: shape
+    bounds: [339, 292, 39, 75]
+    kind: downArrow

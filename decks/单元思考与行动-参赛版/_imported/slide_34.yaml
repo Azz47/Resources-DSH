@@ -1,0 +1,45 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "34"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [265, 112, 438, 44]
+    content:
+      text: "课堂练习"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_1"
+    elementType: line
+    bounds: [267, 165, 438, 2]
+    points: [[267,167],[705,165]]
+    line: {color: "#014E6A", width: 1}
+  - elementId: "矩形_4"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#014E6A"
+    line: {color: "#000000"}
+  - elementId: "矩形_10"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000"}
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [66, 193, 842, 280]
+    content:
+      text: "2.《中华人民共和国黄河保护法》为黄河流域生态保护和高质量发展提供坚实法治保障，坚持共同抓好大保护，协同推进大治理。 这一举措体现（ ）①坚持依法治国，建设法治中国②践行绿水青山就是金山银山理念③生态保护可以脱离经济发展单独推进④走绿色发展道路，促进人与自然和谐共生A.①②③ B.①②④ C.①③④ D.②③④"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [834, 226, 34, 40]
+    content:
+      text: "B"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"

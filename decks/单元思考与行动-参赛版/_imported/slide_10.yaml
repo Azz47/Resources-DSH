@@ -1,0 +1,93 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "10"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [29, 155, 896, 40]
+    content:
+      text: "传承弘扬中华优秀传统文化，推动中华优秀传统文化实现创造性转化、创新性发展。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [179, 75, 452, 51]
+    content:
+      text: "小组展示：展板五 文化传承"
+      fontSize: 32
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_2_txt"
+    elementType: text
+    bounds: [663, 75, 141, 62]
+    content:
+      text: "文化建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_2"
+    elementType: shape
+    bounds: [663, 75, 141, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_3"
+    elementType: shape
+    bounds: [600, 88, 47, 25]
+    kind: rightArrow
+  - elementId: "Picture_2"
+    elementType: image
+    bounds: [39, 216, 198, 142]
+    fit: cover
+    src: "media/image11.jpeg"
+  - elementId: "文本框_7"
+    elementType: text
+    bounds: [21, 403, 219, 75]
+    content:
+      text: "三星堆不断有考古新发现"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "Picture_4"
+    elementType: image
+    bounds: [265, 216, 198, 142]
+    fit: cover
+    src: "media/image12.jpeg"
+  - elementId: "Picture_6"
+    elementType: image
+    bounds: [489, 216, 198, 142]
+    fit: cover
+    src: "media/image13.jpeg"
+  - elementId: "Picture_10"
+    elementType: image
+    bounds: [716, 216, 198, 142]
+    fit: cover
+    src: "media/image14.png"
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [241, 403, 236, 75]
+    content:
+      text: "良渚古城遗址列入世界遗产"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_11"
+    elementType: text
+    bounds: [464, 403, 224, 65]
+    content:
+      text: "国家版本馆建成开馆"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_13"
+    elementType: text
+    bounds: [702, 400, 234, 75]
+    content:
+      text: "《只此青绿》向世界展示东方美学"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_14"
+    elementType: text
+    bounds: [368, 363, 217, 32]
+    content:
+      text: "以上图片均来源：新华社"
+      fontFamily: "华文楷体"

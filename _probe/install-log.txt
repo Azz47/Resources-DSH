@@ -1,0 +1,22 @@
+﻿[09:35:52] START baseline process count = 6
+[09:35:52] INSTALL dsh-ppt-studio
+[09:36:05] OK     dsh-ppt-studio exit=0 alive=6 dep=True bundle=True
+[09:36:05] INSTALL dsh-craft-your-textbook
+[09:36:20] OK     dsh-craft-your-textbook exit=0 alive=6 dep=True bundle=True
+[09:36:20] INSTALL dsh-plugin-education
+[09:36:27] FAIL   dsh-plugin-education exit=1 alive=6  (see log-dsh-plugin-education.txt)
+[09:36:27]        detail:     + FullyQualifiedErrorId : NativeCommandError | dsh: installation rejected: Plugin dsh-plugin-education@0.3.2 is incompatible with dsh 0.2.0-rc.2: peerDependencies {"@ | dsh: nothing was installed. | dsh: to accept the risk, run: dsh plugin --profile desktop allow-version dsh-plugin-education@0.3.2 --dsh-version 0.2.0 | dsh: plugin command failed; diagnostics: C:\Users\Administrator\.dsh\profiles\desktop\.plugin-manager\logs\operation-6v
+[09:36:27] INSTALL @arcaneorion/dsh-teaching-board
+[09:36:36] FAIL   @arcaneorion/dsh-teaching-board exit=1 alive=6  (see log-_arcaneorion_dsh-teaching-board.txt)
+[09:36:36]        detail:     + FullyQualifiedErrorId : NativeCommandError | dsh: installation rejected: Plugin @arcaneorion/dsh-teaching-board@0.6.0 is incompatible with dsh 0.2.0-rc.2: peerDepen | dsh: nothing was installed. | dsh: to accept the risk, run: dsh plugin --profile desktop allow-version @arcaneorion/dsh-teaching-board@0.6.0 --dsh-ve | dsh: plugin command failed; diagnostics: C:\Users\Administrator\.dsh\profiles\desktop\.plugin-manager\logs\operation-0L
+[09:36:36] INSTALL dsh-context
+[09:36:53] OK     dsh-context exit=0 alive=6 dep=True bundle=True
+[09:36:53] INSTALL dsh-better-sidebar
+[09:37:26] OK     dsh-better-sidebar exit=0 alive=6 dep=True bundle=True
+[09:37:26] INSTALL dsh-hotspots
+[09:37:36] OK     dsh-hotspots exit=0 alive=6 dep=True bundle=True
+[09:37:36] INSTALL dsh-image-generation
+[09:37:46] OK     dsh-image-generation exit=0 alive=6 dep=True bundle=True
+[09:37:46] INSTALL dshmarket
+[09:38:02] OK     dshmarket exit=0 alive=6 dep=True bundle=True
+[09:38:02] DONE final process count = 6

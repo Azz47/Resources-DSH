@@ -1,0 +1,547 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "四条原因：成就背后是可以命名的",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "22 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p20a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p20a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    116
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p20a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "科学指引",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p20a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    255,
+    24.8
+   ],
+   "content": {
+    "text": "以科学理论判断形势、确定方向。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p20b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    148,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p20b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    158,
+    3,
+    116
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p20b_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "党的领导",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p20b_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    194.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "总揽全局、协调各方，一张蓝图干到底。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p20c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    298,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p20c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    308,
+    3,
+    116
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p20c_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    314,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "制度优势",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p20c_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    344.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "集中力量办大事，跨区域跨部门协同。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p20d_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    298,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p20d_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    308,
+    3,
+    116
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p20d_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    314,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "以人民为中心",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p20d_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    344.3,
+    255,
+    24.8
+   ],
+   "content": {
+    "text": "为了人、依靠人，成果由人共享。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：四条原因能不能合并？答：“能，都归到党的领导”。接：可以合并，但合并会丢信息——四条各管一段。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p20a_bg",
+    "p20a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20a_bg",
+    "p20a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20a_bg",
+    "p20a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20b_bg",
+    "p20b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20b_bg",
+    "p20b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20b_bg",
+    "p20b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20c_bg",
+    "p20c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20c_bg",
+    "p20c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20c_bg",
+    "p20c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20d_bg",
+    "p20d_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20d_bg",
+    "p20d_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p20d_bg",
+    "p20d_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "不是旁观者，而是答卷人",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "34 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p31a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    189,
+    150
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    130
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "做宣传员",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    154,
+    46.5
+   ],
+   "content": {
+    "text": "了解盐池历史，把家乡的故事讲清楚。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    249,
+    148,
+    189,
+    150
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    249,
+    158,
+    3,
+    130
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31b_t",
+   "elementType": "text",
+   "bounds": [
+    268,
+    164,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "做践行者",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31b_b",
+   "elementType": "text",
+   "bounds": [
+    268,
+    194.3,
+    154,
+    46.5
+   ],
+   "content": {
+    "text": "从小事做起，守护身边的绿水青山。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    450,
+    148,
+    189,
+    150
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    450,
+    158,
+    3,
+    130
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31c_t",
+   "elementType": "text",
+   "bounds": [
+    469,
+    164,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "做建设者",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31c_b",
+   "elementType": "text",
+   "bounds": [
+    469,
+    194.3,
+    154,
+    46.5
+   ],
+   "content": {
+    "text": "学好本领，将来为家乡发展出力。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31n_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    320,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p31n_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    320,
+    3,
+    44.0
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31n_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    330.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "回答不是表态，是行动：这个学期，你打算为家乡做哪一件具体的事？",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：三个身份哪个最容易？答：“宣传员”。接：最容易也最容易空。践行者要具体到一件事，建设者要具体到一个方法。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p31a_bg",
+    "p31a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31a_bg",
+    "p31a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31a_bg",
+    "p31a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b_bg",
+    "p31b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b_bg",
+    "p31b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b_bg",
+    "p31b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31c_bg",
+    "p31c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31c_bg",
+    "p31c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31c_bg",
+    "p31c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31n_bg",
+    "p31n_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31n_bg",
+    "p31n_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

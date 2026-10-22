@@ -1,0 +1,180 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "带学生把六块展板归到“五位一体”的五个方面，留出空白展板让学生自己补——这是本环节的小高潮。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#E8C15A", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务一 · 观展选品——感悟新时代", fontSize: 14, color: "#8A6A1E", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "情境思考 · 六块展板排一排", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#E8C15A", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#E8C15A", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E8C15A"}, {pos: 100, color: "#8A6A1E", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#8A6A1E"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "09 / 42", fontSize: 14, color: "#E8C15A", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "lead_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 110, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "lead"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 106, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["lead_cap", "lead_t"]
+  - elementId: "lead_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 112, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "lead_t"
+    elementType: "text"
+    bounds: [56, 113, 572, 34.72]
+    content: {text: "情境思考 · 把六块展板排一排，你发现了什么？", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p09q1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 168.72, 592, 95.02]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p09q1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 164.72, 596, 95.02]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p09q1_le", "p09q1_t", "p09q1_b"]
+  - elementId: "p09q1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 173.72, 3.5, 77.02]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p09q1_t"
+    elementType: "text"
+    bounds: [56, 173.72, 572, 29.459999999999997]
+    content: {text: "问题一", fontSize: 17, color: "#8A6A1E", fontFamily: "黑体", bold: true}
+  - elementId: "p09q1_b"
+    elementType: "text"
+    bounds: [56, 213.18, 572, 31.56]
+    content: {text: "已有展板体现了“五位一体”总体布局的哪些方面？", fontSize: 18, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p09a1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 271.74, 592, 71.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p09a1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 267.74, 596, 71.44]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p09a1_cap", "p09a1_t"]
+  - elementId: "p09a1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 273.74, 4, 59.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p09a1_t"
+    elementType: "text"
+    bounds: [56, 274.74, 572, 57.44]
+    content: {text: "我们党统筹推进经济建设、政治建设、文化建设、社会建设、生态文明\n建设“五位一体”总体布局。", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p09q2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 351.18, 592, 95.02]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p09q2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 347.18, 596, 95.02]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p09q2_le", "p09q2_t", "p09q2_b"]
+  - elementId: "p09q2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 356.18, 3.5, 77.02]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p09q2_t"
+    elementType: "text"
+    bounds: [56, 356.18, 572, 29.459999999999997]
+    content: {text: "问题二", fontSize: 17, color: "#8A6A1E", fontFamily: "黑体", bold: true}
+  - elementId: "p09q2_b"
+    elementType: "text"
+    bounds: [56, 395.64, 572, 31.56]
+    content: {text: "可以从剩余方面补充空白展板，请完善展板。", fontSize: 18, color: "#2E4438", fontFamily: "楷体"}

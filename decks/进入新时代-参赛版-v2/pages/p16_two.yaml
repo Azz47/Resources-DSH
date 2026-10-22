@@ -1,0 +1,507 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "黄河之变：从 226 天，到 27 年",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "18 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p16a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    200,
+    104.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p16a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    200,
+    3
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p16a_n",
+   "elementType": "text",
+   "bounds": [
+    58,
+    168,
+    180,
+    46
+   ],
+   "content": {
+    "text": "226 天",
+    "fontSize": 38,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "center",
+    "lineHeight": 1.15
+   }
+  },
+  {
+   "elementId": "p16a_l",
+   "elementType": "text",
+   "bounds": [
+    58,
+    218,
+    180,
+    18.85
+   ],
+   "content": {
+    "text": "1997 年利津断面断流天数",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "center",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p16b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    260,
+    148,
+    200,
+    104.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p16b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    260,
+    148,
+    200,
+    3
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p16b_n",
+   "elementType": "text",
+   "bounds": [
+    270,
+    168,
+    180,
+    46
+   ],
+   "content": {
+    "text": "27 年",
+    "fontSize": 38,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "center",
+    "lineHeight": 1.15
+   }
+  },
+  {
+   "elementId": "p16b_l",
+   "elementType": "text",
+   "bounds": [
+    270,
+    218,
+    180,
+    18.85
+   ],
+   "content": {
+    "text": "自 1999 年起连续不断流",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "center",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p16c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    472,
+    148,
+    168,
+    106.4
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p16c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    472,
+    158,
+    3,
+    86.4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p16c_b",
+   "elementType": "text",
+   "bounds": [
+    491,
+    164,
+    133,
+    74.4
+   ],
+   "content": {
+    "text": "1972—1999 年，28 年间黄河有 22 年断流。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p16tl",
+   "elementType": "image",
+   "bounds": [
+    48,
+    258,
+    592,
+    76
+   ],
+   "src": "media/doc_timeline.png",
+   "fit": "contain"
+  },
+  {
+   "elementId": "p16q_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    350,
+    592,
+    96
+   ],
+   "fill": "#FBF8F0",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p16q_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    350,
+    4,
+    96
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p16q_t",
+   "elementType": "text",
+   "bounds": [
+    70,
+    366,
+    548,
+    60
+   ],
+   "content": {
+    "text": "从 226 天断流，到连续 27 年不断流——究竟是什么原因，让这条河变了？",
+    "fontSize": 20,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：226 天和 27 年，哪个更难？答：“27 年”。接：难的是从 226 到 27 的那一步——1999 年全河统一调度。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p16a_bg",
+    "p16a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16a_bg",
+    "p16a_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16a_bg",
+    "p16a_l"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16b_bg",
+    "p16b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16b_bg",
+    "p16b_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16b_bg",
+    "p16b_l"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16c_bg",
+    "p16c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16c_bg",
+    "p16c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16q_bg",
+    "p16q_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p16q_bg",
+    "p16q_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

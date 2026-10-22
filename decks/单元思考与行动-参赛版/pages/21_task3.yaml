@@ -1,0 +1,196 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "从国家拉回家乡：把刚才的方法用到盐湖。说明这次要走出教室，先交代任务边界。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务三 · 拓展策展——循迹盐湖行", fontSize: 14, color: "#8E3F2E", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "子任务三 · 拓展策展——循迹盐湖行", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#EE8A72", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#EE8A72"}, {pos: 100, color: "#8E3F2E", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#8E3F2E"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "21 / 42", fontSize: 14, color: "#EE8A72", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p21task_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 108, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p21task"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 104, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p21task_cap", "p21task_t"]
+  - elementId: "p21task_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 110, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p21task_t"
+    elementType: "text"
+    bounds: [56, 111, 572, 37.56]
+    content: {text: "围绕展览主题，立足家乡的变化发展，开展一次研学活动。", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p21b0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 181.56, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p21b0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 177.56, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p21b0_n", "p21b0_nt", "p21b0_t", "p21b0_b"]
+  - elementId: "p21b0_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 186.56, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p21b0_nt"
+    elementType: "text"
+    bounds: [54, 191.56, 30, 20]
+    content: {text: "01", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p21b0_t"
+    elementType: "text"
+    bounds: [94, 185.56, 534, 30.65]
+    content: {text: "选定线索", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p21b0_b"
+    elementType: "text"
+    bounds: [94, 220.21, 534, 28.5]
+    content: {text: "黄河流域生态保护和高质量发展 · 盐湖之变。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p21b1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 272.71000000000004, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p21b1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 268.71000000000004, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p21b1_n", "p21b1_nt", "p21b1_t", "p21b1_b"]
+  - elementId: "p21b1_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 277.71000000000004, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p21b1_nt"
+    elementType: "text"
+    bounds: [54, 282.71000000000004, 30, 20]
+    content: {text: "02", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p21b1_t"
+    elementType: "text"
+    bounds: [94, 276.71000000000004, 534, 30.65]
+    content: {text: "走进现场", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p21b1_b"
+    elementType: "text"
+    bounds: [94, 311.36, 534, 28.5]
+    content: {text: "实地走访或线上查阅，收集事实与数据。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p21b2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 363.86, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p21b2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 359.86, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p21b2_n", "p21b2_nt", "p21b2_t", "p21b2_b"]
+  - elementId: "p21b2_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 368.86, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p21b2_nt"
+    elementType: "text"
+    bounds: [54, 373.86, 30, 20]
+    content: {text: "03", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p21b2_t"
+    elementType: "text"
+    bounds: [94, 367.86, 534, 30.65]
+    content: {text: "形成成果", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p21b2_b"
+    elementType: "text"
+    bounds: [94, 402.51, 534, 28.5]
+    content: {text: "完成一份《家乡发展调研报告》。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}

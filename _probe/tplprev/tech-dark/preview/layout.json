@@ -1,0 +1,210 @@
+{
+  "size": {
+    "width": 960,
+    "height": 540
+  },
+  "theme": {
+    "colors": {
+      "bg": "#0F1B2D",
+      "cyan": "#22D3EE",
+      "card": "#1E3A5F",
+      "white": "#E2E8F0",
+      "sub": "#8FA3BF",
+      "chip": "#334155"
+    },
+    "textStyles": {
+      "title": {
+        "fontSize": 32,
+        "color": "$white",
+        "bold": true
+      },
+      "h2": {
+        "fontSize": 20,
+        "color": "$cyan",
+        "bold": true
+      },
+      "body": {
+        "fontSize": 14,
+        "color": "$white"
+      },
+      "label": {
+        "fontSize": 12,
+        "color": "$white"
+      },
+      "caption": {
+        "fontSize": 12,
+        "color": "$sub"
+      }
+    },
+    "grid": {
+      "base": 8
+    },
+    "safeArea": {
+      "top": 16,
+      "bottom": 16
+    },
+    "minFontSize": 12,
+    "themeConformance": "strict"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "pageNo": 1,
+      "file": "pages/01_opening.yaml",
+      "name": "pages/01_opening",
+      "background": {
+        "type": "solid",
+        "color": "#0F1B2D"
+      },
+      "safeArea": {
+        "top": 24,
+        "bottom": 24,
+        "left": 0,
+        "right": 0
+      },
+      "expectedOverlaps": [],
+      "expectedOutOfSafeArea": [],
+      "contrastExempt": [],
+      "overlapMode": "declared",
+      "groups": [],
+      "elements": [
+        {
+          "id": "kick",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 90,
+            "w": 500,
+            "h": 30
+          },
+          "style": {
+            "fontSize": 12,
+            "color": "#22D3EE",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 147.6,
+            "textH": 14.399999999999999,
+            "lines": 1,
+            "lineWidths": [
+              138
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "PRODUCT · 产品/项目代号"
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 140,
+            "w": 840,
+            "h": 130
+          },
+          "style": {
+            "fontSize": 44,
+            "color": "#E2E8F0",
+            "bold": true,
+            "lineHeight": 1.25,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 729.9599999999999,
+            "textH": 110,
+            "lines": 2,
+            "lineWidths": [
+              419.75999999999993,
+              279.84
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "主标题：一句话讲清\n这次发布什么"
+        },
+        {
+          "id": "glow",
+          "kind": "shape",
+          "bounds": {
+            "x": 60,
+            "y": 300,
+            "w": 140,
+            "h": 5
+          },
+          "shape": "rect",
+          "fill": "#22D3EE",
+          "rotation": 0
+        },
+        {
+          "id": "subtitle",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 330,
+            "w": 840,
+            "h": 40
+          },
+          "style": {
+            "fontSize": 16,
+            "color": "#8FA3BF",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 231.20000000000002,
+            "textH": 19.2,
+            "lines": 1,
+            "lineWidths": [
+              218.4
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "副标题：核心定位 / 一句话价值"
+        },
+        {
+          "id": "org",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 452,
+            "w": 700,
+            "h": 26
+          },
+          "style": {
+            "fontSize": 12,
+            "color": "#8FA3BF",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 115.19999999999999,
+            "textH": 14.399999999999999,
+            "lines": 1,
+            "lineWidths": [
+              96
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "团队 ｜ 时间 ｜ 版本"
+        },
+        {
+          "id": "dot",
+          "kind": "shape",
+          "bounds": {
+            "x": 880,
+            "y": 452,
+            "w": 20,
+            "h": 20
+          },
+          "shape": "ellipse",
+          "fill": "#22D3EE",
+          "rotation": 0
+        }
+      ]
+    }
+  ]
+}

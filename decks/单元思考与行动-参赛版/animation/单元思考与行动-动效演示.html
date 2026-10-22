@@ -1,0 +1,908 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>第二单元 进入新时代 · 单元思考与行动 —— 动效演示</title>
+<style>
+/* ==========================================================================
+   黑板 × 粉笔擦卡 —— 与参赛课件同一套设计系统
+   设计基准：960 × 540（与 pptx 完全同坐标，L=44 / R=640，右侧 1/3 留给讲师）
+   ========================================================================== */
+:root{
+  --board:#2E4A3D;
+  --board-d:#26402F;
+  --board-l:#35543F;
+  --wood-a:#8A5A2B;
+  --wood-b:#6B4420;
+  --chalk:#F4F8F4;
+  --chalk-dim:#BFD2C2;
+  --chalk-faint:#A9C0AE;
+  --panel:#E9EFE9;
+  --panel-w:#F0E8D8;
+  --ink:#1D2B23;
+  --muted:#465C4D;
+  --rule:#7E9A85;
+
+  --mint:#7FD6B0;  --mint2:#1F6B4F;
+  --gold:#E8C15A;  --gold2:#8A6A1E;
+  --cyan:#6FC7E8;  --cyan2:#1F6383;
+  --coral:#EE8A72; --coral2:#8E3F2E;
+  --lav:#B9A7E8;   --lav2:#584C86;
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{height:100%;}
+body{
+  background:#121b16;
+  font-family:"Microsoft YaHei","PingFang SC","Source Han Sans SC",sans-serif;
+  overflow:hidden;
+  color:var(--chalk);
+  -webkit-font-smoothing:antialiased;
+}
+
+/* 舞台：固定 960×540，等比缩放铺满视口 */
+#viewport{position:fixed;inset:0;display:grid;place-items:center;background:#121b16;}
+#stage{
+  position:relative;
+  width:960px;height:540px;
+  transform:scale(var(--s,1));
+  transform-origin:center center;
+  background:
+    radial-gradient(120% 95% at 50% 42%, var(--board-l) 0%, var(--board) 46%, var(--board-d) 100%);
+  box-shadow:
+    inset 0 0 0 12px #4a2f14,
+    inset 0 0 0 17px var(--wood-a),
+    inset 0 0 0 21px var(--wood-b),
+    inset 0 0 0 23px #3d2610,
+    inset 0 0 46px rgba(0,0,0,.55),
+    0 18px 50px rgba(0,0,0,.55);
+  overflow:hidden;
+  border-radius:3px;
+}
+/* 粉笔灰纹理 */
+#stage::after{
+  content:"";position:absolute;inset:14px;pointer-events:none;
+  background:
+    repeating-radial-gradient(circle at 18% 26%, rgba(255,255,255,.028) 0 1px, transparent 1px 3px),
+    repeating-radial-gradient(circle at 72% 64%, rgba(255,255,255,.022) 0 1px, transparent 1px 4px);
+  mix-blend-mode:screen;
+  opacity:.85;
+}
+
+/* 顶部进度条 */
+#progress{
+  position:absolute;left:36px;right:36px;top:30px;height:2px;
+  background:rgba(255,255,255,.10);border-radius:2px;z-index:40;
+}
+#progress > i{
+  display:block;height:100%;width:0;border-radius:2px;
+  background:linear-gradient(90deg,var(--mint),var(--gold));
+  transition:width .45s cubic-bezier(.4,0,.2,1);
+}
+
+/* ---------------------------------------------------------------- 页 */
+.slide{
+  position:absolute;inset:0;
+  padding:44px 0 0 44px;
+  display:grid;
+  grid-template-columns:596px 1fr;
+  column-gap:0;
+  opacity:0;visibility:hidden;
+  pointer-events:none;
+  transition:opacity .42s ease, visibility 0s linear .42s;
+}
+.slide.on{opacity:1;visibility:visible;pointer-events:auto;transition:opacity .42s ease, visibility 0s;}
+
+.main{position:relative;width:596px;padding-top:6px;}
+.rside{
+  position:relative;width:100%;
+  border-left:1px solid rgba(255,255,255,.13);
+  padding-left:18px;margin-left:2px;
+}
+.rside .vt{
+  position:absolute;left:26px;top:44px;
+  writing-mode:vertical-rl;letter-spacing:.22em;
+  font-size:13px;color:var(--chalk-faint);line-height:1.5;
+}
+.rside .pnum{
+  position:absolute;left:26px;bottom:46px;
+  font-size:13px;letter-spacing:.12em;color:var(--chalk-faint);
+  font-variant-numeric:tabular-nums;
+}
+.rside .pnum b{color:var(--mint);font-weight:700;}
+
+/* ---------------------------------------------------------------- 页眉 */
+.kicker{
+  display:inline-flex;align-items:center;gap:8px;
+  height:22px;padding:0 12px 0 0;
+  font-size:13px;color:var(--chalk-dim);letter-spacing:.04em;
+}
+.kicker .bar{width:3px;height:13px;border-radius:2px;background:var(--mint);}
+.h1{
+  margin-top:9px;font-size:25px;font-weight:700;letter-spacing:.01em;
+  color:var(--chalk);line-height:1.28;
+}
+.h1 .sep{color:var(--chalk-faint);margin:0 6px;font-weight:400;}
+.hrule{
+  margin-top:9px;height:1px;width:560px;
+  background:linear-gradient(90deg,rgba(244,248,244,.55),rgba(244,248,244,.06));
+  position:relative;
+}
+.hrule::before{
+  content:"";position:absolute;left:0;top:-1px;width:72px;height:2px;border-radius:2px;
+  background:var(--chalk-dim);
+}
+
+/* ---------------------------------------------------------------- 通用块 */
+.lead{
+  margin-top:14px;background:var(--panel);border-radius:9px;
+  border-left:5px solid var(--mint2);
+  padding:10px 14px;color:var(--ink);font-size:15px;line-height:1.55;
+  box-shadow:0 3px 0 rgba(14,26,18,.28);
+}
+.lead.sm{font-size:14px;padding:9px 13px;}
+
+.card{
+  background:var(--panel);border-radius:9px;padding:12px 13px;
+  box-shadow:0 3px 0 rgba(14,26,18,.28);
+  position:relative;overflow:hidden;
+}
+.card::before{
+  content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--acc,var(--mint2));
+}
+.card .ct{font-size:16px;font-weight:700;color:var(--acc2,var(--mint2));line-height:1.35;}
+.card .cb{margin-top:6px;font-size:13.5px;line-height:1.55;color:var(--muted);}
+
+.row{display:grid;gap:10px;}
+.row.c3{grid-template-columns:repeat(3,1fr);}
+.row.c4{grid-template-columns:repeat(4,1fr);}
+.row.c2{grid-template-columns:repeat(2,1fr);}
+
+.chip{
+  display:inline-block;padding:2px 9px;border-radius:20px;font-size:12px;
+  border:1px solid rgba(255,255,255,.28);color:var(--chalk-dim);
+}
+.num{
+  font-size:34px;font-weight:700;letter-spacing:-.02em;line-height:1;
+  color:var(--acc,var(--mint));font-variant-numeric:tabular-nums;
+}
+.num small{font-size:14px;font-weight:600;margin-left:3px;letter-spacing:0;}
+
+.src{margin-top:10px;font-size:11.5px;color:var(--chalk-faint);letter-spacing:.02em;}
+
+/* ---------------------------------------------------------------- 进场动效 */
+.rv{opacity:0;transform:translateY(13px);}
+.slide.on .rv{
+  animation:rvIn .56s cubic-bezier(.22,.68,.32,1) both;
+  animation-delay:calc(var(--d,0) * 1ms);
+}
+@keyframes rvIn{
+  from{opacity:0;transform:translateY(13px);}
+  to{opacity:1;transform:translateY(0);}
+}
+.slide.on .rv.sc{animation-name:rvScale;}
+@keyframes rvScale{
+  from{opacity:0;transform:scale(.94);}
+  to{opacity:1;transform:scale(1);}
+}
+.slide.on .rv.wp{animation-name:rvWipe;}
+@keyframes rvWipe{
+  from{opacity:0;clip-path:inset(0 100% 0 0);}
+  to{opacity:1;clip-path:inset(0 0 0 0);}
+}
+.slide.on .rv.ln{animation-name:rvLine;}
+@keyframes rvLine{
+  from{opacity:0;transform:scaleX(0);transform-origin:left center;}
+  to{opacity:1;transform:scaleX(1);transform-origin:left center;}
+}
+
+/* ---------------------------------------------------------------- P1 封面 */
+.cover{grid-column:1 / -1;width:960px;padding-top:0;position:relative;}
+.cv-badge{
+  position:absolute;right:44px;top:26px;
+  display:flex;align-items:center;gap:7px;
+  background:rgba(233,239,233,.94);color:var(--mint2);
+  font-size:13px;font-weight:700;letter-spacing:.02em;
+  padding:5px 12px;border-radius:20px;
+  box-shadow:0 3px 0 rgba(14,26,18,.25);
+}
+.cv-inner{position:absolute;left:96px;top:118px;width:720px;}
+.cv-kick{font-size:15px;color:var(--chalk-dim);letter-spacing:.05em;}
+.cv-t1{
+  margin-top:16px;font-size:48px;font-weight:700;line-height:1.16;
+  color:var(--chalk);letter-spacing:.01em;
+  text-shadow:0 2px 0 rgba(0,0,0,.28);
+}
+.cv-t2{
+  margin-top:8px;font-size:34px;font-weight:700;line-height:1.2;
+  color:var(--mint);
+}
+.cv-axis{margin-top:14px;width:300px;height:2px;background:linear-gradient(90deg,var(--mint),rgba(127,214,176,0));}
+.cv-meta{
+  margin-top:20px;display:grid;grid-template-columns:repeat(2,auto);
+  gap:8px 54px;font-size:17px;color:var(--chalk-dim);line-height:1.5;
+}
+.cv-meta b{color:var(--chalk);font-weight:600;}
+.cv-tag{
+  position:absolute;left:96px;top:432px;width:660px;
+  font-size:14px;color:var(--chalk-dim);letter-spacing:.02em;
+}
+.cv-tag span{color:var(--gold);}
+
+/* ---------------------------------------------------------------- P2 三课 */
+.lesson{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin-top:16px;}
+.lesson .no{
+  font-size:12px;font-weight:700;letter-spacing:.14em;color:var(--acc2,var(--mint2));
+  opacity:.82;
+}
+.lesson .nm{margin-top:5px;font-size:17px;font-weight:700;color:var(--ink);line-height:1.35;}
+.lesson .ds{margin-top:8px;font-size:13px;line-height:1.5;color:var(--muted);}
+.lesson .q{margin-top:7px;padding-top:6px;font-size:12.5px;line-height:1.5;
+  color:var(--acc2,var(--mint2));border-top:1px dashed rgba(70,92,77,.28);}
+
+/* ---------------------------------------------------------------- P5 六展板 */
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:16px;}
+.tile{
+  background:rgba(233,239,233,.96);border-radius:8px;padding:14px 13px;
+  box-shadow:0 3px 0 rgba(14,26,18,.26);
+  display:flex;gap:10px;align-items:flex-start;
+}
+.tile .ico{flex:0 0 26px;width:26px;height:26px;margin-top:1px;}
+.tile .tx{min-width:0;}
+.tile .tt{font-size:15px;font-weight:700;color:var(--ink);line-height:1.3;}
+.tile .tg{margin-top:3px;font-size:11.5px;color:var(--acc2,var(--mint2));letter-spacing:.04em;}
+.tile .tn{margin-top:6px;font-size:12px;color:var(--muted);line-height:1.5;}
+
+/* ---------------------------------------------------------------- P6 黄河 */
+.hero2{display:grid;grid-template-columns:150px 150px 1fr;gap:12px;margin-top:18px;align-items:stretch;}
+.bigbox{
+  background:rgba(233,239,233,.96);border-radius:9px;padding:12px 8px 10px;
+  text-align:center;box-shadow:0 3px 0 rgba(14,26,18,.26);
+}
+.bigbox .num{font-size:38px;}
+.bigbox .lb{margin-top:7px;font-size:12.5px;color:var(--muted);}
+.axiswrap{
+  background:rgba(233,239,233,.96);border-radius:9px;padding:12px 14px 10px;
+  box-shadow:0 3px 0 rgba(14,26,18,.26);
+}
+.axiswrap .at{font-size:12.5px;color:var(--muted);margin-bottom:8px;}
+.axis{margin-top:2px;}
+.axiswrap .cap{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:7px;}
+
+/* ---------------------------------------------------------------- P7 流程 */
+.flow{margin-top:22px;width:596px;height:188px;}
+.flow .nd{transition:none;}
+.flowcap{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-top:6px;}
+.flowcap div{font-size:11.5px;color:var(--chalk-dim);text-align:center;line-height:1.45;}
+
+/* ---------------------------------------------------------------- P9 盐湖 */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px;}
+.kv{margin-top:10px;font-size:13.5px;line-height:1.9;color:var(--muted);}
+.kv b{color:var(--ink);font-weight:700;}
+.kv .dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--acc,var(--mint2));margin-right:7px;vertical-align:2px;}
+
+/* ---------------------------------------------------------------- 结尾 */
+.endline{
+  margin-top:22px;font-size:26px;font-weight:700;line-height:1.72;
+  color:var(--chalk);letter-spacing:.02em;
+}
+.endline em{font-style:normal;color:var(--gold);}
+.seal{
+  position:absolute;right:60px;bottom:56px;width:74px;height:74px;
+  border:2px solid rgba(232,193,90,.55);border-radius:6px;
+  display:grid;place-items:center;transform:rotate(-6deg);
+  color:rgba(232,193,90,.85);font-size:12px;line-height:1.3;text-align:center;
+  letter-spacing:.08em;
+}
+
+/* ---------------------------------------------------------------- 提示 */
+#hint{
+  position:absolute;left:36px;bottom:20px;font-size:11px;letter-spacing:.08em;
+  color:rgba(244,248,244,.30);z-index:40;
+}
+@media print{#hint{display:none;}}
+</style>
+</head>
+<body>
+<div id="viewport">
+<div id="stage">
+  <div id="progress"><i></i></div>
+
+  <!-- ============================================================ 01 封面 -->
+  <section class="slide" data-i="0">
+    <div class="cover">
+      <div class="cv-badge rv" style="--d:120">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+          <path d="M4 7h16M6 7v13h12V7M9 7V4h6v3"/>
+        </svg>
+        基础教育精品课 · 学科课程
+      </div>
+      <div class="cv-inner">
+        <div class="cv-kick rv" style="--d:260">统编版《道德与法治》九年级上册</div>
+        <div class="cv-t1 rv" style="--d:380">第二单元　进入新时代</div>
+        <div class="cv-t2 rv" style="--d:520">单元思考与行动</div>
+        <div class="cv-axis rv ln" style="--d:660"></div>
+        <div class="cv-meta rv" style="--d:800">
+          <div>年　级：<b>九年级</b></div>
+          <div>学　科：<b>道德与法治（统编版）</b></div>
+          <div>主讲人：<b>张紫璇</b></div>
+          <div>学　校：<b>运城市盐湖区北城初级中学</b></div>
+        </div>
+      </div>
+      <div class="cv-tag rv" style="--d:980">主题：<span>以青春见证中国腾飞，用成长助推家乡发展</span></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 02 单元导览 -->
+  <section class="slide" data-i="1">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>导引 · 从一次策展邀请开始</div>
+      <div class="h1 rv" style="--d:200">新课导入<span class="sep">·</span>本单元学什么</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead rv" style="--d:400">
+        本单元以“中国特色社会主义进入新时代”为主题，围绕“<b>新时代新在哪里</b>”展开。
+      </div>
+
+      <div class="lesson">
+        <div class="card rv" style="--d:560;--acc:var(--mint2)">
+          <div class="no">第四课</div>
+          <div class="nm">新的历史方位</div>
+          <div class="ds">我国发展新的历史方位，社会主要矛盾的历史性变化。</div>
+          <div class="q">关键问题：我们的发展，站到了哪个新方位？</div>
+        </div>
+        <div class="card rv" style="--d:680;--acc:var(--gold2);--acc2:var(--gold2)">
+          <div class="no">第五课</div>
+          <div class="nm">新时代的思想旗帜</div>
+          <div class="ds">习近平新时代中国特色社会主义思想的确立与指导地位。</div>
+          <div class="q">关键问题：新时代靠什么思想领航？</div>
+        </div>
+        <div class="card rv" style="--d:800;--acc:var(--cyan2);--acc2:var(--cyan2)">
+          <div class="no">第六课</div>
+          <div class="nm">中国腾飞谱新篇</div>
+          <div class="ds">新时代党和国家事业取得的历史性成就、发生的历史性变革。</div>
+          <div class="q">关键问题：新时代的成就是怎么来的？</div>
+        </div>
+      </div>
+
+      <div class="lead sm rv" style="--d:960;border-left-color:var(--gold2);margin-top:16px">
+        三课层层递进：先看“<b>方位</b>”，再立“<b>旗帜</b>”，最后落到“<b>成就</b>”。
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 03 四个新 -->
+  <section class="slide" data-i="2">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>导引 · 把“新时代”拆开看</div>
+      <div class="h1 rv" style="--d:200">新时代“新”在哪里</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">新时代不是一句口号，它新在四个可以被指认的地方。</div>
+
+      <div class="row c4 rv" style="--d:520;margin-top:16px">
+        <div class="card" style="--acc:var(--mint2)">
+          <div class="ct">矛盾新变化</div>
+          <div class="cb">人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。</div>
+        </div>
+        <div class="card" style="--acc:var(--gold2);--acc2:var(--gold2)">
+          <div class="ct">历史新方位</div>
+          <div class="cb">我国发展站到了新的历史起点上，进入新的发展阶段。</div>
+        </div>
+        <div class="card" style="--acc:var(--cyan2);--acc2:var(--cyan2)">
+          <div class="ct">理论新飞跃</div>
+          <div class="cb">习近平新时代中国特色社会主义思想成为思想旗帜。</div>
+        </div>
+        <div class="card" style="--acc:var(--coral2);--acc2:var(--coral2)">
+          <div class="ct">发展新成就</div>
+          <div class="cb">经济、政治、文化、社会、生态文明各领域取得历史性成就。</div>
+        </div>
+      </div>
+
+      <div class="rv" style="--d:1000;margin-top:18px;display:flex;gap:8px;align-items:center">
+        <span class="chip">五位一体</span>
+        <span class="chip">以人民为中心</span>
+        <span class="chip">中国式现代化</span>
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 04 本课任务 -->
+  <section class="slide" data-i="3">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>导引 · 一个总任务</div>
+      <div class="h1 rv" style="--d:200">本课任务<span class="sep">·</span>时代答卷人</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="rv" style="--d:380;margin-top:18px;font-size:22px;font-weight:700;line-height:1.5;color:var(--chalk)">
+        策展探悟新时代：<span style="color:var(--mint)">成就何以铸就，青年何以担当？</span>
+      </div>
+
+      <div class="row c3 rv" style="--d:560;margin-top:22px">
+        <div class="card" style="--acc:var(--mint2)">
+          <div class="num" style="font-size:22px;color:var(--mint2)">01</div>
+          <div class="ct" style="margin-top:6px">观展选品</div>
+          <div class="cb">梳理国家发展成就，补充完善展览展品——感悟新时代。</div>
+        </div>
+        <div class="card" style="--acc:var(--gold2);--acc2:var(--gold2)">
+          <div class="num" style="font-size:22px;color:var(--gold2)">02</div>
+          <div class="ct" style="margin-top:6px">撰写解说</div>
+          <div class="cb">结合展板撰写解说词，解码成就背后的密码——解码新成就。</div>
+        </div>
+        <div class="card" style="--acc:var(--cyan2);--acc2:var(--cyan2)">
+          <div class="num" style="font-size:22px;color:var(--cyan2)">03</div>
+          <div class="ct" style="margin-top:6px">拓展策展</div>
+          <div class="cb">立足盐湖调研，设计家乡研学活动方案——循迹盐湖行。</div>
+        </div>
+      </div>
+
+      <div class="lead sm rv" style="--d:1000;margin-top:18px">
+        三个子任务是一条链：<b>看见</b>成就 → <b>追问</b>原因 → 落到<b>行动</b>。
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 05 六块展板 -->
+  <section class="slide" data-i="4">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>环节一 · 观展选品——感悟新时代</div>
+      <div class="h1 rv" style="--d:200">六块展板<span class="sep">·</span>一个中国</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">
+        展板不是六张照片，是“五位一体”总体布局的六个落点。
+      </div>
+
+      <div class="tiles">
+        <div class="tile rv" style="--d:520;--acc2:var(--gold2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#8A6A1E" stroke-width="1.8">
+            <path d="M12 3v18M3 12h18"/><circle cx="12" cy="12" r="7"/>
+          </svg>
+          <div class="tx"><div class="tt">科技发展</div><div class="tg">经济建设</div>
+            <div class="tn">空间站长期驻留 · AI 赋能工业化</div></div>
+        </div>
+        <div class="tile rv" style="--d:600;--acc2:var(--gold2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#8A6A1E" stroke-width="1.8">
+            <path d="M3 17h18M6 17V9m6 8V6m6 11v-6"/><path d="M3 20h18"/>
+          </svg>
+          <div class="tx"><div class="tt">交通基建</div><div class="tg">经济建设</div>
+            <div class="tn">高铁营业里程 5 万公里 · 平陆运河通江达海</div></div>
+        </div>
+        <div class="tile rv" style="--d:680;--acc2:var(--coral2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#8E3F2E" stroke-width="1.8">
+            <path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6z"/><path d="M9 12l2 2 4-4"/>
+          </svg>
+          <div class="tx"><div class="tt">平安中国</div><div class="tg">社会建设</div>
+            <div class="tn">群众安全感连续多年保持 98% 以上</div></div>
+        </div>
+        <div class="tile rv" style="--d:760;--acc2:var(--cyan2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#1F6383" stroke-width="1.8">
+            <path d="M4 20h16M6 20V9l6-4 6 4v11"/><path d="M10 20v-5h4v5"/>
+          </svg>
+          <div class="tx"><div class="tt">民主法治</div><div class="tg">政治建设</div>
+            <div class="tn">全过程人民民主 · 生态环境法典</div></div>
+        </div>
+        <div class="tile rv" style="--d:840;--acc2:var(--lav2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#584C86" stroke-width="1.8">
+            <path d="M4 19V6l8 4 8-4v13l-8-4z"/>
+          </svg>
+          <div class="tx"><div class="tt">文化传承</div><div class="tg">文化建设</div>
+            <div class="tn">三星堆 · 良渚 · 国家版本馆 · 《只此青绿》</div></div>
+        </div>
+        <div class="tile rv" style="--d:920;--acc2:var(--mint2)">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#1F6B4F" stroke-width="1.8">
+            <path d="M3 15c3-4 6-4 9 0s6 4 9 0"/><path d="M3 19c3-4 6-4 9 0s6 4 9 0"/>
+            <path d="M12 4c2 3 3 5 3 7a3 3 0 0 1-6 0c0-2 1-4 3-7z"/>
+          </svg>
+          <div class="tx"><div class="tt">江河战略</div><div class="tg">生态文明建设</div>
+            <div class="tn">长江优良水质 67% → 96.5%</div></div>
+        </div>
+      </div>
+
+      <div class="src rv" style="--d:1040">资料来源：人民日报 · 人民网 · 新华社</div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 06 黄河 -->
+  <section class="slide" data-i="5">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>环节二 · 撰写解说——解码新成就</div>
+      <div class="h1 rv" style="--d:200">黄河之变<span class="sep">·</span>从 226 天到 27 年</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">以黄河流域生态保护和高质量发展为例。</div>
+
+      <div class="hero2">
+        <div class="bigbox rv sc" style="--d:520">
+          <div class="num" style="color:var(--coral2)">226<small>天</small></div>
+          <div class="lb">1997 年断流天数</div>
+        </div>
+        <div class="bigbox rv sc" style="--d:640">
+          <div class="num" style="color:var(--mint2)">27<small>年</small></div>
+          <div class="lb">连续不断流</div>
+        </div>
+        <div class="axiswrap rv" style="--d:760">
+          <div class="at">1972—1999 年，28 年间黄河有 22 年断流</div>
+          <svg class="axis" width="100%" height="34" viewBox="0 0 268 34" preserveAspectRatio="none">
+            <rect x="0" y="12" width="150" height="12" rx="2" fill="#EE8A72" opacity=".92"/>
+            <rect x="152" y="12" width="116" height="12" rx="2" fill="#7FD6B0" opacity=".92"/>
+            <path d="M150 8v20M152 8v20" stroke="#2E4A3D" stroke-width="1.4" opacity=".5"/>
+          </svg>
+          <div class="cap"><span>1972 断流</span><span>1999 统一调度</span><span>至今</span></div>
+        </div>
+      </div>
+
+      <div class="lead rv" style="--d:900;margin-top:16px;border-left-color:var(--mint2)">
+        今天，黄河已实现自 1999 年以来<b>连续 27 年不断流</b>；干流连续 4 年稳定保持 <b>Ⅱ 类水质</b>。
+      </div>
+
+      <div class="rv" style="--d:1040;margin-top:14px;font-size:15px;color:var(--chalk-dim);line-height:1.6">
+        从 226 天断流到连续 27 年不断流，<span style="color:var(--gold)">究竟是什么原因导致了黄河之变？</span>
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 07 四步解码法 -->
+  <section class="slide" data-i="6">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>环节二 · 思维工具</div>
+      <div class="h1 rv" style="--d:200">四步解码法<span class="sep">·</span>把现象追成原因</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">不背结论，先学会怎么问。</div>
+
+      <svg class="flow rv wp" style="--d:520" viewBox="0 0 596 188">
+        <defs>
+          <linearGradient id="gMint" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#F4F8F4" stop-opacity=".96"/>
+            <stop offset="1" stop-color="#DCE7DD" stop-opacity=".96"/>
+          </linearGradient>
+          <marker id="arw" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+            <path d="M0 0L10 5L0 10z" fill="#7E9A85"/>
+          </marker>
+        </defs>
+
+        <!-- 主线 -->
+        <line x1="30" y1="54" x2="566" y2="54" stroke="#7E9A85" stroke-width="1.2"
+              stroke-dasharray="4 4" marker-end="url(#arw)" opacity=".8"/>
+
+        <!-- 节点 -->
+        <g>
+          <rect x="8"   y="31" width="82" height="46" rx="7" fill="url(#gMint)" stroke="#1F6B4F" stroke-width="1.2"/>
+          <text x="49"  y="52" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1D2B23">现象</text>
+          <text x="49"  y="68" text-anchor="middle" font-size="10.5" fill="#465C4D">226 天断流</text>
+        </g>
+        <g>
+          <rect x="106" y="31" width="82" height="46" rx="7" fill="url(#gMint)" stroke="#1F6B4F" stroke-width="1.2"/>
+          <text x="147" y="52" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1D2B23">问机制</text>
+          <text x="147" y="68" text-anchor="middle" font-size="10.5" fill="#465C4D">为什么会断</text>
+        </g>
+        <g>
+          <rect x="204" y="31" width="82" height="46" rx="7" fill="url(#gMint)" stroke="#8A6A1E" stroke-width="1.2"/>
+          <text x="245" y="52" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1D2B23">反证</text>
+          <text x="245" y="68" text-anchor="middle" font-size="10.5" fill="#465C4D">不行会怎样</text>
+        </g>
+        <g>
+          <rect x="302" y="31" width="82" height="46" rx="7" fill="url(#gMint)" stroke="#8A6A1E" stroke-width="1.2"/>
+          <text x="343" y="52" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1D2B23">比较</text>
+          <text x="343" y="68" text-anchor="middle" font-size="10.5" fill="#465C4D">谁做到了</text>
+        </g>
+        <g>
+          <rect x="400" y="31" width="82" height="46" rx="7" fill="url(#gMint)" stroke="#1F6383" stroke-width="1.2"/>
+          <text x="441" y="52" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1D2B23">归纳</text>
+          <text x="441" y="68" text-anchor="middle" font-size="10.5" fill="#465C4D">共性是什么</text>
+        </g>
+        <g>
+          <rect x="498" y="24" width="90" height="60" rx="7" fill="#F0E8D8" stroke="#E8C15A" stroke-width="1.6"/>
+          <text x="543" y="48" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8A6A1E">原因</text>
+          <text x="543" y="66" text-anchor="middle" font-size="10.5" fill="#465C4D">制度·领导·人民</text>
+        </g>
+
+        <!-- 下排：四问 -->
+        <text x="8" y="128" font-size="12" fill="#BFD2C2">① 这条河为什么会出现断流？</text>
+        <text x="8" y="158" font-size="12" fill="#BFD2C2">② 如果不再统一调度，会怎样？</text>
+        <text x="306" y="128" font-size="12" fill="#BFD2C2">③ 还有哪些江河做到了持续有水？</text>
+        <text x="306" y="158" font-size="12" fill="#BFD2C2">④ 这些做法共同指向什么？</text>
+      </svg>
+
+      <div class="lead sm rv" style="--d:900;margin-top:10px">
+        可见的成就背后，藏着四条可以命名的原因——这才是“解码”。
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 08 四大原因 -->
+  <section class="slide" data-i="7">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>环节二 · 归纳</div>
+      <div class="h1 rv" style="--d:200">成就背后的密码</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">黄河之变的四条原因，也是中国之变的四条原因。</div>
+
+      <div class="row c4 rv" style="--d:540;margin-top:16px">
+        <div class="card" style="--acc:var(--mint2)">
+          <div class="ct">党的领导</div>
+          <div class="cb">党的领导是中国特色社会主义最本质的特征，是成就的根本保证。</div>
+        </div>
+        <div class="card" style="--acc:var(--gold2);--acc2:var(--gold2)">
+          <div class="ct">制度优势</div>
+          <div class="cb">集中力量办大事，跨区域协同、长效治理才成为可能。</div>
+        </div>
+        <div class="card" style="--acc:var(--cyan2);--acc2:var(--cyan2)">
+          <div class="ct">科学指导</div>
+          <div class="cb">新发展理念与生态文明思想，为治河提供了方法论。</div>
+        </div>
+        <div class="card" style="--acc:var(--coral2);--acc2:var(--coral2)">
+          <div class="ct">以人民为中心</div>
+          <div class="cb">让黄河成为造福人民的幸福河——发展为了人民。</div>
+        </div>
+      </div>
+
+      <div class="rv" style="--d:980;margin-top:20px;background:rgba(240,232,216,.94);border-radius:9px;padding:12px 14px;
+                  color:var(--ink);font-size:15px;line-height:1.6;box-shadow:0 3px 0 rgba(14,26,18,.26)">
+        <b style="color:var(--gold2)">解说词写法：</b>先用事实说清“变了什么”，再用方法追出“为什么变”，最后落到“我们该怎么看”。
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 09 盐湖 -->
+  <section class="slide" data-i="8">
+    <div class="main">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>环节三 · 拓展策展——循迹盐湖行</div>
+      <div class="h1 rv" style="--d:200">盐湖之变<span class="sep">·</span>一座矿区的转身</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="lead sm rv" style="--d:380">
+        从“工业矿区”到“城市生态客厅”：<b>同一个盐湖，两种价值</b>。
+      </div>
+
+      <div class="two">
+        <div class="card rv" style="--d:540;--acc:var(--lav2);--acc2:var(--lav2);padding:16px 15px">
+          <div class="ct">文化之变 · 盐韵新生</div>
+          <div class="kv">
+            <div><i class="dot" style="--acc:var(--lav2)"></i><b>4600 年</b>采盐史</div>
+            <div><i class="dot" style="--acc:var(--lav2)"></i>池盐博物馆建成开放</div>
+            <div><i class="dot" style="--acc:var(--lav2)"></i><b>五步产盐法</b>传承至今</div>
+          </div>
+        </div>
+        <div class="card rv" style="--d:680;--acc:var(--mint2);padding:16px 15px">
+          <div class="ct">生态之变 · 退盐还湖</div>
+          <div class="kv">
+            <div><i class="dot"></i><b>2020 年</b>停止工业采盐</div>
+            <div><i class="dot"></i><b>27 个</b>生态修复项目 · <b>25.2 亿元</b></div>
+            <div><i class="dot"></i>修复堤埝 <b>119.77 公里</b></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rv" style="--d:800;margin-top:22px;display:flex;align-items:center;gap:10px;font-size:13px;color:var(--chalk-dim)">
+        <span class="chip">工业矿区</span>
+        <span style="color:var(--chalk-faint)">→</span>
+        <span class="chip">退盐还湖</span>
+        <span style="color:var(--chalk-faint)">→</span>
+        <span class="chip" style="border-color:rgba(127,214,176,.6);color:var(--mint)">城市生态客厅</span>
+      </div>
+
+      <div class="rv" style="--d:920;margin-top:18px;background:rgba(240,232,216,.94);border-radius:9px;
+                  padding:12px 14px;color:var(--ink);font-size:15px;line-height:1.6;
+                  box-shadow:0 3px 0 rgba(14,26,18,.26)">
+        <b style="color:var(--coral2)">思辨：</b>盐湖保护、家乡建设，是政府的事，和我们中学生无关吗？
+      </div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 10 收尾 -->
+  <section class="slide" data-i="9">
+    <div class="main" style="width:596px">
+      <div class="kicker rv" style="--d:80"><i class="bar"></i>收束 · 我们的回答</div>
+      <div class="h1 rv" style="--d:200">不是旁观者<span class="sep">·</span>而是答卷人</div>
+      <div class="hrule rv ln" style="--d:280"></div>
+
+      <div class="row c3 rv" style="--d:420;margin-top:20px">
+        <div class="card" style="--acc:var(--lav2);--acc2:var(--lav2)">
+          <div class="ct">做文化宣传员</div>
+          <div class="cb">了解盐湖历史，讲好生态故事。</div>
+        </div>
+        <div class="card" style="--acc:var(--mint2)">
+          <div class="ct">做绿色践行者</div>
+          <div class="cb">从小事做起，守护身边的绿水青山。</div>
+        </div>
+        <div class="card" style="--acc:var(--cyan2);--acc2:var(--cyan2)">
+          <div class="ct">做家乡建设者</div>
+          <div class="cb">学好本领，将来为家乡发展贡献力量。</div>
+        </div>
+      </div>
+
+      <div class="endline rv" style="--d:720">
+        以青春<em>见证</em>中国腾飞，<br>
+        用成长<em>助推</em>家乡发展。
+      </div>
+
+      <div class="rv" style="--d:960;margin-top:16px;font-size:14px;color:var(--chalk-faint);letter-spacing:.04em">
+        —— 这就是我们的青春答卷。
+      </div>
+
+      <div class="seal rv sc" style="--d:1120">单元<br>思考</div>
+    </div>
+    <div class="rside">
+      <div class="vt">第二单元　进入新时代</div>
+      <div class="pnum" data-num></div>
+    </div>
+  </section>
+
+  <div id="hint">← → 翻页　·　滚轮 / 点击左右两侧</div>
+</div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var stage   = document.getElementById("stage");
+  var bar     = document.querySelector("#progress > i");
+  var slides  = Array.prototype.slice.call(document.querySelectorAll(".slide"));
+  var total   = slides.length;
+  var idx     = 0;
+  var locked  = false;
+
+  /* ---------- 等比缩放：960×540 设计稿铺满视口 ---------- */
+  function fit(){
+    var s = Math.min(window.innerWidth / 960, window.innerHeight / 540);
+    stage.style.setProperty("--s", s.toFixed(4));
+  }
+  window.addEventListener("resize", fit);
+  fit();
+
+  /* ---------- 页码 ---------- */
+  slides.forEach(function(el, i){
+    var pn = el.querySelector("[data-num]");
+    if (pn){
+      pn.innerHTML = "<b>" + String(i + 1).padStart(2, "0") + "</b> / " + String(total).padStart(2, "0");
+    }
+  });
+
+  /* ---------- 翻页 ---------- */
+  function render(){
+    slides.forEach(function(el, i){
+      el.classList.toggle("on", i === idx);
+    });
+    bar.style.width = ((idx + 1) / total * 100).toFixed(2) + "%";
+    document.title = "第二单元 进入新时代 · " + (idx + 1) + "/" + total;
+  }
+
+  function go(n){
+    if (locked) return;
+    n = Math.max(0, Math.min(total - 1, n));
+    if (n === idx) return;
+    idx = n;
+    locked = true;
+
+    /* 先让离场动画走完，再重置进场（保证第二次进入仍会依次缓入） */
+    slides.forEach(function(el){
+      if (el !== slides[idx]) el.classList.remove("on");
+    });
+    void stage.offsetWidth;
+
+    render();
+
+    window.setTimeout(function(){ locked = false; }, 320);
+  }
+
+  function next(){ go(idx + 1); }
+  function prev(){ go(idx - 1); }
+
+  /* ---------- 键盘 ---------- */
+  document.addEventListener("keydown", function(e){
+    switch (e.key){
+      case "ArrowRight":
+      case "ArrowDown":
+      case "PageDown":
+      case " ":
+        e.preventDefault(); next(); break;
+      case "ArrowLeft":
+      case "ArrowUp":
+      case "PageUp":
+        e.preventDefault(); prev(); break;
+      case "Home":
+        e.preventDefault(); go(0); break;
+      case "End":
+        e.preventDefault(); go(total - 1); break;
+      case "f":
+      case "F":
+        toggleFull(); break;
+    }
+  });
+
+  /* ---------- 滚轮（节流） ---------- */
+  var wheelAt = 0;
+  stage.addEventListener("wheel", function(e){
+    e.preventDefault();
+    var now = Date.now();
+    if (now - wheelAt < 460) return;
+    wheelAt = now;
+    if (e.deltaY > 0) next(); else prev();
+  }, { passive:false });
+
+  /* ---------- 点击左右两侧 ---------- */
+  stage.addEventListener("click", function(e){
+    var r = stage.getBoundingClientRect();
+    var x = (e.clientX - r.left) / r.width;
+    if (x > 0.62) next();
+    else if (x < 0.18) prev();
+  });
+
+  /* ---------- 全屏 ---------- */
+  function toggleFull(){
+    if (!document.fullscreenElement){
+      document.documentElement.requestFullscreen && document.documentElement.requestFullscreen();
+    } else {
+      document.exitFullscreen && document.exitFullscreen();
+    }
+  }
+
+  /* ---------- 触屏 ---------- */
+  var tx = 0, ty = 0;
+  stage.addEventListener("touchstart", function(e){
+    var t = e.changedTouches[0]; tx = t.clientX; ty = t.clientY;
+  }, { passive:true });
+  stage.addEventListener("touchend", function(e){
+    var t = e.changedTouches[0];
+    var dx = t.clientX - tx, dy = t.clientY - ty;
+    if (Math.abs(dx) < 42 || Math.abs(dx) < Math.abs(dy)) return;
+    if (dx < 0) next(); else prev();
+  }, { passive:true });
+
+  /* ---------- 深链接：#5 直接跳到第 5 页 ---------- */
+  function fromHash(){
+    var m = /^#(\d+)$/.exec(location.hash || "");
+    if (!m) return 0;
+    var n = parseInt(m[1], 10) - 1;
+    return (n >= 0 && n < total) ? n : 0;
+  }
+  window.addEventListener("hashchange", function(){
+    var n = fromHash();
+    if (n !== idx){ idx = n; render(); }
+  });
+
+  /* ---------- 启动 ---------- */
+  idx = fromHash();
+  void stage.offsetWidth;   /* 强制一次布局，确保首屏动画正常触发 */
+  render();
+})();
+</script>
+</body>
+</html>

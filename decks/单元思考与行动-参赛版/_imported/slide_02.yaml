@@ -1,0 +1,179 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "2"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "直接连接符_3"
+    elementType: line
+    bounds: [159, 151, 438, 2]
+    points: [[159,153],[597,151]]
+    line: {color: "#01431D", width: 1}
+  - elementId: "矩形_6"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#01431D"
+    line: {color: "#000000"}
+  - elementId: "矩形_7"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#01621F"
+    line: {color: "#000000"}
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [159, 101, 438, 44]
+    content:
+      text: "新课导入"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "文本框_13"
+    elementType: text
+    bounds: [82, 177, 548, 75]
+    content:
+      text: "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在哪里”展开。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_22_txt"
+    elementType: text
+    bounds: [51, 335, 143, 62]
+    content:
+      text: "第二单元进入新时代"
+      fontSize: 24
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_22"
+    elementType: shape
+    bounds: [51, 335, 143, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_23_txt"
+    elementType: text
+    bounds: [235, 278, 181, 57]
+    content:
+      text: "第四课新的历史方位"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_23"
+    elementType: shape
+    bounds: [235, 278, 181, 57]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_24_txt"
+    elementType: text
+    bounds: [235, 359, 181, 57]
+    content:
+      text: "第五课新时代的思想旗帜"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_24"
+    elementType: shape
+    bounds: [235, 359, 181, 57]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_25_txt"
+    elementType: text
+    bounds: [235, 434, 181, 57]
+    content:
+      text: "第六课中国腾飞谱新篇"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_25"
+    elementType: shape
+    bounds: [235, 434, 181, 57]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "左大括号_26"
+    elementType: shape
+    bounds: [203, 262, 17, 208]
+    kind: rect
+    line: {color: "#000000", width: 3}
+  - elementId: "矩形_圆角_27_txt"
+    elementType: text
+    bounds: [490, 250, 149, 47]
+    content:
+      text: "矛盾新变化"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_27"
+    elementType: shape
+    bounds: [490, 250, 149, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_28"
+    elementType: shape
+    bounds: [420, 380, 47, 25]
+    kind: rightArrow
+  - elementId: "箭头_右_29"
+    elementType: shape
+    bounds: [420, 449, 47, 25]
+    kind: rightArrow
+  - elementId: "矩形_圆角_30_txt"
+    elementType: text
+    bounds: [490, 312, 149, 47]
+    content:
+      text: "历史新方位"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_30"
+    elementType: shape
+    bounds: [490, 312, 149, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_31_txt"
+    elementType: text
+    bounds: [490, 369, 149, 47]
+    content:
+      text: "理论新飞跃"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_31"
+    elementType: shape
+    bounds: [490, 369, 149, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_32_txt"
+    elementType: text
+    bounds: [490, 437, 149, 47]
+    content:
+      text: "发展新成就"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_32"
+    elementType: shape
+    bounds: [490, 437, 149, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "左大括号_33"
+    elementType: shape
+    bounds: [473, 257, 16, 97]
+    kind: rect
+    line: {color: "#000000", width: 3}
+  - elementId: "箭头_右_34"
+    elementType: shape
+    bounds: [421, 296, 47, 25]
+    kind: rightArrow

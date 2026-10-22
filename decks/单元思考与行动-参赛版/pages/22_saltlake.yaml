@@ -1,0 +1,181 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "念总书记的话时放慢。强调“逐步恢复其生态功能”——保护不是停下来，是换一种用法。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务三 · 拓展策展——循迹盐湖行", fontSize: 14, color: "#8E3F2E", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "盐湖 · 从工业矿区到城市生态客厅", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#EE8A72", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#EE8A72"}, {pos: 100, color: "#8E3F2E", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#8E3F2E"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "22 / 42", fontSize: 14, color: "#EE8A72", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p22tag_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p22tag"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p22tag_cap", "p22tag_t"]
+  - elementId: "p22tag_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p22tag_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "实践活动 · 循迹盐湖行", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p22img_bg_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [37, 162.56, 314, 222.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p22img_bg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [35, 158.56, 318, 222.6]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p22img_bg_le", "p22img", "p22img_cap"]
+  - elementId: "p22img_bg_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [37, 167.56, 3.5, 204.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p22img"
+    elementType: "image"
+    bounds: [44, 167.56, 300, 176]
+    src: "media/image17.jpeg"
+    fit: "cover"
+  - elementId: "p22img_cap"
+    elementType: "text"
+    bounds: [35, 355.56, 318, 25.599999999999998]
+    content: {text: "运城盐湖考察　图片来源：人民日报", fontSize: 14, color: "#465C4D", fontFamily: "楷体"}
+  - elementId: "p22q_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [380, 162.56, 258, 228.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p22q"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [378, 158.56, 262, 228.5]
+    fill: "#F0E8D8"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p22q_le", "p22q_t", "p22q_b"]
+  - elementId: "p22q_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [380, 167.56, 3.5, 210.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p22q_t"
+    elementType: "text"
+    bounds: [390, 167.56, 238, 29.459999999999997]
+    content: {text: "总书记这样说", fontSize: 17, color: "#8E3F2E", fontFamily: "黑体", bold: true}
+  - elementId: "p22q_b"
+    elementType: "text"
+    bounds: [390, 207.01999999999998, 238, 165.04]
+    content: {text: "“盐湖的生态价值和功能越\n来越重要，要统筹做好保护\n利用工作，让盐湖独特的人\n文历史资源和生态资源一代\n代传承下去，逐步恢复其生\n态功能，更好保护其历史文\n化价值。”", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p22ask_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 398.15999999999997, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p22ask"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 394.15999999999997, 596, 45.879999999999995]
+    fill: "#F0E8D8"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p22ask_cap", "p22ask_t"]
+  - elementId: "p22ask_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 400.15999999999997, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p22ask_t"
+    elementType: "text"
+    bounds: [56, 401.15999999999997, 572, 31.879999999999995]
+    content: {text: "想一想｜一座千年盐湖的转身，靠的是什么？", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}

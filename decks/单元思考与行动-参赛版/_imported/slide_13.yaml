@@ -1,0 +1,65 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "13"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [169, 151, 160, 90]
+    content:
+      text: "226天"
+      fontSize: 60
+      color: "#FFFFFF"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [67, 255, 388, 145]
+    content:
+      text: "1972年到1999年，28年间黄河有22年发生断流；1997年，断流长达226天。 母亲河，曾经一度“伤痕累累”。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_6_txt"
+    elementType: text
+    bounds: [66, 78, 823, 62]
+    content:
+      text: "以黄河流域生态保护和高质量发展为例分析原因·小组讨论"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_6"
+    elementType: shape
+    bounds: [66, 78, 823, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_7"
+    elementType: text
+    bounds: [575, 146, 160, 90]
+    content:
+      text: "27年"
+      fontSize: 60
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_11"
+    elementType: text
+    bounds: [486, 238, 407, 180]
+    content:
+      text: "今天，黄河已实现自1999年以来连续27年不断流；干流连续4年全线稳定保持Ⅱ类水质，2025年流域好于Ⅲ类水体比例达到93.2%，首次超过全国平均水平。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [67, 427, 700, 58]
+    content:
+      text: "从226天断流到连续27年不断流，究竟是什么原因导致黄河之变？"
+      fontSize: 24
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [67, 427, 700, 58]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}

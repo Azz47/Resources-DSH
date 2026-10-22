@@ -1,0 +1,163 @@
+=== 1. 逐页跨页元件覆盖矩阵 ===
+pg   file               hd_chip_  hd_chip_  hd_info  hd_num  hd_secbg  hd_sec
+1    p01_cover.yaml       ---     ---     ---     ---     ---     ---   
+2    p02_scene.yaml       YES     YES     YES     YES     YES     YES   
+3    p03_literacy.yaml    YES     YES     YES     YES     YES     YES   
+4    p04_goals.yaml       YES     YES     YES     YES     YES     YES   
+5    p05_route.yaml       YES     YES     YES     YES     YES     YES   
+6    p06_s1_open.yaml     YES     YES     YES     YES     YES     YES   
+7    p07_tasklist.yaml    YES     YES     YES     YES     YES     YES   
+8    p08_board1.yaml      YES     YES     YES     YES     YES     YES   
+9    p09_board1b.yaml     YES     YES     YES     YES     YES     YES   
+10   p10_board2.yaml      YES     YES     YES     YES     YES     YES   
+11   p11_board2b.yaml     YES     YES     YES     YES     YES     YES   
+12   p12_board3.yaml      YES     YES     YES     YES     YES     YES   
+13   p13_board3b.yaml     YES     YES     YES     YES     YES     YES   
+14   p14_board4a.yaml     YES     YES     YES     YES     YES     YES   
+15   p15_board4b.yaml     YES     YES     YES     YES     YES     YES   
+16   p16_board4c.yaml     YES     YES     YES     YES     YES     YES   
+17   p17_speak.yaml       YES     YES     YES     YES     YES     YES   
+18   p18_s1_sum.yaml      YES     YES     YES     YES     YES     YES   
+19   p19_s2_open.yaml     YES     YES     YES     YES     YES     YES   
+20   p20_method.yaml      YES     YES     YES     YES     YES     YES   
+21   p21_evidence.yaml    YES     YES     YES     YES     YES     YES   
+22   p22_cause1.yaml      YES     YES     YES     YES     YES     YES   
+23   p23_cause2.yaml      YES     YES     YES     YES     YES     YES   
+24   p24_cause3.yaml      YES     YES     YES     YES     YES     YES   
+25   p25_cause4.yaml      YES     YES     YES     YES     YES     YES   
+26   p26_cause5.yaml      YES     YES     YES     YES     YES     YES   
+27   p27_keys.yaml        YES     YES     YES     YES     YES     YES   
+28   p28_map.yaml         YES     YES     YES     YES     YES     YES   
+29   p29_s2_sum.yaml      YES     YES     YES     YES     YES     YES   
+30   p30_s3_open.yaml     YES     YES     YES     YES     YES     YES   
+31   p31_saltlake.yaml    YES     YES     YES     YES     YES     YES   
+32   p32_quote.yaml       YES     YES     YES     YES     YES     YES   
+33   p33_datawall.yaml    YES     YES     YES     YES     YES     YES   
+34   p34_photos.yaml      YES     YES     YES     YES     YES     YES   
+35   p35_digital.yaml     YES     YES     YES     YES     YES     YES   
+36   p36_research.yaml    YES     YES     YES     YES     YES     YES   
+37   p37_directions.yaml   YES     YES     YES     YES     YES     YES   
+38   p38_rubric.yaml      YES     YES     YES     YES     YES     YES   
+39   p39_debate.yaml      YES     YES     YES     YES     YES     YES   
+40   p40_actions.yaml     YES     YES     YES     YES     YES     YES   
+41   p41_proposal.yaml    YES     YES     YES     YES     YES     YES   
+42   p42_s3_sum.yaml      YES     YES     YES     YES     YES     YES   
+43   p43_summary.yaml     YES     YES     YES     YES     YES     YES   
+44   p44_homework.yaml    YES     YES     YES     YES     YES     YES   
+45   p45_source.yaml      YES     YES     YES     YES     YES     YES   
+46   p46_end.yaml         ---     ---     ---     ---     ---     ---   
+
+  hd_chip_a  缺失页: [1, 46]
+  hd_chip_b  缺失页: [1, 46]
+  hd_info    缺失页: [1, 46]
+  hd_num     缺失页: [1, 46]
+  hd_secbg   缺失页: [1, 46]
+  hd_sec     缺失页: [1, 46]
+
+=== 2. 各页 hd_info / hd_sec / hd_num 文本内容 ===
+  p1   info=(缺)                                        sec=(缺)                num=(缺)
+  p2   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=导入 · 从一次策展邀请开始     num=02
+  p3   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=导入 · 从一次策展邀请开始     num=03
+  p4   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=导入 · 从一次策展邀请开始     num=04
+  p5   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=导入 · 从一次策展邀请开始     num=05
+  p6   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=06
+  p7   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=07
+  p8   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=08
+  p9   info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=09
+  p10  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=10
+  p11  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=11
+  p12  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=12
+  p13  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=13
+  p14  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=14
+  p15  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=15
+  p16  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=16
+  p17  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=17
+  p18  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节一 · 策展——感悟新时代    num=18
+  p19  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=19
+  p20  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=20
+  p21  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=21
+  p22  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=22
+  p23  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=23
+  p24  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=24
+  p25  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=25
+  p26  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=26
+  p27  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=27
+  p28  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=28
+  p29  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节二 · 归因——解码新成就    num=29
+  p30  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=30
+  p31  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=31
+  p32  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=32
+  p33  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=33
+  p34  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=34
+  p35  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=35
+  p36  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=36
+  p37  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=37
+  p38  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=38
+  p39  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=39
+  p40  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=40
+  p41  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=41
+  p42  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=环节三 · 力行——循迹盐湖行    num=42
+  p43  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=收束 · 课堂小结与作业       num=43
+  p44  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=收束 · 课堂小结与作业       num=44
+  p45  info=九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学      sec=收束 · 课堂小结与作业       num=45
+  p46  info=(缺)                                        sec=(缺)                num=(缺)
+
+=== 3. 多页重复元件（统一“底部注记条”候选） ===
+  ('hd_chip_a', 'shape', 44, 28, 22, 22)   x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_chip_b', 'shape', 52, 42, 14, 14)   x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_info', 'text', 80, 25, 480, 18)     x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_num', 'text', 566, 24, 74, 18)      x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_title', 'text', 44, 71, 596, 42)    x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_rule2', 'shape', 44, 119, 128, 4)   x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_rule', 'shape', 178, 120, 462, 2)   x44  页: [2, 3, 4, 5, 6, 7]...[43, 44, 45]
+  ('hd_secbg', 'shape', 44, 44, 235, 22)   x37  页: [6, 7, 8, 9, 10, 11]...[40, 41, 42]
+  ('hd_sec', 'text', 57, 46, 209, 19)      x37  页: [6, 7, 8, 9, 10, 11]...[40, 41, 42]
+  ('sn', 'text', 44, 434, 596, 22)         x11  页: [8, 10, 12, 16, 23, 24, 28, 31, 34, 38, 45]
+
+=== 4. 底部带 (y 380-492) 逐页元件 ===
+  p1   cv_rule2@y392 h1, cv_flow@y406 h24
+  p2   s1bar@y416 h40, s1bar_cap@y422 h29, s1bar_t@y422 h28
+  p3   s2bar@y400 h56, s2bar_cap@y406 h45, s2bar_t@y406 h44
+  p4   s3bar@y418 h38, s3bar_cap@y423 h27, s3bar_t@y424 h26
+  p5   rt_seg0@y381 h1, rt_seg1@y381 h1, rt_n0@y402 h26, rt_w0@y430 h26, rt_n1@y402 h26, rt_w1@y430 h26, rt_n2@y402 h26, rt_w2@y430 h26
+  p6   d1bar@y419 h37, d1bar_cap@y425 h26, d1bar_t@y425 h25
+  p7   e1bar@y418 h38, e1bar_cap@y423 h27, e1bar_t@y424 h26
+  p8   sn@y434 h22
+  p9   h1bar@y418 h38, h1bar_cap@y423 h27, h1bar_t@y424 h26
+  p10  sn@y434 h22
+  p11  k1bar@y418 h38, k1bar_cap@y423 h27, k1bar_t@y424 h26
+  p12  sn@y434 h22
+  p13  n1bar@y418 h38, n1bar_cap@y423 h27, n1bar_t@y424 h26
+  p14  q1bar@y418 h38, q1bar_cap@y423 h27, q1bar_t@y424 h26
+  p15  t1bar@y418 h38, t1bar_cap@y423 h27, t1bar_t@y424 h26
+  p16  sn@y434 h22
+  p17  sp_std@y418 h38, sp_std_cap@y423 h27, sp_std_t@y424 h26
+  p18  z_bar@y404 h38, z_bar_cap@y410 h27, z_bar_t@y410 h26
+  p19  o2_bar@y418 h38, o2_bar_cap@y423 h27, o2_bar_t@y424 h26
+  p20  n2bar@y419 h37, n2bar_cap@y425 h26, n2bar_t@y425 h25
+  p21  ev_foot@y418 h38, ev_foot_cap@y423 h27, ev_foot_t@y424 h26
+  p22  r1bar@y418 h38, r1bar_cap@y423 h27, r1bar_t@y424 h26
+  p23  sn@y434 h22
+  p24  sn@y434 h22
+  p25  D1bar@y418 h38, D1bar_cap@y423 h27, D1bar_t@y424 h26
+  p26  E1bar@y418 h38, E1bar_cap@y423 h27, E1bar_t@y424 h26
+  p27  k_foot@y391 h24, k_bar@y419 h37, k_bar_cap@y425 h26, k_bar_t@y425 h25
+  p28  mapt@y408 h20, sn@y434 h22
+  p29  F1bar@y418 h38, F1bar_cap@y423 h27, F1bar_t@y424 h26
+  p30  o3_bar@y418 h38, o3_bar_cap@y423 h27, o3_bar_t@y424 h26
+  p31  sn@y434 h22
+  p32  qbar@y419 h37, qbar_cap@y425 h26, qbar_t@y425 h25
+  p33  dwbar_cap@y382 h26, dwbar_t@y383 h25, sn@y418 h38
+  p34  pht@y398 h24, sn@y434 h22
+  p35  dg_task@y418 h38, dg_task_cap@y423 h27, dg_task_t@y424 h26
+  p36  Rl3@y398 h1, Rn4@y404 h30, Rn4_t@y409 h20, Rt4@y403 h25, Rb4@y432 h24
+  p37  H2bar@y414 h37, H2bar_cap@y420 h26, H2bar_t@y420 h25
+  p38  rg_grade@y385 h38, rg_grade_cap@y390 h27, rg_grade_t@y391 h26, sn@y434 h22
+  p39  sbbar@y419 h37, sbbar_cap@y425 h26, sbbar_t@y425 h25
+  p40  S1bar@y418 h38, S1bar_cap@y423 h27, S1bar_t@y424 h26
+  p41  pjbar@y403 h53, pjbar_cap@y408 h42, pjbar_t@y409 h41
+  p42  s3_bar@y418 h38, s3_bar_cap@y423 h27, s3_bar_t@y424 h26
+  p43  sumbar@y418 h38, sumbar_cap@y423 h27, sumbar_t@y424 h26
+  p44  (空)
+  p45  sn@y434 h22
+  p46  ed_i@y404 h26

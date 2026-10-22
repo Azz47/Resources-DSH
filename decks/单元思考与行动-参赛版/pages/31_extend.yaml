@@ -1,0 +1,180 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "按条件分层，不做优劣判断：能出去就走出去，出不去就把资料查透。两条路都算完成。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "课后延伸 · A / B 分层", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "31 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "lead_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 106, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "lead"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 102, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["lead_cap", "lead_t"]
+  - elementId: "lead_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 108, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "lead_t"
+    elementType: "text"
+    bounds: [56, 109, 572, 34.72]
+    content: {text: "课后延伸：二选一，把课堂上的方法带回家。", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "rc0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 178.72, 288, 137.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 174.72, 292, 137.62]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["rc0_le", "rc0_t", "rc0_b"]
+  - elementId: "rc0_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 183.72, 3.5, 119.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc0_t"
+    elementType: "text"
+    bounds: [56, 183.72, 268, 29.459999999999997]
+    content: {text: "A 层 · 具备外出条件", fontSize: 17, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_b"
+    elementType: "text"
+    bounds: [56, 223.18, 268, 74.16]
+    content: {text: "小组制定研学方案，实地开展盐\n湖研学，完成一份完整的《家乡\n发展调研报告》。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [350, 178.72, 288, 137.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [348, 174.72, 292, 137.62]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["rc1_le", "rc1_t", "rc1_b"]
+  - elementId: "rc1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [350, 183.72, 3.5, 119.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc1_t"
+    elementType: "text"
+    bounds: [360, 195.08, 268, 29.459999999999997]
+    content: {text: "B 层 · 不具备外出条件", fontSize: 17, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "rc1_b"
+    elementType: "text"
+    bounds: [360, 234.54000000000002, 268, 51.44]
+    content: {text: "线上查阅官方资料，制作一份盐\n湖生态文化宣传小报。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p31sum_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 334.34000000000003, 592, 71.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p31sum"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 330.34000000000003, 596, 71.44]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["p31sum_cap", "p31sum_t"]
+  - elementId: "p31sum_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 336.34000000000003, 4, 59.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p31sum_t"
+    elementType: "text"
+    bounds: [56, 337.34000000000003, 572, 57.44]
+    content: {text: "两条路，同一个目标：把“看见”变成“证据”，把“感动”变成“行\n动”。", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

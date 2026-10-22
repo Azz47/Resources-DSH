@@ -1,0 +1,521 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "解说词脚手架：三段话，说清一件事",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "23 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p21c0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p21c0_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    67.1
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p21c0_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第一段 · 摆事实",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p21c0_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "“过去……如今……”——用两个数字对比，把变化说清楚。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p21c1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    247.1,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p21c1_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    257.1,
+    3,
+    67.1
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p21c1_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    263.1,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第二段 · 追原因",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p21c1_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    293.4,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "“之所以……是因为……”——至少说出两条，各配一个事实。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p21c2_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    346.2,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p21c2_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    356.2,
+    3,
+    67.1
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p21c2_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    362.2,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第三段 · 讲启示",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p21c2_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    392.5,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "“这告诉我们……”——把原因与“五位一体”连起来。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p21n_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    449.3,
+    592,
+    41.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p21n_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    449.3,
+    3,
+    41.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p21n_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    459.3,
+    565,
+    21.0
+   ],
+   "content": {
+    "text": "要求：不超过 120 字；每条原因后必须跟一个事实；不许出现“很重要”“非常大”。",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：写解说词，第一段写什么？答：“先夸”。接：先摆事实，再追原因，最后才谈启示。顺序反了就成口号。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p21c0_bg",
+    "p21c0_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c0_bg",
+    "p21c0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c0_bg",
+    "p21c0_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c1_bg",
+    "p21c1_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c1_bg",
+    "p21c1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c1_bg",
+    "p21c1_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c2_bg",
+    "p21c2_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c2_bg",
+    "p21c2_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21c2_bg",
+    "p21c2_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21n_bg",
+    "p21n_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p21n_bg",
+    "p21n_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

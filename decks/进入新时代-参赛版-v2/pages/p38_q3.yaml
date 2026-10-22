@@ -1,0 +1,532 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "收束 · 我们的答卷",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "课堂练习（三）",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "38 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "q38_s_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    90
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "q38_s_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    70
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "q38_s_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "单项选择题",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "q38_s_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "六块展板中，“交通基建”属于“五位一体”中的",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "q38_o0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    252,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "q38_o0_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    252,
+    3,
+    44.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "q38_o0_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    262.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "A. 经济建设",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "q38_o1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    304.0,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "q38_o1_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    304.0,
+    3,
+    44.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "q38_o1_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    314.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "B. 政治建设",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "q38_o2_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    356.0,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "q38_o2_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    356.0,
+    3,
+    44.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "q38_o2_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    366.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "C. 文化建设",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "q38_o3_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    408.0,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "q38_o3_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    408.0,
+    3,
+    44.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "q38_o3_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    418.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "D. 社会建设",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：这块展板属于哪个领域？答：常把“立法”归到文化。接：法治属于政治建设，记住这条线，五位一体就不会混。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "q38_s_bg",
+    "q38_s_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_s_bg",
+    "q38_s_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_s_bg",
+    "q38_s_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o0_bg",
+    "q38_o0_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o0_bg",
+    "q38_o0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o1_bg",
+    "q38_o1_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o1_bg",
+    "q38_o1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o2_bg",
+    "q38_o2_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o2_bg",
+    "q38_o2_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o3_bg",
+    "q38_o3_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "q38_o3_bg",
+    "q38_o3_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "这是本课最重要的一页工具页，要慢讲：问机制、反证、比较、归纳。每一步举一个例子。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务二 · 撰写解说——解码新成就", fontSize: 14, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "思维工具 · 四步解码法", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#6FC7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#6FC7E8"}, {pos: 100, color: "#1F6383", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6383"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "16 / 42", fontSize: 14, color: "#6FC7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p16tag_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p16tag"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p16tag_cap", "p16tag_t"]
+  - elementId: "p16tag_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p16tag_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "思维工具 · 四步解码法", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 173.56, 136, 228.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 169.56, 140, 228.5]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc0_le", "rc0_t", "rc0_b"]
+  - elementId: "rc0_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 178.56, 3.5, 210.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc0_t"
+    elementType: "text"
+    bounds: [56, 178.56, 116, 29.459999999999997]
+    content: {text: "1　问机制", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_b"
+    elementType: "text"
+    bounds: [56, 218.01999999999998, 116, 165.04]
+    content: {text: "它是怎么“\n变”回来的？\n把“怎么做\n到的”说清\n楚——这是\n推理的起点。\n", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [198, 173.56, 136, 228.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [196, 169.56, 140, 228.5]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc1_le", "rc1_t", "rc1_b"]
+  - elementId: "rc1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [198, 178.56, 3.5, 210.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc1_t"
+    elementType: "text"
+    bounds: [208, 189.92000000000002, 116, 29.459999999999997]
+    content: {text: "2　反证", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc1_b"
+    elementType: "text"
+    bounds: [208, 229.38, 116, 142.32]
+    content: {text: "假如没有它，\n还成不成？\n用“如果没\n有……会怎\n样”做反事\n实追问。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [350, 173.56, 136, 228.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [348, 169.56, 140, 228.5]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc2_le", "rc2_t", "rc2_b"]
+  - elementId: "rc2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [350, 178.56, 3.5, 210.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc2_t"
+    elementType: "text"
+    bounds: [360, 189.92000000000002, 116, 29.459999999999997]
+    content: {text: "3　比较", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc2_b"
+    elementType: "text"
+    bounds: [360, 229.38, 116, 142.32]
+    content: {text: "别人为什么\n做不到？横\n向对照，找\n出“我们比\n别的国家多\n什么”。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [502, 173.56, 136, 228.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [500, 169.56, 140, 228.5]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc3_le", "rc3_t", "rc3_b"]
+  - elementId: "rc3_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [502, 178.56, 3.5, 210.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc3_t"
+    elementType: "text"
+    bounds: [512, 178.56, 116, 29.459999999999997]
+    content: {text: "4　归纳", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc3_b"
+    elementType: "text"
+    bounds: [512, 218.01999999999998, 116, 165.04]
+    content: {text: "能不能用课\n本来验证？\n把原因抽取\n归并，再用\n课本原文验\n证——论从\n史出。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}

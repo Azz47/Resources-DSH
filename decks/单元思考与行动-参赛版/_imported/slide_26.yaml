@@ -1,0 +1,32 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "26"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [72, 228, 387, 215]
+    content:
+      text: "1.紧扣调研主题，聚焦研学目标。 2.注意出行安全，文明走访，礼貌访谈。 3.细化团队分工，强化协作配合。 4.坚持实事求是，尊重对方隐私。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [77, 120, 281, 60]
+    content:
+      text: "研学活动提示"
+      fontSize: 32
+      fontFamily: "华文楷体"
+      align: center
+      lineHeight: 1.5
+  - elementId: "图片_2"
+    elementType: image
+    bounds: [480, 133, 398, 274]
+    fit: cover
+    src: "media/image18.jpg"
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [586, 422, 185, 32]
+    content:
+      text: "图片来源：人民日报"
+      fontFamily: "华文楷体"

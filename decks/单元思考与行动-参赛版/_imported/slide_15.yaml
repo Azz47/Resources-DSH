@@ -1,0 +1,144 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "15"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_圆角_13_txt"
+    elementType: text
+    bounds: [66, 86, 551, 47]
+    content:
+      text: "思维工具——四步解码法"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_13"
+    elementType: shape
+    bounds: [66, 86, 551, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_3_txt"
+    elementType: text
+    bounds: [53, 203, 178, 217]
+    content:
+      text: "问机制它是怎么“变”回来的？把“怎么做到的”说清楚——这是推理的起点。"
+      fontSize: 20
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_3"
+    elementType: shape
+    bounds: [53, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_2_txt"
+    elementType: text
+    bounds: [53, 175, 57, 57]
+    content:
+      text: "1"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_2"
+    elementType: shape
+    bounds: [53, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_4_txt"
+    elementType: text
+    bounds: [280, 203, 178, 217]
+    content:
+      text: "反证假如没有它，还成不成？用“如果没有……会怎样”做反事实追问。"
+      fontSize: 20
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_4"
+    elementType: shape
+    bounds: [280, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_5_txt"
+    elementType: text
+    bounds: [280, 175, 57, 57]
+    content:
+      text: "2"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_5"
+    elementType: shape
+    bounds: [280, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_6_txt"
+    elementType: text
+    bounds: [508, 203, 178, 217]
+    content:
+      text: "比较别人为什么做不到？横向对照，找出“我们比别的国家多什么”，让不可替代的原因更清晰。"
+      fontSize: 20
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_6"
+    elementType: shape
+    bounds: [508, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_7_txt"
+    elementType: text
+    bounds: [508, 175, 57, 57]
+    content:
+      text: "3"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_7"
+    elementType: shape
+    bounds: [508, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_8_txt"
+    elementType: text
+    bounds: [735, 203, 178, 217]
+    content:
+      text: "归纳能不能用课本来验证？把原因抽取归并，再用课本原文验证——让结论“论从史出”。"
+      fontSize: 20
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_8"
+    elementType: shape
+    bounds: [735, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_9_txt"
+    elementType: text
+    bounds: [735, 175, 57, 57]
+    content:
+      text: "4"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_9"
+    elementType: shape
+    bounds: [735, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_11"
+    elementType: text
+    bounds: [219, 448, 522, 41]
+    content:
+      text: "现象→问机制→反证→比较→归纳→原因"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"

@@ -1,0 +1,202 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "两个数字对比最强：226 天断流到连续 27 年不断流。先让学生惊讶，再抛出问题。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务二 · 撰写解说——解码新成就", fontSize: 14, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "黄河之变 · 从 226 天到 27 年", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#6FC7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#6FC7E8"}, {pos: 100, color: "#1F6383", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6383"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "14 / 42", fontSize: 14, color: "#6FC7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p14tag_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p14tag"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p14tag_cap", "p14tag_t"]
+  - elementId: "p14tag_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p14tag_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "以黄河流域生态保护和高质量发展为例", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p14n1_pl"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 169.56, 150, 74.8]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.5}
+    contains: ["p14n1_t", "p14n1_l"]
+  - elementId: "p14n1_t"
+    elementType: "text"
+    bounds: [44, 175.56, 150, 31.200000000000003]
+    content: {text: "226 天", fontSize: 24, color: "#1F6383", fontFamily: "黑体", bold: true, align: "center", lineHeight: 1.2}
+  - elementId: "p14n1_l"
+    elementType: "text"
+    bounds: [44, 210.76, 150, 25.599999999999998]
+    content: {text: "1997 年断流天数", fontSize: 14, color: "#2E4438", fontFamily: "楷体", align: "center"}
+  - elementId: "p14n2_pl"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [206, 169.56, 150, 74.8]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.5}
+    contains: ["p14n2_t", "p14n2_l"]
+  - elementId: "p14n2_t"
+    elementType: "text"
+    bounds: [206, 175.56, 150, 31.200000000000003]
+    content: {text: "27 年", fontSize: 24, color: "#1F6383", fontFamily: "黑体", bold: true, align: "center", lineHeight: 1.2}
+  - elementId: "p14n2_l"
+    elementType: "text"
+    bounds: [206, 210.76, 150, 25.599999999999998]
+    content: {text: "连续不断流", fontSize: 14, color: "#2E4438", fontFamily: "楷体", align: "center"}
+  - elementId: "p14t_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [374, 173.56, 264, 75.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p14t"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [372, 169.56, 268, 75.44]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p14t_le", "p14t_b"]
+  - elementId: "p14t_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [374, 178.56, 3.5, 57.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p14t_b"
+    elementType: "text"
+    bounds: [384, 178.56, 244, 51.44]
+    content: {text: "1972—1999 年，28 年间黄\n河有 22 年断流。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p14t2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 267.0, 592, 75.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p14t2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 263.0, 596, 75.44]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p14t2_le", "p14t2_b"]
+  - elementId: "p14t2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 272.0, 3.5, 57.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p14t2_b"
+    elementType: "text"
+    bounds: [56, 272.0, 572, 51.44]
+    content: {text: "今天，黄河已实现自 1999 年以来连续 27 年不断流；干流连续 4 年\n稳定保持 Ⅱ 类水质。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p14q_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 358.44, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p14q"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 354.44, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p14q_cap", "p14q_t"]
+  - elementId: "p14q_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 360.44, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p14q_t"
+    elementType: "text"
+    bounds: [56, 361.44, 572, 34.72]
+    content: {text: "从 226 天断流到连续 27 年不断流，究竟是什么原因导致黄河之变？", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

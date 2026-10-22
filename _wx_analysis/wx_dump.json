@@ -1,0 +1,7761 @@
+{
+ "slides": [
+  {
+   "idx": 1,
+   "bg": "PICTURE (6)",
+   "notes_len": 287,
+   "notes": "页面统一为16:9宽幅画面比例尺寸；PPT统一格式为PPT或PPTX。\n中文：\n1. 课名：微软雅黑48号字；\n2.（第一课时）：微软雅黑32号字；\n3.学校名称：请填写全称；\n4.学科、年级、主讲人、学校：华文楷体28号字（具体根据文字量可适当调整）。\n\n英文\n1.课名：字体以Times New Roman为主，字号一般使用32—36号，特别强调可以用40号；\n2.（Period 1）：字体使用Arial，字号为28；\n3.正文一般用24—28号，特别强调可用32号。\n\n注意标点的规范（例如：中文省略号为……，可用Shift+数字键6打出中文省略号，英文省略号为…）",
+   "shapes": [
+    {
+     "name": "标题 1",
+     "type": "PLACEHOLDER (14)",
+     "left": 83.13,
+     "top": 160.96,
+     "w": 793.75,
+     "h": 79.25,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "第二单元 进入新时代\u000b单元思考与行动",
+     "runs": [
+      {
+       "t": "第二单元 进入新时代",
+       "sz": 48.0,
+       "b": true,
+       "name": "微软雅黑",
+       "col": "theme:BACKGROUND_1 (14)"
+      },
+      {
+       "t": "单元思考与行动",
+       "sz": 32.0,
+       "b": true,
+       "name": "微软雅黑",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ],
+     "ph": "CENTER_TITLE (3)"
+    },
+    {
+     "name": "副标题 2",
+     "type": "TEXT_BOX (17)",
+     "left": 109.89,
+     "top": 296.97,
+     "w": 747.79,
+     "h": 78.29,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "年    级：九年级            学    科：道德与法治（统编版）\n主讲人：张紫璇            学    校：运城市盐湖区北城初级中学",
+     "runs": [
+      {
+       "t": "年    级：九年级            学    科：道德与法治（统编版）",
+       "sz": 28.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "主讲人：张紫璇            学    校：运城市盐湖区北城初级中学",
+       "sz": 28.0,
+       "b": null,
+       "name": null,
+       "col": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "idx": 2,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "直接连接符 3",
+     "type": "LINE (9)",
+     "left": 159.43,
+     "top": 151.25,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 5",
+     "type": "GROUP (6)",
+     "left": 115.13,
+     "top": 130.89,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 6",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 7",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 159.43,
+     "top": 100.53,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "新课导入",
+     "runs": [
+      {
+       "t": "新课导入",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 13",
+     "type": "TEXT_BOX (17)",
+     "left": 81.63,
+     "top": 177.1,
+     "w": 547.95,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在哪里”展开。",
+     "runs": [
+      {
+       "t": "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在哪里”展开。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 22",
+     "type": "AUTO_SHAPE (1)",
+     "left": 51.47,
+     "top": 335.03,
+     "w": 142.87,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "第二单元\n进入新时代",
+     "runs": [
+      {
+       "t": "第二单元",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "进入新时代",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 23",
+     "type": "AUTO_SHAPE (1)",
+     "left": 234.63,
+     "top": 278.33,
+     "w": 181.42,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "第四课\n新的历史方位",
+     "runs": [
+      {
+       "t": "第四课",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "新的历史方位",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 24",
+     "type": "AUTO_SHAPE (1)",
+     "left": 234.63,
+     "top": 359.32,
+     "w": 181.42,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "第五课\n新时代的思想旗帜",
+     "runs": [
+      {
+       "t": "第五课",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "新时代的思想旗帜",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 25",
+     "type": "AUTO_SHAPE (1)",
+     "left": 234.63,
+     "top": 433.7,
+     "w": 181.42,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "第六课\n中国腾飞谱新篇",
+     "runs": [
+      {
+       "t": "第六课",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "中国腾飞谱新篇",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "左大括号 26",
+     "type": "AUTO_SHAPE (1)",
+     "left": 202.77,
+     "top": 261.99,
+     "w": 17.32,
+     "h": 207.96,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "矩形: 圆角 27",
+     "type": "AUTO_SHAPE (1)",
+     "left": 490.21,
+     "top": 249.83,
+     "w": 148.54,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "矛盾新变化",
+     "runs": [
+      {
+       "t": "矛盾新变化",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 28",
+     "type": "AUTO_SHAPE (1)",
+     "left": 420.42,
+     "top": 380.43,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "箭头: 右 29",
+     "type": "AUTO_SHAPE (1)",
+     "left": 420.42,
+     "top": 449.4,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "矩形: 圆角 30",
+     "type": "AUTO_SHAPE (1)",
+     "left": 489.67,
+     "top": 312.13,
+     "w": 148.54,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "历史新方位",
+     "runs": [
+      {
+       "t": "历史新方位",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 31",
+     "type": "AUTO_SHAPE (1)",
+     "left": 490.21,
+     "top": 368.83,
+     "w": 148.54,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "理论新飞跃",
+     "runs": [
+      {
+       "t": "理论新飞跃",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 32",
+     "type": "AUTO_SHAPE (1)",
+     "left": 490.21,
+     "top": 437.25,
+     "w": 148.54,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "发展新成就",
+     "runs": [
+      {
+       "t": "发展新成就",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "左大括号 33",
+     "type": "AUTO_SHAPE (1)",
+     "left": 473.38,
+     "top": 257.19,
+     "w": 16.18,
+     "h": 97.14,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "箭头: 右 34",
+     "type": "AUTO_SHAPE (1)",
+     "left": 421.36,
+     "top": 295.86,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 3,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 283,
+   "notes": "请注意：\n1.正文标题为：黑体，30号字；\n2.正文内容为：华文楷体，尽量不小于24号，特殊辅助性文字不低于18；根据文字量可适当调整。内容文字一行一般不能超过28个字，单页文字一般不能超过8行。\n3.拍摄版本呈现内容务必与上传版本呈现的内容完全一致。\n\n英文\n1.正文标题为：以Times New Roman为主,可搭配使用Arial。字号为32—36号，特别强调可以用40号。\n2.正文内容为：以Times New Roman为主,可搭配使用Arial。字号为24—28号，特别强调可用32号。\n3.英文每行一般不能超过15个单词；单页文字一般不能超过8行。\n\n",
+   "shapes": [
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 141.94,
+     "top": 185.39,
+     "w": 571.64,
+     "h": 42.52,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "组合 17",
+       "type": "GROUP (6)",
+       "left": 78.44,
+       "top": 172.33,
+       "w": 258.88,
+       "h": 42.52,
+       "depth": 1,
+       "rot": 0.0,
+       "children": [
+        {
+         "name": "圆角矩形 18",
+         "type": "AUTO_SHAPE (1)",
+         "left": 145.85,
+         "top": 136.21,
+         "w": 271.38,
+         "h": 41.58,
+         "depth": 2,
+         "rot": 0.0,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        },
+        {
+         "name": "矩形 19",
+         "type": "AUTO_SHAPE (1)",
+         "left": 128.82,
+         "top": 132.77,
+         "w": 47.37,
+         "h": 47.37,
+         "depth": 2,
+         "rot": 310.23635,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        }
+       ]
+      },
+      {
+       "name": "文本框 20",
+       "type": "TEXT_BOX (17)",
+       "left": 83.54,
+       "top": 176.27,
+       "w": 463.76,
+       "h": 36.35,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "1    观展选品——感悟新时代",
+       "runs": [
+        {
+         "t": "1    ",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "观展选品",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "——",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "感悟新时代",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        }
+       ],
+       "fill": "BACKGROUND (5)"
+      }
+     ]
+    },
+    {
+     "name": "文本框 21",
+     "type": "TEXT_BOX (17)",
+     "left": 178.8,
+     "top": 236.3,
+     "w": 454.6,
+     "h": 36.25,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "梳理国家发展成就，补充完善展览展品",
+     "runs": [
+      {
+       "t": "梳理国家发展成就，补充完善展览展品",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "组合 3",
+     "type": "GROUP (6)",
+     "left": 141.94,
+     "top": 377.91,
+     "w": 462.04,
+     "h": 42.52,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "组合 22",
+       "type": "GROUP (6)",
+       "left": 78.44,
+       "top": 364.85,
+       "w": 258.88,
+       "h": 42.52,
+       "depth": 1,
+       "rot": 0.0,
+       "children": [
+        {
+         "name": "圆角矩形 23",
+         "type": "AUTO_SHAPE (1)",
+         "left": 145.85,
+         "top": 136.21,
+         "w": 271.38,
+         "h": 41.58,
+         "depth": 2,
+         "rot": 0.0,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        },
+        {
+         "name": "矩形 24",
+         "type": "AUTO_SHAPE (1)",
+         "left": 128.82,
+         "top": 132.77,
+         "w": 47.37,
+         "h": 47.37,
+         "depth": 2,
+         "rot": 310.23635,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        }
+       ]
+      },
+      {
+       "name": "文本框 25",
+       "type": "TEXT_BOX (17)",
+       "left": 85.42,
+       "top": 368.27,
+       "w": 371.27,
+       "h": 36.35,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "3    拓展策展——循迹盐湖行",
+       "runs": [
+        {
+         "t": "3    ",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "拓展策展",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "——",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "循迹盐湖行",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        }
+       ],
+       "fill": "BACKGROUND (5)"
+      }
+     ]
+    },
+    {
+     "name": "文本框 26",
+     "type": "TEXT_BOX (17)",
+     "left": 178.8,
+     "top": 428.1,
+     "w": 449.55,
+     "h": 36.25,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "立足盐湖调研，设计家乡研学活动方案",
+     "runs": [
+      {
+       "t": "立足盐湖调研，设计家乡研学活动方案",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "标题 27",
+     "type": "PLACEHOLDER (14)",
+     "left": 59.32,
+     "top": 94.36,
+     "w": 831.44,
+     "h": 45.23,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "时代答卷人——策展探悟新时代：成就何以铸就，青年何以担当？",
+     "runs": [
+      {
+       "t": "时代答卷人",
+       "sz": 30.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "——",
+       "sz": 30.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "策展探悟",
+       "sz": 30.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "新时代：成就何以铸就，青年何以担当？",
+       "sz": 30.0,
+       "b": null,
+       "name": null,
+       "col": null
+      }
+     ],
+     "ph": "TITLE (1)"
+    },
+    {
+     "name": "组合 1",
+     "type": "GROUP (6)",
+     "left": 141.94,
+     "top": 282.65,
+     "w": 462.04,
+     "h": 42.52,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "组合 27",
+       "type": "GROUP (6)",
+       "left": 78.44,
+       "top": 275.99,
+       "w": 258.88,
+       "h": 42.52,
+       "depth": 1,
+       "rot": 0.0,
+       "children": [
+        {
+         "name": "圆角矩形 28",
+         "type": "AUTO_SHAPE (1)",
+         "left": 145.85,
+         "top": 136.21,
+         "w": 271.38,
+         "h": 41.58,
+         "depth": 2,
+         "rot": 0.0,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        },
+        {
+         "name": "矩形 29",
+         "type": "AUTO_SHAPE (1)",
+         "left": 128.82,
+         "top": 132.77,
+         "w": 47.37,
+         "h": 47.37,
+         "depth": 2,
+         "rot": 310.23635,
+         "text": "",
+         "runs": [],
+         "fill": "theme:NOT_THEME_COLOR (0)",
+         "line": "BACKGROUND (5)",
+         "line_w": 3.0
+        }
+       ]
+      },
+      {
+       "name": "文本框 31",
+       "type": "TEXT_BOX (17)",
+       "left": 85.42,
+       "top": 279.4,
+       "w": 371.27,
+       "h": 36.35,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "2    撰写解说——解码新成就",
+       "runs": [
+        {
+         "t": "2    ",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "撰写解说",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "——",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        },
+        {
+         "t": "解码新成就",
+         "sz": 24.0,
+         "b": null,
+         "name": "华文楷体",
+         "col": "theme:NOT_THEME_COLOR (0)"
+        }
+       ],
+       "fill": "BACKGROUND (5)"
+      }
+     ]
+    },
+    {
+     "name": "文本框 32",
+     "type": "TEXT_BOX (17)",
+     "left": 178.8,
+     "top": 335.8,
+     "w": 493.2,
+     "h": 36.25,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "结合展板撰写解说词，解码成就背后的密码",
+     "runs": [
+      {
+       "t": "结合展板撰写解说词，解码成就背后的密码",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 4,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 12",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 223.71,
+     "w": 569.03,
+     "h": 123.6,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "为引导学生深入了解新时代党和国家事业的发展历程及取得的辉煌成就，学校以“感悟新时代，解码新成就”为主题举办展览活动。同学们广泛搜集资料，并制作展板。",
+     "runs": [
+      {
+       "t": "为引导学生深入了解新时代党和国家事业的发展历程及取得的辉煌成就，学校以“感悟新时代，解码新成就”为主题举办展览活动。同学们广泛搜集资料，并制作展板。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 13",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 159.47,
+     "w": 280.12,
+     "h": 38.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "情境思考·小组展示",
+     "runs": [
+      {
+       "t": "情境思考",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "小组展示",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 145.8,
+     "top": 125.87,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 101.49,
+     "top": 105.51,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 3",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 122.89,
+     "top": 75.2,
+     "w": 483.36,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "子任务1：观展选品——感悟新时代",
+     "runs": [
+      {
+       "t": "子任务",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "：观展选品",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "感悟新时代",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.12,
+     "top": 368.67,
+     "w": 572.62,
+     "h": 79.38,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "查阅资料，进一步从“五位一体”总体布局丰富展览内容。",
+     "runs": [
+      {
+       "t": "查阅资料，进一步从“五位一体”总体布局丰富展览内容。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_5 (9)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    }
+   ]
+  },
+  {
+   "idx": 5,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 203.66,
+     "top": 101.45,
+     "w": 228.84,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "展板一  科技发展",
+     "runs": [
+      {
+       "t": "展板一  科技发展",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 13",
+     "type": "TEXT_BOX (17)",
+     "left": 307.51,
+     "top": 197.37,
+     "w": 344.99,
+     "h": 214.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "浩瀚太空，我国空间站已正式开启长期有人驻留模式；远程医疗、智慧物流等新业态蓬勃发展；工业互联网和人工智能融合赋能，为推进我国新型工业化注入强大动力。",
+     "runs": [
+      {
+       "t": "浩瀚太空，我国空间站已正式开启长期有人驻留模式；远程医疗、智慧物流等新业态蓬勃发展；工业互联网和人工智能融合赋能，为推进我国新型工业化注入强大动力。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "图片 10",
+     "type": "PICTURE (13)",
+     "left": 66.13,
+     "top": 201.09,
+     "w": 212.15,
+     "h": 207.23,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       649,
+       633
+      ],
+      "bytes": 106097,
+      "sha": "c7ba88f043"
+     }
+    },
+    {
+     "name": "文本框 11",
+     "type": "TEXT_BOX (17)",
+     "left": 73.6,
+     "top": 428.66,
+     "w": 197.19,
+     "h": 34.71,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片来源：人民日报",
+     "runs": [
+      {
+       "t": "图片来源：人民日报",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 480.0,
+     "top": 93.34,
+     "w": 139.87,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "经济建设",
+     "runs": [
+      {
+       "t": "经济建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 432.5,
+     "top": 115.3,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 6,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 369.76,
+     "top": 95.08,
+     "w": 220.48,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "展板二 交通基建",
+     "runs": [
+      {
+       "t": "展板二 交通基建",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 13",
+     "type": "TEXT_BOX (17)",
+     "left": 20.3,
+     "top": 315.7,
+     "w": 311.9,
+     "h": 181.6,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "看中国路，我国已建成全球最大的高速铁路网、高速公路网，高铁营业里程突破5万公里，高速公路总里程超过19.1万公里。",
+     "runs": [
+      {
+       "t": "看中国路，我国已建成全球最大的高速铁路网、高速公路网，高铁营业里程突破",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "5",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "万公里，高速公路总里程超过",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "19.1",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "万公里。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 14",
+     "type": "TEXT_BOX (17)",
+     "left": 328.3,
+     "top": 203.85,
+     "w": 303.95,
+     "h": 111.85,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "看中国运河，平陆运河是新中国成立以来建设的第一条通江达海的大运河。",
+     "runs": [
+      {
+       "t": "看中国运河，平陆运河是新中国成立以来建设的第一条通江达海的大运河。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 15",
+     "type": "TEXT_BOX (17)",
+     "left": 642.05,
+     "top": 334.95,
+     "w": 287.25,
+     "h": 146.75,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "看中国港，在全球货运、集装箱吞吐量排名前十的港口中，中国港口分别占了六席和八席。",
+     "runs": [
+      {
+       "t": "看中国港，在全球货运、集装箱吞吐量排名前十的港口中，中国港口分别占了六席和八席。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "图片 11",
+     "type": "PICTURE (13)",
+     "left": 44.68,
+     "top": 178.43,
+     "w": 256.76,
+     "h": 137.25,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       500,
+       364
+      ],
+      "bytes": 48232,
+      "sha": "96500bd8ac"
+     }
+    },
+    {
+     "name": "图片 19",
+     "type": "PICTURE (13)",
+     "left": 659.11,
+     "top": 184.33,
+     "w": 249.72,
+     "h": 137.25,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       640,
+       258
+      ],
+      "bytes": 37019,
+      "sha": "bf66c3c7b9"
+     }
+    },
+    {
+     "name": "文本框 20",
+     "type": "TEXT_BOX (17)",
+     "left": 361.75,
+     "top": 451.85,
+     "w": 236.51,
+     "h": 34.71,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片均来源于：人民网",
+     "runs": [
+      {
+       "t": "图片均来源于：人民网",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "Picture 2",
+     "type": "PICTURE (13)",
+     "left": 343.96,
+     "top": 325.68,
+     "w": 286.35,
+     "h": 126.17,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       800,
+       329
+      ],
+      "bytes": 299361,
+      "sha": "efd031a74f"
+     }
+    },
+    {
+     "name": "矩形: 圆角 8",
+     "type": "AUTO_SHAPE (1)",
+     "left": 638.75,
+     "top": 87.73,
+     "w": 139.87,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "经济建设",
+     "runs": [
+      {
+       "t": "经济建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 10",
+     "type": "AUTO_SHAPE (1)",
+     "left": 591.25,
+     "top": 109.69,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 7,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 2",
+     "type": "TEXT_BOX (17)",
+     "left": 185.48,
+     "top": 105.11,
+     "w": 225.02,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "展板三 平安中国",
+     "runs": [
+      {
+       "t": "展板三 平安中国",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 15",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 193.6,
+     "w": 305.34,
+     "h": 249.86,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "随着平安中国建设深入推进，我国成为世界上最有安全感的国家之一。\n群众安全感连续多年保持98%以上\n世界上命案发生率最低的国家之一",
+     "runs": [
+      {
+       "t": "随着平安中国建设深入推进，我国成为世界上最有安全感的国家之一。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "群众安全感连续多年保持",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "98%",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "以上",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "世界上命案发生率最低的国家之一",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 410.5,
+     "top": 408.72,
+     "w": 215.55,
+     "h": 34.71,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片来源：人民网",
+     "runs": [
+      {
+       "t": "图片来源：人民网",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "Picture 4",
+     "type": "PICTURE (13)",
+     "left": 383.3,
+     "top": 200.29,
+     "w": 251.23,
+     "h": 191.28,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       800,
+       515
+      ],
+      "bytes": 109711,
+      "sha": "9f2f2005d7"
+     }
+    },
+    {
+     "name": "矩形: 圆角 8",
+     "type": "AUTO_SHAPE (1)",
+     "left": 480.0,
+     "top": 93.34,
+     "w": 139.87,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "社会建设",
+     "runs": [
+      {
+       "t": "社会建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 10",
+     "type": "AUTO_SHAPE (1)",
+     "left": 432.5,
+     "top": 115.3,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 8,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 13",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 99.77,
+     "w": 157.67,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "情境思考",
+     "runs": [
+      {
+       "t": "情境思考",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 24",
+     "type": "AUTO_SHAPE (1)",
+     "left": 78.86,
+     "top": 191.13,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1",
+     "runs": [
+      {
+       "t": "1",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 25",
+     "type": "AUTO_SHAPE (1)",
+     "left": 145.8,
+     "top": 200.64,
+     "w": 470.1,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "已有展板体现了“五位一体”总体布局的哪些方面？",
+     "runs": [
+      {
+       "t": "已有展板体现了“五位一体”总体布局的哪些方面？",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 267.8,
+     "w": 569.03,
+     "h": 65.43,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "我们党统筹推进经济建设、政治建设、文化建设、社会建设、生态文明建设“五位一体”总体布局。",
+     "runs": [
+      {
+       "t": "我们党统筹推进",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "经济建设",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "、政治建设、文化建设、",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "社会建设",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "、生态文明建设“五位一体”总体布局。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "椭圆 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 78.86,
+     "top": 333.23,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "2",
+     "runs": [
+      {
+       "t": "2",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 145.8,
+     "top": 342.74,
+     "w": 470.1,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "可以从剩余方面补充空白展板，请完善展板。",
+     "runs": [
+      {
+       "t": "可以从剩余方面补充空白展板，请完善展板。",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 57.41,
+     "top": 399.43,
+     "w": 569.03,
+     "h": 65.43,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "我们党统筹推进经济建设、政治建设、文化建设、社会建设、生态文明建设“五位一体”总体布局。",
+     "runs": [
+      {
+       "t": "我们党统筹推进",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "经济建设、",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "政治建设",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "、",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "文化建设",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "、社会建设、",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "生态文明建设",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "“五位一体”总体布局",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 9,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 28.43,
+     "top": 81.58,
+     "w": 374.22,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组展示：展板四   民主法治",
+     "runs": [
+      {
+       "t": "小组展示：展板四   民主法治",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 458.75,
+     "top": 76.4,
+     "w": 143.69,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "政治建设",
+     "runs": [
+      {
+       "t": "政治建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 399.34,
+     "top": 94.7,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "Picture 2",
+     "type": "PICTURE (13)",
+     "left": 66.13,
+     "top": 332.94,
+     "w": 198.43,
+     "h": 113.39,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       600,
+       400
+      ],
+      "bytes": 160039,
+      "sha": "03aa3c384e"
+     }
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 76.7,
+     "top": 297.54,
+     "w": 177.27,
+     "h": 31.96,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片来源：人民网",
+     "runs": [
+      {
+       "t": "图片来源：人民网",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 6",
+     "type": "TEXT_BOX (17)",
+     "left": 76.7,
+     "top": 445.84,
+     "w": 177.27,
+     "h": 31.96,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片来源：人民日报",
+     "runs": [
+      {
+       "t": "图片来源：人民日报",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 7",
+     "type": "TEXT_BOX (17)",
+     "left": 286.07,
+     "top": 151.05,
+     "w": 352.68,
+     "h": 333.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "发展全过程人民民主，坚持全面依法治国，社会主义政治制度优势充分彰显。\n《中华人民共和国生态环境法典》：完善我国法律体系，以法治护航美丽中国建设。\n设立基层立法联系点：民意直达国家立法机关，是全过程人民民主的生动实践。",
+     "runs": [
+      {
+       "t": "发展全过程人民民主，坚持全面依法治国，社会主义政治制度优势充分彰显。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "《",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "中华人民共和国生态环境法典",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "》",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "：完善我国法律体系，以法治护航美丽中国建设。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "设立基层立法联系点：民意直达国家立法机关，是全过程人民民主的生动实践。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "图片 4",
+     "type": "PICTURE (13)",
+     "left": 66.13,
+     "top": 180.73,
+     "w": 198.43,
+     "h": 120.73,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "png",
+      "px": [
+       1080,
+       714
+      ],
+      "bytes": 1063573,
+      "sha": "5626713492"
+     }
+    }
+   ]
+  },
+  {
+   "idx": 10,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 28.76,
+     "top": 155.05,
+     "w": 896.07,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "传承弘扬中华优秀传统文化，推动中华优秀传统文化实现创造性转化、创新性发展。",
+     "runs": [
+      {
+       "t": "传承弘扬中华优秀传统文化，推动中华优秀传统文化实现创造性转化、创新性发展。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 178.85,
+     "top": 75.3,
+     "w": 451.95,
+     "h": 51.17,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组展示：展板五  文化传承",
+     "runs": [
+      {
+       "t": "小组展示：展板五  文化传承",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 662.98,
+     "top": 75.3,
+     "w": 140.94,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "文化建设",
+     "runs": [
+      {
+       "t": "文化建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 600.19,
+     "top": 88.23,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "Picture 2",
+     "type": "PICTURE (13)",
+     "left": 39.16,
+     "top": 216.36,
+     "w": 198.43,
+     "h": 141.98,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       550,
+       388
+      ],
+      "bytes": 23594,
+      "sha": "8519bf4384"
+     }
+    },
+    {
+     "name": "文本框 7",
+     "type": "TEXT_BOX (17)",
+     "left": 20.56,
+     "top": 402.62,
+     "w": 219.23,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "三星堆不断有考古新发现",
+     "runs": [
+      {
+       "t": "三星堆不断有考古新发现",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "Picture 4",
+     "type": "PICTURE (13)",
+     "left": 265.12,
+     "top": 216.36,
+     "w": 198.43,
+     "h": 141.73,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       550,
+       366
+      ],
+      "bytes": 47999,
+      "sha": "c6e0da4ba9"
+     }
+    },
+    {
+     "name": "Picture 6",
+     "type": "PICTURE (13)",
+     "left": 489.02,
+     "top": 216.36,
+     "w": 198.43,
+     "h": 141.73,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       1023,
+       682
+      ],
+      "bytes": 153260,
+      "sha": "1f3695d9a4"
+     }
+    },
+    {
+     "name": "Picture 10",
+     "type": "PICTURE (13)",
+     "left": 716.0,
+     "top": 216.36,
+     "w": 198.43,
+     "h": 141.73,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "png",
+      "px": [
+       606,
+       433
+      ],
+      "bytes": 467246,
+      "sha": "ee863acf83"
+     }
+    },
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 241.18,
+     "top": 402.62,
+     "w": 235.61,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "良渚古城遗址列入世界遗产",
+     "runs": [
+      {
+       "t": "良渚古城遗址列入世界遗产",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 11",
+     "type": "TEXT_BOX (17)",
+     "left": 463.54,
+     "top": 402.62,
+     "w": 223.9,
+     "h": 65.43,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "国家版本馆建成开馆",
+     "runs": [
+      {
+       "t": "国家版本馆建成开馆",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 13",
+     "type": "TEXT_BOX (17)",
+     "left": 701.5,
+     "top": 400.05,
+     "w": 233.73,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "《只此青绿》向世界展示东方美学",
+     "runs": [
+      {
+       "t": "《",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "只此青绿",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "》",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "向世界展示东方美学",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 14",
+     "type": "TEXT_BOX (17)",
+     "left": 368.46,
+     "top": 363.22,
+     "w": 216.66,
+     "h": 31.96,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "以上图片均来源：新华社",
+     "runs": [
+      {
+       "t": "以上图片均来源：新华社",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 11,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "图片 13",
+     "type": "PICTURE (13)",
+     "left": 66.13,
+     "top": 188.83,
+     "w": 237.89,
+     "h": 200.12,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "png",
+      "px": [
+       932,
+       524
+      ],
+      "bytes": 422454,
+      "sha": "ee64c3ca9e"
+     }
+    },
+    {
+     "name": "图片 15",
+     "type": "PICTURE (13)",
+     "left": 313.32,
+     "top": 220.15,
+     "w": 237.99,
+     "h": 200.12,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       728,
+       612
+      ],
+      "bytes": 201207,
+      "sha": "2baaed5236"
+     }
+    },
+    {
+     "name": "文本框 16",
+     "type": "TEXT_BOX (17)",
+     "left": 551.31,
+     "top": 205.02,
+     "w": 382.18,
+     "h": 249.58,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "“共抓大保护，不搞大开发”，十年间，长江经济带优良水质比例从67%提升到96.5%。\n致力于“让黄河成为造福人民的幸福河”，打好黄河“几字弯”攻坚战，一体推进山水林田湖草沙保护和治理，筑牢生态屏障。",
+     "runs": [
+      {
+       "t": "“共抓大保护，不搞大开发”，十年间，长江经济带优良水质比例从",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "67%",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "提升到",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "96.5%",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "致力于“让黄河成为造福人民的幸福河”，打好黄河“几字弯”攻坚战，一体推进山水林田湖草沙保护和治理，筑牢生态屏障。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 17",
+     "type": "TEXT_BOX (17)",
+     "left": 152.71,
+     "top": 94.14,
+     "w": 478.09,
+     "h": 51.17,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组展示：展板六 “江河战略”",
+     "runs": [
+      {
+       "t": "小组展示：展板六 “江河战略”",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 18",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 420.27,
+     "w": 237.89,
+     "h": 63.79,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "左图：长江   右图：黄河\n图片来源：人民日报",
+     "runs": [
+      {
+       "t": "左图：长江",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "   ",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "右图：黄河",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "图片来源：人民日报",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 662.98,
+     "top": 94.14,
+     "w": 193.68,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "生态文明建设",
+     "runs": [
+      {
+       "t": "生态文明建设",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 右 7",
+     "type": "AUTO_SHAPE (1)",
+     "left": 615.48,
+     "top": 116.1,
+     "w": 46.7,
+     "h": 25.3,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 12,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 116.31,
+     "top": 110.4,
+     "w": 511.06,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "子任务2：撰写解说——解码新成就",
+     "runs": [
+      {
+       "t": "子任务",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "：撰写解说",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "解码新成就",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 160.62,
+     "top": 163.72,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 116.31,
+     "top": 143.36,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 197.29,
+     "w": 280.12,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "分析原因·小组讨论",
+     "runs": [
+      {
+       "t": "分析原因",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "小组讨论",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 7",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 319.14,
+     "w": 572.62,
+     "h": 79.38,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "结合所学知识，分析新时代党和国家事业取得辉煌成就的原因。",
+     "runs": [
+      {
+       "t": "结合所学知识，分析新时代党和国家事业取得辉煌成就的原因。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "theme:ACCENT_5 (9)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    }
+   ]
+  },
+  {
+   "idx": 13,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 168.77,
+     "top": 151.41,
+     "w": 159.96,
+     "h": 89.58,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "226天",
+     "runs": [
+      {
+       "t": "226",
+       "sz": 60.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      },
+      {
+       "t": "天",
+       "sz": 60.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.95,
+     "top": 255.37,
+     "w": 388.21,
+     "h": 144.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1972年到1999年，28年间黄河有22年发生断流；1997年，断流长达226天。母亲河，曾经一度“伤痕累累”。",
+     "runs": [
+      {
+       "t": "1972",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年到",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1999",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年，",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "28",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年间黄河有",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "22",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年发生断流；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1997",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年，断流长达",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "226",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "天。母亲河，曾经一度“伤痕累累”。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.12,
+     "top": 78.05,
+     "w": 823.1,
+     "h": 61.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "以黄河流域生态保护和高质量发展为例\n分析原因·小组讨论",
+     "runs": [
+      {
+       "t": "以黄河流域生态保护和高质量发展为例",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "分析原因",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "小组讨论",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 7",
+     "type": "TEXT_BOX (17)",
+     "left": 574.71,
+     "top": 146.34,
+     "w": 159.96,
+     "h": 89.58,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "27年",
+     "runs": [
+      {
+       "t": "27",
+       "sz": 60.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年",
+       "sz": 60.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 11",
+     "type": "TEXT_BOX (17)",
+     "left": 486.11,
+     "top": 237.92,
+     "w": 406.94,
+     "h": 179.78,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "今天，黄河已实现自1999年以来连续27年不断流；干流连续4年全线稳定保持Ⅱ类水质，2025年流域好于Ⅲ类水体比例达到93.2%，首次超过全国平均水平。",
+     "runs": [
+      {
+       "t": "今天，黄河已实现自",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1999",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年以来连续",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "27",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年不断流；干流连续",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "4",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年全线稳定保持",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "Ⅱ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "类水质，",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2025",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年流域好于",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "Ⅲ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "类水体比例达到",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "93.2%",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "，首次超过全国平均水平",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "。",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.95,
+     "top": 426.5,
+     "w": 700.29,
+     "h": 58.15,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "从226天断流到连续27年不断流，究竟是什么原因导致黄河之变？",
+     "runs": [
+      {
+       "t": "从",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "226",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "天断流到连续",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "27",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "年不断流，究竟是什么原因导致黄河之变？",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    }
+   ]
+  },
+  {
+   "idx": 14,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 13",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.2,
+     "top": 74.15,
+     "w": 816.45,
+     "h": 46.35,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "从226天断流到连续27年不断流，究竟是什么原因导致黄河之变？",
+     "runs": [
+      {
+       "t": "从",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "226",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "天断流到连续",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "27",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "年不断流，究竟是什么原因导致黄河之变？",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "表格 2",
+     "type": "TABLE (19)",
+     "left": 66.3,
+     "top": 129.35,
+     "w": 816.35,
+     "h": 360.0,
+     "depth": 0,
+     "rot": 0.0
+    }
+   ]
+  },
+  {
+   "idx": 15,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 13",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 86.32,
+     "w": 551.15,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "思维工具——四步解码法",
+     "runs": [
+      {
+       "t": "思维工具",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "——",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "四步解码法",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 52.71,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "问机制\n它是怎么“变”回来的？\n把“怎么做到的”说清楚——这是推理的起点。",
+     "runs": [
+      {
+       "t": "问机制",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "它是怎么“变”回来的？",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "把“怎么做到的”说清楚",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "——",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "这是推理的起点。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 52.71,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1",
+     "runs": [
+      {
+       "t": "1",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 4",
+     "type": "AUTO_SHAPE (1)",
+     "left": 280.25,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "反证\n假如没有它，还成不成？\n用“如果没有……会怎样”做反事实追问。",
+     "runs": [
+      {
+       "t": "反证",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "假如没有它，还成不成？",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "用“如果没有",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "……",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "会怎样”做反事实追问。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 5",
+     "type": "AUTO_SHAPE (1)",
+     "left": 280.25,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "2",
+     "runs": [
+      {
+       "t": "2",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 507.79,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "比较\n别人为什么做不到？\n横向对照，找出“我们比别的国家多什么”，让不可替代的原因更清晰。",
+     "runs": [
+      {
+       "t": "比较",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "别人为什么做不到？",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "横向对照，找出“我们比别的国家多什么”，让不可替代的原因更清晰。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 7",
+     "type": "AUTO_SHAPE (1)",
+     "left": 507.79,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "3",
+     "runs": [
+      {
+       "t": "3",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 8",
+     "type": "AUTO_SHAPE (1)",
+     "left": 735.33,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "归纳\n能不能用课本来验证？\n把原因抽取归并，再用课本原文验证——让结论“论从史出”。",
+     "runs": [
+      {
+       "t": "归纳",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "能不能用课本来验证？",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "把原因抽取归并，再用课本原文验证",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "——",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "让结论“论从史出”。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 9",
+     "type": "AUTO_SHAPE (1)",
+     "left": 735.33,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "4",
+     "runs": [
+      {
+       "t": "4",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 11",
+     "type": "TEXT_BOX (17)",
+     "left": 219.05,
+     "top": 448.2,
+     "w": 521.9,
+     "h": 41.2,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "现象→问机制→反证→比较→归纳→原因",
+     "runs": [
+      {
+       "t": "现象",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "→问机制→反证→比较→归纳→",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "原因",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 16,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 13",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 86.32,
+     "w": 551.15,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "思维工具——四步解码法",
+     "runs": [
+      {
+       "t": "思维工具",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "——",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "四步解码法",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 52.71,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "问机制\n统一调度、九省协同、生态补水、法治护航……说清成就“怎么发生”。",
+     "runs": [
+      {
+       "t": "问机制",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "统一调度、九省协同、生态补水、法治护航",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "……",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "说清成就“怎么发生”",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 52.71,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1",
+     "runs": [
+      {
+       "t": "1",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 4",
+     "type": "AUTO_SHAPE (1)",
+     "left": 280.25,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "反证\n治理跨越九省（区）：没有党中央集中统一领导和“江河战略”，长期工程难以实现。",
+     "runs": [
+      {
+       "t": "反证",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "治理跨越九省（区）：没有党中央集中统一领导和“江河战略”，长期工程难以实现。",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 5",
+     "type": "AUTO_SHAPE (1)",
+     "left": 280.25,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "2",
+     "runs": [
+      {
+       "t": "2",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 6",
+     "type": "AUTO_SHAPE (1)",
+     "left": 507.79,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "比较\n一些大河治理因跨区协调难、政策反复而失败——我们多了“集中力量办大事”。",
+     "runs": [
+      {
+       "t": "比较",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "一些大河治理因跨区协调难、政策反复而失败",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "——",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "我们多了“集中力量办大事”。",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 7",
+     "type": "AUTO_SHAPE (1)",
+     "left": 507.79,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "3",
+     "runs": [
+      {
+       "t": "3",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 8",
+     "type": "AUTO_SHAPE (1)",
+     "left": 735.33,
+     "top": 202.98,
+     "w": 177.97,
+     "h": 216.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "归纳\n从具体机制中抽象出“不可替代的条件”，并用课本原文验证。",
+     "runs": [
+      {
+       "t": "归纳",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "从具体机制中抽象出“不可替代的条件”，并用课本原文验证",
+       "sz": 20.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "。",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "椭圆 9",
+     "type": "AUTO_SHAPE (1)",
+     "left": 735.33,
+     "top": 174.63,
+     "w": 56.69,
+     "h": 56.69,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "4",
+     "runs": [
+      {
+       "t": "4",
+       "sz": 36.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 11",
+     "type": "TEXT_BOX (17)",
+     "left": 219.05,
+     "top": 448.2,
+     "w": 521.9,
+     "h": 41.2,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "现象→问机制→反证→比较→归纳→原因",
+     "runs": [
+      {
+       "t": "现象",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "→问机制→反证→比较→归纳→",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "原因",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 17,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 169.31,
+     "top": 80.61,
+     "w": 621.38,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "新时代党和国家事业取得辉煌成就的原因是什么？",
+     "runs": [
+      {
+       "t": "新时代党和国家事业取得辉煌成就的原因是什么？",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "任意多边形: 形状 24",
+     "type": "FREEFORM (5)",
+     "left": 99.52,
+     "top": 159.8,
+     "w": 190.79,
+     "h": 242.6,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "\n\n         习近平新时代中国特色社会主义思想的科学指导。",
+     "runs": [
+      {
+       "t": "         ",
+       "sz": 28.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "习近平新时代中国特色社会主义思想的科学指导。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "GRADIENT (3)",
+     "line": "GRADIENT (3)",
+     "line_w": 2.25
+    },
+    {
+     "name": "任意多边形: 形状 21",
+     "type": "FREEFORM (5)",
+     "left": 296.36,
+     "top": 182.0,
+     "w": 179.09,
+     "h": 220.39,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "\n\n         坚持和加强党的全面领导。",
+     "runs": [
+      {
+       "t": "         坚持和加强党的全面领导。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "GRADIENT (3)",
+     "line": "GRADIENT (3)",
+     "line_w": 2.25
+    },
+    {
+     "name": "任意多边形: 形状 20",
+     "type": "FREEFORM (5)",
+     "left": 481.5,
+     "top": 189.37,
+     "w": 189.88,
+     "h": 213.02,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "\n\n         中国特色社会主义制度具有显著优势。",
+     "runs": [
+      {
+       "t": "         ",
+       "sz": 28.0,
+       "b": null,
+       "name": null,
+       "col": null
+      },
+      {
+       "t": "中国特色社会主义制度具有显著优势。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "GRADIENT (3)",
+     "line": "GRADIENT (3)",
+     "line_w": 2.25
+    },
+    {
+     "name": "流程图: 接点 33",
+     "type": "AUTO_SHAPE (1)",
+     "left": 130.88,
+     "top": 126.3,
+     "w": 122.22,
+     "h": 111.33,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "根本指引",
+     "runs": [
+      {
+       "t": "根本指引",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ]
+    },
+    {
+     "name": "流程图: 接点 34",
+     "type": "AUTO_SHAPE (1)",
+     "left": 515.33,
+     "top": 152.8,
+     "w": 122.22,
+     "h": 111.33,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "制度优势",
+     "runs": [
+      {
+       "t": "制度优势",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ]
+    },
+    {
+     "name": "流程图: 接点 35",
+     "type": "AUTO_SHAPE (1)",
+     "left": 320.19,
+     "top": 143.1,
+     "w": 122.22,
+     "h": 111.33,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "根本保证",
+     "runs": [
+      {
+       "t": "根本保证",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ]
+    },
+    {
+     "name": "任意多边形: 形状 22",
+     "type": "FREEFORM (5)",
+     "left": 677.43,
+     "top": 181.96,
+     "w": 185.85,
+     "h": 220.43,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "\n\n         坚持以人民为中心的发展思想。",
+     "runs": [
+      {
+       "t": "         坚持以人民为中心的发展思想。",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "GRADIENT (3)",
+     "line": "GRADIENT (3)",
+     "line_w": 2.25
+    },
+    {
+     "name": "流程图: 接点 36",
+     "type": "AUTO_SHAPE (1)",
+     "left": 702.04,
+     "top": 143.1,
+     "w": 122.22,
+     "h": 111.33,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "价值立场",
+     "runs": [
+      {
+       "t": "价值立场",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:BACKGROUND_1 (14)"
+      }
+     ]
+    },
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 92.88,
+     "top": 428.19,
+     "w": 777.24,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+     "runs": [
+      {
+       "t": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_5 (9)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    }
+   ]
+  },
+  {
+   "idx": 18,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 110.04,
+     "w": 572.62,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+     "runs": [
+      {
+       "t": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_5 (9)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 2",
+     "type": "TEXT_BOX (17)",
+     "left": 61.92,
+     "top": 227.92,
+     "w": 576.83,
+     "h": 158.35,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "解说词脚手架：\n第一段：这一块展板展示了怎样的成就。\n第二段：取得这样的成就的原因。\n第三段：这启示我们今后如何做。",
+     "runs": [
+      {
+       "t": "解说词脚手架：",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "第一段：这一块展板展示了怎样的成就。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "第二段：取得这样的成就的原因。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "第三段：这启示我们今后如何做。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 19,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 99.49,
+     "w": 572.62,
+     "h": 47.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "小组合作探究成果：解说词",
+     "runs": [
+      {
+       "t": "小组合作探究成果：解说词",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_5 (9)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 61.92,
+     "top": 180.22,
+     "w": 576.83,
+     "h": 251.4,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "黄河，从 226 天断流到连续 27 年不断流。这条母亲河的“重生”告诉我们：奇迹不是凭空发生的。\n它的背后，站着党的全面领导、科学理论的指引、制度的优势和人民至上的立场。\n从断流到安澜，这条大河的变迁，就是国家发展奇迹生动缩影。解码成就，不是为了记住几个结论，而是学会用这把钥匙，去读懂我们的国家。",
+     "runs": [
+      {
+       "t": "黄河，从 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "226 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "天断流到连续 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "27 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年不断流。这条母亲河的“重生”告诉我们：奇迹不是凭空发生的。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "它的背后，站着党的全面领导、科学理论的指引、制度的优势和人民至上的立场。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "从断流到安澜，这条大河的变迁，就是国家发展奇迹生动缩影。解码成就，不是为了记住几个结论，而是学会用这把钥匙，去读懂我们的国家。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 20,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 117.14,
+     "top": 76.63,
+     "w": 492.34,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "子任务3：拓展策展——循迹盐湖行",
+     "runs": [
+      {
+       "t": "子任务",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "3",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "：拓展策展",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "循迹盐湖行",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 11",
+     "type": "LINE (9)",
+     "left": 145.75,
+     "top": 127.35,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 12",
+     "type": "GROUP (6)",
+     "left": 101.45,
+     "top": 106.99,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 13",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 14",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 7",
+     "type": "TEXT_BOX (17)",
+     "left": 66.12,
+     "top": 241.75,
+     "w": 580.81,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "        围绕展览主题，立足家乡的变化发展，开展一次研学活动。",
+     "runs": [
+      {
+       "t": "        围绕展览主题，立足家乡的变化发展，开展一次",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "研学活动",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 153.2,
+     "w": 280.12,
+     "h": 38.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "实践活动·小组研学",
+     "runs": [
+      {
+       "t": "实践活动",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "小组研学",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "矩形: 圆角 4",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.13,
+     "top": 373.77,
+     "w": 572.62,
+     "h": 38.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "黄河流域生态保护和高质量发展·盐湖之变",
+     "runs": [
+      {
+       "t": "黄河流域生态保护和高质量发展",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "盐湖之变",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    },
+    {
+     "name": "箭头: 下 5",
+     "type": "AUTO_SHAPE (1)",
+     "left": 338.9,
+     "top": 292.13,
+     "w": 39.44,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    }
+   ]
+  },
+  {
+   "idx": 21,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 454.86,
+     "top": 192.56,
+     "w": 470.72,
+     "h": 208.54,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "          “盐湖的生态价值和功能越来越重要，要统筹做好保护利用工作，让盐湖独特的人文历史资源和生态资源一代代传承下去，逐步恢复其生态功能，更好保护其历史文化价值。”",
+     "runs": [
+      {
+       "t": "          ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "“盐湖的生态价值和功能越来越重要，要统筹做好保护利用工作，让盐湖独特的人文历史资源和生态资源一代代传承下去，逐步恢复其生态功能，更好保护其历史文化价值。”",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "Picture 2",
+     "type": "PICTURE (13)",
+     "left": 66.13,
+     "top": 176.04,
+     "w": 345.23,
+     "h": 196.82,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       2258,
+       697
+      ],
+      "bytes": 554279,
+      "sha": "b049605e9f"
+     }
+    },
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 112.69,
+     "top": 379.11,
+     "w": 272.27,
+     "h": 58.14,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "习近平同志在运城盐湖考察调研\n图片来源：人民日报",
+     "runs": [
+      {
+       "t": "习近平同志在运城盐湖考察调研",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "图片来源：人民日报",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 2",
+     "type": "TEXT_BOX (17)",
+     "left": 94.79,
+     "top": 442.49,
+     "w": 770.42,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "从工业矿区到城市生态客厅——这是新时代在河东大地的生动缩影。",
+     "runs": [
+      {
+       "t": "从工业矿区到城市生态客厅",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "这是新时代在河东大地的生动缩影。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形: 圆角 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 66.12,
+     "top": 112.27,
+     "w": 836.86,
+     "h": 38.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "实践活动·黄河流域生态保护和高质量发展·盐湖之变·小组研学",
+     "runs": [
+      {
+       "t": "实践活动",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "黄河流域生态保护和高质量发展",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "盐湖之变",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "·",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      },
+      {
+       "t": "小组研学",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:TEXT_1 (13)"
+      }
+     ],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "theme:ACCENT_1 (5)",
+     "line_w": null
+    }
+   ]
+  },
+  {
+   "idx": 22,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 81",
+     "type": "TEXT_BOX (17)",
+     "left": 380.62,
+     "top": 84.59,
+     "w": 188.87,
+     "h": 51.17,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "盐湖之变",
+     "runs": [
+      {
+       "t": "盐湖之变",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "椭圆 1",
+     "type": "AUTO_SHAPE (1)",
+     "left": 37.61,
+     "top": 189.86,
+     "w": 295.64,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": [],
+     "fill": "theme:ACCENT_1 (5)",
+     "line": "BACKGROUND (5)",
+     "line_w": null
+    },
+    {
+     "name": "弧形 3",
+     "type": "AUTO_SHAPE (1)",
+     "left": 162.11,
+     "top": 477.36,
+     "w": 295.64,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "弧形 4",
+     "type": "AUTO_SHAPE (1)",
+     "left": 334.6,
+     "top": 480.02,
+     "w": 286.32,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 270.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "文本框 10",
+     "type": "TEXT_BOX (17)",
+     "left": 40.93,
+     "top": 189.86,
+     "w": 425.2,
+     "h": 255.4,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "文化之变 · 盐韵新生\n 4600 余年采盐史：“一池河东盐，半部华夏史”\n河东池盐博物馆建成开放；国家级非遗“五步产盐法”建设体验项目\n老厂房变身盐梦长廊，“工业锈带”转变为“文旅秀带”",
+     "runs": [
+      {
+       "t": "文化之变 ",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "· ",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "盐韵新生",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": " ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "4600 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "余年采盐史：“一池河东盐，半部华夏史”",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "河东池盐博物馆建成开放；国家级非遗“五步产盐法”建设体验项目",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "老厂房变身盐梦长廊，“工业锈带”转变为“文旅秀带”",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "弧形 17",
+     "type": "AUTO_SHAPE (1)",
+     "left": 343.11,
+     "top": 477.36,
+     "w": 295.64,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "弧形 18",
+     "type": "AUTO_SHAPE (1)",
+     "left": 334.5,
+     "top": 189.86,
+     "w": 286.32,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 90.0,
+     "text": "",
+     "runs": []
+    },
+    {
+     "name": "文本框 20",
+     "type": "TEXT_BOX (17)",
+     "left": 510.1,
+     "top": 189.86,
+     "w": 425.2,
+     "h": 255.4,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "生态之变 · 退盐还湖\n2020 年起全面叫停盐湖工业生产，“治山、理水、净湖”一体推进\n27 个生态修复项目，累计投入约 25.2 亿元；堤埝加固 119.77 公里\n入选全国首批陆生野生动物重要栖息地名录。",
+     "runs": [
+      {
+       "t": "生态之变 ",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "· ",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "退盐还湖",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2020 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年起全面叫停盐湖工业生产，“治山、理水、净湖”一体推进",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "27 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "个生态修复项目，累计投入约 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "25.2 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "亿元；堤埝加固 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "119.77 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "公里",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "入选全国首批陆生野生动物重要栖息地名录。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 23,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 133.91,
+     "w": 572.62,
+     "h": 360.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "研学活动要求\n·搜集资料，了解家乡的变化发展。\n·分小组拟定活动方案，细化走访调研的目的、对象、内容及方式，分工明确。\n·开展走访调研活动。调研过程中，重点关注新时代以来家乡的变化发展情况及存在的主要问题，做好记录。\n·做好各类资料的整理、分析、留存等工作，提出针对性对策建议。\n·小组深入讨论交流，共同完成一篇调研报告。",
+     "runs": [
+      {
+       "t": "研学活动要求",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "·",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "搜集资料，了解家乡的变化发展。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "·",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "分小组拟定活动方案，细化走访调研的目的、对象、内容及方式，分工明确。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "·",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "开展走访调研活动。调研过程中，重点关注新时代以来家乡的变化发展情况及存在的主要问题，做好记录。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "·",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "做好各类资料的整理、分析、留存等工作，提出针对性对策建议。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "·",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "小组深入讨论交流，共同完成一篇调研报告。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 117.14,
+     "top": 76.63,
+     "w": 492.34,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "子任务3：拓展策展——循迹盐湖行",
+     "runs": [
+      {
+       "t": "子任务",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "3",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "：拓展策展",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "循迹盐湖行",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 11",
+     "type": "LINE (9)",
+     "left": 145.75,
+     "top": 127.35,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 12",
+     "type": "GROUP (6)",
+     "left": 101.45,
+     "top": 106.99,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 13",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 14",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "idx": 24,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "表格 1",
+     "type": "TABLE (19)",
+     "left": 66.88,
+     "top": 113.04,
+     "w": 812.99,
+     "h": 374.4,
+     "depth": 0,
+     "rot": 0.0
+    },
+    {
+     "name": "文本框 2",
+     "type": "TEXT_BOX (17)",
+     "left": 381.69,
+     "top": 59.72,
+     "w": 196.62,
+     "h": 53.32,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "研学活动方案",
+     "runs": [
+      {
+       "t": "研学活动方案",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 25,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 6",
+     "type": "TEXT_BOX (17)",
+     "left": 73.13,
+     "top": 87.03,
+     "w": 824.37,
+     "h": 365.94,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "《＿＿＿＿发展调研报告》\n调研小组：＿＿＿＿　组长：＿＿＿＿　日期：＿＿＿\n组员及分工：资料员／记录员／汇报员／质疑员\n\n一、调研方案摘要（调研目的、对象、内容、方式）\n二、调研过程（调研时间、路线、走访对象与记录情况）\n三、家乡的变化核心（事实＋数据）\n四、存在的问题核心（研途中真实看到的发展短板，要有现场证据）\n五、对策建议核心 · 难点（针对每个问题，提出可操作的对策，做到“三个有”： 有问题依据、有密码支撑、有可行做法）\n六、小组感悟（研学收获与情感升华——家乡之变让我们懂得了什么）\n七、附录必备（照片、访谈记录、资料来源清单）",
+     "runs": [
+      {
+       "t": "《",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "＿＿＿＿发展调研报告",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "》",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "调研小组：＿＿＿＿　组长：＿＿＿＿　日期：＿＿＿",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "组员及分工：",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "资料员／记录员／汇报员／质疑员",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "一、调研方案摘要（调研目的、对象、内容、方式）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "二、调研过程（调研时间、路线、走访对象与记录情况）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "三、家乡的变化核心（事实＋数据）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "四、存在的问题核心（研途中真实看到的发展短板，要有现场证据）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "五、对策建议核心 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "· ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "难点（针对每个问题，提出可操作的对策，做到“三个有”： 有问题依据、有密码支撑、有可行做法）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "六、小组感悟（研学收获与情感升华",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "家乡之变让我们懂得了什么）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      },
+      {
+       "t": "七、附录必备（照片、访谈记录、资料来源清单）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 26,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 8",
+     "type": "TEXT_BOX (17)",
+     "left": 72.29,
+     "top": 228.46,
+     "w": 386.71,
+     "h": 214.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1.紧扣调研主题，聚焦研学目标。\n2.注意出行安全，文明走访，礼貌访谈。\n3.细化团队分工，强化协作配合。\n4.坚持实事求是，尊重对方隐私。\n",
+     "runs": [
+      {
+       "t": "1.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "紧扣调研主题，聚焦研学目标。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "注意出行安全，文明走访，礼貌访谈。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "3.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "细化团队分工，强化协作配合。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "4.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "坚持实事求是，尊重对方隐私。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 77.25,
+     "top": 119.74,
+     "w": 281.22,
+     "h": 59.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "研学活动提示",
+     "runs": [
+      {
+       "t": "研学活动提示",
+       "sz": 32.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": null
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "图片 2",
+     "type": "PICTURE (13)",
+     "left": 480.0,
+     "top": 133.25,
+     "w": 397.75,
+     "h": 273.5,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       1316,
+       743
+      ],
+      "bytes": 350344,
+      "sha": "8abbbd3d28"
+     }
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 586.47,
+     "top": 421.64,
+     "w": 184.81,
+     "h": 31.96,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "图片来源：人民日报",
+     "runs": [
+      {
+       "t": "图片来源：人民日报",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 27,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 1",
+     "type": "TEXT_BOX (17)",
+     "left": 62.93,
+     "top": 96.25,
+     "w": 575.82,
+     "h": 86.4,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "思辨探究：盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+     "runs": [
+      {
+       "t": "思辨探究：",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "矩形 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 127.63,
+     "top": 224.35,
+     "w": 449.35,
+     "h": 212.9,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": [],
+     "fill": "theme:ACCENT_1 (5)"
+    },
+    {
+     "name": "直接连接符 10",
+     "type": "LINE (9)",
+     "left": 168.17,
+     "top": 287.09,
+     "w": 365.33,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "文本框 15",
+     "type": "TEXT_BOX (17)",
+     "left": 142.57,
+     "top": 234.33,
+     "w": 416.53,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "这种观点不对！",
+     "runs": [
+      {
+       "t": "这种观点不对！",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 17",
+     "type": "TEXT_BOX (17)",
+     "left": 145.8,
+     "top": 287.09,
+     "w": 416.53,
+     "h": 144.89,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "新时代发展，人人共建、人人共享。\n我们青少年不是旁观者，\n而是时代的见证者、\n家乡发展的参与者和建设者。",
+     "runs": [
+      {
+       "t": "新时代发展，人人共建、人人共享。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "我们青少年不是旁观者，",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "而是时代的见证者、",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "家乡发展的参与者和建设者。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 28,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "矩形 2",
+     "type": "AUTO_SHAPE (1)",
+     "left": 84.43,
+     "top": 242.19,
+     "w": 799.07,
+     "h": 192.49,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "",
+     "runs": [],
+     "fill": "theme:ACCENT_1 (5)"
+    },
+    {
+     "name": "直接连接符 10",
+     "type": "LINE (9)",
+     "left": 177.73,
+     "top": 302.11,
+     "w": 509.8,
+     "h": 0.0,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 156.28,
+     "top": 255.23,
+     "w": 581.25,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "我们可以做什么？",
+     "runs": [
+      {
+       "t": "我们可以做什么？",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 84.41,
+     "top": 315.65,
+     "w": 781.84,
+     "h": 109.99,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "做盐湖文化的宣传员——了解盐湖历史，讲好生态故事\n做绿色生活的践行者——从小事做起，守护身边的绿水青山\n做美丽家乡的建设者——学好本领，将来为家乡发展贡献力量",
+     "runs": [
+      {
+       "t": "做盐湖文化的宣传员",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "了解盐湖历史，讲好生态故事",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "做绿色生活的践行者",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "从小事做起，守护身边的绿水青山",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "做美丽家乡的建设者",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "学好本领，将来为家乡发展贡献力量",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.88,
+     "top": 141.25,
+     "w": 832.57,
+     "h": 45.68,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "思辨探究：盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+     "runs": [
+      {
+       "t": "思辨探究：",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+       "sz": 28.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 29,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 117.14,
+     "top": 76.63,
+     "w": 492.34,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课后延伸",
+     "runs": [
+      {
+       "t": "课后延伸",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 11",
+     "type": "LINE (9)",
+     "left": 145.75,
+     "top": 127.35,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 12",
+     "type": "GROUP (6)",
+     "left": 101.45,
+     "top": 106.99,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 13",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 14",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 85.46,
+     "top": 195.95,
+     "w": 479.92,
+     "h": 256.88,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "二选一\nA层（具备外出条件）：小组制定研学方案，实地开展盐湖研学，完成一份完整的《家乡发展调研报告》。\nB层（不具备外出条件）：线上查阅官方资料，制作一份盐湖生态文化宣传小报。",
+     "runs": [
+      {
+       "t": "二选一",
+       "sz": 28.0,
+       "b": true,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "A",
+       "sz": 28.0,
+       "b": true,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "层（具备外出条件）：",
+       "sz": 28.0,
+       "b": true,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "小组制定研学方案，实地开展盐湖研学，完成一份完整的",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "《",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "家乡发展调研报告",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "》",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "。",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "B",
+       "sz": 28.0,
+       "b": true,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "层（不具备外出条件）：",
+       "sz": 28.0,
+       "b": true,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "线上查阅官方资料，制作一份盐湖生态文化宣传小报。",
+       "sz": 28.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 30,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "表格 6",
+     "type": "TABLE (19)",
+     "left": 14.68,
+     "top": 69.71,
+     "w": 930.89,
+     "h": 421.12,
+     "depth": 0,
+     "rot": 0.0
+    }
+   ]
+  },
+  {
+   "idx": 31,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 254.88,
+     "top": 85.43,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂小结",
+     "runs": [
+      {
+       "t": "课堂小结",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 11",
+     "type": "LINE (9)",
+     "left": 254.88,
+     "top": 136.16,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 12",
+     "type": "GROUP (6)",
+     "left": 210.57,
+     "top": 115.79,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 13",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 14",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "Picture 2",
+     "type": "PICTURE (13)",
+     "left": 30.86,
+     "top": 168.59,
+     "w": 278.28,
+     "h": 219.22,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       900,
+       709
+      ],
+      "bytes": 71015,
+      "sha": "e9b749f3c5"
+     }
+    },
+    {
+     "name": "文本框 2",
+     "type": "TEXT_BOX (17)",
+     "left": 614.0,
+     "top": 182.03,
+     "w": 324.0,
+     "h": 201.15,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "        “我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”",
+     "runs": [
+      {
+       "t": "        “我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”",
+       "sz": 32.0,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 4",
+     "type": "TEXT_BOX (17)",
+     "left": 17.02,
+     "top": 399.49,
+     "w": 920.98,
+     "h": 94.51,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "左图：2026年9月30日，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。\n右图：2026年10月1日清晨，北京天安门广场举行升国旗仪式，庆祝中华人民共和国成立77周年。\n图片来源：央视新闻",
+     "runs": [
+      {
+       "t": "左图：",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2026",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "9",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "月",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "30",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "日，庆祝中华人民共和国成立",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "77",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "右图：",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2026",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "10",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "月",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "日清晨，北京天安门广场举行升国旗仪式，庆祝中华人民共和国成立",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "77",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "周年。",
+       "sz": null,
+       "b": false,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "图片来源：央视新闻",
+       "sz": null,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "Picture 4",
+     "type": "PICTURE (13)",
+     "left": 319.0,
+     "top": 168.59,
+     "w": 278.15,
+     "h": 219.22,
+     "depth": 0,
+     "rot": 0.0,
+     "img": {
+      "ext": "jpg",
+      "px": [
+       1000,
+       674
+      ],
+      "bytes": 104370,
+      "sha": "f6b07ea7e8"
+     }
+    }
+   ]
+  },
+  {
+   "idx": 32,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 76",
+     "type": "TEXT_BOX (17)",
+     "left": 131.02,
+     "top": 84.02,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂小结",
+     "runs": [
+      {
+       "t": "课堂小结",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 77",
+     "type": "LINE (9)",
+     "left": 131.02,
+     "top": 134.74,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 78",
+     "type": "GROUP (6)",
+     "left": 86.71,
+     "top": 114.38,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 79",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 80",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 37.28,
+     "top": 182.14,
+     "w": 601.47,
+     "h": 264.15,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "新时代新征程，社会主义中国巍然屹立，中华民族伟大复兴势不可挡。\n我们是实现强国建设、民族复兴伟业的中坚力量， “勿忘昨天的苦难辉煌，无愧今天的使命担当，不负明天的伟大梦想”， “自觉做习近平新时代中国特色社会主义思想的坚定信仰者、积极传播者、忠实实践者。”\n以青春见证中国腾飞，用成长助推家乡发展——这就是我们的青春答卷！",
+     "runs": [
+      {
+       "t": "新时代新征程，社会主义中国巍然屹立，中华民族伟大复兴势不可挡。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "我们是实现强国建设、民族复兴伟业的中坚力量， “勿忘昨天的苦难辉煌，无愧今天的使命担当，不负明天的伟大梦想”， “自觉做习近平新时代中国特色社会主义思想的坚定信仰者、积极传播者、忠实实践者。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "”",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "以青春见证中国腾飞，用成长助推家乡发展",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "这就是我们的青春答卷！",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 33,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 264.52,
+     "top": 111.52,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 267.12,
+     "top": 164.84,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 222.81,
+     "top": 144.48,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 193.2,
+     "w": 842.37,
+     "h": 273.81,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "1.进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾，在生态文明、法治建设、民生改善等领域取得一系列辉煌成就。下列对新时代认识正确的是（   ）\nA. 新时代意味着我国已经建成社会主义现代化强国\nB. 新时代是全国各族人民团结奋斗、不断创造美好生活的时代\nC. 新时代我国社会主要矛盾已经得到彻底解决\nD. 新时代标志着我国已经实现全体人民共同富裕",
+     "runs": [
+      {
+       "t": "1.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾，在生态文明、法治建设、民生改善等领域取得一系列辉煌成就。下列对新时代认识正确的是（   ）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "A. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新时代意味着我国已经建成社会主义现代化强国",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "B. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新时代是全国各族人民团结奋斗、不断创造美好生活的时代",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "C. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新时代我国社会主要矛盾已经得到彻底解决",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "D. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新时代标志着我国已经实现全体人民共同富裕",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 6",
+     "type": "TEXT_BOX (17)",
+     "left": 645.63,
+     "top": 260.7,
+     "w": 33.87,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "B",
+     "runs": [
+      {
+       "t": "B",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 34,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 264.52,
+     "top": 111.52,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 267.12,
+     "top": 164.84,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 222.81,
+     "top": 144.48,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 193.2,
+     "w": 842.37,
+     "h": 279.87,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "2.《中华人民共和国黄河保护法》为黄河流域生态保护和高质量发展提供坚实法治保障，坚持共同抓好大保护，协同推进大治理。这一举措体现（   ）\n①坚持依法治国，建设法治中国\n②践行绿水青山就是金山银山理念\n③生态保护可以脱离经济发展单独推进\n④走绿色发展道路，促进人与自然和谐共生\nA.①②③  B.①②④  C.①③④  D.②③④",
+     "runs": [
+      {
+       "t": "2.《",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "中华人民共和国黄河保护法",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "》",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "为黄河流域生态保护和高质量发展提供坚实法治保障，坚持共同抓好大保护，协同推进大治理。这一举措体现（   ）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "①坚持依法治国，建设法治中国",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "②践行绿水青山就是金山银山理念",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "③生态保护可以脱离经济发展单独推进",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "④走绿色发展道路，促进人与自然和谐共生",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "A.①②③  B.①②④  C.①③④  D.②③④",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 834.13,
+     "top": 226.2,
+     "w": 33.87,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "B",
+     "runs": [
+      {
+       "t": "B",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 35,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 264.52,
+     "top": 111.52,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 267.12,
+     "top": 164.84,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 222.81,
+     "top": 144.48,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 64.7,
+     "top": 176.39,
+     "w": 842.37,
+     "h": 308.71,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "3.“十五五”规划纲要提出，推进低空经济健康发展、推进国产大飞机规模化系列化发展、支持创新药临床使用。2025 年，我国“新三样”（电动汽车、锂电池、光伏产品）出口规模接近 1.3 万亿元，比 2020 年增长 3.5 倍。这主要表明（　　）\nA. 我国已建成现代化经济体系，实现了高质量发展\nB. 我国坚持创新驱动发展，加快培育新质生产力\nC. 出口规模扩大是衡量经济发展的唯一标准\nD. 新兴产业的发展无需传统产业作为基础",
+     "runs": [
+      {
+       "t": "3.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "“十五五”规划纲要提出，推进低空经济健康发展、推进国产大飞机规模化系列化发展、支持创新药临床使用。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2025 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年，我国“新三样”（电动汽车、锂电池、光伏产品）出口规模接近 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1.3 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "万亿元，比 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2020 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "年增长 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "3.5 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "倍。这主要表明（　　）",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "A. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "我国已建成现代化经济体系，实现了高质量发展",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "B. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "我国坚持创新驱动发展，加快培育新质生产力",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "C. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "出口规模扩大是衡量经济发展的唯一标准",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "D. ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新兴产业的发展无需传统产业作为基础",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 152.68,
+     "top": 279.33,
+     "w": 33.87,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "B",
+     "runs": [
+      {
+       "t": "B",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 36,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 267.12,
+     "top": 69.87,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 269.72,
+     "top": 123.19,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 225.41,
+     "top": 102.83,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 68.19,
+     "top": 139.81,
+     "w": 823.63,
+     "h": 360.33,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "4.新中国成立之初，我国“连铁钉和火柴都需要进口”，工业基础薄弱，科技前沿几近空白。77 载岁月，神州大地天翻地覆：如今，我国建成全球最完整、规模最大的研发体系和工业体系，进入创新型国家行列——“奋斗者”号深潜万米，“中国天眼”巡天观测，中国空间站遨游太空，国产大模型引领全球开源生态……\n这些成就的背后，是一以贯之的方向引领。党中央提出“以科技创新为引领，大力培育壮大新兴产业和未来产业”，从基础研究的系统部署，到“十五五”规划对新兴产业的整体布局，再到广大科技工作者数十年如一日地攻关“卡脖子”难题……一代代人接力奋斗，让“中国制造”加速迈向“中国创造”。",
+     "runs": [
+      {
+       "t": "4.",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "新中国成立之初，我国“连铁钉和火柴都需要进口”，工业基础薄弱，科技前沿几近空白。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "77 ",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "载岁月，神州大地天翻地覆：如今，我国建成全球最完整、规模最大的研发体系和工业体系，进入创新型国家行列",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——“",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "奋斗者”号深潜万米，“中国天眼”巡天观测，中国空间站遨游太空，国产大模型引领全球开源生态",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "……",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "这些成就的背后，是一以贯之的方向引领。党中央提出“以科技创新为引领，大力培育壮大新兴产业和未来产业”，从基础研究的系统部署，到“十五五”规划对新兴产业的整体布局，再到广大科技工作者数十年如一日地攻关“卡脖子”难题",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "……",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "一代代人接力奋斗，让“中国制造”加速迈向“中国创造”。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 37,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 267.12,
+     "top": 79.37,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 269.72,
+     "top": 132.69,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 225.41,
+     "top": 112.33,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.88,
+     "top": 177.95,
+     "w": 848.78,
+     "h": 109.99,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "与此同时，越来越多科技成果走进寻常百姓家：高铁、北斗、移动支付让出行与生活更便捷，创新药、农作物新品种让健康与粮食安全更有保障，绿色低碳技术让天更蓝、水更清。",
+     "runs": [
+      {
+       "t": "与此同时，越来越多科技成果走进寻常百姓家：高铁、北斗、移动支付让出行与生活更便捷，创新药、农作物新品种让健康与粮食安全更有保障，绿色低碳技术让天更蓝、水更清。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 6",
+     "type": "TEXT_BOX (17)",
+     "left": 62.23,
+     "top": 324.95,
+     "w": 852.5,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "结合材料，运用九年级上册第二单元《进入新时代》相关知识，回答下列问题：",
+     "runs": [
+      {
+       "t": "结合材料，运用九年级上册第二单元",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "《",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "进入新时代",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "》",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "相关知识，回答下列问题：",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 38,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 264.52,
+     "top": 111.52,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 267.12,
+     "top": 164.84,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 222.81,
+     "top": 144.48,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 193.2,
+     "w": 842.37,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "（1）结合材料，概括新中国成立以来我国在科技创新方面发生了怎样的变化。",
+     "runs": [
+      {
+       "t": "（",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "1",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "）结合材料，概括新中国成立以来我国在科技创新方面发生了怎样的变化。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 79.26,
+     "top": 270.0,
+     "w": 808.05,
+     "h": 226.8,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "①从“连铁钉和火柴都需要进口”到建成全球最完整、规模最大的研发体系和工业体系；\n②从工业基础薄弱、科技前沿空白到进入创新型国家行列，在深海、航天、人工智能等领域取得一系列重大成果；\n③实现了从“跟跑”到“并跑”“领跑”、从“中国制造”到“中国创造”的转变。",
+     "runs": [
+      {
+       "t": "①从“连铁钉和火柴都需要进口”到建成全球最完整、规模最大的研发体系和工业体系；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "②从工业基础薄弱、科技前沿空白到进入创新型国家行列，在深海、航天、人工智能等领域取得一系列重大成果；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "③实现了从“跟跑”到“并跑”“领跑”、从“中国制造”到“中国创造”的转变。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 39,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 269.1,
+     "top": 73.92,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 271.7,
+     "top": 127.24,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 227.39,
+     "top": 106.88,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.68,
+     "top": 147.45,
+     "w": 842.37,
+     "h": 40.19,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "（2）结合材料，运用所学知识，分析我国取得这些科技成就的原因。",
+     "runs": [
+      {
+       "t": "（",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "2",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "）结合材料，运用所学知识，分析我国取得这些科技成就的原因。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 66.88,
+     "top": 191.25,
+     "w": 830.0,
+     "h": 302.65,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "①坚持以习近平新时代中国特色社会主义思想为指导——党中央提出“以科技创新为引领，培育壮大新兴产业和未来产业”，正是这一思想的生动实践；\n② 坚持和加强党的全面领导——从基础研究系统部署到“十五五”规划整体布局，党的领导是科技事业不断胜利的根本保证；\n③ 中国特色社会主义制度具有显著优势——集中力量办大事，统筹布局、组织科技工作者协同攻关“卡脖子”难题；\n④ 坚持以人民为中心的发展思想——高铁、北斗、创新药、绿色技术走进百姓生活，发展为了人民、发展成果由人民共享。",
+     "runs": [
+      {
+       "t": "①坚持以习近平新时代中国特色社会主义思想为指导",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "党中央提出“以科技创新为引领，培育壮大新兴产业和未来产业”，正是这一思想的生动实践；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "② 坚持和加强党的全面领导",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "从基础研究系统部署到“十五五”规划整体布局，党的领导是科技事业不断胜利的根本保证；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "③ 中国特色社会主义制度具有显著优势",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "集中力量办大事，统筹布局、组织科技工作者协同攻关“卡脖子”难题；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "④ 坚持以人民为中心的发展思想",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "——",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "高铁、北斗、创新药、绿色技术走进百姓生活，发展为了人民、发展成果由人民共享。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  },
+  {
+   "idx": 40,
+   "bg": "BACKGROUND (5)",
+   "notes_len": 0,
+   "notes": "",
+   "shapes": [
+    {
+     "name": "文本框 9",
+     "type": "TEXT_BOX (17)",
+     "left": 264.52,
+     "top": 111.52,
+     "w": 437.54,
+     "h": 43.62,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "课堂练习",
+     "runs": [
+      {
+       "t": "课堂练习",
+       "sz": 30.0,
+       "b": null,
+       "name": "黑体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "直接连接符 1",
+     "type": "LINE (9)",
+     "left": 267.12,
+     "top": 164.84,
+     "w": 437.54,
+     "h": 1.85,
+     "depth": 0,
+     "rot": 0.0,
+     "line": "theme:NOT_THEME_COLOR (0)",
+     "line_w": 1.0
+    },
+    {
+     "name": "组合 2",
+     "type": "GROUP (6)",
+     "left": 222.81,
+     "top": 144.48,
+     "w": 35.08,
+     "h": 36.98,
+     "depth": 0,
+     "rot": 0.0,
+     "children": [
+      {
+       "name": "矩形 4",
+       "type": "AUTO_SHAPE (1)",
+       "left": 167.08,
+       "top": 119.02,
+       "w": 28.62,
+       "h": 28.62,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      },
+      {
+       "name": "矩形 10",
+       "type": "AUTO_SHAPE (1)",
+       "left": 182.77,
+       "top": 136.62,
+       "w": 19.38,
+       "h": 19.38,
+       "depth": 1,
+       "rot": 0.0,
+       "text": "",
+       "runs": [],
+       "fill": "theme:NOT_THEME_COLOR (0)",
+       "line": "BACKGROUND (5)",
+       "line_w": null
+      }
+     ]
+    },
+    {
+     "name": "文本框 5",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 193.2,
+     "w": 842.37,
+     "h": 75.09,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "（3）科技成果走进百姓生活。结合自身实际，谈谈我们青少年可以为此做些什么。",
+     "runs": [
+      {
+       "t": "（",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "3",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "）科技成果走进百姓生活。结合自身实际，谈谈我们青少年可以为此做些什么。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    },
+    {
+     "name": "文本框 3",
+     "type": "TEXT_BOX (17)",
+     "left": 66.13,
+     "top": 294.8,
+     "w": 855.0,
+     "h": 122.11,
+     "depth": 0,
+     "rot": 0.0,
+     "text": "①努力学习科学文化知识，打好基础，培养创新意识和实践能力；\n②积极参加科技小发明、小制作等活动，勇于探索；\n③关注国家科技发展，增强民族自豪感和社会责任感，立志报效祖国。",
+     "runs": [
+      {
+       "t": "①努力学习科学文化知识，打好基础，培养创新意识和实践能力；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "②积极参加科技小发明、小制作等活动，勇于探索；",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      },
+      {
+       "t": "③关注国家科技发展，增强民族自豪感和社会责任感，立志报效祖国。",
+       "sz": 24.0,
+       "b": null,
+       "name": "华文楷体",
+       "col": "theme:NOT_THEME_COLOR (0)"
+      }
+     ],
+     "fill": "BACKGROUND (5)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "单元导览",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "本单元学什么：从“方位”到“成就”",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "02 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p02l_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    150,
+    592,
+    68.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p02l_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    150,
+    3,
+    68.0
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p02l_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    160.0,
+    565,
+    48.0
+   ],
+   "content": {
+    "text": "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在哪里”展开。",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p02a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    234.0,
+    189,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p02a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    244.0,
+    3,
+    170
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p02a_k",
+   "elementType": "text",
+   "bounds": [
+    67,
+    250.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "第四课",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p02a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    273.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "新的历史方位",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p02a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    303.9,
+    154,
+    74.4
+   ],
+   "content": {
+    "text": "我国发展新的历史方位，社会主要矛盾发生历史性变化。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p02b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    249,
+    234.0,
+    189,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p02b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    249,
+    244.0,
+    3,
+    170
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p02b_k",
+   "elementType": "text",
+   "bounds": [
+    268,
+    250.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "第五课",
+    "fontSize": 14,
+    "color": "#A8812F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p02b_t",
+   "elementType": "text",
+   "bounds": [
+    268,
+    273.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "新时代的思想旗帜",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p02b_b",
+   "elementType": "text",
+   "bounds": [
+    268,
+    303.9,
+    154,
+    74.4
+   ],
+   "content": {
+    "text": "习近平新时代中国特色社会主义思想确立并指导实践。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p02c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    450,
+    234.0,
+    189,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p02c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    450,
+    244.0,
+    3,
+    170
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p02c_k",
+   "elementType": "text",
+   "bounds": [
+    469,
+    250.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "第六课",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p02c_t",
+   "elementType": "text",
+   "bounds": [
+    469,
+    273.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "中国腾飞谱新篇",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p02c_b",
+   "elementType": "text",
+   "bounds": [
+    469,
+    303.9,
+    154,
+    74.4
+   ],
+   "content": {
+    "text": "新时代党和国家事业取得历史性成就、发生历史性变革。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "教材：统编版《道德与法治》九年级上册 第二单元",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：三课之间是什么关系？答：“并列的三课”。接：是递进——先有方位，才有旗帜，最后才谈得上成就，顺序不能倒。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p02l_bg",
+    "p02l_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02l_bg",
+    "p02l_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02a_bg",
+    "p02a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02a_bg",
+    "p02a_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02a_bg",
+    "p02a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02a_bg",
+    "p02a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02b_bg",
+    "p02b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02b_bg",
+    "p02b_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02b_bg",
+    "p02b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02b_bg",
+    "p02b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02c_bg",
+    "p02c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02c_bg",
+    "p02c_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02c_bg",
+    "p02c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p02c_bg",
+    "p02c_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

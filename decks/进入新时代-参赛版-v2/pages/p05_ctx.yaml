@@ -1,0 +1,433 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "单元导览",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "情境：学校要办一个“新时代”展",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "06 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p05q_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    157.3
+   ],
+   "fill": "#FBF8F0",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p05q_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    4,
+    157.3
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p05q_t",
+   "elementType": "text",
+   "bounds": [
+    70,
+    166,
+    552,
+    91.8
+   ],
+   "content": {
+    "text": "学校以“感悟新时代，解码新成就”为主题举办展览。同学们广泛搜集资料，制作了六块展板；但布展时发现，展板只覆盖了部分领域，解说词也还没写。",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "宋体",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.7
+   }
+  },
+  {
+   "elementId": "p05q_c",
+   "elementType": "text",
+   "bounds": [
+    70,
+    267.8,
+    552,
+    19.5
+   ],
+   "content": {
+    "text": "——校园策展邀请函",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p05b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    330.02,
+    6,
+    6
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p05b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    323.3,
+    40.96,
+    24.8
+   ],
+   "content": {
+    "text": "已有",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p05b0_t",
+   "elementType": "text",
+   "bounds": [
+    110.96,
+    323.3,
+    529.04,
+    24.8
+   ],
+   "content": {
+    "text": "六块展板，覆盖经济、政治、文化、社会、生态的部分领域。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p05b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    366.82,
+    6,
+    6
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p05b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    360.1,
+    57.44,
+    24.8
+   ],
+   "content": {
+    "text": "缺什么",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p05b1_t",
+   "elementType": "text",
+   "bounds": [
+    127.44,
+    360.1,
+    512.56,
+    24.8
+   ],
+   "content": {
+    "text": "“五位一体”没有铺满，展板之间的逻辑没有说清。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p05b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    403.62,
+    6,
+    6
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p05b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    396.9,
+    57.44,
+    24.8
+   ],
+   "content": {
+    "text": "要什么",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p05b2_t",
+   "elementType": "text",
+   "bounds": [
+    127.44,
+    396.9,
+    512.56,
+    24.8
+   ],
+   "content": {
+    "text": "补一块展板，写一段解说，再做一场家乡研学。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：六块展板，你能看出问题吗？答：“挺全的”“挺好看”。接：铺满了，但均匀得可疑——每块的说服力其实不一样。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p05q_bg",
+    "p05q_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p05q_bg",
+    "p05q_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p05q_bg",
+    "p05q_c"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

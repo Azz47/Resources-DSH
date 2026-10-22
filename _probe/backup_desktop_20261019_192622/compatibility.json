@@ -1,0 +1,11 @@
+{
+  "@arcaneorion/dsh-teaching-board@0.6.0": [
+    "0.2.0-rc.2"
+  ],
+  "dsh-plugin-education@0.3.2": [
+    "0.2.0-rc.2"
+  ],
+  "@haoranwang0921/dsh-session-cleaner@1.1.0": [
+    "0.2.0-rc.2"
+  ]
+}

@@ -1,0 +1,45 @@
+pageType: "cover"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "上课铃响前循环播放。开场只用一句：同学们，这节课我们要给“新时代”办一个展。"
+expectedOutOfSafeArea: ["cv_top", "cv_badge", "cv_badget", "cv_kicker", "cv_t1", "cv_t2", "cv_meta", "cv_tag"]
+elements:
+  - elementId: "cv_top"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [0, 0, 960, 7]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#7FD6B0"}, {pos: 100, color: "#1F6B4F", alpha: 100}], angle: 0}
+  - elementId: "cv_badge"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [700, 38, 216, 32]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 94}], angle: 0}
+    contains: ["cv_badget"]
+  - elementId: "cv_badget"
+    elementType: "text"
+    bounds: [700, 44, 216, 22]
+    content: {text: "基础教育精品课 · 学科课程", fontSize: 14, color: "#1F6B4F", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "cv_kicker"
+    elementType: "text"
+    bounds: [96, 146, 620, 26]
+    content: {text: "统编版《道德与法治》九年级上册", fontSize: 16, color: "#BFD2C2", fontFamily: "黑体"}
+  - elementId: "cv_t1"
+    elementType: "text"
+    bounds: [96, 178, 660, 68]
+    content: {text: "第二单元　进入新时代", fontSize: 48, color: "#F4F8F4", fontFamily: "微软雅黑", bold: true}
+  - elementId: "cv_t2"
+    elementType: "text"
+    bounds: [96, 250, 660, 56]
+    content: {text: "单元思考与行动", fontSize: 40, color: "#7FD6B0", fontFamily: "微软雅黑", bold: true}
+  - elementId: "cv_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [96, 306, 300, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#7FD6B0", alpha: 100}], angle: 0}
+  - elementId: "cv_meta"
+    elementType: "text"
+    bounds: [96, 316, 700, 96]
+    content: {text: "年　级：九年级　　学　科：道德与法治（统编版）\n主讲人：张紫璇　　学　校：运城市盐湖区北城初级中学", fontSize: 22, color: "#F4F8F4", fontFamily: "楷体", lineHeight: 1.5}
+  - elementId: "cv_tag"
+    elementType: "text"
+    bounds: [96, 418, 660, 24]
+    content: {text: "主题：以青春见证中国腾飞，用成长助推家乡发展", fontSize: 16, color: "#BFD2C2", fontFamily: "楷体"}

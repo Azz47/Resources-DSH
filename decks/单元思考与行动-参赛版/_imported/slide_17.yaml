@@ -1,0 +1,172 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "17"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [169, 81, 621, 46]
+    content:
+      text: "新时代党和国家事业取得辉煌成就的原因是什么？"
+      fontSize: 28
+      fontFamily: "华文楷体"
+  - elementId: "任意多边形_形状_24_txt"
+    elementType: text
+    bounds: [100, 160, 191, 243]
+    content:
+      text: "习近平新时代中国特色社会主义思想的科学指导。"
+      align: center
+  - elementId: "任意多边形_形状_24"
+    elementType: shape
+    bounds: [100, 160, 191, 243]
+    kind: custGeom
+    fill:
+      type: gradient
+      stops:
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 100, color: "#000000"}
+      angle: 90   # OOXML lin@ang 顺时针
+    path:
+      w: 2423032
+      h: 3080973
+      commands:
+        - {cmd: moveTo, pts: [[0,0]]}
+        - {cmd: lnTo, pts: [[82615,17728]]}
+        - {cmd: cubicBezTo, pts: [[589273,114140],[1306588,197005],[2170703,259723]]}
+        - {cmd: lnTo, pts: [[2423032,276778]]}
+        - {cmd: lnTo, pts: [[2423032,3080973]]}
+        - {cmd: lnTo, pts: [[0,3080973]]}
+        - {cmd: lnTo, pts: [[0,0]]}
+        - {cmd: close}
+    # import: 渐变 #000000→#000000→#000000→#000000（linear, angle 90°）直通 fill.gradient
+    line: {color: "#000000", width: 2}
+  - elementId: "任意多边形_形状_21_txt"
+    elementType: text
+    bounds: [296, 182, 179, 220]
+    content:
+      text: "坚持和加强党的全面领导。"
+      align: center
+  - elementId: "任意多边形_形状_21"
+    elementType: shape
+    bounds: [296, 182, 179, 220]
+    kind: custGeom
+    fill:
+      type: gradient
+      stops:
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 100, color: "#000000"}
+      angle: 90   # OOXML lin@ang 顺时针
+    path:
+      w: 2274474
+      h: 2799001
+      commands:
+        - {cmd: moveTo, pts: [[0,0]]}
+        - {cmd: lnTo, pts: [[49967,3377]]}
+        - {cmd: cubicBezTo, pts: [[696220,43968],[1412716,73799],[2176183,90464]]}
+        - {cmd: lnTo, pts: [[2274474,92245]]}
+        - {cmd: lnTo, pts: [[2274474,2799001]]}
+        - {cmd: lnTo, pts: [[0,2799001]]}
+        - {cmd: lnTo, pts: [[0,0]]}
+        - {cmd: close}
+    # import: 渐变 #000000→#000000→#000000→#000000（linear, angle 90°）直通 fill.gradient
+    line: {color: "#000000", width: 2}
+  - elementId: "任意多边形_形状_20_txt"
+    elementType: text
+    bounds: [481, 189, 190, 213]
+    content:
+      text: "中国特色社会主义制度具有显著优势。"
+      align: center
+  - elementId: "任意多边形_形状_20"
+    elementType: shape
+    bounds: [481, 189, 190, 213]
+    kind: custGeom
+    fill:
+      type: gradient
+      stops:
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 100, color: "#000000"}
+      angle: 90   # OOXML lin@ang 顺时针
+    path:
+      w: 2411506
+      h: 2705363
+      commands:
+        - {cmd: moveTo, pts: [[0,0]]}
+        - {cmd: lnTo, pts: [[288400,5226]]}
+        - {cmd: cubicBezTo, pts: [[600931,9747],[920232,12084],[1244814,12084]]}
+        - {cmd: cubicBezTo, pts: [[1569397,12084],[1888698,9747],[2201228,5226]]}
+        - {cmd: lnTo, pts: [[2411506,1416]]}
+        - {cmd: lnTo, pts: [[2411506,2705363]]}
+        - {cmd: lnTo, pts: [[0,2705363]]}
+        - {cmd: lnTo, pts: [[0,0]]}
+        - {cmd: close}
+    # import: 渐变 #000000→#000000→#000000→#000000（linear, angle 90°）直通 fill.gradient
+    line: {color: "#000000", width: 2}
+  - elementId: "流程图_接点_33"
+    elementType: shape
+    bounds: [131, 126, 122, 111]
+    kind: rect
+  - elementId: "流程图_接点_34"
+    elementType: shape
+    bounds: [515, 153, 122, 111]
+    kind: rect
+  - elementId: "流程图_接点_35"
+    elementType: shape
+    bounds: [320, 143, 122, 111]
+    kind: rect
+  - elementId: "任意多边形_形状_22_txt"
+    elementType: text
+    bounds: [677, 182, 186, 220]
+    content:
+      text: "坚持以人民为中心的发展思想。"
+      align: center
+  - elementId: "任意多边形_形状_22"
+    elementType: shape
+    bounds: [677, 182, 186, 220]
+    kind: custGeom
+    fill:
+      type: gradient
+      stops:
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 0, color: "#000000"}
+        - {pos: 100, color: "#000000"}
+      angle: 90   # OOXML lin@ang 顺时针
+    path:
+      w: 2360280
+      h: 2799521
+      commands:
+        - {cmd: moveTo, pts: [[2360280,0]]}
+        - {cmd: lnTo, pts: [[2360280,2799521]]}
+        - {cmd: lnTo, pts: [[0,2799521]]}
+        - {cmd: lnTo, pts: [[0,94181]]}
+        - {cmd: lnTo, pts: [[176413,90984]]}
+        - {cmd: cubicBezTo, pts: [[939881,74319],[1656376,44488],[2302629,3897]]}
+        - {cmd: lnTo, pts: [[2360280,0]]}
+        - {cmd: close}
+    # import: 渐变 #000000→#000000→#000000→#000000（linear, angle 90°）直通 fill.gradient
+    line: {color: "#000000", width: 2}
+  - elementId: "流程图_接点_36"
+    elementType: shape
+    bounds: [702, 143, 122, 111]
+    kind: rect
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [93, 428, 777, 47]
+    content:
+      text: "小组合作探究：根据四大原因，撰写成就解码解说词。"
+      fontSize: 32
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [93, 428, 777, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}

@@ -1,0 +1,144 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "16"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_圆角_13_txt"
+    elementType: text
+    bounds: [66, 86, 551, 47]
+    content:
+      text: "思维工具——四步解码法"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_13"
+    elementType: shape
+    bounds: [66, 86, 551, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_3_txt"
+    elementType: text
+    bounds: [53, 203, 178, 217]
+    content:
+      text: "问机制统一调度、九省协同、生态补水、法治护航……说清成就“怎么发生”。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_3"
+    elementType: shape
+    bounds: [53, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_2_txt"
+    elementType: text
+    bounds: [53, 175, 57, 57]
+    content:
+      text: "1"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_2"
+    elementType: shape
+    bounds: [53, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_4_txt"
+    elementType: text
+    bounds: [280, 203, 178, 217]
+    content:
+      text: "反证治理跨越九省（区）：没有党中央集中统一领导和“江河战略”，长期工程难以实现。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_4"
+    elementType: shape
+    bounds: [280, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_5_txt"
+    elementType: text
+    bounds: [280, 175, 57, 57]
+    content:
+      text: "2"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_5"
+    elementType: shape
+    bounds: [280, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_6_txt"
+    elementType: text
+    bounds: [508, 203, 178, 217]
+    content:
+      text: "比较一些大河治理因跨区协调难、政策反复而失败——我们多了“集中力量办大事”。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_6"
+    elementType: shape
+    bounds: [508, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_7_txt"
+    elementType: text
+    bounds: [508, 175, 57, 57]
+    content:
+      text: "3"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_7"
+    elementType: shape
+    bounds: [508, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_8_txt"
+    elementType: text
+    bounds: [735, 203, 178, 217]
+    content:
+      text: "归纳从具体机制中抽象出“不可替代的条件”，并用课本原文验证。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_8"
+    elementType: shape
+    bounds: [735, 203, 178, 217]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_9_txt"
+    elementType: text
+    bounds: [735, 175, 57, 57]
+    content:
+      text: "4"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_9"
+    elementType: shape
+    bounds: [735, 175, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_11"
+    elementType: text
+    bounds: [219, 448, 522, 41]
+    content:
+      text: "现象→问机制→反证→比较→归纳→原因"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"

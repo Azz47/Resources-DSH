@@ -1,0 +1,27 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "18"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [66, 110, 573, 47]
+    content:
+      text: "小组合作探究：根据四大原因，撰写成就解码解说词。"
+      fontSize: 24
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [66, 110, 573, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_2"
+    elementType: text
+    bounds: [62, 228, 577, 158]
+    content:
+      text: "解说词脚手架：第一段：这一块展板展示了怎样的成就。 第二段：取得这样的成就的原因。 第三段：这启示我们今后如何做。"
+      fontSize: 32
+      fontFamily: "华文楷体"

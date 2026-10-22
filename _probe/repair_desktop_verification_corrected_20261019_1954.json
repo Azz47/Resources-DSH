@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-19T19:54:07+08:00",
+  "runtime": "DSH desktop 0.2.1-rc.2",
+  "profile": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop",
+  "appRunning": true,
+  "gui": "http://127.0.0.1:1975",
+  "versions": {
+    "@michengai/dsh-automation": "1.0.4",
+    "dshmarket": "1.66.42",
+    "billion-context": "0.1.202"
+  },
+  "lockfileSnapshots": {
+    "billion-context@0.1.202": true,
+    "billion-context@0.1.199": false,
+    "@michengai/dsh-automation@1.0.4": true,
+    "@michengai/dsh-automation@1.0.0": false,
+    "dshmarket@1.66.42": true,
+    "dshmarket@1.66.37": false
+  },
+  "modulesMapping": {
+    "billion-context@0.1.202": true,
+    "@michengai/dsh-automation@1.0.4(@deepseek-ai/schemastery@3.18.5)(react@18.3.1)": true,
+    "dshmarket@1.66.42(@deepseek-ai/schemastery@3.18.5)": true
+  },
+  "frozenLockfilePolicy": {
+    "command": "pnpm install --frozen-lockfile --lockfile-only --ignore-scripts",
+    "exitCode": 0,
+    "result": "Lockfile passes supply-chain policies (638 entries in 4.1s)"
+  },
+  "profileIntegrity": {
+    "problems": 0,
+    "script": "D:\\Resources\\DSH\\_probe\\profile_integrity.js"
+  },
+  "oldRepairResult": {
+    "path": "D:\\Resources\\DSH\\_probe\\repair_desktop_20261019_192622.json",
+    "reported": "REPAIR_RESULT=ROLLED_BACK_OR_ABORTED reason=dshmarket installed version is UNREADABLE",
+    "verdict": "FALSE NEGATIVE. pnpm install --fix-lockfile exited 0 (+21 -18), add automation exited 0 (1.0.0 -> 1.0.4), add dshmarket exited 0 (1.66.37 -> 1.66.42), package.json specs were 1.0.4/1.66.42. Verification failed only because PS 5.1 Get-Content -Raw | ConvertFrom-Json read the UTF-8 no-BOM package.json as ANSI and produced mojibake. The rollback then failed the supply-chain policy and restored the old lockfile bytes, but the market's later update batch converged the profile to the target versions.",
+    "doNotRerun": true
+  },
+  "pluginCompatibility": {
+    "total": 37,
+    "denied": 4,
+    "optionalPeerWarnings": 6,
+    "ok": 27,
+    "bootClean": true,
+    "staleClientBundles": 0
+  },
+  "skillCompatibility": {
+    "scanned": 165,
+    "user": 87,
+    "runtime": 7,
+    "plugin": 71,
+    "ok": 160,
+    "issues": 5,
+    "issuesExplanation": "stage-panel submodes code/game-study/learn/ml/quant have no frontmatter by design; not standalone skills",
+    "nameDirMismatchNotes": 15,
+    "realStructuralDefects": 0,
+    "toolBlockedSkills": [
+      "daofa-contest-pack",
+      "daofa-lesson-prep"
+    ]
+  }
+}

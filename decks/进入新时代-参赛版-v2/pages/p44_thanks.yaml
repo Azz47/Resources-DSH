@@ -1,0 +1,118 @@
+{
+ "elements": [
+  {
+   "elementId": "ed_m",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    120,
+    4,
+    16
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "ed_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    116,
+    520,
+    22
+   ],
+   "content": {
+    "text": "第二单元 进入新时代 · 单元思考与行动",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "ed_t",
+   "elementType": "text",
+   "bounds": [
+    48,
+    176,
+    592,
+    60
+   ],
+   "content": {
+    "text": "谢谢观看",
+    "fontSize": 40,
+    "color": "#FFFFFF",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.2
+   }
+  },
+  {
+   "elementId": "ed_r",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     252
+    ],
+    [
+     200,
+     252
+    ]
+   ],
+   "line": {
+    "color": "#A8812F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "ed_s",
+   "elementType": "text",
+   "bounds": [
+    48,
+    274,
+    592,
+    30
+   ],
+   "content": {
+    "text": "成就何以铸就，青年何以担当？",
+    "fontSize": 20,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "ed_m2",
+   "elementType": "text",
+   "bounds": [
+    48,
+    330,
+    592,
+    80
+   ],
+   "content": {
+    "text": "主讲人：张紫璇\n运城市盐湖区北城初级中学",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.75
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_d_navy.png",
+  "fit": "cover"
+ },
+ "notes": "问：（收束）还有问题吗？答：通常沉默。接：那就带着一个问题走——你的家乡，还有什么没被看见。"
+}

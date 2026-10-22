@@ -1,0 +1,477 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "重点整合：“有关”不是态度，是能力",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "35 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p31b0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48.0,
+    152,
+    186.67,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31b0_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48.0,
+    162,
+    3,
+    170
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31b0_t",
+   "elementType": "text",
+   "bounds": [
+    67.0,
+    168,
+    151.67,
+    22.95
+   ],
+   "content": {
+    "text": "知道",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31b0_b",
+   "elementType": "text",
+   "bounds": [
+    67.0,
+    196.95,
+    151.67,
+    74.4
+   ],
+   "content": {
+    "text": "盐池在哪里、变了什么、为什么变——事实与原因说得清。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31b1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    250.67,
+    152,
+    186.67,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31b1_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    250.67,
+    162,
+    3,
+    170
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31b1_t",
+   "elementType": "text",
+   "bounds": [
+    269.67,
+    168,
+    151.67,
+    22.95
+   ],
+   "content": {
+    "text": "能做",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31b1_b",
+   "elementType": "text",
+   "bounds": [
+    269.67,
+    196.95,
+    151.67,
+    74.4
+   ],
+   "content": {
+    "text": "写一份报告、提一条对策——有方法，不是只有感想。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31b2_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    453.33,
+    152,
+    186.67,
+    190
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p31b2_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    453.33,
+    162,
+    3,
+    170
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p31b2_t",
+   "elementType": "text",
+   "bounds": [
+    472.33,
+    168,
+    151.67,
+    22.95
+   ],
+   "content": {
+    "text": "愿做",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p31b2_b",
+   "elementType": "text",
+   "bounds": [
+    472.33,
+    196.95,
+    151.67,
+    74.4
+   ],
+   "content": {
+    "text": "把家乡放进自己的未来——这是选择，不是口号。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p31b_x",
+   "elementType": "text",
+   "bounds": [
+    48,
+    364,
+    592,
+    56
+   ],
+   "content": {
+    "text": "从“旁观者”到“答卷人”，中间隔着的不是热情，是方法。",
+    "fontSize": 20,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：你现在站在哪一级？答：多半说“知道”。接：知道是起点。能做，才有资格说“跟我有关”。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p31b0_bg",
+    "p31b0_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b0_bg",
+    "p31b0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b0_bg",
+    "p31b0_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b1_bg",
+    "p31b1_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b1_bg",
+    "p31b1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b1_bg",
+    "p31b1_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b2_bg",
+    "p31b2_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b2_bg",
+    "p31b2_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p31b2_bg",
+    "p31b2_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

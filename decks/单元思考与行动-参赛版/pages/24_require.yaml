@@ -1,0 +1,222 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "把“看”变成“查”，把“感想”变成“证据”——这句话是本页的关键，要重复一次。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务三 · 拓展策展——循迹盐湖行", fontSize: 14, color: "#8E3F2E", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "研学活动要求 · 五步走", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#EE8A72", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#EE8A72", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#EE8A72"}, {pos: 100, color: "#8E3F2E", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#8E3F2E"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "24 / 42", fontSize: 14, color: "#EE8A72", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "lead_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 106, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "lead"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 102, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["lead_cap", "lead_t"]
+  - elementId: "lead_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 108, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "lead_t"
+    elementType: "text"
+    bounds: [56, 109, 572, 34.72]
+    content: {text: "研学活动要求：把“看”变成“查”，把“感想”变成“证据”。", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p24r0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 174.72, 592, 46]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p24r0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 170.72, 596, 46]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p24r0_cap", "p24r0_t"]
+  - elementId: "p24r0_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 176.72, 4, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p24r0_t"
+    elementType: "text"
+    bounds: [56, 177.72, 572, 32]
+    content: {text: "先搜集｜搜集资料，了解家乡的变化发展。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p24r1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 226.72, 592, 46]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p24r1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 222.72, 596, 46]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p24r1_cap", "p24r1_t"]
+  - elementId: "p24r1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 228.72, 4, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p24r1_t"
+    elementType: "text"
+    bounds: [56, 229.72, 572, 32]
+    content: {text: "再规划｜分小组拟定活动方案，细化目的、对象、内容及方式。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p24r2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 278.72, 592, 46]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p24r2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 274.72, 596, 46]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p24r2_cap", "p24r2_t"]
+  - elementId: "p24r2_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 280.72, 4, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p24r2_t"
+    elementType: "text"
+    bounds: [56, 281.72, 572, 32]
+    content: {text: "去现场｜走访调研，关注家乡的变化与主要问题，做好记录。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p24r3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 330.72, 592, 46]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p24r3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 326.72, 596, 46]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p24r3_cap", "p24r3_t"]
+  - elementId: "p24r3_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 332.72, 4, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p24r3_t"
+    elementType: "text"
+    bounds: [56, 333.72, 572, 32]
+    content: {text: "做整理｜资料整理、分析、留存，提出针对性对策建议。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p24r4_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 382.72, 592, 46]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p24r4"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 378.72, 596, 46]
+    fill: "#E9EFE9"
+    line: {color: "#8E3F2E", width: 1.25}
+    contains: ["p24r4_cap", "p24r4_t"]
+  - elementId: "p24r4_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 384.72, 4, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8E3F2E"}, {pos: 100, color: "#8E3F2E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p24r4_t"
+    elementType: "text"
+    bounds: [56, 385.72, 572, 32]
+    content: {text: "出成果｜小组讨论交流，共同完成一篇调研报告。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}

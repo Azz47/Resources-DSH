@@ -1,0 +1,82 @@
+# 第二稿 · 由 _tools/build.py 生成（黑板 × 粉笔擦卡；字号严格 14–24pt）
+# 底稿：source.pptx（= 朋友的《单元思考与行动(1).pptx》，零失真真相层）
+# 硬约束：内容走廊 x ∈ [44, 640]pt；右侧 640–960 只放不承载信息的装饰（rb_*，已逐页声明出界）
+version: 1
+title: "第二单元 进入新时代 · 单元思考与行动（参赛版）"
+size: [960, 540]
+theme:
+  colors:
+    panel: "#E9EFE9"
+    panelW: "#F0E8D8"
+    ink: "#1D2B23"
+    soft: "#2E4438"
+    muted: "#465C4D"
+    chalk: "#F4F8F4"
+    chalkDim: "#BFD2C2"
+    chalkFaint: "#A9C0AE"
+    rule: "#7E9A85"
+    shadow: "#0E1A12"
+    mint: "#7FD6B0"
+    mint2: "#1F6B4F"
+    gold: "#E8C15A"
+    gold2: "#8A6A1E"
+    cyan: "#6FC7E8"
+    cyan2: "#1F6383"
+    coral: "#EE8A72"
+    coral2: "#8E3F2E"
+    lavender: "#B9A7E8"
+    lavender2: "#584C86"
+  textStyles:
+    pageTitle: {fontSize: 24, color: "$chalk", bold: true, fontFamily: "黑体"}
+    section: {fontSize: 14, color: "$chalkDim", fontFamily: "黑体"}
+    cardTitle: {fontSize: 17, color: "$ink", bold: true, fontFamily: "黑体"}
+    body: {fontSize: 16, color: "$soft", fontFamily: "楷体"}
+    note: {fontSize: 14, color: "$muted", fontFamily: "楷体"}
+  safeArea: {top: 20, bottom: 16, left: 36, right: 320}
+  minFontSize: 14
+pages:
+  - pages/01_cover.yaml
+  - pages/02_intro_unit.yaml
+  - pages/03_intro_new.yaml
+  - pages/04_task.yaml
+  - pages/05_scene.yaml
+  - pages/06_board1.yaml
+  - pages/07_board2.yaml
+  - pages/08_board3.yaml
+  - pages/09_thinking.yaml
+  - pages/10_board4.yaml
+  - pages/11_board5.yaml
+  - pages/12_board6.yaml
+  - pages/13_task2.yaml
+  - pages/14_yellow.yaml
+  - pages/15_clues.yaml
+  - pages/16_tool.yaml
+  - pages/17_tool_use.yaml
+  - pages/18_reasons.yaml
+  - pages/19_scaffold.yaml
+  - pages/20_speech.yaml
+  - pages/21_task3.yaml
+  - pages/22_saltlake.yaml
+  - pages/23_saltlake_change.yaml
+  - pages/24_require.yaml
+  - pages/25_plan.yaml
+  - pages/26_report1.yaml
+  - pages/27_report2.yaml
+  - pages/28_tips.yaml
+  - pages/29_debate.yaml
+  - pages/30_answer.yaml
+  - pages/31_extend.yaml
+  - pages/32_rubric.yaml
+  - pages/33_summary1.yaml
+  - pages/34_summary2.yaml
+  - pages/35_quiz1.yaml
+  - pages/36_quiz2.yaml
+  - pages/37_quiz3.yaml
+  - pages/38_quiz4.yaml
+  - pages/39_quiz5.yaml
+  - pages/40_quiz6.yaml
+  - pages/41_quiz7.yaml
+  - pages/42_quiz8.yaml
+referenceSource:
+  name: "单元思考与行动(1).pptx"
+  source: source.pptx

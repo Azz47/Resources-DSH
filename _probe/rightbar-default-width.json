@@ -1,0 +1,10 @@
+[
+  {
+    "search": "const RIGHTBAR_DEFAULT_RATIO = .45;",
+    "replace": "const RIGHTBAR_DEFAULT_RATIO = .25;"
+  },
+  {
+    "search": "d.layoutInfo.rightbar ??= Math.max(300, Math.round(d.layoutInfo.viewportWidth * RIGHTBAR_DEFAULT_RATIO));",
+    "replace": "d.layoutInfo.rightbar ??= clampWidth(d.layoutInfo.viewportWidth * RIGHTBAR_DEFAULT_RATIO, 320, 360);"
+  }
+]

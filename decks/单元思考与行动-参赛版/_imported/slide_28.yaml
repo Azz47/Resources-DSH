@@ -1,0 +1,37 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "28"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_2"
+    elementType: shape
+    bounds: [84, 242, 799, 192]
+    kind: rect
+    fill: "#000000"
+  - elementId: "直接连接符_10"
+    elementType: line
+    bounds: [178, 302, 510, 1]
+    points: [[178,302],[688,303]]
+    line: {color: "#711000", width: 1}
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [156, 255, 581, 46]
+    content:
+      text: "我们可以做什么？"
+      fontSize: 28
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [84, 316, 782, 110]
+    content:
+      text: "做盐湖文化的宣传员——了解盐湖历史，讲好生态故事做绿色生活的践行者——从小事做起，守护身边的绿水青山做美丽家乡的建设者——学好本领，将来为家乡发展贡献力量"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [67, 141, 833, 46]
+    content:
+      text: "思辨探究：盐湖保护、家乡建设，是政府的事，和我们中学生无关？"
+      fontSize: 28
+      fontFamily: "华文楷体"

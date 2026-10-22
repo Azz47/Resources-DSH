@@ -1,0 +1,52 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "5"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [204, 101, 229, 46]
+    content:
+      text: "展板一 科技发展"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_13"
+    elementType: text
+    bounds: [308, 197, 345, 215]
+    content:
+      text: "浩瀚太空，我国空间站已正式开启长期有人驻留模式；远程医疗、智慧物流等新业态蓬勃发展；工业互联网和人工智能融合赋能，为推进我国新型工业化注入强大动力。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "图片_10"
+    elementType: image
+    bounds: [66, 201, 212, 207]
+    fit: cover
+    src: "media/image4.jpeg"
+  - elementId: "文本框_11"
+    elementType: text
+    bounds: [74, 429, 197, 35]
+    content:
+      text: "图片来源：人民日报"
+      fontSize: 20
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [480, 93, 140, 62]
+    content:
+      text: "经济建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [480, 93, 140, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_2"
+    elementType: shape
+    bounds: [432, 115, 47, 25]
+    kind: rightArrow

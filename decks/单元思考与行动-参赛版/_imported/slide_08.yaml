@@ -1,0 +1,92 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "8"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_圆角_13_txt"
+    elementType: text
+    bounds: [66, 100, 158, 62]
+    content:
+      text: "情境思考"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_13"
+    elementType: shape
+    bounds: [66, 100, 158, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "椭圆_24_txt"
+    elementType: text
+    bounds: [79, 191, 57, 57]
+    content:
+      text: "1"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_24"
+    elementType: shape
+    bounds: [79, 191, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_25_txt"
+    elementType: text
+    bounds: [146, 201, 470, 47]
+    content:
+      text: "已有展板体现了“五位一体”总体布局的哪些方面？"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_25"
+    elementType: shape
+    bounds: [146, 201, 470, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [66, 268, 569, 65]
+    content:
+      text: "我们党统筹推进经济建设、政治建设、文化建设、社会建设、生态文明建设“五位一体”总体布局。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "椭圆_2_txt"
+    elementType: text
+    bounds: [79, 333, 57, 57]
+    content:
+      text: "2"
+      fontSize: 36
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_2"
+    elementType: shape
+    bounds: [79, 333, 57, 57]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_3_txt"
+    elementType: text
+    bounds: [146, 343, 470, 47]
+    content:
+      text: "可以从剩余方面补充空白展板，请完善展板。"
+      fontSize: 20
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_3"
+    elementType: shape
+    bounds: [146, 343, 470, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [57, 399, 569, 65]
+    content:
+      text: "我们党统筹推进经济建设、政治建设、文化建设、社会建设、生态文明建设“五位一体”总体布局。"
+      fontSize: 24
+      fontFamily: "华文楷体"

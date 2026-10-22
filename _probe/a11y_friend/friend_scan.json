@@ -1,0 +1,7033 @@
+{
+ "themes": {
+  "ppt/theme/theme1.xml": {
+   "dk1": "000000",
+   "lt1": "FFFFFF",
+   "dk2": "44546A",
+   "lt2": "E7E6E6",
+   "accent1": "5B9BD5",
+   "accent2": "ED7D31",
+   "accent3": "A5A5A5",
+   "accent4": "FFC000",
+   "accent5": "4472C4",
+   "accent6": "70AD47",
+   "hlink": "0563C1",
+   "folHlink": "954F72"
+  },
+  "ppt/theme/theme2.xml": {
+   "dk1": "000000",
+   "lt1": "FFFFFF",
+   "dk2": "44546A",
+   "lt2": "E7E6E6",
+   "accent1": "5B9BD5",
+   "accent2": "ED7D31",
+   "accent3": "A5A5A5",
+   "accent4": "FFC000",
+   "accent5": "4472C4",
+   "accent6": "70AD47",
+   "hlink": "0563C1",
+   "folHlink": "954F72"
+  },
+  "ppt/theme/theme3.xml": {
+   "dk1": "000000",
+   "lt1": "FFFFFF",
+   "dk2": "44546A",
+   "lt2": "E7E6E6",
+   "accent1": "5B9BD5",
+   "accent2": "ED7D31",
+   "accent3": "A5A5A5",
+   "accent4": "FFC000",
+   "accent5": "4472C4",
+   "accent6": "70AD47",
+   "hlink": "0563C1",
+   "folHlink": "954F72"
+  }
+ },
+ "report": [
+  {
+   "slide": 1,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": "ppt/media/image1.jpeg",
+   "runs": [
+    {
+     "t": "第二单元 进入新时代",
+     "sz": 48.0,
+     "b": true,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      1055688,
+      2044237,
+      10080625,
+      1006475
+     ],
+     "fill": null
+    },
+    {
+     "t": "单元思考与行动",
+     "sz": 32.0,
+     "b": true,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      1055688,
+      2044237,
+      10080625,
+      1006475
+     ],
+     "fill": null
+    },
+    {
+     "t": "年    级：九年级            学    科：道德与法治（统编版）",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1395663,
+      3771491,
+      9496946,
+      994321
+     ],
+     "fill": null
+    },
+    {
+     "t": "主讲人：张紫璇            学    校：运城市盐湖区北城初级中学",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1395663,
+      3771491,
+      9496946,
+      994321
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 2,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "新课导入",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2024817,
+      1276759,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在哪里”展开。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1036708,
+      2249173,
+      6958933,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "第二单元",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      653640,
+      4254834,
+      1814492,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "进入新时代",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      653640,
+      4254834,
+      1814492,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "第四课",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      3534834,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "新的历史方位",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      3534834,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "第五课",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      4563383,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "新时代的思想旗帜",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      4563383,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "第六课",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      5507965,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "中国腾飞谱新篇",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      2979772,
+      5507965,
+      2304000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "矛盾新变化",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6225652,
+      3172875,
+      1886469,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "历史新方位",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6218841,
+      3964086,
+      1886469,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "理论新飞跃",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6225656,
+      4684086,
+      1886469,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "发展新成就",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6225653,
+      5553075,
+      1886469,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 3,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "梳理国家发展成就，补充完善展览展品",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2270760,
+      3001010,
+      5773420,
+      460375
+     ],
+     "fill": null
+    },
+    {
+     "t": "立足盐湖调研，设计家乡研学活动方案",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2270760,
+      5436870,
+      5709285,
+      460375
+     ],
+     "fill": null
+    },
+    {
+     "t": "时代答卷人",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      753359,
+      1198368,
+      10559281,
+      574368
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      753359,
+      1198368,
+      10559281,
+      574368
+     ],
+     "fill": null
+    },
+    {
+     "t": "策展探悟",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      753359,
+      1198368,
+      10559281,
+      574368
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代：成就何以铸就，青年何以担当？",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      753359,
+      1198368,
+      10559281,
+      574368
+     ],
+     "fill": null
+    },
+    {
+     "t": "结合展板撰写解说词，解码成就背后的密码",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2270760,
+      4264660,
+      6263640,
+      460375
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 4,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "为引导学生深入了解新时代党和国家事业的发展历程及取得的辉煌成就，学校以“感悟新时代，解码新成就”为主题举办展览活动。同学们广泛搜集资料，并制作展板。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2841109,
+      7226734,
+      1569660
+     ],
+     "fill": null
+    },
+    {
+     "t": "情境思考",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2025320,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2025320,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "小组展示",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2025320,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "子任务",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1560686,
+      955037,
+      6138711,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "1",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1560686,
+      955037,
+      6138711,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "：观展选品",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1560686,
+      955037,
+      6138711,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1560686,
+      955037,
+      6138711,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "感悟新时代",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1560686,
+      955037,
+      6138711,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "查阅资料，进一步从“五位一体”总体布局丰富展览内容。",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      4682127,
+      7272337,
+      1008120
+     ],
+     "fill": "scheme:accent5"
+    }
+   ]
+  },
+  {
+   "slide": 5,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "展板一  科技发展",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2586420,
+      1288413,
+      2906278,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "浩瀚太空，我国空间站已正式开启长期有人驻留模式；远程医疗、智慧物流等新业态蓬勃发展；工业互联网和人工智能融合赋能，为推进我国新型工业化注入强大动力。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3905314,
+      2506558,
+      4381372,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民日报",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      934758,
+      5444029,
+      2504303,
+      440762
+     ],
+     "fill": null
+    },
+    {
+     "t": "经济建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6096000,
+      1185478,
+      1776382,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 6,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "展板二 交通基建",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      4695932,
+      1207514,
+      2800135,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "看中国路，我国已建成全球最大的高速铁路网、高速公路网，高铁营业里程突破",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      257810,
+      4009390,
+      3961130,
+      2306320
+     ],
+     "fill": null
+    },
+    {
+     "t": "5",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      257810,
+      4009390,
+      3961130,
+      2306320
+     ],
+     "fill": null
+    },
+    {
+     "t": "万公里，高速公路总里程超过",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      257810,
+      4009390,
+      3961130,
+      2306320
+     ],
+     "fill": null
+    },
+    {
+     "t": "19.1",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      257810,
+      4009390,
+      3961130,
+      2306320
+     ],
+     "fill": null
+    },
+    {
+     "t": "万公里。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      257810,
+      4009390,
+      3961130,
+      2306320
+     ],
+     "fill": null
+    },
+    {
+     "t": "看中国运河，平陆运河是新中国成立以来建设的第一条通江达海的大运河。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      4169410,
+      2588895,
+      3860165,
+      1420495
+     ],
+     "fill": null
+    },
+    {
+     "t": "看中国港，在全球货运、集装箱吞吐量排名前十的港口中，中国港口分别占了六席和八席。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8154035,
+      4253865,
+      3648075,
+      1863725
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片均来源于：人民网",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      4594176,
+      5738530,
+      3003648,
+      440762
+     ],
+     "fill": null
+    },
+    {
+     "t": "经济建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      8112125,
+      1114222,
+      1776382,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 7,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "展板三 平安中国",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2355570,
+      1334908,
+      2857803,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "随着平安中国建设深入推进，我国成为世界上最有安全感的国家之一。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2458725,
+      3877817,
+      3173279
+     ],
+     "fill": null
+    },
+    {
+     "t": "群众安全感连续多年保持",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2458725,
+      3877817,
+      3173279
+     ],
+     "fill": null
+    },
+    {
+     "t": "98%",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2458725,
+      3877817,
+      3173279
+     ],
+     "fill": null
+    },
+    {
+     "t": "以上",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2458725,
+      3877817,
+      3173279
+     ],
+     "fill": null
+    },
+    {
+     "t": "世界上命案发生率最低的国家之一",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2458725,
+      3877817,
+      3173279
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民网",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      5213373,
+      5190747,
+      2737501,
+      440762
+     ],
+     "fill": null
+    },
+    {
+     "t": "社会建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6096000,
+      1185478,
+      1776382,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 8,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "情境思考",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1267017,
+      2002424,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "1",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1001536,
+      2427402,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "已有展板体现了“五位一体”总体布局的哪些方面？",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      1851674,
+      2548105,
+      5970232,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "我们党统筹推进",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      3401054,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "经济建设",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      839788,
+      3401054,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "、政治建设、文化建设、",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      3401054,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "社会建设",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      839788,
+      3401054,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "、生态文明建设“五位一体”总体布局。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      3401054,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "2",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1001536,
+      4232051,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "可以从剩余方面补充空白展板，请完善展板。",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      1851674,
+      4352754,
+      5970232,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "我们党统筹推进",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "经济建设、",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "政治建设",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "、",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "文化建设",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "、社会建设、",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "生态文明建设",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "“五位一体”总体布局",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      729129,
+      5072754,
+      7226734,
+      830997
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 9,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "小组展示：展板四   民主法治",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      361101,
+      1036041,
+      4752550,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "政治建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      5826128,
+      970299,
+      1824918,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "图片来源：人民网",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      974115,
+      3778797,
+      2251346,
+      405945
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民日报",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      974115,
+      5662196,
+      2251346,
+      405945
+     ],
+     "fill": null
+    },
+    {
+     "t": "发展全过程人民民主，坚持全面依法治国，社会主义政治制度优势充分彰显。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    },
+    {
+     "t": "《",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    },
+    {
+     "t": "中华人民共和国生态环境法典",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    },
+    {
+     "t": "：完善我国法律体系，以法治护航美丽中国建设。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    },
+    {
+     "t": "设立基层立法联系点：民意直达国家立法机关，是全过程人民民主的生动实践。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3633052,
+      1918274,
+      4479073,
+      4232910
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 10,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "传承弘扬中华优秀传统文化，推动中华优秀传统文化实现创造性转化、创新性发展。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      365194,
+      1969157,
+      11380072,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "小组展示：展板五  文化传承",
+     "sz": 32.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2271439,
+      956262,
+      5739790,
+      649858
+     ],
+     "fill": null
+    },
+    {
+     "t": "文化建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      8419858,
+      956262,
+      1789972,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "三星堆不断有考古新发现",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      261172,
+      5113317,
+      2784243,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "良渚古城遗址列入世界遗产",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3062974,
+      5113317,
+      2992255,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "国家版本馆建成开馆",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      5887011,
+      5113317,
+      2843533,
+      830997
+     ],
+     "fill": null
+    },
+    {
+     "t": "《",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8909060,
+      5080592,
+      2968327,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "只此青绿",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8909060,
+      5080592,
+      2968327,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8909060,
+      5080592,
+      2968327,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "向世界展示东方美学",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8909060,
+      5080592,
+      2968327,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "以上图片均来源：新华社",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      4679417,
+      4612943,
+      2751625,
+      405945
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 11,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "“共抓大保护，不搞大开发”，十年间，长江经济带优良水质比例从",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "67%",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "提升到",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "96.5%",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "致力于“让黄河成为造福人民的幸福河”，打好黄河“几字弯”攻坚战，一体推进山水林田湖草沙保护和治理，筑牢生态屏障。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7001663,
+      2603806,
+      4853641,
+      3169650
+     ],
+     "fill": null
+    },
+    {
+     "t": "小组展示：展板六 “江河战略”",
+     "sz": 32.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      1939460,
+      1195601,
+      6071769,
+      649858
+     ],
+     "fill": null
+    },
+    {
+     "t": "左图：长江",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      5337470,
+      3021235,
+      810094
+     ],
+     "fill": null
+    },
+    {
+     "t": "右图：黄河",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      5337470,
+      3021235,
+      810094
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民日报",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      5337470,
+      3021235,
+      810094
+     ],
+     "fill": null
+    },
+    {
+     "t": "生态文明建设",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      8419857,
+      1195601,
+      2459755,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 12,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "子任务",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1477105,
+      1402042,
+      6490406,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "2",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1477105,
+      1402042,
+      6490406,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "：撰写解说",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1477105,
+      1402042,
+      6490406,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1477105,
+      1402042,
+      6490406,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "解码新成就",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1477105,
+      1402042,
+      6490406,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "分析原因",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2505530,
+      3557486,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2505530,
+      3557486,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "小组讨论",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      2505530,
+      3557486,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "结合所学知识，分析新时代党和国家事业取得辉煌成就的原因。",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      4053113,
+      7272337,
+      1008120
+     ],
+     "fill": "scheme:accent5"
+    }
+   ]
+  },
+  {
+   "slide": 13,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "226",
+     "sz": 60.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      2143418,
+      1922869,
+      2031544,
+      1137684
+     ],
+     "fill": null
+    },
+    {
+     "t": "天",
+     "sz": 60.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      2143418,
+      1922869,
+      2031544,
+      1137684
+     ],
+     "fill": null
+    },
+    {
+     "t": "1972",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "年到",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "1999",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "年，",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "28",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "年间黄河有",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "22",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "年发生断流；",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "1997",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "年，断流长达",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "226",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "天。母亲河，曾经一度“伤痕累累”。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      850265,
+      3243203,
+      4930248,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "以黄河流域生态保护和高质量发展为例",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      991237,
+      10453343,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "分析原因",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      991237,
+      10453343,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      991237,
+      10453343,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "小组讨论",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      991237,
+      10453343,
+      786031
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "27",
+     "sz": 60.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      7298811,
+      1858570,
+      2031544,
+      1137684
+     ],
+     "fill": null
+    },
+    {
+     "t": "年",
+     "sz": 60.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      7298811,
+      1858570,
+      2031544,
+      1137684
+     ],
+     "fill": null
+    },
+    {
+     "t": "今天，黄河已实现自",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "1999",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "年以来连续",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "27",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "年不断流；干流连续",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "4",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "年全线稳定保持",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "Ⅱ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "类水质，",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "2025",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "年流域好于",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "Ⅲ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "类水体比例达到",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "93.2%",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "，首次超过全国平均水平",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "。",
+     "sz": 20.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6173656,
+      3021604,
+      5168079,
+      2283254
+     ],
+     "fill": null
+    },
+    {
+     "t": "从",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      850265,
+      5416584,
+      8893628,
+      738505
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "226",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      850265,
+      5416584,
+      8893628,
+      738505
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "天断流到连续",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      850265,
+      5416584,
+      8893628,
+      738505
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "27",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      850265,
+      5416584,
+      8893628,
+      738505
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "年不断流，究竟是什么原因导致黄河之变？",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      850265,
+      5416584,
+      8893628,
+      738505
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 14,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "从",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      840740,
+      941705,
+      10368915,
+      588645
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "226",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      840740,
+      941705,
+      10368915,
+      588645
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "天断流到连续",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      840740,
+      941705,
+      10368915,
+      588645
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "27",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      840740,
+      941705,
+      10368915,
+      588645
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "年不断流，究竟是什么原因导致黄河之变？",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      840740,
+      941705,
+      10368915,
+      588645
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 15,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "思维工具",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "——",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "四步解码法",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "问机制",
+     "sz": 20.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "它是怎么“变”回来的？",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "把“怎么做到的”说清楚",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "——",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "这是推理的起点。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "1",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      669357,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "反证",
+     "sz": 20.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "假如没有它，还成不成？",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "用“如果没有",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "……",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "会怎样”做反事实追问。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "2",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3559134,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "比较",
+     "sz": 20.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "别人为什么做不到？",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "横向对照，找出“我们比别的国家多什么”，让不可替代的原因更清晰。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "3",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6448911,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "归纳",
+     "sz": 20.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "能不能用课本来验证？",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "把原因抽取归并，再用课本原文验证",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "——",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "让结论“论从史出”。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "4",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      9338688,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "现象",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    },
+    {
+     "t": "→问机制→反证→比较→归纳→",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    },
+    {
+     "t": "原因",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 16,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "思维工具",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "——",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "四步解码法",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1096301,
+      6999590,
+      599297
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "问机制",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "统一调度、九省协同、生态补水、法治护航",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "……",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "说清成就“怎么发生”",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      669357,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "1",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      669357,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "反证",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "治理跨越九省（区）：没有党中央集中统一领导和“江河战略”，长期工程难以实现。",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      3559134,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "2",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3559134,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "比较",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "一些大河治理因跨区协调难、政策反复而失败",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "——",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "我们多了“集中力量办大事”。",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      6448911,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "3",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6448911,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "归纳",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "从具体机制中抽象出“不可替代的条件”，并用课本原文验证",
+     "sz": 20.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "。",
+     "sz": null,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      9338688,
+      2577795,
+      2260214,
+      2754394
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "4",
+     "sz": 36.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      9338688,
+      2217795,
+      720000,
+      720000
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "现象",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    },
+    {
+     "t": "→问机制→反证→比较→归纳→",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    },
+    {
+     "t": "原因",
+     "sz": 28.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      2781908,
+      5692189,
+      6628184,
+      523220
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 17,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "新时代党和国家事业取得辉煌成就的原因是什么？",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      2150249,
+      1023797,
+      7891502,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "习近平新时代中国特色社会主义思想的科学指导。",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1263852,
+      2029435,
+      2423032,
+      3080973
+     ],
+     "fill": null
+    },
+    {
+     "t": "         坚持和加强党的全面领导。",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3763724,
+      2311407,
+      2274474,
+      2799001
+     ],
+     "fill": null
+    },
+    {
+     "t": "中国特色社会主义制度具有显著优势。",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6115038,
+      2405045,
+      2411506,
+      2705363
+     ],
+     "fill": null
+    },
+    {
+     "t": "根本指引",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      1662141,
+      1603956,
+      1552175,
+      1413862
+     ],
+     "fill": null
+    },
+    {
+     "t": "制度优势",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      6544703,
+      1940573,
+      1552175,
+      1413862
+     ],
+     "fill": null
+    },
+    {
+     "t": "根本保证",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      4066467,
+      1817385,
+      1552175,
+      1413862
+     ],
+     "fill": null
+    },
+    {
+     "t": "         坚持以人民为中心的发展思想。",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      8603384,
+      2310887,
+      2360280,
+      2799521
+     ],
+     "fill": null
+    },
+    {
+     "t": "价值立场",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:bg1",
+     "outline": null,
+     "box": [
+      8915868,
+      1817385,
+      1552175,
+      1413862
+     ],
+     "fill": null
+    },
+    {
+     "t": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+     "sz": 32.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      1179576,
+      5438051,
+      9870923,
+      599297
+     ],
+     "fill": "scheme:accent5"
+    }
+   ]
+  },
+  {
+   "slide": 18,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "小组合作探究：根据四大原因，撰写成就解码解说词。",
+     "sz": 24.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1397546,
+      7272337,
+      599297
+     ],
+     "fill": "scheme:accent5"
+    },
+    {
+     "t": "解说词脚手架：",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786379,
+      2894539,
+      7325745,
+      2011045
+     ],
+     "fill": null
+    },
+    {
+     "t": "第一段：这一块展板展示了怎样的成就。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786379,
+      2894539,
+      7325745,
+      2011045
+     ],
+     "fill": null
+    },
+    {
+     "t": "第二段：取得这样的成就的原因。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786379,
+      2894539,
+      7325745,
+      2011045
+     ],
+     "fill": null
+    },
+    {
+     "t": "第三段：这启示我们今后如何做。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786379,
+      2894539,
+      7325745,
+      2011045
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 19,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "小组合作探究成果：解说词",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1263561,
+      7272337,
+      599297
+     ],
+     "fill": "scheme:accent5"
+    },
+    {
+     "t": "黄河，从 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "226 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "天断流到连续 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "27 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "年不断流。这条母亲河的“重生”告诉我们：奇迹不是凭空发生的。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "它的背后，站着党的全面领导、科学理论的指引、制度的优势和人民至上的立场。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    },
+    {
+     "t": "从断流到安澜，这条大河的变迁，就是国家发展奇迹生动缩影。解码成就，不是为了记住几个结论，而是学会用这把钥匙，去读懂我们的国家。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      786378,
+      2288850,
+      7325745,
+      3192780
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 20,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "子任务",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "3",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "：拓展策展",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "循迹盐湖行",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "        围绕展览主题，立足家乡的变化发展，开展一次",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839787,
+      3070225,
+      7376269,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "研学活动",
+     "sz": 24.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      839787,
+      3070225,
+      7376269,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839787,
+      3070225,
+      7376269,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "实践活动",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1945605,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1945605,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "小组研学",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      1945605,
+      3557486,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "黄河流域生态保护和高质量发展",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      4746833,
+      7272337,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      4746833,
+      7272337,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "盐湖之变",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839788,
+      4746833,
+      7272337,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 21,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "“盐湖的生态价值和功能越来越重要，要统筹做好保护利用工作，让盐湖独特的人文历史资源和生态资源一代代传承下去，逐步恢复其生态功能，更好保护其历史文化价值。”",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      5776732,
+      2445450,
+      5978178,
+      2648417
+     ],
+     "fill": null
+    },
+    {
+     "t": "习近平同志在运城盐湖考察调研",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1431143,
+      4814731,
+      3457814,
+      738344
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民日报",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1431143,
+      4814731,
+      3457814,
+      738344
+     ],
+     "fill": null
+    },
+    {
+     "t": "从工业矿区到城市生态客厅",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1203832,
+      5619616,
+      9784336,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1203832,
+      5619616,
+      9784336,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "这是新时代在河东大地的生动缩影。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1203832,
+      5619616,
+      9784336,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "实践活动",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "黄河流域生态保护和高质量发展",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "盐湖之变",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "·",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    },
+    {
+     "t": "小组研学",
+     "sz": 28.0,
+     "b": false,
+     "col": "scheme:tx1",
+     "outline": null,
+     "box": [
+      839787,
+      1425891,
+      10628069,
+      493810
+     ],
+     "fill": "scheme:accent1"
+    }
+   ]
+  },
+  {
+   "slide": 22,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "盐湖之变",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      4833815,
+      1074287,
+      2398712,
+      649858
+     ],
+     "fill": null
+    },
+    {
+     "t": "文化之变 ",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "· ",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "盐韵新生",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "4600 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "余年采盐史：“一池河东盐，半部华夏史”",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "河东池盐博物馆建成开放；国家级非遗“五步产盐法”建设体验项目",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "老厂房变身盐梦长廊，“工业锈带”转变为“文旅秀带”",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      519811,
+      2411219,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "生态之变 ",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "· ",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "退盐还湖",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "2020 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "年起全面叫停盐湖工业生产，“治山、理水、净湖”一体推进",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "27 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "个生态修复项目，累计投入约 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "25.2 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "亿元；堤埝加固 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "119.77 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "公里",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    },
+    {
+     "t": "入选全国首批陆生野生动物重要栖息地名录。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      6478295,
+      2411218,
+      5400000,
+      3243517
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 23,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "研学活动要求",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "·",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "搜集资料，了解家乡的变化发展。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "·",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "分小组拟定活动方案，细化走访调研的目的、对象、内容及方式，分工明确。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "·",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "开展走访调研活动。调研过程中，重点关注新时代以来家乡的变化发展情况及存在的主要问题，做好记录。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "·",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "做好各类资料的整理、分析、留存等工作，提出针对性对策建议。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "·",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "小组深入讨论交流，共同完成一篇调研报告。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      1700689,
+      7272337,
+      4573111
+     ],
+     "fill": null
+    },
+    {
+     "t": "子任务",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "3",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "：拓展策展",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "循迹盐湖行",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 24,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "研学活动方案",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      4847436,
+      758461,
+      2497128,
+      677108
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 25,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "《",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "＿＿＿＿发展调研报告",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "调研小组：＿＿＿＿　组长：＿＿＿＿　日期：＿＿＿",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "组员及分工：",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "资料员／记录员／汇报员／质疑员",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "一、调研方案摘要（调研目的、对象、内容、方式）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "二、调研过程（调研时间、路线、走访对象与记录情况）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "三、家乡的变化核心（事实＋数据）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "四、存在的问题核心（研途中真实看到的发展短板，要有现场证据）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "五、对策建议核心 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "· ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "难点（针对每个问题，提出可操作的对策，做到“三个有”： 有问题依据、有密码支撑、有可行做法）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "六、小组感悟（研学收获与情感升华",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "家乡之变让我们懂得了什么）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    },
+    {
+     "t": "七、附录必备（照片、访谈记录、资料来源清单）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      928688,
+      1105287,
+      10469562,
+      4647426
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 26,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "1.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "紧扣调研主题，聚焦研学目标。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "2.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "注意出行安全，文明走访，礼貌访谈。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "3.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "细化团队分工，强化协作配合。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "4.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "坚持实事求是，尊重对方隐私。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      918111,
+      2901503,
+      4911189,
+      2726452
+     ],
+     "fill": null
+    },
+    {
+     "t": "研学活动提示",
+     "sz": 32.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      981075,
+      1520706,
+      3571432,
+      760657
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：人民日报",
+     "sz": null,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      7448158,
+      5354865,
+      2347107,
+      405945
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 27,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "思辨探究：",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      799177,
+      1222379,
+      7312948,
+      1097223
+     ],
+     "fill": null
+    },
+    {
+     "t": "盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      799177,
+      1222379,
+      7312948,
+      1097223
+     ],
+     "fill": null
+    },
+    {
+     "t": "这种观点不对！",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1810681,
+      2975998,
+      5289939,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代发展，人人共建、人人共享。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1851707,
+      3646070,
+      5289939,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "我们青少年不是旁观者，",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1851707,
+      3646070,
+      5289939,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "而是时代的见证者、",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1851707,
+      3646070,
+      5289939,
+      1840056
+     ],
+     "fill": null
+    },
+    {
+     "t": "家乡发展的参与者和建设者。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1851707,
+      3646070,
+      5289939,
+      1840056
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 28,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "我们可以做什么？",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1984742,
+      3241459,
+      7381875,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "做盐湖文化的宣传员",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "了解盐湖历史，讲好生态故事",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "做绿色生活的践行者",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "从小事做起，守护身边的绿水青山",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "做美丽家乡的建设者",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "学好本领，将来为家乡发展贡献力量",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1071982,
+      4008810,
+      9929310,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "思辨探究：",
+     "sz": 28.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      849313,
+      1793879,
+      10573673,
+      580159
+     ],
+     "fill": null
+    },
+    {
+     "t": "盐湖保护、家乡建设，是政府的事，和我们中学生无关？",
+     "sz": 28.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      849313,
+      1793879,
+      10573673,
+      580159
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 29,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课后延伸",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1487673,
+      973191,
+      6252693,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "二选一",
+     "sz": 28.0,
+     "b": true,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "A",
+     "sz": 28.0,
+     "b": true,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "层（具备外出条件）：",
+     "sz": 28.0,
+     "b": true,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "小组制定研学方案，实地开展盐湖研学，完成一份完整的",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "《",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "家乡发展调研报告",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "。",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "B",
+     "sz": 28.0,
+     "b": true,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "层（不具备外出条件）：",
+     "sz": 28.0,
+     "b": true,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    },
+    {
+     "t": "线上查阅官方资料，制作一份盐湖生态文化宣传小报。",
+     "sz": 28.0,
+     "b": false,
+     "col": "#2C3E50",
+     "outline": null,
+     "box": [
+      1085365,
+      2488592,
+      6095028,
+      3262432
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 30,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": []
+  },
+  {
+   "slide": 31,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂小结",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3236916,
+      1085012,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "        “我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”",
+     "sz": 32.0,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      7797800,
+      2311737,
+      4114800,
+      2554545
+     ],
+     "fill": null
+    },
+    {
+     "t": "左图：",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "2026",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "年",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "9",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "月",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "30",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "日，庆祝中华人民共和国成立",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "77",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "右图：",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "2026",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "年",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "10",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "月",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "1",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "日清晨，北京天安门广场举行升国旗仪式，庆祝中华人民共和国成立",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "77",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "周年。",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    },
+    {
+     "t": "图片来源：央视新闻",
+     "sz": null,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      216211,
+      5073471,
+      11696389,
+      1200329
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 32,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂小结",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      1663897,
+      1067087,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代新征程，社会主义中国巍然屹立，中华民族伟大复兴势不可挡。",
+     "sz": 24.0,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    },
+    {
+     "t": "我们是实现强国建设、民族复兴伟业的中坚力量， “勿忘昨天的苦难辉煌，无愧今天的使命担当，不负明天的伟大梦想”， “自觉做习近平新时代中国特色社会主义思想的坚定信仰者、积极传播者、忠实实践者。",
+     "sz": 24.0,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    },
+    {
+     "t": "”",
+     "sz": 24.0,
+     "b": false,
+     "col": "#333333",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    },
+    {
+     "t": "以青春见证中国腾飞，用成长助推家乡发展",
+     "sz": 24.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    },
+    {
+     "t": "这就是我们的青春答卷！",
+     "sz": 24.0,
+     "b": false,
+     "col": "#FF0000",
+     "outline": null,
+     "box": [
+      473515,
+      2313238,
+      7638610,
+      3354765
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 33,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3359347,
+      1416337,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "1.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾，在生态文明、法治建设、民生改善等领域取得一系列辉煌成就。下列对新时代认识正确的是（   ）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "A. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代意味着我国已经建成社会主义现代化强国",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "B. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代是全国各族人民团结奋斗、不断创造美好生活的时代",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "C. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代我国社会主要矛盾已经得到彻底解决",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "D. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "新时代标志着我国已经实现全体人民共同富裕",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3477427
+     ],
+     "fill": null
+    },
+    {
+     "t": "B",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      8199438,
+      3310906,
+      430212,
+      510461
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 34,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3359347,
+      1416337,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "2.《",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "中华人民共和国黄河保护法",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "为黄河流域生态保护和高质量发展提供坚实法治保障，坚持共同抓好大保护，协同推进大治理。这一举措体现（   ）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "①坚持依法治国，建设法治中国",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "②践行绿水青山就是金山银山理念",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "③生态保护可以脱离经济发展单独推进",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "④走绿色发展道路，促进人与自然和谐共生",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "A.①②③  B.①②④  C.①③④  D.②③④",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      3554371
+     ],
+     "fill": null
+    },
+    {
+     "t": "B",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      10593388,
+      2872756,
+      430212,
+      510461
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 35,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3359347,
+      1416337,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "3.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "“十五五”规划纲要提出，推进低空经济健康发展、推进国产大飞机规模化系列化发展、支持创新药临床使用。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "2025 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "年，我国“新三样”（电动汽车、锂电池、光伏产品）出口规模接近 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "1.3 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "万亿元，比 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "2020 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "年增长 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "3.5 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "倍。这主要表明（　　）",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "A. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "我国已建成现代化经济体系，实现了高质量发展",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "B. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "我国坚持创新驱动发展，加快培育新质生产力",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "C. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "出口规模扩大是衡量经济发展的唯一标准",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "D. ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "新兴产业的发展无需传统产业作为基础",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      821654,
+      2240158,
+      10698162,
+      3920625
+     ],
+     "fill": null
+    },
+    {
+     "t": "B",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      1938985,
+      3547553,
+      430212,
+      510461
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 36,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3392367,
+      887382,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "4.",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "新中国成立之初，我国“连铁钉和火柴都需要进口”，工业基础薄弱，科技前沿几近空白。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "77 ",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "载岁月，神州大地天翻地覆：如今，我国建成全球最完整、规模最大的研发体系和工业体系，进入创新型国家行列",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "——“",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "奋斗者”号深潜万米，“中国天眼”巡天观测，中国空间站遨游太空，国产大模型引领全球开源生态",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "……",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "这些成就的背后，是一以贯之的方向引领。党中央提出“以科技创新为引领，大力培育壮大新兴产业和未来产业”，从基础研究的系统部署，到“十五五”规划对新兴产业的整体布局，再到广大科技工作者数十年如一日地攻关“卡脖子”难题",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "……",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    },
+    {
+     "t": "一代代人接力奋斗，让“中国制造”加速迈向“中国创造”。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      865981,
+      1775584,
+      10460038,
+      4576189
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 37,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3392367,
+      1008032,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "与此同时，越来越多科技成果走进寻常百姓家：高铁、北斗、移动支付让出行与生活更便捷，创新药、农作物新品种让健康与粮食安全更有保障，绿色低碳技术让天更蓝、水更清。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      849313,
+      2260009,
+      10779499,
+      1396857
+     ],
+     "fill": null
+    },
+    {
+     "t": "结合材料，运用九年级上册第二单元",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      790380,
+      4126840,
+      10826750,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "《",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      790380,
+      4126840,
+      10826750,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "进入新时代",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      790380,
+      4126840,
+      10826750,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "》",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      790380,
+      4126840,
+      10826750,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "相关知识，回答下列问题：",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      790380,
+      4126840,
+      10826750,
+      510461
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 38,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3359347,
+      1416337,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "（",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "1",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "）结合材料，概括新中国成立以来我国在科技创新方面发生了怎样的变化。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "①从“连铁钉和火柴都需要进口”到建成全球最完整、规模最大的研发体系和工业体系；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      1006593,
+      3429000,
+      10262246,
+      2880340
+     ],
+     "fill": null
+    },
+    {
+     "t": "②从工业基础薄弱、科技前沿空白到进入创新型国家行列，在深海、航天、人工智能等领域取得一系列重大成果；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      1006593,
+      3429000,
+      10262246,
+      2880340
+     ],
+     "fill": null
+    },
+    {
+     "t": "③实现了从“跟跑”到“并跑”“领跑”、从“中国制造”到“中国创造”的转变。",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      1006593,
+      3429000,
+      10262246,
+      2880340
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 39,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3417589,
+      938752,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "（",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      846877,
+      1872660,
+      10698162,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "2",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      846877,
+      1872660,
+      10698162,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "）结合材料，运用所学知识，分析我国取得这些科技成就的原因。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      846877,
+      1872660,
+      10698162,
+      510461
+     ],
+     "fill": null
+    },
+    {
+     "t": "①坚持以习近平新时代中国特色社会主义思想为指导",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "党中央提出“以科技创新为引领，培育壮大新兴产业和未来产业”，正是这一思想的生动实践；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "② 坚持和加强党的全面领导",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "从基础研究系统部署到“十五五”规划整体布局，党的领导是科技事业不断胜利的根本保证；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "③ 中国特色社会主义制度具有显著优势",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "集中力量办大事，统筹布局、组织科技工作者协同攻关“卡脖子”难题；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "④ 坚持以人民为中心的发展思想",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "——",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    },
+    {
+     "t": "高铁、北斗、创新药、绿色技术走进百姓生活，发展为了人民、发展成果由人民共享。",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      849313,
+      2428827,
+      10541000,
+      3843681
+     ],
+     "fill": null
+    }
+   ]
+  },
+  {
+   "slide": 40,
+   "theme": "ppt/theme/theme1.xml",
+   "bg": null,
+   "runs": [
+    {
+     "t": "课堂练习",
+     "sz": 30.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      3359347,
+      1416337,
+      5556738,
+      553998
+     ],
+     "fill": null
+    },
+    {
+     "t": "（",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "3",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "）科技成果走进百姓生活。结合自身实际，谈谈我们青少年可以为此做些什么。",
+     "sz": 24.0,
+     "b": false,
+     "col": null,
+     "outline": null,
+     "box": [
+      839788,
+      2453656,
+      10698162,
+      953659
+     ],
+     "fill": null
+    },
+    {
+     "t": "①努力学习科学文化知识，打好基础，培养创新意识和实践能力；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      839788,
+      3744001,
+      10858500,
+      1550746
+     ],
+     "fill": null
+    },
+    {
+     "t": "②积极参加科技小发明、小制作等活动，勇于探索；",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      839788,
+      3744001,
+      10858500,
+      1550746
+     ],
+     "fill": null
+    },
+    {
+     "t": "③关注国家科技发展，增强民族自豪感和社会责任感，立志报效祖国。",
+     "sz": 24.0,
+     "b": false,
+     "col": "#C00000",
+     "outline": null,
+     "box": [
+      839788,
+      3744001,
+      10858500,
+      1550746
+     ],
+     "fill": null
+    }
+   ]
+  }
+ ]
+}

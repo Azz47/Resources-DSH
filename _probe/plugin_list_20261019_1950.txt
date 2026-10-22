@@ -1,0 +1,106 @@
+﻿Legend: production dependency, optional only, dev only
+
+dsh-profile-desktop C:\Users\Administrator\.dsh\profiles\desktop (PRIVATE)
+│
+│   dependencies:
+├── @arcaneorion/dsh-teaching-board@0.6.0
+├── @changfenhuang/dsh-genui@0.13.0
+├── @haoranwang0921/dsh-session-cleaner@1.1.0
+├── @michengai/dsh-agency-agents@1.2.7
+├── @michengai/dsh-archive-manager@1.1.5
+├── @michengai/dsh-automation@1.0.4
+├── @michengai/dsh-btw@1.0.0
+├── @michengai/dsh-code-review@1.0.1
+├── @michengai/dsh-codex-ui@1.1.43
+├── @michengai/dsh-im-connect@1.0.2
+├── @michengai/dsh-pua@1.0.1
+├── @michengai/dsh-simplify@1.0.1
+├── @michengai/dsh-skills-manager@1.2.6
+├── @nanmicoder/dsh-agent-teams@0.1.25
+├── @openmaic/dsh-openmaic@0.4.0
+├── @tt-a1i/archify-dsh@1.0.0
+├── @vectorize-io/hindsight-coding-agents@0.8.1
+├── billion-context@0.1.202
+├── dsh-animations@1.2.4
+├── dsh-better-sidebar@0.28.0
+├── dsh-context@0.73.3
+├── dsh-craft-your-textbook@1.3.4
+├── dsh-free-search@0.9.3
+├── dsh-hotspots@1.1.0
+├── dsh-image-gen@0.9.1
+├── dsh-mindmap@0.17.0
+├── dsh-ops@0.3.0
+├── dsh-plugin-education@0.3.2
+├── dsh-plugin-wallpaper-engine@1.3.3
+├── dsh-ppt-studio@1.2.3
+├── dsh-run2skill@0.5.0-alpha.4
+├── dsh-skill-mcp-manager@1.2.2
+├── dsh-univer-office@0.3.7
+├── dsh-vision-router@3.0.4
+├── dsh-whale-widget@0.4.2
+├── dshmarket@1.66.42
+└── superpowers-dsh@0.3.0
+
+37 packages
+dsh.cmd : 
+所在位置 行:2 字符: 1
++ & 'D:\tools\dsh\resources\runtime\cli\bin\dsh.cmd' plugin --profile d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+dsh: warning: Plugin @arcaneorion/dsh-teaching-board@0.6.0 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepsee
+k-ai/dsh-client-ui-conversation":"0.2.0-rc.1","@deepseek-ai/dsh-client-ui-chat":"0.2.0-rc.1"}. Running it may cause cra
+shes or data loss. Update the plugin or install a plugin version compatible with this dsh runtime. To accept this risk 
+explicitly, grant the exact-version exemption for @arcaneorion/dsh-teaching-board@0.6.0 on dsh 0.2.1-rc.2 with `dsh plu
+gin allow-version` or the plugin manager, then retry the installation or restart dsh. Exact-version exemption: not acti
+ve.
+Plugin @arcaneorion/dsh-teaching-board@0.6.0 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-clien
+t-ui-conversation":"0.2.0-rc.1","@deepseek-ai/dsh-client-ui-chat":"0.2.0-rc.1"}. Running it may cause crashes or data l
+oss. Update the plugin or install a plugin version compatible with this dsh runtime. To accept this risk explicitly, gr
+ant the exact-version exemption for @arcaneorion/dsh-teaching-board@0.6.0 on dsh 0.2.1-rc.2 with `dsh plugin allow-vers
+ion` or the plugin manager, then retry the installation or restart dsh. Exact-version exemption: not active.
+dsh: it stays installed but profile startup denies it until you grant an exemption for those exact versions.
+
+dsh: warning: Plugin @haoranwang0921/dsh-session-cleaner@1.1.0 is incompatible with dsh 0.2.1-rc.2: requirements {"@dee
+pseek-ai/dsh-host-webserver":"^0.1.0-rc.6","@deepseek-ai/dsh-session":"^0.1.0-rc.6","@deepseek-ai/dsh-session-persisten
+ce":"^0.1.0-rc.6","@deepseek-ai/dsh-workspace":"^0.1.0-rc.6","@deepseek-ai/dsh-message-feedback":"^0.1.0-rc.6","@deepse
+ek-ai/dsh-system-prompt":"^0.1.0-rc.6"}. Running it may cause crashes or data loss. Update the plugin or install a plug
+in version compatible with this dsh runtime. To accept this risk explicitly, grant the exact-version exemption for @hao
+ranwang0921/dsh-session-cleaner@1.1.0 on dsh 0.2.1-rc.2 with `dsh plugin allow-version` or the plugin manager, then ret
+ry the installation or restart dsh. Exact-version exemption: not active.
+Plugin @haoranwang0921/dsh-session-cleaner@1.1.0 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-h
+ost-webserver":"^0.1.0-rc.6","@deepseek-ai/dsh-session":"^0.1.0-rc.6","@deepseek-ai/dsh-session-persistence":"^0.1.0-rc
+.6","@deepseek-ai/dsh-workspace":"^0.1.0-rc.6","@deepseek-ai/dsh-message-feedback":"^0.1.0-rc.6","@deepseek-ai/dsh-syst
+em-prompt":"^0.1.0-rc.6"}. Running it may cause crashes or data loss. Update the plugin or install a plugin version com
+patible with this dsh runtime. To accept this risk explicitly, grant the exact-version exemption for @haoranwang0921/ds
+h-session-cleaner@1.1.0 on dsh 0.2.1-rc.2 with `dsh plugin allow-version` or the plugin manager, then retry the install
+ation or restart dsh. Exact-version exemption: not active.
+dsh: it stays installed but profile startup denies it until you grant an exemption for those exact versions.
+
+dsh: warning: Plugin dsh-plugin-education@0.3.2 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-fs
+":"^0.1.0-rc.6","@deepseek-ai/dsh-system-prompt":"^0.1.0-rc.6","@deepseek-ai/dsh-tools":"^0.1.0-rc.6"}. Running it may 
+cause crashes or data loss. Update the plugin or install a plugin version compatible with this dsh runtime. To accept t
+his risk explicitly, grant the exact-version exemption for dsh-plugin-education@0.3.2 on dsh 0.2.1-rc.2 with `dsh plugi
+n allow-version` or the plugin manager, then retry the installation or restart dsh. Exact-version exemption: not active
+.
+Plugin dsh-plugin-education@0.3.2 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-fs":"^0.1.0-rc.6
+","@deepseek-ai/dsh-system-prompt":"^0.1.0-rc.6","@deepseek-ai/dsh-tools":"^0.1.0-rc.6"}. Running it may cause crashes 
+or data loss. Update the plugin or install a plugin version compatible with this dsh runtime. To accept this risk expli
+citly, grant the exact-version exemption for dsh-plugin-education@0.3.2 on dsh 0.2.1-rc.2 with `dsh plugin allow-versio
+n` or the plugin manager, then retry the installation or restart dsh. Exact-version exemption: not active.
+dsh: it stays installed but profile startup denies it until you grant an exemption for those exact versions.
+
+dsh: warning: Plugin dsh-run2skill@0.5.0-alpha.4 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-a
+gent-preset-registry":"0.2.0-rc.2","@deepseek-ai/dsh-client-ui-primitives":"0.2.0-rc.2","@deepseek-ai/dsh-typert-protoc
+ol":"0.2.0-rc.2"}. Running it may cause crashes or data loss. Update the plugin or install a plugin version compatible 
+with this dsh runtime. To accept this risk explicitly, grant the exact-version exemption for dsh-run2skill@0.5.0-alpha.
+4 on dsh 0.2.1-rc.2 with `dsh plugin allow-version` or the plugin manager, then retry the installation or restart dsh. 
+Exact-version exemption: not active.
+Plugin dsh-run2skill@0.5.0-alpha.4 is incompatible with dsh 0.2.1-rc.2: requirements {"@deepseek-ai/dsh-agent-preset-re
+gistry":"0.2.0-rc.2","@deepseek-ai/dsh-client-ui-primitives":"0.2.0-rc.2","@deepseek-ai/dsh-typert-protocol":"0.2.0-rc.
+2"}. Running it may cause crashes or data loss. Update the plugin or install a plugin version compatible with this dsh 
+runtime. To accept this risk explicitly, grant the exact-version exemption for dsh-run2skill@0.5.0-alpha.4 on dsh 0.2.1
+-rc.2 with `dsh plugin allow-version` or the plugin manager, then retry the installation or restart dsh. Exact-version 
+exemption: not active.
+dsh: it stays installed but profile startup denies it until you grant an exemption for those exact versions.

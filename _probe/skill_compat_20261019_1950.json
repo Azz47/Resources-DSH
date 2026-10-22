@@ -1,0 +1,1539 @@
+{
+  "summary": {
+    "scanned": 165,
+    "bySource": {
+      "user": 87,
+      "runtime": 7,
+      "plugin": 71
+    },
+    "withIssues": 5,
+    "ok": 160
+  },
+  "rows": [
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\agent-reach\\SKILL.md",
+      "dirName": "agent-reach",
+      "name": "agent-reach",
+      "descriptionLen": 921,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\ask-matt\\SKILL.md",
+      "dirName": "ask-matt",
+      "name": "ask-matt",
+      "descriptionLen": 83,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\banner-design\\SKILL.md",
+      "dirName": "banner-design",
+      "name": "banner-design",
+      "descriptionLen": 443,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\brand\\SKILL.md",
+      "dirName": "brand",
+      "name": "brand",
+      "descriptionLen": 183,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\brandkit\\SKILL.md",
+      "dirName": "brandkit",
+      "name": "brandkit",
+      "descriptionLen": 464,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\brutalist-skill\\SKILL.md",
+      "dirName": "brutalist-skill",
+      "name": "industrial-brutalist-ui",
+      "descriptionLen": 286,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\chief-of-staff\\SKILL.md",
+      "dirName": "chief-of-staff",
+      "name": "chief-of-staff",
+      "descriptionLen": 74,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\claude-handoff\\SKILL.md",
+      "dirName": "claude-handoff",
+      "name": "claude-handoff",
+      "descriptionLen": 97,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\code-review\\SKILL.md",
+      "dirName": "code-review",
+      "name": "code-review",
+      "descriptionLen": 417,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\codebase-design\\SKILL.md",
+      "dirName": "codebase-design",
+      "name": "codebase-design",
+      "descriptionLen": 265,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\daofa-contest-pack\\SKILL.md",
+      "dirName": "daofa-contest-pack",
+      "name": "daofa-contest-pack",
+      "descriptionLen": 91,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\daofa-lesson-prep\\SKILL.md",
+      "dirName": "daofa-lesson-prep",
+      "name": "daofa-lesson-prep",
+      "descriptionLen": 104,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\design\\SKILL.md",
+      "dirName": "design",
+      "name": "design",
+      "descriptionLen": 637,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\design-system\\SKILL.md",
+      "dirName": "design-system",
+      "name": "design-system",
+      "descriptionLen": 276,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\diagnosing-bugs\\SKILL.md",
+      "dirName": "diagnosing-bugs",
+      "name": "diagnosing-bugs",
+      "descriptionLen": 156,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\domain-modeling\\SKILL.md",
+      "dirName": "domain-modeling",
+      "name": "domain-modeling",
+      "descriptionLen": 151,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\frontend-slides\\SKILL.md",
+      "dirName": "frontend-slides",
+      "name": "frontend-slides",
+      "descriptionLen": 311,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\git-guardrails-claude-code\\SKILL.md",
+      "dirName": "git-guardrails-claude-code",
+      "name": "git-guardrails-claude-code",
+      "descriptionLen": 243,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\gpt-tasteskill\\SKILL.md",
+      "dirName": "gpt-tasteskill",
+      "name": "gpt-taste",
+      "descriptionLen": 312,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\grill-me\\SKILL.md",
+      "dirName": "grill-me",
+      "name": "grill-me",
+      "descriptionLen": 51,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\grill-with-docs\\SKILL.md",
+      "dirName": "grill-with-docs",
+      "name": "grill-with-docs",
+      "descriptionLen": 106,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\grilling\\SKILL.md",
+      "dirName": "grilling",
+      "name": "grilling",
+      "descriptionLen": 152,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\handoff\\SKILL.md",
+      "dirName": "handoff",
+      "name": "handoff",
+      "descriptionLen": 86,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\human-writing\\SKILL.md",
+      "dirName": "human-writing",
+      "name": "human-writing",
+      "descriptionLen": 325,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\humanizer\\SKILL.md",
+      "dirName": "humanizer",
+      "name": "humanizer",
+      "descriptionLen": 341,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\image-to-code-skill\\SKILL.md",
+      "dirName": "image-to-code-skill",
+      "name": "image-to-code",
+      "descriptionLen": 555,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-mobile\\SKILL.md",
+      "dirName": "imagegen-frontend-mobile",
+      "name": "imagegen-frontend-mobile",
+      "descriptionLen": 638,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-web\\SKILL.md",
+      "dirName": "imagegen-frontend-web",
+      "name": "imagegen-frontend-web",
+      "descriptionLen": 661,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\implement\\SKILL.md",
+      "dirName": "implement",
+      "name": "implement",
+      "descriptionLen": 60,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\implement-spec\\SKILL.md",
+      "dirName": "implement-spec",
+      "name": "implement-spec",
+      "descriptionLen": 57,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\improve-codebase-architecture\\SKILL.md",
+      "dirName": "improve-codebase-architecture",
+      "name": "improve-codebase-architecture",
+      "descriptionLen": 125,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\loop-me\\SKILL.md",
+      "dirName": "loop-me",
+      "name": "loop-me",
+      "descriptionLen": 78,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\migrate-to-shoehorn\\SKILL.md",
+      "dirName": "migrate-to-shoehorn",
+      "name": "migrate-to-shoehorn",
+      "descriptionLen": 168,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\minimalist-skill\\SKILL.md",
+      "dirName": "minimalist-skill",
+      "name": "minimalist-ui",
+      "descriptionLen": 145,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt\\SKILL.md",
+      "dirName": "morph-ppt",
+      "name": "morph-ppt",
+      "descriptionLen": 715,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt-3d\\SKILL.md",
+      "dirName": "morph-ppt-3d",
+      "name": "morph-ppt-3d",
+      "descriptionLen": 139,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli\\SKILL.md",
+      "dirName": "officecli",
+      "name": "officecli",
+      "descriptionLen": 222,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-academic-paper\\SKILL.md",
+      "dirName": "officecli-academic-paper",
+      "name": "officecli-academic-paper",
+      "descriptionLen": 576,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-data-dashboard\\SKILL.md",
+      "dirName": "officecli-data-dashboard",
+      "name": "officecli-data-dashboard",
+      "descriptionLen": 665,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-docx\\SKILL.md",
+      "dirName": "officecli-docx",
+      "name": "officecli-docx",
+      "descriptionLen": 477,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-financial-model\\SKILL.md",
+      "dirName": "officecli-financial-model",
+      "name": "officecli-financial-model",
+      "descriptionLen": 832,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pitch-deck\\SKILL.md",
+      "dirName": "officecli-pitch-deck",
+      "name": "officecli-pitch-deck",
+      "descriptionLen": 628,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pptx\\SKILL.md",
+      "dirName": "officecli-pptx",
+      "name": "officecli-pptx",
+      "descriptionLen": 467,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-word-form\\SKILL.md",
+      "dirName": "officecli-word-form",
+      "name": "officecli-word-form",
+      "descriptionLen": 898,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-xlsx\\SKILL.md",
+      "dirName": "officecli-xlsx",
+      "name": "officecli-xlsx",
+      "descriptionLen": 521,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\output-skill\\SKILL.md",
+      "dirName": "output-skill",
+      "name": "full-output-enforcement",
+      "descriptionLen": 203,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\ppt-master\\SKILL.md",
+      "dirName": "ppt-master",
+      "name": "ppt-master",
+      "descriptionLen": 533,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\pptx-layout-craft\\SKILL.md",
+      "dirName": "pptx-layout-craft",
+      "name": "pptx-layout-craft",
+      "descriptionLen": 83,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\pr\\SKILL.md",
+      "dirName": "pr",
+      "name": "pr",
+      "descriptionLen": 27,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\prototype\\SKILL.md",
+      "dirName": "prototype",
+      "name": "prototype",
+      "descriptionLen": 179,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\redesign-skill\\SKILL.md",
+      "dirName": "redesign-skill",
+      "name": "redesign-existing-projects",
+      "descriptionLen": 225,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\research\\SKILL.md",
+      "dirName": "research",
+      "name": "research",
+      "descriptionLen": 238,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\retro\\SKILL.md",
+      "dirName": "retro",
+      "name": "retro",
+      "descriptionLen": 44,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\scaffold-exercises\\SKILL.md",
+      "dirName": "scaffold-exercises",
+      "name": "scaffold-exercises",
+      "descriptionLen": 204,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\setup-matt-pocock-skills\\SKILL.md",
+      "dirName": "setup-matt-pocock-skills",
+      "name": "setup-matt-pocock-skills",
+      "descriptionLen": 180,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\setup-pre-commit\\SKILL.md",
+      "dirName": "setup-pre-commit",
+      "name": "setup-pre-commit",
+      "descriptionLen": 238,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\setup-ts-deep-modules\\SKILL.md",
+      "dirName": "setup-ts-deep-modules",
+      "name": "setup-ts-deep-modules",
+      "descriptionLen": 185,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\slides\\SKILL.md",
+      "dirName": "slides",
+      "name": "slides",
+      "descriptionLen": 140,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\soft-skill\\SKILL.md",
+      "dirName": "soft-skill",
+      "name": "high-end-visual-design",
+      "descriptionLen": 234,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\stitch-skill\\SKILL.md",
+      "dirName": "stitch-skill",
+      "name": "stitch-design-taste",
+      "descriptionLen": 257,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill\\SKILL.md",
+      "dirName": "taste-skill",
+      "name": "design-taste-frontend",
+      "descriptionLen": 840,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v1\\SKILL.md",
+      "dirName": "taste-skill-v1",
+      "name": "design-taste-frontend-v1",
+      "descriptionLen": 231,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v2-experimental\\SKILL.md",
+      "dirName": "taste-skill-v2-experimental",
+      "name": "design-taste-frontend-v2-experimental",
+      "descriptionLen": 410,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\tdd\\SKILL.md",
+      "dirName": "tdd",
+      "name": "tdd",
+      "descriptionLen": 149,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\teach\\SKILL.md",
+      "dirName": "teach",
+      "name": "teach",
+      "descriptionLen": 61,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\to-questionnaire\\SKILL.md",
+      "dirName": "to-questionnaire",
+      "name": "to-questionnaire",
+      "descriptionLen": 88,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\to-spec\\SKILL.md",
+      "dirName": "to-spec",
+      "name": "to-spec",
+      "descriptionLen": 149,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\to-tickets\\SKILL.md",
+      "dirName": "to-tickets",
+      "name": "to-tickets",
+      "descriptionLen": 247,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\triage\\SKILL.md",
+      "dirName": "triage",
+      "name": "triage",
+      "descriptionLen": 136,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\ui-styling\\SKILL.md",
+      "dirName": "ui-styling",
+      "name": "ui-styling",
+      "descriptionLen": 489,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\ui-ux-pro-max\\SKILL.md",
+      "dirName": "ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "descriptionLen": 495,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand\\SKILL.md",
+      "dirName": "understand",
+      "name": "understand",
+      "descriptionLen": 122,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-chat\\SKILL.md",
+      "dirName": "understand-chat",
+      "name": "understand-chat",
+      "descriptionLen": 94,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-dashboard\\SKILL.md",
+      "dirName": "understand-dashboard",
+      "name": "understand-dashboard",
+      "descriptionLen": 78,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-diff\\SKILL.md",
+      "dirName": "understand-diff",
+      "name": "understand-diff",
+      "descriptionLen": 114,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-domain\\SKILL.md",
+      "dirName": "understand-domain",
+      "name": "understand-domain",
+      "descriptionLen": 189,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-explain\\SKILL.md",
+      "dirName": "understand-explain",
+      "name": "understand-explain",
+      "descriptionLen": 97,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-figma\\SKILL.md",
+      "dirName": "understand-figma",
+      "name": "understand-figma",
+      "descriptionLen": 197,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-knowledge\\SKILL.md",
+      "dirName": "understand-knowledge",
+      "name": "understand-knowledge",
+      "descriptionLen": 164,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\understand-onboard\\SKILL.md",
+      "dirName": "understand-onboard",
+      "name": "understand-onboard",
+      "descriptionLen": 88,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\wait-what\\SKILL.md",
+      "dirName": "wait-what",
+      "name": "wait-what",
+      "descriptionLen": 50,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\wayfinder\\SKILL.md",
+      "dirName": "wayfinder",
+      "name": "wayfinder",
+      "descriptionLen": 197,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\wizard\\SKILL.md",
+      "dirName": "wizard",
+      "name": "wizard",
+      "descriptionLen": 313,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\writing-beats\\SKILL.md",
+      "dirName": "writing-beats",
+      "name": "writing-beats",
+      "descriptionLen": 111,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\writing-for-agents\\SKILL.md",
+      "dirName": "writing-for-agents",
+      "name": "writing-for-agents",
+      "descriptionLen": 103,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\writing-fragments\\SKILL.md",
+      "dirName": "writing-fragments",
+      "name": "writing-fragments",
+      "descriptionLen": 55,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "user",
+      "file": "C:\\Users\\Administrator\\.dsh\\skills\\writing-shape\\SKILL.md",
+      "dirName": "writing-shape",
+      "name": "writing-shape",
+      "descriptionLen": 77,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office\\SKILL.md",
+      "dirName": "office",
+      "name": "office",
+      "descriptionLen": 128,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-docx\\SKILL.md",
+      "dirName": "office-docx",
+      "name": "office-docx",
+      "descriptionLen": 56,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-export-pdf\\SKILL.md",
+      "dirName": "office-export-pdf",
+      "name": "office-export-pdf",
+      "descriptionLen": 67,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-pptx\\SKILL.md",
+      "dirName": "office-pptx",
+      "name": "office-pptx",
+      "descriptionLen": 66,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-recalculate\\SKILL.md",
+      "dirName": "office-recalculate",
+      "name": "office-recalculate",
+      "descriptionLen": 85,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-render\\SKILL.md",
+      "dirName": "office-render",
+      "name": "office-render",
+      "descriptionLen": 79,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "runtime",
+      "file": "D:\\tools\\dsh\\resources\\runtime\\office-skills\\office-xlsx\\SKILL.md",
+      "dirName": "office-xlsx",
+      "name": "office-xlsx",
+      "descriptionLen": 77,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\SKILL.md",
+      "dirName": "stage-panel",
+      "name": "stage-panel",
+      "descriptionLen": 189,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\code\\SKILL.md",
+      "dirName": "code",
+      "name": "",
+      "descriptionLen": 0,
+      "issues": [
+        "缺少 frontmatter（首行必须是 ---）"
+      ],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\game-study\\SKILL.md",
+      "dirName": "game-study",
+      "name": "",
+      "descriptionLen": 0,
+      "issues": [
+        "缺少 frontmatter（首行必须是 ---）"
+      ],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\learn\\SKILL.md",
+      "dirName": "learn",
+      "name": "",
+      "descriptionLen": 0,
+      "issues": [
+        "缺少 frontmatter（首行必须是 ---）"
+      ],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\ml\\SKILL.md",
+      "dirName": "ml",
+      "name": "",
+      "descriptionLen": 0,
+      "issues": [
+        "缺少 frontmatter（首行必须是 ---）"
+      ],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\quant\\SKILL.md",
+      "dirName": "quant",
+      "name": "",
+      "descriptionLen": 0,
+      "issues": [
+        "缺少 frontmatter（首行必须是 ---）"
+      ],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@changfenhuang\\dsh-genui\\SKILL.md",
+      "dirName": "dsh-genui",
+      "name": "genui",
+      "descriptionLen": 280,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\ding\\SKILL.md",
+      "dirName": "ding",
+      "name": "ding",
+      "descriptionLen": 377,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\mama\\SKILL.md",
+      "dirName": "mama",
+      "name": "mama",
+      "descriptionLen": 56,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p10\\SKILL.md",
+      "dirName": "p10",
+      "name": "p10",
+      "descriptionLen": 233,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p7\\SKILL.md",
+      "dirName": "p7",
+      "name": "p7",
+      "descriptionLen": 246,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p9\\SKILL.md",
+      "dirName": "p9",
+      "name": "p9",
+      "descriptionLen": 239,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pro\\SKILL.md",
+      "dirName": "pro",
+      "name": "pro",
+      "descriptionLen": 129,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua\\SKILL.md",
+      "dirName": "pua",
+      "name": "pua",
+      "descriptionLen": 543,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-en\\SKILL.md",
+      "dirName": "pua-en",
+      "name": "pua-en",
+      "descriptionLen": 194,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-ja\\SKILL.md",
+      "dirName": "pua-ja",
+      "name": "pua-ja",
+      "descriptionLen": 75,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-loop\\SKILL.md",
+      "dirName": "pua-loop",
+      "name": "pua-loop",
+      "descriptionLen": 167,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\shot\\SKILL.md",
+      "dirName": "shot",
+      "name": "shot",
+      "descriptionLen": 146,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\yes\\SKILL.md",
+      "dirName": "yes",
+      "name": "yes",
+      "descriptionLen": 139,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@tt-a1i\\archify-dsh\\skills\\archify\\SKILL.md",
+      "dirName": "archify",
+      "name": "archify",
+      "descriptionLen": 930,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@vectorize-io\\hindsight-coding-agents\\skill\\SKILL.md",
+      "dirName": "skill",
+      "name": "hindsight-coding-agent",
+      "descriptionLen": 303,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\card-theater\\SKILL.md",
+      "dirName": "card-theater",
+      "name": "card-theater",
+      "descriptionLen": 119,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\dynamic-archify\\SKILL.md",
+      "dirName": "dynamic-archify",
+      "name": "dynamic-archify",
+      "descriptionLen": 804,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\flowchart\\SKILL.md",
+      "dirName": "flowchart",
+      "name": "flowchart",
+      "descriptionLen": 97,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\network-protocol-viz\\SKILL.md",
+      "dirName": "network-protocol-viz",
+      "name": "network-protocol-viz",
+      "descriptionLen": 74,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\phone-ui-demos\\SKILL.md",
+      "dirName": "phone-ui-demos",
+      "name": "phone-ui-demos",
+      "descriptionLen": 255,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\ppt-animation\\SKILL.md",
+      "dirName": "ppt-animation",
+      "name": "ppt-animation",
+      "descriptionLen": 58,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\scholar-notes\\SKILL.md",
+      "dirName": "scholar-notes",
+      "name": "学霸笔记",
+      "descriptionLen": 61,
+      "issues": [],
+      "notes": [
+        "name 非 ASCII，目录名回退为 scholar-notes"
+      ]
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\video-shot-demos\\SKILL.md",
+      "dirName": "video-shot-demos",
+      "name": "video-shot-demos",
+      "descriptionLen": 229,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-craft-your-textbook\\resources\\SKILL.md",
+      "dirName": "resources",
+      "name": "dsh-craft-your-textbook",
+      "descriptionLen": 235,
+      "issues": [],
+      "notes": [
+        "name 与目录名不同"
+      ]
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-image-gen\\skills\\install-dsh-image-gen\\SKILL.md",
+      "dirName": "install-dsh-image-gen",
+      "name": "install-dsh-image-gen",
+      "descriptionLen": 301,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-copy\\SKILL.md",
+      "dirName": "ppt-studio-copy",
+      "name": "ppt-studio-copy",
+      "descriptionLen": 115,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-craft\\SKILL.md",
+      "dirName": "ppt-studio-craft",
+      "name": "ppt-studio-craft",
+      "descriptionLen": 104,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-data\\SKILL.md",
+      "dirName": "ppt-studio-data",
+      "name": "ppt-studio-data",
+      "descriptionLen": 111,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram\\SKILL.md",
+      "dirName": "ppt-studio-diagram",
+      "name": "ppt-studio-diagram",
+      "descriptionLen": 64,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-compare\\SKILL.md",
+      "dirName": "ppt-studio-diagram-compare",
+      "name": "ppt-studio-diagram-compare",
+      "descriptionLen": 35,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-flow\\SKILL.md",
+      "dirName": "ppt-studio-diagram-flow",
+      "name": "ppt-studio-diagram-flow",
+      "descriptionLen": 40,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-funnel\\SKILL.md",
+      "dirName": "ppt-studio-diagram-funnel",
+      "name": "ppt-studio-diagram-funnel",
+      "descriptionLen": 42,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-layers\\SKILL.md",
+      "dirName": "ppt-studio-diagram-layers",
+      "name": "ppt-studio-diagram-layers",
+      "descriptionLen": 38,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-loop\\SKILL.md",
+      "dirName": "ppt-studio-diagram-loop",
+      "name": "ppt-studio-diagram-loop",
+      "descriptionLen": 48,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-matrix\\SKILL.md",
+      "dirName": "ppt-studio-diagram-matrix",
+      "name": "ppt-studio-diagram-matrix",
+      "descriptionLen": 57,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-sequence\\SKILL.md",
+      "dirName": "ppt-studio-diagram-sequence",
+      "name": "ppt-studio-diagram-sequence",
+      "descriptionLen": 45,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-state\\SKILL.md",
+      "dirName": "ppt-studio-diagram-state",
+      "name": "ppt-studio-diagram-state",
+      "descriptionLen": 43,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-steps-ring\\SKILL.md",
+      "dirName": "ppt-studio-diagram-steps-ring",
+      "name": "ppt-studio-diagram-steps-ring",
+      "descriptionLen": 46,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-swimlane\\SKILL.md",
+      "dirName": "ppt-studio-diagram-swimlane",
+      "name": "ppt-studio-diagram-swimlane",
+      "descriptionLen": 58,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-timeline\\SKILL.md",
+      "dirName": "ppt-studio-diagram-timeline",
+      "name": "ppt-studio-diagram-timeline",
+      "descriptionLen": 42,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-tree\\SKILL.md",
+      "dirName": "ppt-studio-diagram-tree",
+      "name": "ppt-studio-diagram-tree",
+      "descriptionLen": 42,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-manual\\SKILL.md",
+      "dirName": "ppt-studio-manual",
+      "name": "ppt-studio-manual",
+      "descriptionLen": 183,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer\\SKILL.md",
+      "dirName": "univer",
+      "name": "univer",
+      "descriptionLen": 390,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-base\\SKILL.md",
+      "dirName": "univer-base",
+      "name": "univer-base",
+      "descriptionLen": 294,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-board\\SKILL.md",
+      "dirName": "univer-board",
+      "name": "univer-board",
+      "descriptionLen": 241,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-cross-unit-formula\\SKILL.md",
+      "dirName": "univer-cross-unit-formula",
+      "name": "univer-cross-unit-formula",
+      "descriptionLen": 284,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-doc\\SKILL.md",
+      "dirName": "univer-doc",
+      "name": "univer-doc",
+      "descriptionLen": 311,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-embed\\SKILL.md",
+      "dirName": "univer-embed",
+      "name": "univer-embed",
+      "descriptionLen": 270,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-sheet\\SKILL.md",
+      "dirName": "univer-sheet",
+      "name": "univer-sheet",
+      "descriptionLen": 293,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-slide\\SKILL.md",
+      "dirName": "univer-slide",
+      "name": "univer-slide",
+      "descriptionLen": 411,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\brainstorming\\SKILL.md",
+      "dirName": "brainstorming",
+      "name": "brainstorming",
+      "descriptionLen": 213,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\diagnosing-superpowers\\SKILL.md",
+      "dirName": "diagnosing-superpowers",
+      "name": "diagnosing-superpowers",
+      "descriptionLen": 375,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\dispatching-parallel-agents\\SKILL.md",
+      "dirName": "dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "descriptionLen": 106,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\executing-plans\\SKILL.md",
+      "dirName": "executing-plans",
+      "name": "executing-plans",
+      "descriptionLen": 170,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\finishing-a-development-branch\\SKILL.md",
+      "dirName": "finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "descriptionLen": 101,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\receiving-code-review\\SKILL.md",
+      "dirName": "receiving-code-review",
+      "name": "receiving-code-review",
+      "descriptionLen": 234,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\requesting-code-review\\SKILL.md",
+      "dirName": "requesting-code-review",
+      "name": "requesting-code-review",
+      "descriptionLen": 107,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\subagent-driven-development\\SKILL.md",
+      "dirName": "subagent-driven-development",
+      "name": "subagent-driven-development",
+      "descriptionLen": 85,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\systematic-debugging\\SKILL.md",
+      "dirName": "systematic-debugging",
+      "name": "systematic-debugging",
+      "descriptionLen": 91,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\test-driven-development\\SKILL.md",
+      "dirName": "test-driven-development",
+      "name": "test-driven-development",
+      "descriptionLen": 79,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\using-git-worktrees\\SKILL.md",
+      "dirName": "using-git-worktrees",
+      "name": "using-git-worktrees",
+      "descriptionLen": 196,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\using-superpowers\\SKILL.md",
+      "dirName": "using-superpowers",
+      "name": "using-superpowers",
+      "descriptionLen": 154,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\verification-before-completion\\SKILL.md",
+      "dirName": "verification-before-completion",
+      "name": "verification-before-completion",
+      "descriptionLen": 225,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\writing-plans\\SKILL.md",
+      "dirName": "writing-plans",
+      "name": "writing-plans",
+      "descriptionLen": 84,
+      "issues": [],
+      "notes": []
+    },
+    {
+      "source": "plugin",
+      "file": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\writing-skills\\SKILL.md",
+      "dirName": "writing-skills",
+      "name": "writing-skills",
+      "descriptionLen": 97,
+      "issues": [],
+      "notes": []
+    }
+  ]
+}

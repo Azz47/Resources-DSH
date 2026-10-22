@@ -1,0 +1,45 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "39"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [269, 74, 438, 44]
+    content:
+      text: "课堂练习"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_1"
+    elementType: line
+    bounds: [272, 127, 438, 2]
+    points: [[272,129],[710,127]]
+    line: {color: "#014E6A", width: 1}
+  - elementId: "矩形_4"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#014E6A"
+    line: {color: "#000000"}
+  - elementId: "矩形_10"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000"}
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [67, 147, 842, 40]
+    content:
+      text: "（2）结合材料，运用所学知识，分析我国取得这些科技成就的原因。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [67, 191, 830, 303]
+    content:
+      text: "①坚持以习近平新时代中国特色社会主义思想为指导——党中央提出“以科技创新为引领，培育壮大新兴产业和未来产业”，正是这一思想的生动实践；② 坚持和加强党的全面领导——从基础研究系统部署到“十五五”规划整体布局，党的领导是科技事业不断胜利的根本保证；③ 中国特色社会主义制度具有显著优势——集中力量办大事，统筹布局、组织科技工作者协同攻关“卡脖子”难题；④ 坚持以人民为中心的发展思想——高铁、北斗、创新药、绿色技术走进百姓生活，发展为了人民、发展成果由人民共享。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"

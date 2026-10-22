@@ -1,0 +1,186 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "用“基层立法联系点”讲全过程人民民主，让学生明白：法律不是离他很远的东西。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#E8C15A", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务一 · 观展选品——感悟新时代", fontSize: 14, color: "#8A6A1E", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "展板四 · 民主法治：民意直达国家立法机关", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#E8C15A", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#E8C15A", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E8C15A"}, {pos: 100, color: "#8A6A1E", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#8A6A1E"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "10 / 42", fontSize: 14, color: "#E8C15A", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p10tag_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p10tag"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p10tag_cap", "p10tag_t"]
+  - elementId: "p10tag_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p10tag_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "展板四　民主法治　·　政治建设", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p10i0_bg_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [37, 162.56, 282, 134.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p10i0_bg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [35, 158.56, 286, 134.6]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p10i0_bg_le", "p10i0", "p10i0_cap"]
+  - elementId: "p10i0_bg_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [37, 167.56, 3.5, 116.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p10i0"
+    elementType: "image"
+    bounds: [44, 167.56, 268, 88]
+    src: "media/image9.jpeg"
+    fit: "cover"
+  - elementId: "p10i0_cap"
+    elementType: "text"
+    bounds: [35, 267.56, 286, 25.599999999999998]
+    content: {text: "基层立法联系点", fontSize: 14, color: "#465C4D", fontFamily: "楷体"}
+  - elementId: "p10i1_bg_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [323, 162.56, 282, 134.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p10i1_bg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [321, 158.56, 286, 134.6]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p10i1_bg_le", "p10i1", "p10i1_cap"]
+  - elementId: "p10i1_bg_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [323, 167.56, 3.5, 116.6]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p10i1"
+    elementType: "image"
+    bounds: [330, 167.56, 268, 88]
+    src: "media/image10.png"
+    fit: "cover"
+  - elementId: "p10i1_cap"
+    elementType: "text"
+    bounds: [321, 267.56, 286, 25.599999999999998]
+    content: {text: "生态环境法典", fontSize: 14, color: "#465C4D", fontFamily: "楷体"}
+  - elementId: "p10t_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 316.15999999999997, 592, 98.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "p10t"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 312.15999999999997, 596, 98.16]
+    fill: "#E9EFE9"
+    line: {color: "#8A6A1E", width: 1.25}
+    contains: ["p10t_le", "p10t_b"]
+  - elementId: "p10t_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 321.15999999999997, 3.5, 80.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#8A6A1E"}, {pos: 100, color: "#8A6A1E", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "p10t_b"
+    elementType: "text"
+    bounds: [56, 321.15999999999997, 572, 74.16]
+    content: {text: "发展全过程人民民主，坚持全面依法治国。\n《中华人民共和国生态环境法典》以法治护航美丽中国。\n基层立法联系点让民意直达国家立法机关。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "sn"
+    elementType: "text"
+    bounds: [44, 424.31999999999994, 596, 25.599999999999998]
+    content: {text: "图片来源：人民网 · 人民日报", fontSize: 14, color: "#A9C0AE", fontFamily: "楷体"}

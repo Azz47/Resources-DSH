@@ -1,0 +1,309 @@
+canvas=960x540  safeArea={'top': 24, 'bottom': 48, 'left': 36, 'right': 320}  content-right-limit=640
+
+==== A. 背景来源一致性 (page | bg | elements | maxRight | maxBottom | expOverlap/OutSafe) ====
+p01_cover.yaml     | image:media/image1.jpeg      | n=14  | R=640.0  | B=430.0  | 0/0
+p02_scene.yaml     | image:media/image1.jpeg      | n=24  | R=640.0  | B=456.0  | 0/0
+p03_literacy.yaml  | image:media/image1.jpeg      | n=24  | R=640.0  | B=456.0  | 0/0
+p04_goals.yaml     | image:media/image1.jpeg      | n=26  | R=640.0  | B=456.0  | 0/0
+p05_route.yaml     | image:media/image1.jpeg      | n=25  | R=640.0  | B=456.0  | 0/0
+p06_s1_open.yaml   | image:media/image1.jpeg      | n=28  | R=640.0  | B=456.0  | 0/0
+p07_tasklist.yaml  | image:media/image1.jpeg      | n=28  | R=640.0  | B=456.0  | 0/0
+p08_board1.yaml    | image:media/image1.jpeg      | n=16  | R=640.0  | B=456.0  | 0/0
+p09_board1b.yaml   | image:media/image1.jpeg      | n=31  | R=640.0  | B=456.0  | 0/0
+p10_board2.yaml    | image:media/image1.jpeg      | n=16  | R=640.0  | B=456.0  | 0/0
+p11_board2b.yaml   | image:media/image1.jpeg      | n=28  | R=640.0  | B=456.0  | 0/0
+p12_board3.yaml    | image:media/image1.jpeg      | n=16  | R=640.0  | B=456.0  | 0/0
+p13_board3b.yaml   | image:media/image1.jpeg      | n=24  | R=640.0  | B=456.0  | 0/0
+p14_board4a.yaml   | image:media/image1.jpeg      | n=32  | R=640.0  | B=456.0  | 0/0
+p15_board4b.yaml   | image:media/image1.jpeg      | n=32  | R=640.0  | B=456.0  | 0/0
+p16_board4c.yaml   | image:media/image1.jpeg      | n=16  | R=640.0  | B=456.0  | 0/0
+p17_speak.yaml     | image:media/image1.jpeg      | n=23  | R=640.0  | B=456.0  | 0/0
+p18_s1_sum.yaml    | image:media/image1.jpeg      | n=15  | R=640.0  | B=442.2  | 0/0
+p19_s2_open.yaml   | image:media/image1.jpeg      | n=18  | R=640.0  | B=456.0  | 0/0
+p20_method.yaml    | image:media/image1.jpeg      | n=31  | R=640.0  | B=456.0  | 0/0
+p21_evidence.yaml  | image:media/image1.jpeg      | n=31  | R=640.0  | B=456.0  | 0/0
+p22_cause1.yaml    | image:media/image1.jpeg      | n=25  | R=640.0  | B=456.0  | 0/0
+p23_cause2.yaml    | image:media/image1.jpeg      | n=27  | R=640.0  | B=456.0  | 0/0
+p24_cause3.yaml    | image:media/image1.jpeg      | n=28  | R=640.0  | B=456.0  | 0/0
+p25_cause4.yaml    | image:media/image1.jpeg      | n=26  | R=640.0  | B=456.0  | 0/0
+p26_cause5.yaml    | image:media/image1.jpeg      | n=26  | R=640.0  | B=456.0  | 0/0
+p27_keys.yaml      | image:media/image1.jpeg      | n=51  | R=640.0  | B=456.0  | 0/0
+p28_map.yaml       | image:media/image1.jpeg      | n=12  | R=640.0  | B=456.0  | 0/0
+p29_s2_sum.yaml    | image:media/image1.jpeg      | n=24  | R=640.0  | B=456.0  | 0/0
+p30_s3_open.yaml   | image:media/image1.jpeg      | n=18  | R=640.0  | B=456.0  | 0/0
+p31_saltlake.yaml  | image:media/image1.jpeg      | n=12  | R=640.0  | B=456.0  | 0/0
+p32_quote.yaml     | image:media/image1.jpeg      | n=17  | R=640.0  | B=456.0  | 0/0
+p33_datawall.yaml  | image:media/image1.jpeg      | n=33  | R=640.0  | B=456.0  | 0/0
+p34_photos.yaml    | image:media/image1.jpeg      | n=12  | R=640.0  | B=456.0  | 0/0
+p35_digital.yaml   | image:media/image1.jpeg      | n=25  | R=640.0  | B=456.0  | 0/0
+p36_research.yaml  | image:media/image1.jpeg      | n=33  | R=640.0  | B=456.0  | 0/0
+p37_directions.yaml | image:media/image1.jpeg      | n=27  | R=640.0  | B=451.1  | 0/0
+p38_rubric.yaml    | image:media/image1.jpeg      | n=36  | R=640.0  | B=456.0  | 0/0
+p39_debate.yaml    | image:media/image1.jpeg      | n=21  | R=640.0  | B=456.0  | 0/0
+p40_actions.yaml   | image:media/image1.jpeg      | n=26  | R=640.0  | B=456.0  | 0/0
+p41_proposal.yaml  | image:media/image1.jpeg      | n=25  | R=640.0  | B=456.0  | 0/0
+p42_s3_sum.yaml    | image:media/image1.jpeg      | n=18  | R=640.0  | B=456.0  | 0/0
+p43_summary.yaml   | image:media/image1.jpeg      | n=26  | R=640.0  | B=456.0  | 0/0
+p44_homework.yaml  | image:media/image1.jpeg      | n=27  | R=640.0  | B=456.0  | 0/0
+p45_source.yaml    | image:media/image1.jpeg      | n=29  | R=640.0  | B=456.0  | 0/0
+p46_end.yaml       | image:media/image1.jpeg      | n=6   | R=620.0  | B=430.0  | 0/0
+
+==== B. 背景种类统计 ====
+  image:media/image1.jpeg          x46
+
+==== C. 侵入右1/3 (x+w > 640) ====
+  => 共 0/46 页存在右1/3侵入
+
+==== D. 越出画布 (off-page) ====
+  => 共 0 页
+
+==== E. 距画布边 <10px (贴边风险) ====
+  => 共 0 页
+
+==== F. 文本溢出 (metrics.overflow) ====
+  [p02_scene.yaml] id=s1c_b          ovfY=0      ovfX=599    text=校园文化艺术节要办一个“新时代 · 
+  [p02_scene.yaml] id=ac0_b          ovfY=0      ovfX=251    text=选出最打动你的一张图、一件事或一
+个
+  [p02_scene.yaml] id=ac1_b          ovfY=0      ovfX=121    text=如果只能给观众留一句解说词，你最
+想
+  [p03_literacy.yaml] id=bc0_b          ovfY=0      ovfX=670    text=在解码新成就的过程
+中，认同中国共产
+  [p03_literacy.yaml] id=bc1_b          ovfY=0      ovfX=451    text=明确新时代发展“人
+人共建、人人共享
+  [p03_literacy.yaml] id=bc2_b          ovfY=0      ovfX=331    text=在社会观察、合作探
+究与观点辨析中，
+  [p03_literacy.yaml] id=s2bar_t        ovfY=0      ovfX=357    text=《义务教育道德与法治课程标准（202
+  [p06_s1_open.yaml] id=d1c_b          ovfY=0      ovfX=380    text=你手里已经有六个展区的“半成品”：几
+  [p06_s1_open.yaml] id=dc0_b          ovfY=0      ovfX=98     text=选一张最有冲击力的图，
+它会替你说话
+  [p06_s1_open.yaml] id=dc1_b          ovfY=0      ovfX=112    text=找一组最有说服力的数
+字，它让观众信
+  [p06_s1_open.yaml] id=dc2_b          ovfY=0      ovfX=126    text=配一句最短的解说词，
+它决定观众记住
+  [p07_tasklist.yaml] id=ec0_b          ovfY=0      ovfX=81     text=空间站、人工智能、工业互联网、远程
+
+  [p07_tasklist.yaml] id=ec1_b          ovfY=0      ovfX=67     text=高速铁路网、高速公路网、世界级港口
+
+  [p07_tasklist.yaml] id=fc0_b          ovfY=0      ovfX=11     text=平安中国、居家安心、出行放心、生活
+
+  [p07_tasklist.yaml] id=fc1_t          ovfY=0      ovfX=51     text=展板四～六　生态文明 · 文化
+ ·
+  [p07_tasklist.yaml] id=fc1_b          ovfY=0      ovfX=123    text=把绿色写进发展，让老东西有新活法，
+
+  [p08_board1.yaml] id=i1b            ovfY=0      ovfX=903    text=空间站：中国人有了自己的“太空之
+家
+  [p10_board2.yaml] id=i2b            ovfY=0      ovfX=750    text=高速铁路网：千里之遥，朝发夕至
+高速
+  [p11_board2b.yaml] id=kc0_b          ovfY=0      ovfX=31     text=过去一天的路程，现在一个上午就能
+走
+  [p11_board2b.yaml] id=kc1_b          ovfY=0      ovfX=46     text=路网延伸到乡镇村口，农产品当天就
+能
+  [p11_board2b.yaml] id=mc0_b          ovfY=0      ovfX=80     text=集装箱在港口堆叠，货轮把“中国制
+造
+  [p11_board2b.yaml] id=mc1_b          ovfY=0      ovfX=91     text=机场与航线织成网，中国与世界的距
+离
+  [p12_board3.yaml] id=i3b            ovfY=0      ovfX=844    text=平安中国：夜晚的街灯下，脚步是踏实的
+  [p13_board3b.yaml] id=nc0_b          ovfY=0      ovfX=247    text=严厉打击违法犯罪，社
+会治安持续向好
+  [p13_board3b.yaml] id=nc1_b          ovfY=0      ovfX=275    text=社区治理更精细，从养
+老助餐到老旧小
+  [p13_board3b.yaml] id=nc2_b          ovfY=0      ovfX=205    text=交通秩序更规范，应急
+保障更及时，出
+  [p16_board4c.yaml] id=u1b            ovfY=0      ovfX=1304   text=脱贫攻坚：历史性地解决了绝对贫困问题
+  [p16_board4c.yaml] id=u1bar_t        ovfY=0      ovfX=1      text=解说词备选：民生无小事，枝叶总关情—
+  [p17_speak.yaml] id=spn0           ovfY=0      ovfX=4      text=同学甲 ｜ 展板一 · 科技发
+展
+  [p17_speak.yaml] id=spb0           ovfY=0      ovfX=528    text=我选择科技发展展板。空间站长期有人
+
+  [p17_speak.yaml] id=spn1           ovfY=0      ovfX=4      text=同学乙 ｜ 展板三 · 社会治
+理
+  [p17_speak.yaml] id=spb1           ovfY=0      ovfX=500    text=我选择社会治理展板。平安中国建设让
+
+  [p18_s1_sum.yaml] id=z_q            ovfY=0      ovfX=314    text=六个展区，一个共同点——
+这些成就是
+  [p19_s2_open.yaml] id=hr_big         ovfY=0      ovfX=270    text=谁来引领？　靠什么推动？
+为了谁？　
+  [p19_s2_open.yaml] id=hr_sub         ovfY=0      ovfX=272    text=这四个问题，就是这一环节要去找的四条
+  [p22_cause1.yaml] id=r1b            ovfY=0      ovfX=538    text=习近平新时代中国特色社会主义思想，是
+  [p22_cause1.yaml] id=Ac0_b          ovfY=0      ovfX=102    text=脱贫攻坚讲“精准”，
+一张一弛都有章
+  [p22_cause1.yaml] id=Ac1_b          ovfY=0      ovfX=167    text=“绿水青山就是金山银
+山”，发展与保
+  [p22_cause1.yaml] id=Ac2_b          ovfY=0      ovfX=102    text=“以人民为中心”写在
+每一项民生政策
+  [p24_cause3.yaml] id=Cc0_b          ovfY=0      ovfX=163    text=集中力量，8 年攻坚，
+历史性解决绝
+  [p24_cause3.yaml] id=Cc1_b          ovfY=0      ovfX=112    text=全国一盘棋，物资、人
+员、技术快速集
+  [p24_cause3.yaml] id=Cc2_b          ovfY=0      ovfX=195    text=南水北调、西气东输、“
+东数西算”，
+  [p27_keys.yaml] id=k_bb0          ovfY=0      ovfX=206    text=习近平新时代
+中国特色社会
+主义思想
+  [p27_keys.yaml] id=k_bb1          ovfY=0      ovfX=59     text=坚持和加强党
+的全面领导
+  [p27_keys.yaml] id=k_bb2          ovfY=0      ovfX=120    text=中国特色社会
+主义制度的显
+著优势
+  [p27_keys.yaml] id=k_bb3          ovfY=0      ovfX=94     text=坚持以人民为
+中心的发展思
+想
+  [p27_keys.yaml] id=k_bb4          ovfY=0      ovfX=20     text=坚持创新驱动
+发展
+  [p29_s2_sum.yaml] id=Fc0_b          ovfY=0      ovfX=187    text=我们看到的是现象：
+路通了、天蓝了、
+  [p29_s2_sum.yaml] id=Fc1_b          ovfY=0      ovfX=286    text=我们追的是本质：有
+方向、有领导、有
+  [p29_s2_sum.yaml] id=Fc2_b          ovfY=0      ovfX=202    text=我们得到的是认同：
+这些成就不是偶然
+  [p30_s3_open.yaml] id=hr_sub         ovfY=0      ovfX=181    text=到盐湖边看一看：水清了没有？鸟回来了
+  [p31_saltlake.yaml] id=saltb          ovfY=0      ovfX=486    text=这是新时代在河东大地的生动缩影：曾经
+  [p32_quote.yaml] id=qt             ovfY=0      ovfX=910    text=盐湖的生态价值和功能越来越重要，要统
+  [p32_quote.yaml] id=qk             ovfY=0      ovfX=666    text=关键词一　保护：开发要算生态账，不能
+  [p33_datawall.yaml] id=dwc1           ovfY=0      ovfX=32     text=“十四五”以来累计投入（
+约数）
+  [p33_datawall.yaml] id=dwc2           ovfY=0      ovfX=6      text=“一池四滩”收回的土地
+面积
+  [p33_datawall.yaml] id=sn             ovfY=0      ovfX=306    text=数据来源：山西省人民政府网站《还湖于
+  [p37_directions.yaml] id=Hc0_t          ovfY=0      ovfX=29     text=方向一　盐湖生态变
+迁
+  [p37_directions.yaml] id=Hc0_b          ovfY=0      ovfX=202    text=从工业开采到生态修
+复，变化是怎样一
+  [p37_directions.yaml] id=Hc1_t          ovfY=0      ovfX=29     text=方向二　盐湖保护举
+措
+  [p37_directions.yaml] id=Hc1_b          ovfY=0      ovfX=206    text=退盐还湖、立法保护…
+…这些政策措施
+  [p37_directions.yaml] id=Hc2_t          ovfY=0      ovfX=29     text=方向三　盐湖文旅发
+展
+  [p37_directions.yaml] id=Hc2_b          ovfY=0      ovfX=191    text=生态旅游、研学基地
+——新业态给家乡
+  [p39_debate.yaml] id=sbLb           ovfY=0      ovfX=822    text=不对。
+新时代的发展，人人共建、人人
+  [p39_debate.yaml] id=sbRb           ovfY=0      ovfX=537    text=了解盐湖，把家乡讲给更多人听。
+从节
+  [p41_proposal.yaml] id=pjb0           ovfY=0      ovfX=174    text=我在盐湖边看到、
+听到的一个真实
+现
+  [p41_proposal.yaml] id=pjb1           ovfY=0      ovfX=148    text=这个现象为什么
+会发生？和哪些
+因素
+  [p41_proposal.yaml] id=pjb2           ovfY=0      ovfX=195    text=我建议谁、做什
+么、怎么做，尽
+量具
+  [p41_proposal.yaml] id=pjb3           ovfY=0      ovfX=195    text=我用到了本单元
+或本课的哪个观
+点？
+  [p41_proposal.yaml] id=pjbar_t        ovfY=0      ovfX=275    text=示例：现象——盐湖边偶尔还有塑料瓶；
+  [p42_s3_sum.yaml] id=hr_sub         ovfY=0      ovfX=213    text=这不是三个词，是这一环节里我们实实在
+  [p44_homework.yaml] id=lvb0           ovfY=0      ovfX=258    text=从六块展板中任选三张，
+每张写清：是
+  [p44_homework.yaml] id=lvb1           ovfY=0      ovfX=297    text=从三个调研方向中选一个，
+写出问题、
+  [p44_homework.yaml] id=lvb2           ovfY=0      ovfX=257    text=用“成就—原因”两栏记
+录采访，想一
+  [p45_source.yaml] id=scb2           ovfY=0      ovfX=310    text=科技、交通、社会治理、盐湖等照片由授
+  => 共 27 页
+
+==== G. 底部安全带 (y>=492 或 bottom>492) 元素 ====
+
+==== H. 内容底部位置分布 (maxBottom) ====
+  min=430.0  median=456.0  max=456.0  (SAFE_B=492)
+   p01_cover.yaml     bottom=430.0
+   p46_end.yaml       bottom=430.0
+   p18_s1_sum.yaml    bottom=442.2
+   p37_directions.yaml bottom=451.1
+   p02_scene.yaml     bottom=456.0
+   p03_literacy.yaml  bottom=456.0
+   p04_goals.yaml     bottom=456.0
+   p05_route.yaml     bottom=456.0
+   p06_s1_open.yaml   bottom=456.0
+   p07_tasklist.yaml  bottom=456.0
+   p08_board1.yaml    bottom=456.0
+   p09_board1b.yaml   bottom=456.0
+   p10_board2.yaml    bottom=456.0
+   p11_board2b.yaml   bottom=456.0
+   p12_board3.yaml    bottom=456.0
+   p13_board3b.yaml   bottom=456.0
+   p14_board4a.yaml   bottom=456.0
+   p15_board4b.yaml   bottom=456.0
+   p16_board4c.yaml   bottom=456.0
+   p17_speak.yaml     bottom=456.0
+   p19_s2_open.yaml   bottom=456.0
+   p20_method.yaml    bottom=456.0
+   p21_evidence.yaml  bottom=456.0
+   p22_cause1.yaml    bottom=456.0
+   p23_cause2.yaml    bottom=456.0
+   p24_cause3.yaml    bottom=456.0
+   p25_cause4.yaml    bottom=456.0
+   p26_cause5.yaml    bottom=456.0
+   p27_keys.yaml      bottom=456.0
+   p28_map.yaml       bottom=456.0
+   p29_s2_sum.yaml    bottom=456.0
+   p30_s3_open.yaml   bottom=456.0
+   p31_saltlake.yaml  bottom=456.0
+   p32_quote.yaml     bottom=456.0
+   p33_datawall.yaml  bottom=456.0
+   p34_photos.yaml    bottom=456.0
+   p35_digital.yaml   bottom=456.0
+   p36_research.yaml  bottom=456.0
+   p38_rubric.yaml    bottom=456.0
+   p39_debate.yaml    bottom=456.0
+   p40_actions.yaml   bottom=456.0
+   p41_proposal.yaml  bottom=456.0
+   p42_s3_sum.yaml    bottom=456.0
+   p43_summary.yaml   bottom=456.0
+   p44_homework.yaml  bottom=456.0
+   p45_source.yaml    bottom=456.0
+
+==== I. 内容右界分布 (maxRight, 目标 640) ====
+  min=620.0  median=640.0  max=640.0
+   p46_end.yaml       maxRight=620.0
+   p01_cover.yaml     maxRight=640.0
+   p02_scene.yaml     maxRight=640.0
+   p03_literacy.yaml  maxRight=640.0
+   p04_goals.yaml     maxRight=640.0
+   p05_route.yaml     maxRight=640.0
+   p06_s1_open.yaml   maxRight=640.0
+   p07_tasklist.yaml  maxRight=640.0
+   p08_board1.yaml    maxRight=640.0
+   p09_board1b.yaml   maxRight=640.0
+   p10_board2.yaml    maxRight=640.0
+   p11_board2b.yaml   maxRight=640.0
+   p12_board3.yaml    maxRight=640.0
+   p13_board3b.yaml   maxRight=640.0
+   p14_board4a.yaml   maxRight=640.0
+   p15_board4b.yaml   maxRight=640.0
+   p16_board4c.yaml   maxRight=640.0
+   p17_speak.yaml     maxRight=640.0
+   p18_s1_sum.yaml    maxRight=640.0
+   p19_s2_open.yaml   maxRight=640.0
+   p20_method.yaml    maxRight=640.0
+   p21_evidence.yaml  maxRight=640.0
+   p22_cause1.yaml    maxRight=640.0
+   p23_cause2.yaml    maxRight=640.0
+   p24_cause3.yaml    maxRight=640.0
+   p25_cause4.yaml    maxRight=640.0
+   p26_cause5.yaml    maxRight=640.0
+   p27_keys.yaml      maxRight=640.0
+   p28_map.yaml       maxRight=640.0
+   p29_s2_sum.yaml    maxRight=640.0
+   p30_s3_open.yaml   maxRight=640.0
+   p31_saltlake.yaml  maxRight=640.0
+   p32_quote.yaml     maxRight=640.0
+   p33_datawall.yaml  maxRight=640.0
+   p34_photos.yaml    maxRight=640.0
+   p35_digital.yaml   maxRight=640.0
+   p36_research.yaml  maxRight=640.0
+   p37_directions.yaml maxRight=640.0
+   p38_rubric.yaml    maxRight=640.0
+   p39_debate.yaml    maxRight=640.0
+   p40_actions.yaml   maxRight=640.0
+   p41_proposal.yaml  maxRight=640.0
+   p42_s3_sum.yaml    maxRight=640.0
+   p43_summary.yaml   maxRight=640.0
+   p44_homework.yaml  maxRight=640.0
+   p45_source.yaml    maxRight=640.0
+
+==== J. measured.json (浏览器实测) ====
+  browser=Edge/Chrome headless size={'width': 960, 'height': 540} pages=46
+  page[0] keys=['pageNo', 'index', 'file', 'elements']

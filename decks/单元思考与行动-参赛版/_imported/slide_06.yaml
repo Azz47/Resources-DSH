@@ -1,0 +1,75 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "6"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [370, 95, 220, 46]
+    content:
+      text: "展板二 交通基建"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_13"
+    elementType: text
+    bounds: [20, 316, 312, 182]
+    content:
+      text: "看中国路，我国已建成全球最大的高速铁路网、高速公路网，高铁营业里程突破5万公里，高速公路总里程超过19.1万公里。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_14"
+    elementType: text
+    bounds: [328, 204, 304, 112]
+    content:
+      text: "看中国运河，平陆运河是新中国成立以来建设的第一条通江达海的大运河。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_15"
+    elementType: text
+    bounds: [642, 335, 287, 147]
+    content:
+      text: "看中国港，在全球货运、集装箱吞吐量排名前十的港口中，中国港口分别占了六席和八席。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "图片_11"
+    elementType: image
+    bounds: [45, 178, 257, 137]
+    fit: cover
+    src: "media/image5.jpeg"
+  - elementId: "图片_19"
+    elementType: image
+    bounds: [659, 184, 250, 137]
+    fit: cover
+    src: "media/image6.jpeg"
+  - elementId: "文本框_20"
+    elementType: text
+    bounds: [362, 452, 237, 35]
+    content:
+      text: "图片均来源于：人民网"
+      fontSize: 20
+      fontFamily: "华文楷体"
+  - elementId: "Picture_2"
+    elementType: image
+    bounds: [344, 326, 286, 126]
+    fit: cover
+    src: "media/image7.jpeg"
+  - elementId: "矩形_圆角_8_txt"
+    elementType: text
+    bounds: [639, 88, 140, 62]
+    content:
+      text: "经济建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_8"
+    elementType: shape
+    bounds: [639, 88, 140, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_10"
+    elementType: shape
+    bounds: [591, 110, 47, 25]
+    kind: rightArrow

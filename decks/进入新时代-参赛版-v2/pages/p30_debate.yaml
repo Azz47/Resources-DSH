@@ -1,0 +1,407 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "思辨：这件事，和我们有关吗？",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "33 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p30_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    156,
+    592,
+    150
+   ],
+   "fill": "#FBF8F0",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p30_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    156,
+    5,
+    150
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p30_q",
+   "elementType": "text",
+   "bounds": [
+    74,
+    178,
+    540,
+    106
+   ],
+   "content": {
+    "text": "盐池保护、家乡建设，是政府的事，和我们中学生无关。",
+    "fontSize": 26,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    336.72,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p30b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    330,
+    156.32,
+    24.8
+   ],
+   "content": {
+    "text": "先别急着说“不对”",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b0_t",
+   "elementType": "text",
+   "bounds": [
+    226.32,
+    330,
+    413.68,
+    24.8
+   ],
+   "content": {
+    "text": "想一想：这个说法里，哪一部分是真的？",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    373.52,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p30b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    366.8,
+    106.88,
+    24.8
+   ],
+   "content": {
+    "text": "再找它的漏洞",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b1_t",
+   "elementType": "text",
+   "bounds": [
+    176.88,
+    366.8,
+    463.12,
+    24.8
+   ],
+   "content": {
+    "text": "“有关”与“无关”之间，缺了哪一环？",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    410.32,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p30b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    403.6,
+    90.4,
+    24.8
+   ],
+   "content": {
+    "text": "给一个理由",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p30b2_t",
+   "elementType": "text",
+   "bounds": [
+    160.4,
+    403.6,
+    479.6,
+    24.8
+   ],
+   "content": {
+    "text": "用今天学到的“原因”，而不是用态度来回答。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：“跟中学生无关”，同意吗？答：多数说“不同意”。接：先别急着表态。请给一个能站住的反例。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p30_bg",
+    "p30_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p30_bg",
+    "p30_q"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

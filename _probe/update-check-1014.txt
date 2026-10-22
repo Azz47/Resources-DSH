@@ -1,0 +1,130 @@
+﻿
+=== mattpocock/skills [cache] tree=49dd158d10 ok
+    - ask-matt                           仅换行差异 3 文件（CRLF）
+    - chief-of-staff                     仅换行差异 2 文件（CRLF）
+    - claude-handoff                     仅换行差异 2 文件（CRLF）
+    - code-review                        仅换行差异 2 文件（CRLF）
+    - codebase-design                    仅换行差异 4 文件（CRLF）
+    - diagnosing-bugs                    仅换行差异 3 文件（CRLF）
+    - domain-modeling                    仅换行差异 4 文件（CRLF）
+    - git-guardrails-claude-code         仅换行差异 3 文件（CRLF）
+    - grill-me                           仅换行差异 2 文件（CRLF）
+    - grill-with-docs                    仅换行差异 2 文件（CRLF）
+    - grilling                           仅换行差异 2 文件（CRLF）
+    - handoff                            仅换行差异 2 文件（CRLF）
+    - implement                          仅换行差异 2 文件（CRLF）
+    - implement-spec                     仅换行差异 2 文件（CRLF）
+    - improve-codebase-architecture      仅换行差异 3 文件（CRLF）
+    - loop-me                            仅换行差异 2 文件（CRLF）
+    - migrate-to-shoehorn                仅换行差异 2 文件（CRLF）
+    - pr                                 仅换行差异 3 文件（CRLF）
+    - prototype                          仅换行差异 4 文件（CRLF）
+    - research                           仅换行差异 2 文件（CRLF）
+    - retro                              仅换行差异 2 文件（CRLF）
+    - scaffold-exercises                 仅换行差异 2 文件（CRLF）
+    - setup-matt-pocock-skills           仅换行差异 7 文件（CRLF）
+    - setup-pre-commit                   仅换行差异 2 文件（CRLF）
+    - setup-ts-deep-modules              仅换行差异 3 文件（CRLF）
+    - tdd                                仅换行差异 4 文件（CRLF）
+    - teach                              仅换行差异 6 文件（CRLF）
+    - to-questionnaire                   仅换行差异 2 文件（CRLF）
+    - to-spec                            仅换行差异 2 文件（CRLF）
+    - to-tickets                         仅换行差异 2 文件（CRLF）
+    - triage                             仅换行差异 4 文件（CRLF）
+    - wait-what                          仅换行差异 2 文件（CRLF）
+    - wayfinder                          仅换行差异 2 文件（CRLF）
+    - wizard                             仅换行差异 3 文件（CRLF）
+    - writing-beats                      仅换行差异 2 文件（CRLF）
+    - writing-for-agents                 仅换行差异 3 文件（CRLF）
+    - writing-fragments                  仅换行差异 2 文件（CRLF）
+    - writing-shape                      仅换行差异 2 文件（CRLF）
+
+=== nextlevelbuilder/ui-ux-pro-max-skill [cache] tree=7246805992 ok
+    - banner-design                      仅换行差异 2 文件（CRLF）
+    - brand                              仅换行差异 18 文件（CRLF）
+    - design                             仅换行差异 37 文件（CRLF）
+    - design-system                      仅换行差异 27 文件（CRLF）
+    - slides                             仅换行差异 6 文件（CRLF）
+    - ui-styling                         真实差异 82 (改0/上游增0/本机多82) + 换行15
+        本机多: canvas-fonts/ArsenalSC-OFL.txt
+        本机多: canvas-fonts/ArsenalSC-Regular.ttf
+        本机多: canvas-fonts/BigShoulders-Bold.ttf
+        本机多: canvas-fonts/BigShoulders-OFL.txt
+        本机多: canvas-fonts/BigShoulders-Regular.ttf
+        本机多: canvas-fonts/Boldonse-OFL.txt
+    - ui-ux-pro-max                      仅换行差异 73 文件（CRLF）
+
+=== leonxlnx/taste-skill [cache] tree=a60a36dc2b ok
+    - brandkit                           最新
+    - brutalist-skill                    最新
+    - gpt-tasteskill                     最新
+    - image-to-code-skill                最新
+    - imagegen-frontend-mobile           最新
+    - imagegen-frontend-web              最新
+    - minimalist-skill                   最新
+    - output-skill                       最新
+    - redesign-skill                     最新
+    - soft-skill                         最新
+    - stitch-skill                       最新
+    - taste-skill                        最新
+    - taste-skill-v1                     最新
+    - taste-skill-v2-experimental        最新
+
+=== blader/humanizer [cache] tree=225a6f39ac ok
+    - (root)                             真实差异 9 (改0/上游增0/本机多9)
+        本机多: .claude-plugin/marketplace.json
+        本机多: .claude-plugin/plugin.json
+        本机多: .cursor-plugin/plugin.json
+        本机多: .github/ISSUE_TEMPLATE/config.yml
+        本机多: .github/ISSUE_TEMPLATE/new-pattern.yml
+        本机多: .github/ISSUE_TEMPLATE/rewrite-problem.yml
+
+=== panniantong/agent-reach [cache] tree=94f06c1969 ok
+    - skill                              最新
+
+=== Egonex-AI/Understand-Anything [cache] tree=f2d0164f72 ok
+    - understand                         最新
+    - understand-chat                    最新
+    - understand-dashboard               最新
+    - understand-diff                    最新
+    - understand-domain                  最新
+    - understand-explain                 最新
+    - understand-figma                   最新
+    - understand-knowledge               最新
+    - understand-onboard                 最新
+
+=== zarazhangrui/frontend-slides [cache] tree=9906a34d64 ok
+    - frontend-slides                    最新
+
+=== hugohe3/ppt-master 失败: hugohe3/ppt-master 取树失败 -> master: Not Found
+
+=== iOfficeAI/OfficeCLI [main] tree=fb98e59361 ok
+    - (root)                             上游有 / 本机未装
+    - morph-ppt                          上游有 / 本机未装
+    - morph-ppt-3d                       上游有 / 本机未装
+    - officecli                          上游有 / 本机未装
+    - officecli-academic-paper           上游有 / 本机未装
+    - officecli-data-dashboard           上游有 / 本机未装
+    - officecli-docx                     上游有 / 本机未装
+    - officecli-financial-model          上游有 / 本机未装
+    - officecli-pitch-deck               上游有 / 本机未装
+    - officecli-pptx                     上游有 / 本机未装
+    - officecli-word-form                上游有 / 本机未装
+    - officecli-xlsx                     上游有 / 本机未装
+
+=== KKKKhazix/human-writing [cache] tree=4fda173f3f ok
+    - human-writing                      最新
+
+========== 汇总 ==========
+  mattpocock/skills                          最新   0 | 仅换行  38 | 真实差异   0 | 未装   0
+  nextlevelbuilder/ui-ux-pro-max-skill       最新   0 | 仅换行   6 | 真实差异   1 | 未装   0
+  leonxlnx/taste-skill                       最新  14 | 仅换行   0 | 真实差异   0 | 未装   0
+  blader/humanizer                           最新   0 | 仅换行   0 | 真实差异   1 | 未装   0
+  panniantong/agent-reach                    最新   1 | 仅换行   0 | 真实差异   0 | 未装   0
+  Egonex-AI/Understand-Anything              最新   9 | 仅换行   0 | 真实差异   0 | 未装   0
+  zarazhangrui/frontend-slides               最新   1 | 仅换行   0 | 真实差异   0 | 未装   0
+  iOfficeAI/OfficeCLI                        最新   0 | 仅换行   0 | 真实差异   0 | 未装  12
+  KKKKhazix/human-writing                    最新   1 | 仅换行   0 | 真实差异   0 | 未装   0
+  合计：最新 26 / 仅换行差异 44 / 真实差异 2 / 上游有本机无 12
+  失败 1：hugohe3/ppt-master
+  报告 -> D:\Resources\DSH\_probe\skill-update-report.json

@@ -1,0 +1,19 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "24"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "表格_1"
+    elementType: table
+    bounds: [67, 113, 813, 374]
+    cols: ["Col1", "Col2", "Col3"]
+    rows: [["要素","填写指引","我们组的方案"],["1.方案名称","简洁、有主题感，能体现“盐湖之变”",""],["2.调研目的","我们想弄清一个什么问题？",""],["3.调研方向","□ 生态　□ 文化　□ 经济",""],["4.调研对象","参考：盐湖管护人员/周边居民/景区游客/文旅部门工作人员",""],["5.调研方式","□ 现场访谈  □ 实地观察  □ 查阅官方文件、数据　□ 拍照记录",""],["6.成果形式","一份《家乡发展调研报告》（含事实、问题、对策）",""],["7.分工安排","资料员/记录员/汇报员/质疑员",""]]
+  - elementId: "文本框_2"
+    elementType: text
+    bounds: [382, 60, 197, 53]
+    content:
+      text: "研学活动方案"
+      fontSize: 28
+      fontFamily: "华文楷体"
+      align: center
+      lineHeight: 1.5

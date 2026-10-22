@@ -1,0 +1,34 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: |
+  页面统一为16:9宽幅画面比例尺寸；PPT统一格式为PPT或PPTX。
+  中文：
+  1. 课名：微软雅黑48号字；
+  2.（第一课时）：微软雅黑32号字；
+  3.学校名称：请填写全称；
+  4.学科、年级、主讲人、学校：华文楷体28号字（具体根据文字量可适当调整）。
+  
+  英文
+  1.课名：字体以Times New Roman为主，字号一般使用32—36号，特别强调可以用40号；
+  2.（Period 1）：字体使用Arial，字号为28；
+  3.正文一般用24—28号，特别强调可用32号。
+  
+  注意标点的规范（例如：中文省略号为……，可用Shift+数字键6打出中文省略号，英文省略号为…）
+  1
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "标题_1"
+    elementType: text
+    bounds: [83, 161, 794, 79]
+    content:
+      text: "第二单元 进入新时代单元思考与行动"
+      fontSize: 48
+      color: "#FFFFFF"
+      bold: true
+      fontFamily: "微软雅黑"
+  - elementId: "副标题_2"
+    elementType: text
+    bounds: [110, 297, 748, 78]
+    content:
+      text: "年 级：九年级 学 科：道德与法治（统编版）主讲人：张紫璇 学 校：运城市盐湖区北城初级中学"
+      fontSize: 28

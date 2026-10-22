@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "D:\\Resources\\DSH\\decks\\单元思考与行动-参赛版\\第二单元 进入新时代-单元思考与行动-参赛版.pptx",
+  "sourceSha256": "4c42817cfbe775916c746369bfcbfe88bb62cca1f0d12e916ea5177fa9e0a3b8",
+  "dpi": 144,
+  "pageCount": 46,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0001.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 315552
+    },
+    {
+      "index": 2,
+      "page": 5,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0002.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 337673
+    },
+    {
+      "index": 3,
+      "page": 8,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0003.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1371187
+    },
+    {
+      "index": 4,
+      "page": 17,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0004.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 394165
+    },
+    {
+      "index": 5,
+      "page": 27,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0005.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 364907
+    },
+    {
+      "index": 6,
+      "page": 33,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0006.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 376124
+    },
+    {
+      "index": 7,
+      "page": 37,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0007.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 363079
+    },
+    {
+      "index": 8,
+      "page": 41,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0008.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 368488
+    },
+    {
+      "index": 9,
+      "page": 44,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0009.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 386005
+    },
+    {
+      "index": 10,
+      "page": 46,
+      "path": "D:\\Resources\\DSH\\_probe\\va_true\\page-0010.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 237895
+    }
+  ],
+  "missingFonts": []
+}

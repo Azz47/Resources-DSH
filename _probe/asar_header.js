@@ -1,0 +1,23 @@
+// Inspect an asar header (no extraction): node asar_header.js <archive>
+const fs = require('fs');
+const p = process.argv[2];
+const fd = fs.openSync(p, 'r');
+const pre = Buffer.alloc(8);
+fs.readSync(fd, pre, 0, 8, 0);
+const marker = pre.readUInt32LE(0);
+const headerSize = pre.readUInt32LE(4);
+const hb = Buffer.alloc(headerSize);
+fs.readSync(fd, hb, 0, headerSize, 8);
+const json = hb.toString('utf8').replace(/\0+$/, '');
+console.log('archive       :', p);
+console.log('size bytes    :', fs.statSync(p).size);
+console.log('marker(=4?)   :', marker);
+console.log('headerSize    :', headerSize);
+console.log('json length   :', json.length);
+const parsed = JSON.parse(json);
+console.log('top keys      :', Object.keys(parsed).join(', '));
+console.log('integrity refs:', (json.match(/integrity/gi) || []).length);
+console.log('unpacked refs :', (json.match(/"unpacked":true/g) || []).length);
+console.log('link refs     :', (json.match(/"link":/g) || []).length);
+console.log('head          :', json.slice(0, 200));
+fs.closeSync(fd);

@@ -1,0 +1,885 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "六块展板，正好是“五位一体”",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "14 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13l_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    68.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p13l_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    3,
+    68.0
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13l_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    158.0,
+    565,
+    48.0
+   ],
+   "content": {
+    "text": "展板不是六张照片，是“五位一体”总体布局的六个落点——经济两块，其余各一块。",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b0_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    232.0,
+    110,
+    148
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p13b0_top",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    232.0,
+    110,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13b0_k",
+   "elementType": "text",
+   "bounds": [
+    57,
+    248.0,
+    92,
+    22
+   ],
+   "content": {
+    "text": "经济建设",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b0_v",
+   "elementType": "text",
+   "bounds": [
+    57,
+    280.0,
+    92,
+    52
+   ],
+   "content": {
+    "text": "科技发展\n交通基建",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b0_n",
+   "elementType": "text",
+   "bounds": [
+    57,
+    346.0,
+    92,
+    20
+   ],
+   "content": {
+    "text": "第 1 块",
+    "fontSize": 12,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b1_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    168,
+    232.0,
+    110,
+    148
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p13b1_top",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    168,
+    232.0,
+    110,
+    4
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13b1_k",
+   "elementType": "text",
+   "bounds": [
+    177,
+    248.0,
+    92,
+    22
+   ],
+   "content": {
+    "text": "政治建设",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b1_v",
+   "elementType": "text",
+   "bounds": [
+    177,
+    280.0,
+    92,
+    52
+   ],
+   "content": {
+    "text": "民主法治",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b1_n",
+   "elementType": "text",
+   "bounds": [
+    177,
+    346.0,
+    92,
+    20
+   ],
+   "content": {
+    "text": "第 2 块",
+    "fontSize": 12,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b2_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    288,
+    232.0,
+    110,
+    148
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p13b2_top",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    288,
+    232.0,
+    110,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13b2_k",
+   "elementType": "text",
+   "bounds": [
+    297,
+    248.0,
+    92,
+    22
+   ],
+   "content": {
+    "text": "文化建设",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b2_v",
+   "elementType": "text",
+   "bounds": [
+    297,
+    280.0,
+    92,
+    52
+   ],
+   "content": {
+    "text": "文化传承",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b2_n",
+   "elementType": "text",
+   "bounds": [
+    297,
+    346.0,
+    92,
+    20
+   ],
+   "content": {
+    "text": "第 3 块",
+    "fontSize": 12,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b3_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    408,
+    232.0,
+    110,
+    148
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p13b3_top",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    408,
+    232.0,
+    110,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13b3_k",
+   "elementType": "text",
+   "bounds": [
+    417,
+    248.0,
+    92,
+    22
+   ],
+   "content": {
+    "text": "社会建设",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b3_v",
+   "elementType": "text",
+   "bounds": [
+    417,
+    280.0,
+    92,
+    52
+   ],
+   "content": {
+    "text": "平安中国",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b3_n",
+   "elementType": "text",
+   "bounds": [
+    417,
+    346.0,
+    92,
+    20
+   ],
+   "content": {
+    "text": "第 4 块",
+    "fontSize": 12,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b4_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    528,
+    232.0,
+    110,
+    148
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p13b4_top",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    528,
+    232.0,
+    110,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p13b4_k",
+   "elementType": "text",
+   "bounds": [
+    537,
+    248.0,
+    92,
+    22
+   ],
+   "content": {
+    "text": "生态文明建设",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13b4_v",
+   "elementType": "text",
+   "bounds": [
+    537,
+    280.0,
+    92,
+    52
+   ],
+   "content": {
+    "text": "江河战略",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p13b4_n",
+   "elementType": "text",
+   "bounds": [
+    537,
+    346.0,
+    92,
+    20
+   ],
+   "content": {
+    "text": "第 5、6 块",
+    "fontSize": 12,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p13ask_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    394.0,
+    592,
+    48
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#B4552F",
+    "width": 1.5
+   }
+  },
+  {
+   "elementId": "p13ask_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    406.0,
+    560,
+    24
+   ],
+   "content": {
+    "text": "？　还有一块没被看见——请你补上，这就是本环节的任务。",
+    "fontSize": 15,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "六块展板对应“五位一体”五个方面：经济两块，其余各一块。",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s1.png",
+  "fit": "cover"
+ },
+ "notes": "问：六块展板怎么归位？答：学生常把文化算进社会。接：经济两块、其余各一块，这叫“五位一体”，是布局不是分类游戏。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p13l_bg",
+    "p13l_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13l_bg",
+    "p13l_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b0_bg",
+    "p13b0_top"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b0_bg",
+    "p13b0_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b0_bg",
+    "p13b0_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b0_bg",
+    "p13b0_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b1_bg",
+    "p13b1_top"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b1_bg",
+    "p13b1_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b1_bg",
+    "p13b1_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b1_bg",
+    "p13b1_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b2_bg",
+    "p13b2_top"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b2_bg",
+    "p13b2_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b2_bg",
+    "p13b2_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b2_bg",
+    "p13b2_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b3_bg",
+    "p13b3_top"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b3_bg",
+    "p13b3_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b3_bg",
+    "p13b3_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b3_bg",
+    "p13b3_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b4_bg",
+    "p13b4_top"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b4_bg",
+    "p13b4_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b4_bg",
+    "p13b4_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13b4_bg",
+    "p13b4_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p13ask_bg",
+    "p13ask_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

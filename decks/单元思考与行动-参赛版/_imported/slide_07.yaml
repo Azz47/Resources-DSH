@@ -1,0 +1,51 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "7"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_2"
+    elementType: text
+    bounds: [185, 105, 225, 46]
+    content:
+      text: "展板三 平安中国"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_15"
+    elementType: text
+    bounds: [66, 194, 305, 250]
+    content:
+      text: "随着平安中国建设深入推进，我国成为世界上最有安全感的国家之一。 群众安全感连续多年保持98%以上世界上命案发生率最低的国家之一"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [411, 409, 216, 35]
+    content:
+      text: "图片来源：人民网"
+      fontSize: 20
+      fontFamily: "华文楷体"
+  - elementId: "Picture_4"
+    elementType: image
+    bounds: [383, 200, 251, 191]
+    fit: cover
+    src: "media/image8.jpeg"
+  - elementId: "矩形_圆角_8_txt"
+    elementType: text
+    bounds: [480, 93, 140, 62]
+    content:
+      text: "社会建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_8"
+    elementType: shape
+    bounds: [480, 93, 140, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_10"
+    elementType: shape
+    bounds: [432, 115, 47, 25]
+    kind: rightArrow

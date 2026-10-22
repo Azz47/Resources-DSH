@@ -1,0 +1,222 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "答案 B。材料里的“新三样”和 3.5 倍增长是关键词，指向创新驱动。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "课堂练习 3 · 新质生产力", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "37 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "q3_stem_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 116.88]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_stem"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 116.88]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_stem_cap", "q3_stem_t"]
+  - elementId: "q3_stem_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 104.88]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_stem_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 102.88]
+    content: {text: "课堂练习 3　“十五五”规划纲要提出，推进低空经济健康发展、推进\n国产大飞机规模化系列化发展、支持创新药临床使用。2025 年，我国“\n新三样”（电动汽车、锂电池、光伏产品）出口规模接近 1.3 万亿元，\n比 2020 年增长 3.5 倍。这主要表明（　）", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "q3_o0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 232.88, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_o0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 228.88, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_o0_cap", "q3_o0_t"]
+  - elementId: "q3_o0_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 234.88, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_o0_t"
+    elementType: "text"
+    bounds: [56, 235.88, 572, 26.4]
+    content: {text: "A. 我国已建成现代化经济体系，实现了高质量发展", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q3_o1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 277.28, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_o1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 273.28, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_o1_cap", "q3_o1_t"]
+  - elementId: "q3_o1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 279.28, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_o1_t"
+    elementType: "text"
+    bounds: [56, 280.28, 572, 26.4]
+    content: {text: "B. 我国坚持创新驱动发展，加快培育新质生产力", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q3_o2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 321.67999999999995, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_o2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 317.67999999999995, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_o2_cap", "q3_o2_t"]
+  - elementId: "q3_o2_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 323.67999999999995, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_o2_t"
+    elementType: "text"
+    bounds: [56, 324.67999999999995, 572, 26.4]
+    content: {text: "C. 出口规模扩大是衡量经济发展的唯一标准", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q3_o3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 366.0799999999999, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_o3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 362.0799999999999, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_o3_cap", "q3_o3_t"]
+  - elementId: "q3_o3_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 368.0799999999999, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_o3_t"
+    elementType: "text"
+    bounds: [56, 369.0799999999999, 572, 26.4]
+    content: {text: "D. 新兴产业的发展无需传统产业作为基础", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q3_ans_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 416.4799999999999, 592, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q3_ans"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 412.4799999999999, 596, 34]
+    fill: "#F0E8D8"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q3_ans_cap", "q3_ans_t"]
+  - elementId: "q3_ans_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 418.4799999999999, 4, 22]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q3_ans_t"
+    elementType: "text"
+    bounds: [56, 419.4799999999999, 572, 20]
+    content: {text: "答案：B", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

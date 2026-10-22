@@ -1,0 +1,55 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "31"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [255, 85, 438, 44]
+    content:
+      text: "课堂小结"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_11"
+    elementType: line
+    bounds: [255, 136, 438, 2]
+    points: [[255,138],[693,136]]
+    line: {color: "#711000", width: 1}
+  - elementId: "矩形_13"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#711000"
+    line: {color: "#000000"}
+  - elementId: "矩形_14"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#AE0203"
+    line: {color: "#000000"}
+  - elementId: "Picture_2"
+    elementType: image
+    bounds: [31, 169, 278, 219]
+    fit: cover
+    src: "media/image19.jpeg"
+  - elementId: "文本框_2"
+    elementType: text
+    bounds: [614, 182, 324, 201]
+    content:
+      text: "“我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。 ”"
+      fontSize: 32
+      color: "#333333"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_4"
+    elementType: text
+    bounds: [17, 399, 921, 95]
+    content:
+      text: "左图：2026年9月30日，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。 中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。 右图：2026年10月1日清晨，北京天安门广场举行升国旗仪式，庆祝中华人民共和国成立77周年。 图片来源：央视新闻"
+      color: "#333333"
+      fontFamily: "华文楷体"
+  - elementId: "Picture_4"
+    elementType: image
+    bounds: [319, 169, 278, 219]
+    fit: cover
+    src: "media/image20.jpeg"

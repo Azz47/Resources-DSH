@@ -1,0 +1,476 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "研学提示：四条底线",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "32 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p29b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158.72,
+    6,
+    6
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p29b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    152,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "紧扣主题",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b0_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    152,
+    204.08,
+    49.6
+   ],
+   "content": {
+    "text": "围绕调研主题，不做无关采访。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    222.32,
+    6,
+    6
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p29b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    215.6,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "安全文明",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b1_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    215.6,
+    204.08,
+    49.6
+   ],
+   "content": {
+    "text": "结伴而行，文明走访，礼貌访谈。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    285.92,
+    6,
+    6
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p29b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    279.2,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "团队协作",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b2_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    279.2,
+    204.08,
+    24.8
+   ],
+   "content": {
+    "text": "分工明确，互相补位。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b3_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    324.72,
+    6,
+    6
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p29b3_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    318.0,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "实事求是",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29b3_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    318.0,
+    204.08,
+    49.6
+   ],
+   "content": {
+    "text": "不编数据，不摆拍，尊重对方隐私。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p29i_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    368,
+    148,
+    272,
+    190.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p29i_im",
+   "elementType": "image",
+   "bounds": [
+    376,
+    156,
+    256,
+    150
+   ],
+   "src": "media/image18.jpg",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p29i_cp",
+   "elementType": "text",
+   "bounds": [
+    377,
+    312,
+    254,
+    18.85
+   ],
+   "content": {
+    "text": "研学走访　图片来源：人民日报",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "记录工具：手机拍照 + 手写笔记，回来当天整理。",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：采访被拒绝怎么办？答：“换一个人”。接：先说明来意、出示身份，被拒绝也要记录——这也是调研的一部分。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p29i_bg",
+    "p29i_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p29i_bg",
+    "p29i_cp"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "38"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [265, 112, 438, 44]
+    content:
+      text: "课堂练习"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_1"
+    elementType: line
+    bounds: [267, 165, 438, 2]
+    points: [[267,167],[705,165]]
+    line: {color: "#014E6A", width: 1}
+  - elementId: "矩形_4"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#014E6A"
+    line: {color: "#000000"}
+  - elementId: "矩形_10"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000"}
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [66, 193, 842, 75]
+    content:
+      text: "（1）结合材料，概括新中国成立以来我国在科技创新方面发生了怎样的变化。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [79, 270, 808, 227]
+    content:
+      text: "①从“连铁钉和火柴都需要进口”到建成全球最完整、规模最大的研发体系和工业体系；②从工业基础薄弱、科技前沿空白到进入创新型国家行列，在深海、航天、人工智能等领域取得一系列重大成果；③实现了从“跟跑”到“并跑”“领跑”、从“中国制造”到“中国创造”的转变。"
+      fontSize: 24
+      color: "#C00000"
+      fontFamily: "华文楷体"

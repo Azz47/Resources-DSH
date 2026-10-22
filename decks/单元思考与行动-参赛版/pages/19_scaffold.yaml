@@ -1,0 +1,196 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "给支架不给答案：先说成就，再说原因，最后说启示。请一位同学现场说第一段。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务二 · 撰写解说——解码新成就", fontSize: 14, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "解说词脚手架 · 三段话", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#6FC7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#6FC7E8"}, {pos: 100, color: "#1F6383", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6383"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "19 / 42", fontSize: 14, color: "#6FC7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "lead_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 108, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "lead"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 104, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["lead_cap", "lead_t"]
+  - elementId: "lead_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 110, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "lead_t"
+    elementType: "text"
+    bounds: [56, 111, 572, 34.72]
+    content: {text: "解说词脚手架：三段话，把一块展板讲清楚。", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "p19b0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 178.72, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p19b0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 174.72, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p19b0_n", "p19b0_nt", "p19b0_t", "p19b0_b"]
+  - elementId: "p19b0_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 183.72, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p19b0_nt"
+    elementType: "text"
+    bounds: [54, 188.72, 30, 20]
+    content: {text: "01", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p19b0_t"
+    elementType: "text"
+    bounds: [94, 182.72, 534, 30.65]
+    content: {text: "第一段　展示成就", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p19b0_b"
+    elementType: "text"
+    bounds: [94, 217.37, 534, 28.5]
+    content: {text: "这一块展板展示了怎样的成就？用事实和数据说话。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p19b1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 269.87, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p19b1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 265.87, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p19b1_n", "p19b1_nt", "p19b1_t", "p19b1_b"]
+  - elementId: "p19b1_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 274.87, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p19b1_nt"
+    elementType: "text"
+    bounds: [54, 279.87, 30, 20]
+    content: {text: "02", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p19b1_t"
+    elementType: "text"
+    bounds: [94, 273.87, 534, 30.65]
+    content: {text: "第二段　解码原因", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p19b1_b"
+    elementType: "text"
+    bounds: [94, 308.52, 534, 28.5]
+    content: {text: "取得这样的成就，原因是什么？用四步解码法推出来。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p19b2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 361.02, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p19b2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 357.02, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p19b2_n", "p19b2_nt", "p19b2_t", "p19b2_b"]
+  - elementId: "p19b2_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 366.02, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p19b2_nt"
+    elementType: "text"
+    bounds: [54, 371.02, 30, 20]
+    content: {text: "03", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p19b2_t"
+    elementType: "text"
+    bounds: [94, 365.02, 534, 30.65]
+    content: {text: "第三段　联系自身", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p19b2_b"
+    elementType: "text"
+    bounds: [94, 399.66999999999996, 534, 28.5]
+    content: {text: "这启示我们今后如何做？把结论接到自己的生活上。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}

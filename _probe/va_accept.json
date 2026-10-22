@@ -1,0 +1,7714 @@
+[
+ {
+  "n": 1,
+  "file": "pages/p01_cover.yaml",
+  "name": "pages/p01_cover",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 14,
+  "n_text": 11,
+  "expectedOverlaps": 0,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 15,
+  "font_hist": {
+   "15": 8,
+   "18": 1,
+   "26": 1,
+   "40": 1
+  },
+  "font_lt14": [],
+  "n_font_lt14": 0,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "cv_kick",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "基础教育精品课 · 学科课程 · 初中道德与"
+   },
+   {
+    "id": "cv_t1",
+    "fs": 40,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "第二单元 进入新时代"
+   },
+   {
+    "id": "cv_t2",
+    "fs": 26,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "单元思考与行动"
+   },
+   {
+    "id": "cv_motto",
+    "fs": 18,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "以青春见证中国腾飞 · 用成长助推家乡发展"
+   },
+   {
+    "id": "cv_r1a",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "年　　级：九年级"
+   },
+   {
+    "id": "cv_r1b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "教　　材：统编版《道德与法治》九年级上册"
+   },
+   {
+    "id": "cv_r2a",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "主 讲 人：张紫璇"
+   },
+   {
+    "id": "cv_r2b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "学　　校：盐湖区北城初级中学"
+   },
+   {
+    "id": "cv_r3a",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "教材页码：第 65 — 66 页"
+   },
+   {
+    "id": "cv_r3b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "课　　型：单元思考与行动"
+   },
+   {
+    "id": "cv_flow",
+    "fs": 15,
+    "bold": false,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "策展 · 感悟新时代　→　归因 · 解码新成"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.36,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 430
+ },
+ {
+  "n": 2,
+  "file": "pages/p02_scene.yaml",
+  "name": "pages/p02_scene",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 24,
+  "n_text": 11,
+  "expectedOverlaps": 8,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 2,
+   "16": 2,
+   "17": 2,
+   "18": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "02"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "导入 · 从一次策展邀请开始"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "校艺术节要办一个展，策展人是你"
+   },
+   {
+    "id": "s1c_t",
+    "fs": 18,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "一封来自校学生会的邀请"
+   },
+   {
+    "id": "s1c_b",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "校园文化艺术节要办一个“新时代 · 家乡新”"
+   },
+   {
+    "id": "ac0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "追问一：我会放什么？"
+   },
+   {
+    "id": "ac0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "选出最打动你的一张图、一件事或一 个数字，并"
+   },
+   {
+    "id": "ac1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "追问二：我会怎么说？"
+   },
+   {
+    "id": "ac1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "如果只能给观众留一句解说词，你最 想让他们记"
+   },
+   {
+    "id": "s1bar_t",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "要办好一个展，先得看懂这个时代——这就是我们"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.36,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 3,
+  "file": "pages/p03_literacy.yaml",
+  "name": "pages/p03_literacy",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 24,
+  "n_text": 11,
+  "expectedOverlaps": 8,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 3,
+   "15": 3,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "03"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "导入 · 从一次策展邀请开始"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "三项核心素养，分别落在三个环节里"
+   },
+   {
+    "id": "bc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "政治认同"
+   },
+   {
+    "id": "bc0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "在解码新成就的过程 中，认同中国共产党 的领"
+   },
+   {
+    "id": "bc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "责任意识"
+   },
+   {
+    "id": "bc1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "明确新时代发展“人 人共建、人人共享”， 从"
+   },
+   {
+    "id": "bc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "健全人格"
+   },
+   {
+    "id": "bc2_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "在社会观察、合作探 究与观点辨析中，学 会理"
+   },
+   {
+    "id": "s2bar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "《义务教育道德与法治课程标准（2022年版）"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.36,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 4,
+  "file": "pages/p04_goals.yaml",
+  "name": "pages/p04_goals",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 26,
+  "n_text": 14,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "04"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "导入 · 从一次策展邀请开始"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "这节课，我们要达成三个目标"
+   },
+   {
+    "id": "gn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "gt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "列举：说出新时代的发展历程与辉煌成就（环节一"
+   },
+   {
+    "id": "gb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "借助六个展区的图片与数据，能列举三项以上成就"
+   },
+   {
+    "id": "gn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "gt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "阐释：用“因为……所以……”说明成就背后的原"
+   },
+   {
+    "id": "gb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "从展板中找证据，把原因说到具体事实上，做到有"
+   },
+   {
+    "id": "gn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "gt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "践行：完成一次研学调研并提出建议（环节三）"
+   },
+   {
+    "id": "gb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "走访盐湖，完成调研报告并提出至少一条建议。"
+   },
+   {
+    "id": "s3bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "学习方式：在“做事”中学习——策展、归因、力"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.36,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 5,
+  "file": "pages/p05_route.yaml",
+  "name": "pages/p05_route",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 25,
+  "n_text": 14,
+  "expectedOverlaps": 1,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 5,
+   "16": 5,
+   "30": 1,
+   "34": 2
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "05"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "导入 · 从一次策展邀请开始"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "总议题：以青春见证中国腾飞"
+   },
+   {
+    "id": "rt_kick",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "总议题"
+   },
+   {
+    "id": "rt_q1",
+    "fs": 34,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "以青春见证中国腾飞"
+   },
+   {
+    "id": "rt_q2",
+    "fs": 34,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "用成长助推家乡发展"
+   },
+   {
+    "id": "rt_hint",
+    "fs": 16,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "三个环节，是同一件事的三个动作——看见成就、"
+   },
+   {
+    "id": "rt_n0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "策展 · 感悟新时代"
+   },
+   {
+    "id": "rt_w0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "这个时代变了什么？"
+   },
+   {
+    "id": "rt_n1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "归因 · 解码新成就"
+   },
+   {
+    "id": "rt_w1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "为什么能取得这些成就？"
+   },
+   {
+    "id": "rt_n2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "力行 · 循迹盐湖行"
+   },
+   {
+    "id": "rt_w2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "我能为家乡做点什么？"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.36,
+  "contrast_lt7": 5,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456
+ },
+ {
+  "n": 6,
+  "file": "pages/p06_s1_open.yaml",
+  "name": "pages/p06_s1_open",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 28,
+  "n_text": 13,
+  "expectedOverlaps": 10,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 6,
+   "16": 1,
+   "17": 3,
+   "19": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "06"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "先看懂这个时代，再动手布展"
+   },
+   {
+    "id": "d1c_t",
+    "fs": 19,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "作为策展人，查阅资料，进一步丰富展览内容。"
+   },
+   {
+    "id": "d1c_b",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "你手里已经有六个展区的“半成品”：几张图片、"
+   },
+   {
+    "id": "dc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "看图片"
+   },
+   {
+    "id": "dc0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "选一张最有冲击力的图， 它会替你说话。"
+   },
+   {
+    "id": "dc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "读数据"
+   },
+   {
+    "id": "dc1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "找一组最有说服力的数 字，它让观众信服。"
+   },
+   {
+    "id": "dc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "写解说"
+   },
+   {
+    "id": "dc2_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "配一句最短的解说词， 它决定观众记住什么。"
+   },
+   {
+    "id": "d1bar_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "六个展区：科技发展 · 交通基建 · 社会治"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 7,
+  "file": "pages/p07_tasklist.yaml",
+  "name": "pages/p07_tasklist",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 28,
+  "n_text": 13,
+  "expectedOverlaps": 10,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 6,
+   "15": 1,
+   "17": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "07"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "任务单：六块展板，各交三样东西"
+   },
+   {
+    "id": "ec0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板一　科技发展"
+   },
+   {
+    "id": "ec0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "空间站、人工智能、工业互联网、远程 医疗、智"
+   },
+   {
+    "id": "ec1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板二　交通基建"
+   },
+   {
+    "id": "ec1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "高速铁路网、高速公路网、世界级港口 群、航空"
+   },
+   {
+    "id": "fc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板三　社会治理"
+   },
+   {
+    "id": "fc0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "平安中国、居家安心、出行放心、生活 舒心"
+   },
+   {
+    "id": "fc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板四～六　生态文明 · 文化  · 民生"
+   },
+   {
+    "id": "fc1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "把绿色写进发展，让老东西有新活法， 把发展成"
+   },
+   {
+    "id": "e1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "每块展板交三样东西：一张图片（或一组数据）＋"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 8,
+  "file": "pages/p08_board1.yaml",
+  "name": "pages/p08_board1",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 16,
+  "n_text": 8,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 3,
+   "15": 1,
+   "18": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "08"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板一 · 科技发展：把想象变成日常"
+   },
+   {
+    "id": "i1t",
+    "fs": 18,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "展板一 · 科技发展"
+   },
+   {
+    "id": "i1b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "空间站：中国人有了自己的“太空之 家” 远程"
+   },
+   {
+    "id": "i1bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "解说词备选：从“能造出来”到“能造得好”，科"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 9,
+  "file": "pages/p09_board1b.yaml",
+  "name": "pages/p09_board1b",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 31,
+  "n_text": 17,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 10,
+   "15": 1,
+   "16": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "09"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "从“跟跑”到“并跑”“领跑”"
+   },
+   {
+    "id": "hn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "ht0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "中国空间站：从“跟跑”到“并跑”，再到“领跑"
+   },
+   {
+    "id": "hb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "2022 年底，中国空间站全面建成，中国人第"
+   },
+   {
+    "id": "hn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "ht1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "人工智能与工业互联网：让生产更聪明"
+   },
+   {
+    "id": "hb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "机器会“说话”，工厂会“思考”，一条生产线的"
+   },
+   {
+    "id": "hn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "ht2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "远程医疗：把优质医疗送到家门口"
+   },
+   {
+    "id": "hb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "隔着屏幕，县城医院也能请到大城市的专家会诊。"
+   },
+   {
+    "id": "hn3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "ht3",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "智慧物流：让“当日达”成为日常"
+   },
+   {
+    "id": "hb3",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "从下单到收货，包裹走的每一步都被算法安排得明"
+   },
+   {
+    "id": "h1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：这四项里，哪一项你在生活中真的“摸到”"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 10,
+  "file": "pages/p10_board2.yaml",
+  "name": "pages/p10_board2",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 16,
+  "n_text": 8,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 3,
+   "15": 1,
+   "18": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "10"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板二 · 交通基建：一张网，改变中国"
+   },
+   {
+    "id": "i2t",
+    "fs": 18,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "展板二 · 交通基建"
+   },
+   {
+    "id": "i2b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "高速铁路网：千里之遥，朝发夕至 高速公路网："
+   },
+   {
+    "id": "i2bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "解说词备选：路修到哪里，机会就到哪里——交通"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 11,
+  "file": "pages/p11_board2b.yaml",
+  "name": "pages/p11_board2b",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 28,
+  "n_text": 13,
+  "expectedOverlaps": 10,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 5,
+   "17": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "11"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "从“能走到”到“走得快、走得远”"
+   },
+   {
+    "id": "kc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "朝发夕至的“高铁速度”"
+   },
+   {
+    "id": "kc0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "过去一天的路程，现在一个上午就能 走完。"
+   },
+   {
+    "id": "kc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "通达城乡的“公路密度”"
+   },
+   {
+    "id": "kc1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "路网延伸到乡镇村口，农产品当天就 能出村。"
+   },
+   {
+    "id": "mc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "联通世界的“港口力量”"
+   },
+   {
+    "id": "mc0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "集装箱在港口堆叠，货轮把“中国制 造”运往全"
+   },
+   {
+    "id": "mc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "四通八达的“航空航海”"
+   },
+   {
+    "id": "mc1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "机场与航线织成网，中国与世界的距 离被重新丈"
+   },
+   {
+    "id": "k1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：如果家乡要修一条新路，你希望它通向哪里"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 12,
+  "file": "pages/p12_board3.yaml",
+  "name": "pages/p12_board3",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 16,
+  "n_text": 8,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 2,
+   "15": 2,
+   "18": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "12"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板三 · 社会治理：安全感从哪里来"
+   },
+   {
+    "id": "i3t",
+    "fs": 18,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "展板三 · 社会治理"
+   },
+   {
+    "id": "i3b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "平安中国：夜晚的街灯下，脚步是踏实的 居家安"
+   },
+   {
+    "id": "i3bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "解说词备选：最好的治理，是让你几乎感觉不到它"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "图片与素材来源：本课原稿素材（授课人提供）"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 13,
+  "file": "pages/p13_board3b.yaml",
+  "name": "pages/p13_board3b",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 24,
+  "n_text": 11,
+  "expectedOverlaps": 8,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 5,
+   "15": 1,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "13"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "“安全感”从哪里来：一件件小事"
+   },
+   {
+    "id": "nc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "平安中国"
+   },
+   {
+    "id": "nc0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "严厉打击违法犯罪，社 会治安持续向好，群众 "
+   },
+   {
+    "id": "nc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "居家安心"
+   },
+   {
+    "id": "nc1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "社区治理更精细，从养 老助餐到老旧小区改造，"
+   },
+   {
+    "id": "nc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "出行放心"
+   },
+   {
+    "id": "nc2_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "交通秩序更规范，应急 保障更及时，出门在外 "
+   },
+   {
+    "id": "n1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：这些“安心”背后，是谁在付出？请说出一"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 14,
+  "file": "pages/p14_board4a.yaml",
+  "name": "pages/p14_board4a",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 32,
+  "n_text": 17,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 10,
+   "15": 1,
+   "16": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "14"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板四 · 生态文明：把绿色写进发展"
+   },
+   {
+    "id": "qn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "qt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "长江十年禁渔：让母亲河休养生息"
+   },
+   {
+    "id": "qb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "十年禁渔，江面安静了，江水里热闹了。"
+   },
+   {
+    "id": "qn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "qt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "“三北”工程攻坚战：向荒漠要绿色"
+   },
+   {
+    "id": "qb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "在风沙线上种出一条绿色长城。"
+   },
+   {
+    "id": "qn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "qt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "光伏与风电：把风和阳光变成电"
+   },
+   {
+    "id": "qb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "沙地竖光伏板，荒山转大风车。"
+   },
+   {
+    "id": "qn3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "qt3",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "蓝天碧水净土：天更蓝、山更绿、水更清"
+   },
+   {
+    "id": "qb3",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "河水清了，口袋公园多了。"
+   },
+   {
+    "id": "q1bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "解说词备选：绿水青山不是发展的代价，而是发展"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 15,
+  "file": "pages/p15_board4b.yaml",
+  "name": "pages/p15_board4b",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 32,
+  "n_text": 17,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 10,
+   "15": 1,
+   "16": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "15"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板五 · 文化建设：让老东西有新活法"
+   },
+   {
+    "id": "vn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "vt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "非物质文化遗产"
+   },
+   {
+    "id": "vb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "老手艺有了新传人，非遗走进校园。"
+   },
+   {
+    "id": "vn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "vt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "国家文化公园"
+   },
+   {
+    "id": "vb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "长城、大运河、黄河、长江串成文化长廊。"
+   },
+   {
+    "id": "vn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "vt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "中国国家版本馆"
+   },
+   {
+    "id": "vb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "把古籍与文献收进“国家书房”。"
+   },
+   {
+    "id": "vn3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "vt3",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "全民阅读 · 书香社会"
+   },
+   {
+    "id": "vb3",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "图书馆开到街角，城市书房亮到深夜。"
+   },
+   {
+    "id": "t1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：你的家乡有哪一样“老东西”，值得被更多"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 16,
+  "file": "pages/p16_board4c.yaml",
+  "name": "pages/p16_board4c",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 16,
+  "n_text": 8,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 2,
+   "15": 2,
+   "18": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "配图为 AI 生成教学示意图，仅作场景示意，不指"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "16"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "展板六 · 民生保障：发展成果落到日子里"
+   },
+   {
+    "id": "u1t",
+    "fs": 18,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "展板六 · 民生保障：一件件办在群众心坎上"
+   },
+   {
+    "id": "u1b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "脱贫攻坚：历史性地解决了绝对贫困问题 全面小"
+   },
+   {
+    "id": "u1bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "解说词备选：民生无小事，枝叶总关情——发展的"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "配图为 AI 生成教学示意图，仅作场景示意，"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 17,
+  "file": "pages/p17_speak.yaml",
+  "name": "pages/p17_speak",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 23,
+  "n_text": 12,
+  "expectedOverlaps": 9,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 4,
+   "15": 3,
+   "16": 1,
+   "30": 1,
+   "34": 2
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "17"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "学生活动：把展板推介给同学们"
+   },
+   {
+    "id": "sp_bar_t",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#E4C05A",
+    "ratio": 9.26,
+    "txt": "选一块你最想推介的展板，写一句推荐词——说清"
+   },
+   {
+    "id": "spq0",
+    "fs": 34,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 4.92,
+    "txt": "“"
+   },
+   {
+    "id": "spn0",
+    "fs": 15,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 4.92,
+    "txt": "同学甲 ｜ 展板一 · 科技发 展"
+   },
+   {
+    "id": "spb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我选择科技发展展板。空间站长期有人 驻留、人"
+   },
+   {
+    "id": "spq1",
+    "fs": 34,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 4.92,
+    "txt": "“"
+   },
+   {
+    "id": "spn1",
+    "fs": 15,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 4.92,
+    "txt": "同学乙 ｜ 展板三 · 社会治 理"
+   },
+   {
+    "id": "spb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我选择社会治理展板。平安中国建设让 我们居家"
+   },
+   {
+    "id": "sp_std_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#E4C05A",
+    "ratio": 9.26,
+    "txt": "推荐词的三条标准：有事实 · 有细节 · 有"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 6,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 18,
+  "file": "pages/p18_s1_sum.yaml",
+  "name": "pages/p18_s1_sum",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 15,
+  "n_text": 7,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 2,
+   "30": 1,
+   "34": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 3.43,
+    "txt": "18"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节一 · 策展——感悟新时代"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "环节一收束：一张成就清单后面的追问"
+   },
+   {
+    "id": "z_kick",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "六块展板都看完了——科技、交通、治理、生态、"
+   },
+   {
+    "id": "z_q",
+    "fs": 34,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "六个展区，一个共同点—— 这些成就是“自动发"
+   },
+   {
+    "id": "z_bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "要回答这个问题，我们得从“看成就”走进“看逻"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 3.43,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 442.2
+ },
+ {
+  "n": 19,
+  "file": "pages/p19_s2_open.yaml",
+  "name": "pages/p19_s2_open",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 18,
+  "n_text": 8,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 2,
+   "16": 1,
+   "30": 1,
+   "32": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "19"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "看见了成就，紧接着问：为什么？"
+   },
+   {
+    "id": "hr_big",
+    "fs": 32,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#90D8C0",
+    "ratio": 9.68,
+    "txt": "谁来引领？　靠什么推动？ 为了谁？　靠什么保"
+   },
+   {
+    "id": "hr_sub",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#96DEBA",
+    "ratio": 6.73,
+    "txt": "这四个问题，就是这一环节要去找的四条线索。答"
+   },
+   {
+    "id": "hr_sealt",
+    "fs": 15,
+    "bold": true,
+    "fg": "#FFFFFF",
+    "bg_sample": "#1E607E",
+    "ratio": 6.93,
+    "txt": "归因"
+   },
+   {
+    "id": "o2_bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "归因不是背结论，而是学会用证据说话。"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 20,
+  "file": "pages/p20_method.yaml",
+  "name": "pages/p20_method",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 31,
+  "n_text": 17,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 11,
+   "16": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "20"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "小组任务：给每一个“原因”找到证据"
+   },
+   {
+    "id": "n2n0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "n2t0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "认领展区"
+   },
+   {
+    "id": "n2b0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "四人一组，认领一个展区，明确记录人和发言人。"
+   },
+   {
+    "id": "n2n1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "n2t1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "找出证据"
+   },
+   {
+    "id": "n2b1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "在这个展区里挑出“最硬”的一件事或一个数字，"
+   },
+   {
+    "id": "n2n2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "n2t2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "追问力量"
+   },
+   {
+    "id": "n2b2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "追问四件事：谁在引领？靠什么制度？为了谁？靠"
+   },
+   {
+    "id": "n2n3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "n2t3",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "写成一句话"
+   },
+   {
+    "id": "n2b3",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "用“因为……所以……”把原因说成一句完整、能"
+   },
+   {
+    "id": "n2bar_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "四把追问钥匙：坚持党的领导 · 发挥制度优势"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 21,
+  "file": "pages/p21_evidence.yaml",
+  "name": "pages/p21_evidence",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 31,
+  "n_text": 14,
+  "expectedOverlaps": 11,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 6,
+   "15": 5,
+   "16": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "21"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "成就证据卡：一个原因，一个证据"
+   },
+   {
+    "id": "ev_bar_t",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "把展板上的“看见”，变成可以追查的“证据”—"
+   },
+   {
+    "id": "evkt0",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "我感受到的新成就"
+   },
+   {
+    "id": "evvt0",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我国空间站开启长期有人驻留模式"
+   },
+   {
+    "id": "evkt1",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "教材中的事实依据"
+   },
+   {
+    "id": "evvt1",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "教材第 65 页 · 展板一“科技发展”"
+   },
+   {
+    "id": "evkt2",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "成就背后的原因"
+   },
+   {
+    "id": "evvt2",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "坚持创新驱动发展战略，把科技自立自强作为战略"
+   },
+   {
+    "id": "evkt3",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "我的收获"
+   },
+   {
+    "id": "evvt3",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "科技创新让国家更强大，我们要努力学习科学知识"
+   },
+   {
+    "id": "ev_foot_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#6CC6E4",
+    "ratio": 8.37,
+    "txt": "填完这张卡，你就走完了一次“看见 → 追问 "
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 22,
+  "file": "pages/p22_cause1.yaml",
+  "name": "pages/p22_cause1",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 25,
+  "n_text": 12,
+  "expectedOverlaps": 8,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 5,
+   "15": 1,
+   "16": 1,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "22"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "根本指引：方向对了，路才走得远"
+   },
+   {
+    "id": "r1b",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "习近平新时代中国特色社会主义思想，是新时代党"
+   },
+   {
+    "id": "Ac0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板上的影子①"
+   },
+   {
+    "id": "Ac0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "脱贫攻坚讲“精准”， 一张一弛都有章法。"
+   },
+   {
+    "id": "Ac1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板上的影子②"
+   },
+   {
+    "id": "Ac1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "“绿水青山就是金山银 山”，发展与保护不再 "
+   },
+   {
+    "id": "Ac2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "展板上的影子③"
+   },
+   {
+    "id": "Ac2_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "“以人民为中心”写在 每一项民生政策里。"
+   },
+   {
+    "id": "r1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：如果把科学理论比作“导航”，那么“路况"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 23,
+  "file": "pages/p23_cause2.yaml",
+  "name": "pages/p23_cause2",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 27,
+  "n_text": 15,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "资料依据：《中华人民共和国宪法》第一条；全国脱贫"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "23"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "根本保证：办好中国的事情，关键在党"
+   },
+   {
+    "id": "Bn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "Bt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "定方向：一张蓝图绘到底"
+   },
+   {
+    "id": "Bb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "从“十四五”规划到乡村全面振兴，发展有目标、"
+   },
+   {
+    "id": "Bn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "Bt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "聚力量：关键时刻能动员起来"
+   },
+   {
+    "id": "Bb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "脱贫攻坚战中，大批第一书记和驻村干部奔赴一线"
+   },
+   {
+    "id": "Bn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "Bt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "带头干：急难险重面前冲在最前"
+   },
+   {
+    "id": "Bb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "防汛、抗震、抗疫……党员干部总是先站出来、先"
+   },
+   {
+    "id": "B1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "宪法规定：“中国共产党领导是中国特色社会主义"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "资料依据：《中华人民共和国宪法》第一条；全国"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 24,
+  "file": "pages/p24_cause3.yaml",
+  "name": "pages/p24_cause3",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 28,
+  "n_text": 13,
+  "expectedOverlaps": 9,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 5,
+   "15": 2,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "资料依据：本课素材整理；具体数据以最新公开报道为"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "24"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "制度优势：集中力量办大事"
+   },
+   {
+    "id": "Cc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "脱贫攻坚"
+   },
+   {
+    "id": "Cc0_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "集中力量，8 年攻坚， 历史性解决绝对贫困问"
+   },
+   {
+    "id": "Cc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "疫情防控"
+   },
+   {
+    "id": "Cc1_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "全国一盘棋，物资、人 员、技术快速集结。"
+   },
+   {
+    "id": "Cc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "重大工程"
+   },
+   {
+    "id": "Cc2_b",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "南水北调、西气东输、“ 东数西算”，跨区域统"
+   },
+   {
+    "id": "C1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "制度优势：能够集中力量办大事，办成许多过去想"
+   },
+   {
+    "id": "C2bar_t",
+    "fs": 15,
+    "bold": false,
+    "fg": "#FFFFFF",
+    "bg_sample": "#3C5A48",
+    "ratio": 7.64,
+    "txt": "追问：为什么“集中力量”就能办成大事？请用一"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "资料依据：本课素材整理；具体数据以最新公开报"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 25,
+  "file": "pages/p25_cause4.yaml",
+  "name": "pages/p25_cause4",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 26,
+  "n_text": 14,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "25"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "价值立场：一切为了人民，一切依靠人民"
+   },
+   {
+    "id": "Dn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "Dt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "出发点：人民对美好生活的向往，就是奋斗目标"
+   },
+   {
+    "id": "Db0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "政策从哪里来？从群众最急最盼的事情里来。"
+   },
+   {
+    "id": "Dn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "Dt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "落脚点：把好事办到群众身边"
+   },
+   {
+    "id": "Db1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "脱贫攻坚、老旧小区改造、家门口的好学校、更方"
+   },
+   {
+    "id": "Dn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "Dt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "方法论：人人共建、人人共享"
+   },
+   {
+    "id": "Db2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "不是“等靠要”，而是大家一起干、一起受益。"
+   },
+   {
+    "id": "D1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：展板里哪一张图最让你觉得“被在乎”？把"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 26,
+  "file": "pages/p26_cause5.yaml",
+  "name": "pages/p26_cause5",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 26,
+  "n_text": 14,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "26"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "发展动力：创新是引领发展的第一动力"
+   },
+   {
+    "id": "En0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "Et0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "科技创新：从“嫦娥”探月到“奋斗者”号深潜"
+   },
+   {
+    "id": "Eb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "上天入海的背后，是一代代科研人员把冷板凳坐热"
+   },
+   {
+    "id": "En1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "Et1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "产业创新：新能源汽车、光伏、5G 走向世界"
+   },
+   {
+    "id": "Eb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "新技术长成新产业，新产业带来新岗位。"
+   },
+   {
+    "id": "En2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "Et2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "人才与创造：尊重劳动、尊重知识、尊重人才、尊"
+   },
+   {
+    "id": "Eb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "创新的根基在人，在每一个肯钻研、敢尝试的人身"
+   },
+   {
+    "id": "E1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "追问：创新只是科学家的事吗？你在校园里可以做"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 27,
+  "file": "pages/p27_keys.yaml",
+  "name": "pages/p27_keys",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 51,
+  "n_text": 22,
+  "expectedOverlaps": 18,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 6,
+   "13": 5,
+   "14": 4,
+   "16": 6,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "k_bb0",
+    "fs": 13,
+    "t": "习近平新时代 中国特色社会 主义思想的科 学指导"
+   },
+   {
+    "id": "k_tg0",
+    "fs": 12,
+    "t": "方向"
+   },
+   {
+    "id": "k_bb1",
+    "fs": 13,
+    "t": "坚持和加强党 的全面领导"
+   },
+   {
+    "id": "k_tg1",
+    "fs": 12,
+    "t": "领导"
+   },
+   {
+    "id": "k_bb2",
+    "fs": 13,
+    "t": "中国特色社会 主义制度的显 著优势"
+   },
+   {
+    "id": "k_tg2",
+    "fs": 12,
+    "t": "制度"
+   },
+   {
+    "id": "k_bb3",
+    "fs": 13,
+    "t": "坚持以人民为 中心的发展思 想"
+   },
+   {
+    "id": "k_tg3",
+    "fs": 12,
+    "t": "立场"
+   },
+   {
+    "id": "k_bb4",
+    "fs": 13,
+    "t": "坚持创新驱动 发展"
+   },
+   {
+    "id": "k_tg4",
+    "fs": 12,
+    "t": "动力"
+   }
+  ],
+  "n_font_lt14": 11,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "27"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "五把钥匙，一起打开“为什么能”"
+   },
+   {
+    "id": "k_topt",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "为什么能？——新时代辉煌成就的五个原因"
+   },
+   {
+    "id": "k_tt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "根本指引"
+   },
+   {
+    "id": "k_bb0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "习近平新时代 中国特色社会 主义思想的科 学"
+   },
+   {
+    "id": "k_tg0",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "方向"
+   },
+   {
+    "id": "k_tt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "根本保证"
+   },
+   {
+    "id": "k_bb1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "坚持和加强党 的全面领导"
+   },
+   {
+    "id": "k_tg1",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "领导"
+   },
+   {
+    "id": "k_tt2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "制度优势"
+   },
+   {
+    "id": "k_bb2",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "中国特色社会 主义制度的显 著优势"
+   },
+   {
+    "id": "k_tg2",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "制度"
+   },
+   {
+    "id": "k_tt3",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "价值立场"
+   },
+   {
+    "id": "k_bb3",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "坚持以人民为 中心的发展思 想"
+   },
+   {
+    "id": "k_tg3",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "立场"
+   },
+   {
+    "id": "k_tt4",
+    "fs": 16,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "发展动力"
+   },
+   {
+    "id": "k_bb4",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "坚持创新驱动 发展"
+   },
+   {
+    "id": "k_tg4",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "动力"
+   },
+   {
+    "id": "k_foot",
+    "fs": 14,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "五个原因不是并列的五个知识点，而是同一件事的"
+   },
+   {
+    "id": "k_bar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "课堂板书建议：中间写“辉煌成就”，四周写下这"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 28,
+  "file": "pages/p28_map.yaml",
+  "name": "pages/p28_map",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 47,
+  "n_text": 19,
+  "expectedOverlaps": 14,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 14,
+   "14": 4,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "mm_bt0",
+    "fs": 12,
+    "t": "新的历史方位"
+   },
+   {
+    "id": "mm_s1t0",
+    "fs": 12,
+    "t": "社会主要矛盾的变化"
+   },
+   {
+    "id": "mm_s2t0",
+    "fs": 12,
+    "t": "进入新时代的意义"
+   },
+   {
+    "id": "mm_bt1",
+    "fs": 12,
+    "t": "新时代的思想旗帜"
+   },
+   {
+    "id": "mm_s1t1",
+    "fs": 12,
+    "t": "系统科学的理论体系"
+   },
+   {
+    "id": "mm_s2t1",
+    "fs": 12,
+    "t": "必须长期坚持的指导思想"
+   },
+   {
+    "id": "mm_bt2",
+    "fs": 12,
+    "t": "中国腾飞谱新篇"
+   },
+   {
+    "id": "mm_s1t2",
+    "fs": 12,
+    "t": "经济实力大幅跃升（经济）"
+   },
+   {
+    "id": "mm_s2t2",
+    "fs": 12,
+    "t": "民主政治不断发展（政治）"
+   },
+   {
+    "id": "mm_bt3",
+    "fs": 12,
+    "t": "五位一体总体布局"
+   },
+   {
+    "id": "mm_s1t3",
+    "fs": 12,
+    "t": "文化建设·社会建设"
+   },
+   {
+    "id": "mm_s2t3",
+    "fs": 12,
+    "t": "生态文明建设（生态）"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "知识导图：本课按《进入新时代》单元结构自绘"
+   }
+  ],
+  "n_font_lt14": 14,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "28"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "回到单元：让知识连成一张网"
+   },
+   {
+    "id": "mm_root_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#FFFFFF",
+    "bg_sample": "#122418",
+    "ratio": 16.26,
+    "txt": "进入新时代"
+   },
+   {
+    "id": "mm_bt0",
+    "fs": 12,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#BAD896",
+    "ratio": 3.21,
+    "txt": "新的历史方位"
+   },
+   {
+    "id": "mm_s1t0",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "社会主要矛盾的变化"
+   },
+   {
+    "id": "mm_s2t0",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "进入新时代的意义"
+   },
+   {
+    "id": "mm_bt1",
+    "fs": 12,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#90D8C6",
+    "ratio": 4.04,
+    "txt": "新时代的思想旗帜"
+   },
+   {
+    "id": "mm_s1t1",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "系统科学的理论体系"
+   },
+   {
+    "id": "mm_s2t1",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "必须长期坚持的指导思想"
+   },
+   {
+    "id": "mm_bt2",
+    "fs": 12,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#BAC69C",
+    "ratio": 4.01,
+    "txt": "中国腾飞谱新篇"
+   },
+   {
+    "id": "mm_s1t2",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "经济实力大幅跃升（经济）"
+   },
+   {
+    "id": "mm_s2t2",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "民主政治不断发展（政治）"
+   },
+   {
+    "id": "mm_bt3",
+    "fs": 12,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A8CCC6",
+    "ratio": 4.34,
+    "txt": "五位一体总体布局"
+   },
+   {
+    "id": "mm_s1t3",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "文化建设·社会建设"
+   },
+   {
+    "id": "mm_s2t3",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "生态文明建设（生态）"
+   },
+   {
+    "id": "mapt",
+    "fs": 14,
+    "bold": false,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "找找今天用上了哪些——把说过的话放回这张图，"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "知识导图：本课按《进入新时代》单元结构自绘"
+   }
+  ],
+  "contrast_fail": [
+   {
+    "id": "mm_bt0",
+    "fs": 12,
+    "bold": true,
+    "fg": "#8A6A1E",
+    "bg_sample": "#BAD896",
+    "ratio": 3.21,
+    "txt": "新的历史方位",
+    "need": 4.5
+   },
+   {
+    "id": "mm_bt2",
+    "fs": 12,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#BAC69C",
+    "ratio": 4.01,
+    "txt": "中国腾飞谱新篇",
+    "need": 4.5
+   },
+   {
+    "id": "mm_bt1",
+    "fs": 12,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#90D8C6",
+    "ratio": 4.04,
+    "txt": "新时代的思想旗帜",
+    "need": 4.5
+   },
+   {
+    "id": "mm_bt3",
+    "fs": 12,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A8CCC6",
+    "ratio": 4.34,
+    "txt": "五位一体总体布局",
+    "need": 4.5
+   }
+  ],
+  "n_contrast_fail": 4,
+  "contrast_min": 3.21,
+  "contrast_lt7": 16,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 29,
+  "file": "pages/p29_s2_sum.yaml",
+  "name": "pages/p29_s2_sum",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 24,
+  "n_text": 11,
+  "expectedOverlaps": 8,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 4,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#1F6383",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.51,
+    "txt": "29"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节二 · 归因——解码新成就"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "从“看成就”到“看逻辑”"
+   },
+   {
+    "id": "Fc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "看成就"
+   },
+   {
+    "id": "Fc0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我们看到的是现象： 路通了、天蓝了、日 子好"
+   },
+   {
+    "id": "Fc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "找原因"
+   },
+   {
+    "id": "Fc1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我们追的是本质：有 方向、有领导、有制 度、"
+   },
+   {
+    "id": "Fc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "认制度"
+   },
+   {
+    "id": "Fc2_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我们得到的是认同： 这些成就不是偶然， 而是"
+   },
+   {
+    "id": "F1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "从“看成就”到“看逻辑”——这一步，是青少年"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.51,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 30,
+  "file": "pages/p30_s3_open.yaml",
+  "name": "pages/p30_s3_open",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 18,
+  "n_text": 8,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 2,
+   "16": 1,
+   "30": 1,
+   "34": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "30"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "把目光收回脚下这块土地"
+   },
+   {
+    "id": "hr_big",
+    "fs": 34,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#B4CCA2",
+    "ratio": 9.17,
+    "txt": "走一走　·　问一问　·　写一写"
+   },
+   {
+    "id": "hr_sub",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#AED2A8",
+    "ratio": 6.29,
+    "txt": "到盐湖边看一看：水清了没有？鸟回来了没有？这"
+   },
+   {
+    "id": "hr_sealt",
+    "fs": 15,
+    "bold": true,
+    "fg": "#FFFFFF",
+    "bg_sample": "#8A3C2A",
+    "ratio": 7.61,
+    "txt": "力行"
+   },
+   {
+    "id": "o3_bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "一条线索：总书记的足迹 → 盐湖的蝶变 → "
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 31,
+  "file": "pages/p31_saltlake.yaml",
+  "name": "pages/p31_saltlake",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 12,
+  "n_text": 6,
+  "expectedOverlaps": 1,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 2,
+   "16": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "图片与素材来源：本课原稿素材（习近平同志在运城盐"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "31"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "从工业矿区到城市生态客厅"
+   },
+   {
+    "id": "saltb",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "这是新时代在河东大地的生动缩影：曾经的工业矿"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "图片与素材来源：本课原稿素材（习近平同志在运"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.69,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 32,
+  "file": "pages/p32_quote.yaml",
+  "name": "pages/p32_quote",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 17,
+  "n_text": 9,
+  "expectedOverlaps": 2,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 3,
+   "15": 2,
+   "19": 1,
+   "30": 1,
+   "44": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "32"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "读懂一句话里的三个关键词"
+   },
+   {
+    "id": "qm",
+    "fs": 44,
+    "bold": false,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "“"
+   },
+   {
+    "id": "qt",
+    "fs": 19,
+    "bold": false,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "盐湖的生态价值和功能越来越重要，要统筹做好保"
+   },
+   {
+    "id": "qat",
+    "fs": 15,
+    "bold": false,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "——习近平同志在运城盐湖考察调研时的讲话"
+   },
+   {
+    "id": "qk",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "关键词一　保护：开发要算生态账，不能只算经济"
+   },
+   {
+    "id": "qbar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "三个关键词，就是三把理解盐湖变化的钥匙。"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 33,
+  "file": "pages/p33_datawall.yaml",
+  "name": "pages/p33_datawall",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 33,
+  "n_text": 21,
+  "expectedOverlaps": 17,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "13": 5,
+   "14": 3,
+   "15": 5,
+   "30": 6
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "dwc0",
+    "fs": 13,
+    "t": "盐湖堤埝加固的总里程"
+   },
+   {
+    "id": "dwc1",
+    "fs": 13,
+    "t": "“十四五”以来累计投入（ 约数）"
+   },
+   {
+    "id": "dwc2",
+    "fs": 13,
+    "t": "“一池四滩”收回的土地 面积"
+   },
+   {
+    "id": "dxc0",
+    "fs": 13,
+    "t": "累计建成的环湖绿道里程"
+   },
+   {
+    "id": "dxc1",
+    "fs": 13,
+    "t": "去冬今春，550 多只大天鹅如约而至"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "数据来源：山西省人民政府网站《还湖于民 山水共融"
+   }
+  ],
+  "n_font_lt14": 7,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "33"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "盐湖之变：用数字说一说"
+   },
+   {
+    "id": "dwv0",
+    "fs": 30,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "119.77"
+   },
+   {
+    "id": "dwl0",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "公里堤埝除险加固"
+   },
+   {
+    "id": "dwc0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "盐湖堤埝加固的总里程"
+   },
+   {
+    "id": "dwv1",
+    "fs": 30,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "25.2"
+   },
+   {
+    "id": "dwl1",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "亿元生态修复投入"
+   },
+   {
+    "id": "dwc1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "“十四五”以来累计投入（ 约数）"
+   },
+   {
+    "id": "dwv2",
+    "fs": 30,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "17.65"
+   },
+   {
+    "id": "dwl2",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "万亩土地收回"
+   },
+   {
+    "id": "dwc2",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "“一池四滩”收回的土地 面积"
+   },
+   {
+    "id": "dxv0",
+    "fs": 30,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "24.39"
+   },
+   {
+    "id": "dxl0",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "公里环湖绿道"
+   },
+   {
+    "id": "dxc0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "累计建成的环湖绿道里程"
+   },
+   {
+    "id": "dxv1",
+    "fs": 30,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "回归"
+   },
+   {
+    "id": "dxl1",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "珍稀鸟类重返盐湖"
+   },
+   {
+    "id": "dxc1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "去冬今春，550 多只大天鹅如约而至"
+   },
+   {
+    "id": "dwbar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "一组数字，就是一部盐湖的“变身记”——每一个"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "数据来源：山西省人民政府网站《还湖于民 山水"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.69,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 34,
+  "file": "pages/p34_photos.yaml",
+  "name": "pages/p34_photos",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 12,
+  "n_text": 6,
+  "expectedOverlaps": 1,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 2,
+   "15": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "图片来源：本课原稿素材（授课人提供）。展出时请替"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "34"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "同一片水面，不同的年份"
+   },
+   {
+    "id": "pht",
+    "fs": 15,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "盐湖之变 · 主题照片展（学生作品墙）"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "图片来源：本课原稿素材（授课人提供）。展出时"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.69,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 35,
+  "file": "pages/p35_digital.yaml",
+  "name": "pages/p35_digital",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 25,
+  "n_text": 14,
+  "expectedOverlaps": 11,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "35"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "数字研学：走不出去，也能逛遍盐湖"
+   },
+   {
+    "id": "dg_bar_t",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "同一池盐湖，两种打开方式——走进去，或者点开"
+   },
+   {
+    "id": "dgt0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.06,
+    "txt": "方式一 · 实地研学"
+   },
+   {
+    "id": "dgb00",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 在老师或家长带领下集体出行"
+   },
+   {
+    "id": "dgb01",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 地点：盐湖 22 号堤埝北广场"
+   },
+   {
+    "id": "dgb02",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 任务：观看“盐湖之变”主题照片展"
+   },
+   {
+    "id": "dgt1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.06,
+    "txt": "方式二 · 数字研学"
+   },
+   {
+    "id": "dgb10",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 进入“云端逛盐湖”虚拟游览项目"
+   },
+   {
+    "id": "dgb11",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 在线上完成同一份研学任务"
+   },
+   {
+    "id": "dgb12",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "· 适合全员参与，不受出行条件限制"
+   },
+   {
+    "id": "dg_task_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "任务：在虚拟游览中找出“新旧对比”场景，截图"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 4,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 36,
+  "file": "pages/p36_research.yaml",
+  "name": "pages/p36_research",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 33,
+  "n_text": 19,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "13": 5,
+   "14": 7,
+   "15": 5,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "Rb0",
+    "fs": 13,
+    "t": "先做功课：查一查盐湖的前世今生，找出你最想弄清的"
+   },
+   {
+    "id": "Rb1",
+    "fs": 13,
+    "t": "细化走访调研的目的、对象、内容与方式，分工到人。"
+   },
+   {
+    "id": "Rb2",
+    "fs": 13,
+    "t": "重点关注新时代以来家乡的变化发展情况及存在的主要"
+   },
+   {
+    "id": "Rb3",
+    "fs": 13,
+    "t": "对资料分类、比对、留存，提出有针对性的对策建议。"
+   },
+   {
+    "id": "Rb4",
+    "fs": 13,
+    "t": "小组深入讨论交流，把零散的想法写成一篇完整的报告"
+   }
+  ],
+  "n_font_lt14": 6,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "36"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "研学报：五步走完一次真正的调研"
+   },
+   {
+    "id": "Rn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "Rt0",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "搜集资料，了解家乡的变化发展"
+   },
+   {
+    "id": "Rb0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "先做功课：查一查盐湖的前世今生，找出你最想弄"
+   },
+   {
+    "id": "Rn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "Rt1",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "分小组拟定活动方案"
+   },
+   {
+    "id": "Rb1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "细化走访调研的目的、对象、内容与方式，分工到"
+   },
+   {
+    "id": "Rn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "Rt2",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "开展走访调研"
+   },
+   {
+    "id": "Rb2",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "重点关注新时代以来家乡的变化发展情况及存在的"
+   },
+   {
+    "id": "Rn3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "Rt3",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "整理分析资料"
+   },
+   {
+    "id": "Rb3",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "对资料分类、比对、留存，提出有针对性的对策建"
+   },
+   {
+    "id": "Rn4_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "05"
+   },
+   {
+    "id": "Rt4",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "共同完成调研报告"
+   },
+   {
+    "id": "Rb4",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "小组深入讨论交流，把零散的想法写成一篇完整的"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 37,
+  "file": "pages/p37_directions.yaml",
+  "name": "pages/p37_directions",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 27,
+  "n_text": 12,
+  "expectedOverlaps": 9,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 3,
+   "15": 4,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [
+   {
+    "id": "Hc0_t",
+    "slackW": 0.8,
+    "t": "方向一　盐湖生态变 迁"
+   },
+   {
+    "id": "Hc1_t",
+    "slackW": 0.8,
+    "t": "方向二　盐湖保护举 措"
+   },
+   {
+    "id": "Hc2_t",
+    "slackW": 0.8,
+    "t": "方向三　盐湖文旅发 展"
+   }
+  ],
+  "n_tight_w": 3,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "37"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "三个方向，选一个做深"
+   },
+   {
+    "id": "Hc0_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "方向一　盐湖生态变 迁"
+   },
+   {
+    "id": "Hc0_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "从工业开采到生态修 复，变化是怎样一步 步发"
+   },
+   {
+    "id": "Hc1_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "方向二　盐湖保护举 措"
+   },
+   {
+    "id": "Hc1_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "退盐还湖、立法保护… …这些政策措施是怎 么"
+   },
+   {
+    "id": "Hc2_t",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "方向三　盐湖文旅发 展"
+   },
+   {
+    "id": "Hc2_b",
+    "fs": 15,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "生态旅游、研学基地 ——新业态给家乡带 来了"
+   },
+   {
+    "id": "H1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "选一个方向，用一个问题牵引整份报告：我想弄清"
+   },
+   {
+    "id": "H2bar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#FFFFFF",
+    "bg_sample": "#3C5A48",
+    "ratio": 7.64,
+    "txt": "提示：三个方向不必都做，选一个做深，比三个都"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 451.1
+ },
+ {
+  "n": 38,
+  "file": "pages/p38_rubric.yaml",
+  "name": "pages/p38_rubric",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 36,
+  "n_text": 19,
+  "expectedOverlaps": 11,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 2,
+   "14": 10,
+   "15": 5,
+   "16": 1,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "标准先给学生看，评价才有方向——量规就是学习目标"
+   }
+  ],
+  "n_font_lt14": 2,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "38"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "研学活动评价量规"
+   },
+   {
+    "id": "rg_bar_t",
+    "fs": 16,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "做到什么程度算好？先看量规，再动手——评价标"
+   },
+   {
+    "id": "rgkt0",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "资料收集"
+   },
+   {
+    "id": "rgvt0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "数据详实，来源可靠，能说清出处"
+   },
+   {
+    "id": "rgs0",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "☆ ☆ ☆"
+   },
+   {
+    "id": "rgkt1",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "合作参与"
+   },
+   {
+    "id": "rgvt1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "分工明确，人人有事做，过程有记录"
+   },
+   {
+    "id": "rgs1",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "☆ ☆ ☆"
+   },
+   {
+    "id": "rgkt2",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "成果质量"
+   },
+   {
+    "id": "rgvt2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "报告完整，建议可行，能回答追问"
+   },
+   {
+    "id": "rgs2",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "☆ ☆ ☆"
+   },
+   {
+    "id": "rgkt3",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "展示表达"
+   },
+   {
+    "id": "rgvt3",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "清晰有条理，能讲清“为什么”"
+   },
+   {
+    "id": "rgs3",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "☆ ☆ ☆"
+   },
+   {
+    "id": "rg_grade_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#EA8A72",
+    "ratio": 6.47,
+    "txt": "等级：优秀 ☆☆☆　｜　良好 ☆☆　｜　合格"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "标准先给学生看，评价才有方向——量规就是学习"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.69,
+  "contrast_lt7": 13,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 39,
+  "file": "pages/p39_debate.yaml",
+  "name": "pages/p39_debate",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 21,
+  "n_text": 10,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 5,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "39"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "思辨：这件事真的“与中学生无关”吗"
+   },
+   {
+    "id": "sbt",
+    "fs": 17,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "思辨探究：盐湖保护、家乡建设，是政府的事，和"
+   },
+   {
+    "id": "sbLt",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "这种观点对吗？"
+   },
+   {
+    "id": "sbLb",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "不对。 新时代的发展，人人共建、人人共享； "
+   },
+   {
+    "id": "sbRt",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "我们可以做什么？"
+   },
+   {
+    "id": "sbRb",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "了解盐湖，把家乡讲给更多人听。 从节约用水、"
+   },
+   {
+    "id": "sbbar_t",
+    "fs": 14,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "判断一个观点，要先看它把“谁”排除在外了。"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 40,
+  "file": "pages/p40_actions.yaml",
+  "name": "pages/p40_actions",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 26,
+  "n_text": 14,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "16": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "40"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "我们能做什么：从小事到本领"
+   },
+   {
+    "id": "Sn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "St0",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "了解与宣传：把家乡讲给更多人听"
+   },
+   {
+    "id": "Sb0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "做一张盐湖主题明信片、一段短视频，或一次班级"
+   },
+   {
+    "id": "Sn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "St1",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "小事与守护：从身边的一点一滴做起"
+   },
+   {
+    "id": "Sb1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "节约用水用电、垃圾分类、低碳出行，把绿色变成"
+   },
+   {
+    "id": "Sn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "St2",
+    "fs": 16,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "本领与未来：把成长和家乡连在一起"
+   },
+   {
+    "id": "Sb2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "学好本领，将来用专业知识参与家乡的建设与治理"
+   },
+   {
+    "id": "S1bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "一句话记住：我们不只是这场变化的“观众”，也"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 41,
+  "file": "pages/p41_proposal.yaml",
+  "name": "pages/p41_proposal",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 25,
+  "n_text": 14,
+  "expectedOverlaps": 10,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "13": 5,
+   "14": 2,
+   "17": 5,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "pjb0",
+    "fs": 13,
+    "t": "我在盐湖边看到、 听到的一个真实 现象或问题。"
+   },
+   {
+    "id": "pjb1",
+    "fs": 13,
+    "t": "这个现象为什么 会发生？和哪些 因素有关？"
+   },
+   {
+    "id": "pjb2",
+    "fs": 13,
+    "t": "我建议谁、做什 么、怎么做，尽 量具体、可操作。"
+   },
+   {
+    "id": "pjb3",
+    "fs": 13,
+    "t": "我用到了本单元 或本课的哪个观 点？把它写出来。"
+   },
+   {
+    "id": "pjbar_t",
+    "fs": 13,
+    "t": "示例：现象——盐湖边偶尔还有塑料瓶；原因——游客"
+   }
+  ],
+  "n_font_lt14": 6,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "41"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "把想法写成建议：我为家乡献一策"
+   },
+   {
+    "id": "pjt",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "写建议的四步支架"
+   },
+   {
+    "id": "pjt0",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "① 现象"
+   },
+   {
+    "id": "pjb0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我在盐湖边看到、 听到的一个真实 现象或问题"
+   },
+   {
+    "id": "pjt1",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "② 原因"
+   },
+   {
+    "id": "pjb1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "这个现象为什么 会发生？和哪些 因素有关？"
+   },
+   {
+    "id": "pjt2",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "③ 建议"
+   },
+   {
+    "id": "pjb2",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我建议谁、做什 么、怎么做，尽 量具体、可操"
+   },
+   {
+    "id": "pjt3",
+    "fs": 17,
+    "bold": true,
+    "fg": "#1F5C42",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "④ 依据"
+   },
+   {
+    "id": "pjb3",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "我用到了本单元 或本课的哪个观 点？把它写出"
+   },
+   {
+    "id": "pjbar_t",
+    "fs": 13,
+    "bold": false,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "示例：现象——盐湖边偶尔还有塑料瓶；原因——"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 42,
+  "file": "pages/p42_s3_sum.yaml",
+  "name": "pages/p42_s3_sum",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 18,
+  "n_text": 8,
+  "expectedOverlaps": 6,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 2,
+   "15": 2,
+   "16": 1,
+   "30": 1,
+   "34": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#8E3F2E",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.93,
+    "txt": "42"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "环节三 · 力行——循迹盐湖行"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "这堂课，我们不是看客"
+   },
+   {
+    "id": "hr_big",
+    "fs": 34,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#B4CCA2",
+    "ratio": 9.17,
+    "txt": "看见　→　认同　→　参与"
+   },
+   {
+    "id": "hr_sub",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#AED2A8",
+    "ratio": 6.29,
+    "txt": "这不是三个词，是这一环节里我们实实在在走过的"
+   },
+   {
+    "id": "hr_sealt",
+    "fs": 15,
+    "bold": true,
+    "fg": "#FFFFFF",
+    "bg_sample": "#8A3C2A",
+    "ratio": 7.61,
+    "txt": "收束"
+   },
+   {
+    "id": "s3_bar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#7ED2AE",
+    "ratio": 9.06,
+    "txt": "这一节思政课，我们不是听完了，是做完了。"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.93,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 43,
+  "file": "pages/p43_summary.yaml",
+  "name": "pages/p43_summary",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 26,
+  "n_text": 14,
+  "expectedOverlaps": 11,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 1,
+   "14": 8,
+   "15": 1,
+   "18": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   }
+  ],
+  "n_font_lt14": 1,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.12,
+    "txt": "43"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "收束 · 课堂小结与作业"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "这节课，请带走三句话"
+   },
+   {
+    "id": "sua0",
+    "fs": 18,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "策展观时代腾飞"
+   },
+   {
+    "id": "sub0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "——我们是见证者"
+   },
+   {
+    "id": "suc0",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "看见成就要有据"
+   },
+   {
+    "id": "sua1",
+    "fs": 18,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "归因明发展密码"
+   },
+   {
+    "id": "sub1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "——我们是认同者"
+   },
+   {
+    "id": "suc1",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "追问原因要有理"
+   },
+   {
+    "id": "sua2",
+    "fs": 18,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "力行看家乡蝶变"
+   },
+   {
+    "id": "sub2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "——我们是建设者"
+   },
+   {
+    "id": "suc2",
+    "fs": 14,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "落到行动要有方"
+   },
+   {
+    "id": "sumbar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#B4A2E4",
+    "ratio": 7.13,
+    "txt": "以青春见证中国腾飞，用成长助推家乡发展——这"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.12,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 44,
+  "file": "pages/p44_homework.yaml",
+  "name": "pages/p44_homework",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 27,
+  "n_text": 17,
+  "expectedOverlaps": 14,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 4,
+   "13": 3,
+   "14": 2,
+   "15": 4,
+   "17": 3,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "lvt0",
+    "fs": 12,
+    "t": "约 10 分钟"
+   },
+   {
+    "id": "lvb0",
+    "fs": 13,
+    "t": "从六块展板中任选三张， 每张写清：是什么、什么 "
+   },
+   {
+    "id": "lvt1",
+    "fs": 12,
+    "t": "约 20 分钟"
+   },
+   {
+    "id": "lvb1",
+    "fs": 13,
+    "t": "从三个调研方向中选一个， 写出问题、走访对象、要"
+   },
+   {
+    "id": "lvt2",
+    "fs": 12,
+    "t": "约 30 分钟"
+   },
+   {
+    "id": "lvb2",
+    "fs": 13,
+    "t": "用“成就—原因”两栏记 录采访，想一想：他的工 "
+   }
+  ],
+  "n_font_lt14": 7,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.12,
+    "txt": "44"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "收束 · 课堂小结与作业"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "作业：三个层次，各取所需"
+   },
+   {
+    "id": "HWbar_t",
+    "fs": 15,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#B4A2E4",
+    "ratio": 7.13,
+    "txt": "三个层次，各取所需——基础层人人必做，后面两"
+   },
+   {
+    "id": "lvn0",
+    "fs": 17,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "基础层 · 必做"
+   },
+   {
+    "id": "lvt0",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "约 10 分钟"
+   },
+   {
+    "id": "lvr0",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "成就卡片三张"
+   },
+   {
+    "id": "lvb0",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "从六块展板中任选三张， 每张写清：是什么、什"
+   },
+   {
+    "id": "lvn1",
+    "fs": 17,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "提升层 · 选做"
+   },
+   {
+    "id": "lvt1",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "约 20 分钟"
+   },
+   {
+    "id": "lvr1",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "研学提纲一份"
+   },
+   {
+    "id": "lvb1",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "从三个调研方向中选一个， 写出问题、走访对象"
+   },
+   {
+    "id": "lvn2",
+    "fs": 17,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.33,
+    "txt": "拓展层 · 挑战"
+   },
+   {
+    "id": "lvt2",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#FCFCFC",
+    "ratio": 7.67,
+    "txt": "约 30 分钟"
+   },
+   {
+    "id": "lvr2",
+    "fs": 15,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#FCFCFC",
+    "ratio": 15.52,
+    "txt": "采访一位家乡建设者"
+   },
+   {
+    "id": "lvb2",
+    "fs": 13,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#FCFCFC",
+    "ratio": 10.23,
+    "txt": "用“成就—原因”两栏记 录采访，想一想：他的"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.12,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456
+ },
+ {
+  "n": 45,
+  "file": "pages/p45_source.yaml",
+  "name": "pages/p45_source",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 29,
+  "n_text": 17,
+  "expectedOverlaps": 5,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 640,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 12,
+  "font_hist": {
+   "12": 6,
+   "14": 10,
+   "30": 1
+  },
+  "font_lt14": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "t": "九年级道德与法治（统编版）· 第二单元 进入新时"
+   },
+   {
+    "id": "scb0",
+    "fs": 12,
+    "t": "统编版《道德与法治》九年级上册 第二单元，第 6"
+   },
+   {
+    "id": "scb1",
+    "fs": 12,
+    "t": "山西省人民政府网站《还湖于民 山水共融》（202"
+   },
+   {
+    "id": "scb2",
+    "fs": 12,
+    "t": "科技、交通、社会治理、盐湖等照片由授课教师提供；"
+   },
+   {
+    "id": "scb3",
+    "fs": 12,
+    "t": "本课件由授课教师原创设计，仅用于基础教育精品课评"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "t": "凡引用，必注出处——这也是研究性学习的一条基本规"
+   }
+  ],
+  "n_font_lt14": 6,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "hd_info",
+    "fs": 12,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "九年级道德与法治（统编版）· 第二单元 进入"
+   },
+   {
+    "id": "hd_num",
+    "fs": 14,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.12,
+    "txt": "45"
+   },
+   {
+    "id": "hd_sec",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "收束 · 课堂小结与作业"
+   },
+   {
+    "id": "hd_title",
+    "fs": 30,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "素材引用与出处"
+   },
+   {
+    "id": "scn0_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "01"
+   },
+   {
+    "id": "sct0",
+    "fs": 14,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "教材依据"
+   },
+   {
+    "id": "scb0",
+    "fs": 12,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "统编版《道德与法治》九年级上册 第二单元，第"
+   },
+   {
+    "id": "scn1_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "02"
+   },
+   {
+    "id": "sct1",
+    "fs": 14,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "数据来源"
+   },
+   {
+    "id": "scb1",
+    "fs": 12,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "山西省人民政府网站《还湖于民 山水共融》（2"
+   },
+   {
+    "id": "scn2_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "03"
+   },
+   {
+    "id": "sct2",
+    "fs": 14,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "图片素材"
+   },
+   {
+    "id": "scb2",
+    "fs": 12,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "科技、交通、社会治理、盐湖等照片由授课教师提"
+   },
+   {
+    "id": "scn3_t",
+    "fs": 14,
+    "bold": true,
+    "fg": "#12241B",
+    "bg_sample": "#A2E4B4",
+    "ratio": 11.05,
+    "txt": "04"
+   },
+   {
+    "id": "sct3",
+    "fs": 14,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "原创声明"
+   },
+   {
+    "id": "scb3",
+    "fs": 12,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "本课件由授课教师原创设计，仅用于基础教育精品"
+   },
+   {
+    "id": "sn",
+    "fs": 12,
+    "bold": false,
+    "fg": "#46604F",
+    "bg_sample": "#A2E4B4",
+    "ratio": 4.69,
+    "txt": "凡引用，必注出处——这也是研究性学习的一条基"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 4.69,
+  "contrast_lt7": 3,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 456.0
+ },
+ {
+  "n": 46,
+  "file": "pages/p46_end.yaml",
+  "name": "pages/p46_end",
+  "bg": "image",
+  "bg_src": "media/image1.jpeg",
+  "n_el": 6,
+  "n_text": 4,
+  "expectedOverlaps": 0,
+  "expectedOutOfSafeArea": 0,
+  "max_right": 620,
+  "over_640": [],
+  "n_over_640": 0,
+  "right_band_deco_area_pct": 0.0,
+  "font_min": 15,
+  "font_hist": {
+   "15": 1,
+   "16": 1,
+   "26": 1,
+   "34": 1
+  },
+  "font_lt14": [],
+  "n_font_lt14": 0,
+  "overflow": [],
+  "n_overflow": 0,
+  "tight_w": [],
+  "n_tight_w": 0,
+  "contrast": [
+   {
+    "id": "ed_t",
+    "fs": 34,
+    "bold": true,
+    "fg": "#17251D",
+    "bg_sample": "#A2E4B4",
+    "ratio": 10.84,
+    "txt": "以青春见证中国腾飞"
+   },
+   {
+    "id": "ed_t2",
+    "fs": 26,
+    "bold": true,
+    "fg": "#584C86",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.12,
+    "txt": "用成长助推家乡发展"
+   },
+   {
+    "id": "ed_s",
+    "fs": 16,
+    "bold": false,
+    "fg": "#2E4438",
+    "bg_sample": "#A2E4B4",
+    "ratio": 7.15,
+    "txt": "第二单元 进入新时代 · 单元思考与行动"
+   },
+   {
+    "id": "ed_i",
+    "fs": 15,
+    "bold": false,
+    "fg": "#3E574A",
+    "bg_sample": "#A2E4B4",
+    "ratio": 5.36,
+    "txt": "主讲人：张紫璇　|　盐湖区北城初级中学"
+   }
+  ],
+  "contrast_fail": [],
+  "n_contrast_fail": 0,
+  "contrast_min": 5.12,
+  "contrast_lt7": 2,
+  "oob_page": [],
+  "oob_safe": [],
+  "n_oob_page": 0,
+  "n_oob_safe": 0,
+  "bottom_used": 430
+ }
+]

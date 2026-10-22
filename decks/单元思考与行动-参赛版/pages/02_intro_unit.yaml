@@ -1,0 +1,209 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "先给整单元的骨架：第四课讲新的历史方位，第五课讲思想旗帜，第六课讲腾飞成就。三十秒带过，不要展开。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 235.268, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#7FD6B0", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 213.268, 18]
+    content: {text: "导引 · 从一次策展邀请开始", fontSize: 14, color: "#1F6B4F", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "新课导入 · 本单元学什么", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#7FD6B0", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#7FD6B0", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#7FD6B0"}, {pos: 100, color: "#1F6B4F", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6B4F"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "02 / 42", fontSize: 14, color: "#7FD6B0", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "lead_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 110, 592, 71.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "lead"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 106, 596, 71.44]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["lead_cap", "lead_t"]
+  - elementId: "lead_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 112, 4, 59.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "lead_t"
+    elementType: "text"
+    bounds: [56, 113, 572, 57.44]
+    content: {text: "本单元以“中国特色社会主义进入新时代”为主题，围绕“新时代新在\n哪里”展开。", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "rc0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 193.44, 186, 183.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 189.44, 190, 183.79999999999998]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["rc0_le", "rc0_t", "rc0_b"]
+  - elementId: "rc0_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 198.44, 3.5, 165.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc0_t"
+    elementType: "text"
+    bounds: [56, 209.8, 166, 52.919999999999995]
+    content: {text: "第四课\n新的历史方位", fontSize: 17, color: "#1F6B4F", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_b"
+    elementType: "text"
+    bounds: [56, 272.72, 166, 74.16]
+    content: {text: "我国发展新的历史\n方位，社会主要矛\n盾的历史性变化。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [248, 193.44, 186, 183.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [246, 189.44, 190, 183.79999999999998]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["rc1_le", "rc1_t", "rc1_b"]
+  - elementId: "rc1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [248, 198.44, 3.5, 165.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc1_t"
+    elementType: "text"
+    bounds: [258, 198.44, 166, 52.919999999999995]
+    content: {text: "第五课\n新时代的思想旗帜", fontSize: 17, color: "#1F6B4F", fontFamily: "黑体", bold: true}
+  - elementId: "rc1_b"
+    elementType: "text"
+    bounds: [258, 261.36, 166, 96.88]
+    content: {text: "习近平新时代中国\n特色社会主义思想\n的确立与指导地位。\n", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [450, 193.44, 186, 183.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [448, 189.44, 190, 183.79999999999998]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["rc2_le", "rc2_t", "rc2_b"]
+  - elementId: "rc2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [450, 198.44, 3.5, 165.79999999999998]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc2_t"
+    elementType: "text"
+    bounds: [460, 198.44, 166, 52.919999999999995]
+    content: {text: "第六课\n中国腾飞谱新篇", fontSize: 17, color: "#1F6B4F", fontFamily: "黑体", bold: true}
+  - elementId: "rc2_b"
+    elementType: "text"
+    bounds: [460, 261.36, 166, 96.88]
+    content: {text: "新时代党和国家事\n业取得的历史性成\n就、发生的历史性\n变革。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p02sum_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 389.24, 592, 45.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p02sum"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 385.24, 596, 45.879999999999995]
+    fill: "#F0E8D8"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["p02sum_cap", "p02sum_t"]
+  - elementId: "p02sum_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 391.24, 4, 33.879999999999995]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p02sum_t"
+    elementType: "text"
+    bounds: [56, 392.24, 572, 31.879999999999995]
+    content: {text: "三课层层递进：先看“方位”，再立“旗帜”，最后落到“成就”。", fontSize: 14, color: "#1D2B23", fontFamily: "楷体"}

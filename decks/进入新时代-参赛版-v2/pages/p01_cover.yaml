@@ -1,0 +1,176 @@
+{
+ "elements": [
+  {
+   "elementId": "cv_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "cv_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    520,
+    22
+   ],
+   "content": {
+    "text": "基础教育精品课 · 学科课程",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "cv_kick",
+   "elementType": "text",
+   "bounds": [
+    48,
+    150,
+    592,
+    24
+   ],
+   "content": {
+    "text": "统编版《道德与法治》九年级上册",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "cv_t1",
+   "elementType": "text",
+   "bounds": [
+    48,
+    178,
+    592,
+    62
+   ],
+   "content": {
+    "text": "第二单元　进入新时代",
+    "fontSize": 44,
+    "color": "#FFFFFF",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.2
+   }
+  },
+  {
+   "elementId": "cv_t2",
+   "elementType": "text",
+   "bounds": [
+    48,
+    246,
+    592,
+    46
+   ],
+   "content": {
+    "text": "单元思考与行动",
+    "fontSize": 32,
+    "color": "#A8812F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.2
+   }
+  },
+  {
+   "elementId": "cv_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     306
+    ],
+    [
+     292,
+     306
+    ]
+   ],
+   "line": {
+    "color": "#A8812F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "cv_m1",
+   "elementType": "text",
+   "bounds": [
+    48,
+    322,
+    290,
+    60
+   ],
+   "content": {
+    "text": "年　级：九年级\n主 讲 人：张紫璇",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.75
+   }
+  },
+  {
+   "elementId": "cv_m2",
+   "elementType": "text",
+   "bounds": [
+    344,
+    322,
+    296,
+    60
+   ],
+   "content": {
+    "text": "学　科：道德与法治\n学　校：运城市盐湖区北城初级中学",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.75
+   }
+  },
+  {
+   "elementId": "cv_th",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    24
+   ],
+   "content": {
+    "text": "以青春见证中国腾飞，用成长助推家乡发展",
+    "fontSize": 16,
+    "color": "#A8812F",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "pageType": "cover",
+ "background": {
+  "type": "image",
+  "src": "media/bg_d_navy.png",
+  "fit": "cover"
+ },
+ "notes": "问：先别翻页，猜猜这一单元要干什么？答：“讲新时代吧”“背知识点”。接：都不是——我们这节课办一个展，你们是策展人。"
+}

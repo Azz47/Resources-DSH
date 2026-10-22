@@ -1,0 +1,69 @@
+﻿===== kit.py palette =====
+            if cur + w > eff and line:
+                # 行尾标点跟随上一行（悬挂不得超过真实框宽）
+                j = i
+                while j < len(para) and para[j] in CLOSE and cur + wch(para[j]) * size <= width:
+                    line += para[j]
+                    cur += wch(para[j]) * size
+                    j += 1
+                # 行首避免开括号（同样不得超过真实框宽）
+                if j < len(para) and para[j] in OPEN and cur + wch(para[j]) * size <= width:
+                    line += para[j]
+                    cur += wch(para[j]) * size
+                    j += 1
+                out.append(line)
+                line, cur = "", 0.0
+                i = j
+                continue
+            line += c
+            cur += w
+            i += 1
+        out.append(line)
+    return "\n".join(out)
+
+
+# ---------------------------------------------------------------- 元素工厂
+def need_h(text, width, size, lh=1.35, pad=6):
+    """给定宽度与字号，估算文本需要的框高。"""
+===== build.py theme (975..1015) =====
+    names = [n + ".yaml" for n, t, k in PAGES]
+    head = [
+        "# 第二单元 进入新时代 · 单元思考与行动（参赛版 / 右侧 1/3 留作讲师站位）",
+        "# 全部内容元素限制在 x ∈ [%d, %d]，右侧 640–960 为空白区。" % (L, R),
+        "version: 1",
+        'title: "第二单元 进入新时代 · 单元思考与行动"',
+        "size: [960, 540]",
+        "theme:",
+        "  colors:",
+        '    mint: "#7FD6B0"',
+        '    gold: "#E8C15A"',
+        '    cyan: "#6FC7E8"',
+        '    coral: "#EE8A72"',
+        '    lavender: "#B9A7E8"',
+        '    mint2: "#2F7A5C"',
+        '    gold2: "#8A6A1E"',
+        '    cyan2: "#1F6383"',
+        '    coral2: "#8E3F2E"',
+        '    lavender2: "#584C86"',
+        '    rule: "#3D5A4A"',
+        '    rule2: "#405E4B"',
+        '    line1: "#5C8068"',
+        '    line2: "#43614F"',
+        '    board: "#2E4A3D"',
+        '    panel: "%s"' % PANEL,
+        '    chalk: "#FFFFFF"',
+        '    soft: "#E4EEE2"',
+        '    dim: "%s"' % DIM,
+        '    faint: "%s"' % FAINT,
+        '    ink: "#12241B"',
+        "  textStyles:",
+        "    pageTitle: {fontSize: 25, color: \"$chalk\", bold: true, fontFamily: \"黑体\"}",
+        "    section: {fontSize: 14, color: \"$gold\", bold: true, fontFamily: \"黑体\"}",
+        "    cardTitle: {fontSize: 17, color: \"$chalk\", bold: true, fontFamily: \"黑体\"}",
+        "    body: {fontSize: 16, color: \"$soft\", fontFamily: \"楷体\"}",
+        "    note: {fontSize: 12, color: \"$faint\", fontFamily: \"楷体\"}",
+        "  safeArea: {top: 24, bottom: 48, left: 36, right: 320}",
+        "  minFontSize: 12",
+        "pages:",
+    ] + ["  - pages/" + n for n in names]
+    with open(os.path.join(OUT, "deck.yaml"), "w", encoding="utf-8") as f:

@@ -1,0 +1,238 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "四条原因对应教材：科学指导、党的全面领导、制度优势、人民至上。写板书时用四个短语。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务二 · 撰写解说——解码新成就", fontSize: 14, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "四大原因 · 成就背后的密码", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#6FC7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#6FC7E8"}, {pos: 100, color: "#1F6383", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6383"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "18 / 42", fontSize: 14, color: "#6FC7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p18q_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p18q"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p18q_cap", "p18q_t"]
+  - elementId: "p18q_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p18q_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "新时代党和国家事业取得辉煌成就的原因是什么？", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 175.56, 136, 183.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 171.56, 140, 183.06]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc0_le", "rc0_t", "rc0_b"]
+  - elementId: "rc0_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 180.56, 3.5, 165.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc0_t"
+    elementType: "text"
+    bounds: [56, 180.56, 116, 29.459999999999997]
+    content: {text: "科学指引", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_b"
+    elementType: "text"
+    bounds: [56, 220.01999999999998, 116, 119.6]
+    content: {text: "习近平新时\n代中国特色\n社会主义思\n想的科学指\n导。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [198, 175.56, 136, 183.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [196, 171.56, 140, 183.06]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc1_le", "rc1_t", "rc1_b"]
+  - elementId: "rc1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [198, 180.56, 3.5, 165.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc1_t"
+    elementType: "text"
+    bounds: [208, 203.28, 116, 29.459999999999997]
+    content: {text: "党的领导", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc1_b"
+    elementType: "text"
+    bounds: [208, 242.74, 116, 74.16]
+    content: {text: "坚持和加强\n党的全面领\n导。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [350, 175.56, 136, 183.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [348, 171.56, 140, 183.06]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc2_le", "rc2_t", "rc2_b"]
+  - elementId: "rc2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [350, 180.56, 3.5, 165.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc2_t"
+    elementType: "text"
+    bounds: [360, 191.92000000000002, 116, 29.459999999999997]
+    content: {text: "制度优势", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc2_b"
+    elementType: "text"
+    bounds: [360, 231.38, 116, 96.88]
+    content: {text: "中国特色社\n会主义制度\n具有显著优\n势。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [502, 175.56, 136, 183.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [500, 171.56, 140, 183.06]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc3_le", "rc3_t", "rc3_b"]
+  - elementId: "rc3_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [502, 180.56, 3.5, 165.06]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc3_t"
+    elementType: "text"
+    bounds: [512, 203.28, 116, 29.459999999999997]
+    content: {text: "人民至上", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc3_b"
+    elementType: "text"
+    bounds: [512, 242.74, 116, 74.16]
+    content: {text: "坚持以人民\n为中心的发\n展思想。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p18task_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 376.62, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p18task"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 372.62, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p18task_cap", "p18task_t"]
+  - elementId: "p18task_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 378.62, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p18task_t"
+    elementType: "text"
+    bounds: [56, 379.62, 572, 34.72]
+    content: {text: "小组合作探究：根据四大原因，撰写成就解码解说词。", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

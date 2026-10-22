@@ -1,0 +1,388 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "收束 · 我们的答卷",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "参考答案与评分要点",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "40 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p42a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    290,
+    186.3
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p42a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    166.3
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p42a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "选择题",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p42a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    255,
+    124.0
+   ],
+   "content": {
+    "text": "（一）B　（二）B\n（三）A　（四）A\n\n评分要点：每小题 2 分，多选、错选不得分。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p42b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    148,
+    290,
+    201.8
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p42b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    158,
+    3,
+    181.8
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p42b_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "材料题（要点式）",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p42b_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    194.3,
+    255,
+    139.5
+   ],
+   "content": {
+    "text": "（五）① 226 天→27 年；② 问机制：按需取水无统筹；反证：不调度仍断流；③ 落到“制度与协同”。\n（六）① 文化之变与生态之变；② 经济、社会、生态三方面；③ 具体、可做、能坚持。",
+    "fontSize": 15,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "评分建议：观点＋事实各 1 分，只表态不给分。",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：材料题只写“我认为很重要”给分吗？答：学生常这么写。接：不给。按要点给分：要有事实、有分析、有落点。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p42a_bg",
+    "p42a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p42a_bg",
+    "p42a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p42a_bg",
+    "p42a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p42b_bg",
+    "p42b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p42b_bg",
+    "p42b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p42b_bg",
+    "p42b_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

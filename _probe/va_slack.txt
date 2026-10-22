@@ -1,0 +1,105 @@
+=== 横向余量最小 22 个文本元素（slackW 小 = PowerPoint 字体更宽时可能重排）===
+  p37  Hc0_t                    text   w=163.0  maxLine=162.2  slackW=0.8   h=48.5   textH=40.8   slackH=7.7    方向一　盐湖生态变 迁
+  p37  Hc1_t                    text   w=163.0  maxLine=162.2  slackW=0.8   h=48.5   textH=40.8   slackH=7.7    方向二　盐湖保护举 措
+  p37  Hc2_t                    text   w=163.0  maxLine=162.2  slackW=0.8   h=48.5   textH=40.8   slackH=7.7    方向三　盐湖文旅发 展
+  p44  lvb1                     text   w=162.0  maxLine=156.0  slackW=6.0   h=108.0  textH=58.5   slackH=49.5   从三个调研方向中选一个， 写出问题、走访对象、要
+  p19  hr_sealt                 text   w=38.0   maxLine=31.8   slackW=6.2   h=20.0   textH=18.0   slackH=2.0    归因
+  p30  hr_sealt                 text   w=38.0   maxLine=31.8   slackW=6.2   h=20.0   textH=18.0   slackH=2.0    力行
+  p42  hr_sealt                 text   w=38.0   maxLine=31.8   slackW=6.2   h=20.0   textH=18.0   slackH=2.0    收束
+  p35  dg_task_t                text   w=568.0  maxLine=561.3  slackW=6.7   h=26.2   textH=18.0   slackH=8.2    任务：在虚拟游览中找出“新旧对比”场景，截图并说
+  p32  qt                       text   w=540.0  maxLine=532.0  slackW=8.0   h=128.0  textH=88.3   slackH=39.7   盐湖的生态价值和功能越来越重要，要统筹做好保护利
+  p2   ac0_b                    text   w=264.0  maxLine=255.0  slackW=9.0   h=69.0   textH=54.0   slackH=15.0   选出最打动你的一张图、一件事或一 个数字，并说清
+  p6   dc0_b                    text   w=163.0  maxLine=154.0  slackW=9.0   h=45.2   textH=33.6   slackH=11.6   选一张最有冲击力的图， 它会替你说话。
+  p13  nc1_b                    text   w=163.0  maxLine=154.0  slackW=9.0   h=64.8   textH=50.4   slackH=14.4   社区治理更精细，从养 老助餐到老旧小区改造， 都
+  p19  hr_sub                   text   w=474.0  maxLine=464.0  slackW=10.0  h=54.0   textH=48.0   slackH=6.0    这四个问题，就是这一环节要去找的四条线索。答案不
+  p21  evkt0                    text   w=130.0  maxLine=118.7  slackW=11.3  h=22.0   textH=16.8   slackH=5.2    我感受到的新成就
+  p21  evkt1                    text   w=130.0  maxLine=118.7  slackW=11.3  h=22.0   textH=16.8   slackH=5.2    教材中的事实依据
+  p41  pjb0                     text   w=116.0  maxLine=104.0  slackW=12.0  h=124.0  textH=56.5   slackH=67.5   我在盐湖边看到、 听到的一个真实 现象或问题。
+  p41  pjb2                     text   w=116.0  maxLine=104.0  slackW=12.0  h=124.0  textH=75.4   slackH=48.6   我建议谁、做什 么、怎么做，尽 量具体、可操作。
+  p41  pjb3                     text   w=116.0  maxLine=104.0  slackW=12.0  h=124.0  textH=75.4   slackH=48.6   我用到了本单元 或本课的哪个观 点？把它写出来。
+  p29  Fc1_b                    text   w=163.0  maxLine=150.0  slackW=13.0  h=90.0   textH=72.0   slackH=18.0   我们追的是本质：有 方向、有领导、有制 度、有立
+  p24  Cc2_b                    text   w=163.0  maxLine=149.1  slackW=13.9  h=64.8   textH=50.4   slackH=14.4   南水北调、西气东输、“ 东数西算”，跨区域统 筹
+  p27  k_bb0                    text   w=92.0   maxLine=78.0   slackW=14.0  h=106.0  textH=75.4   slackH=30.6   习近平新时代 中国特色社会 主义思想的科 学指导
+  p27  k_bb1                    text   w=92.0   maxLine=78.0   slackW=14.0  h=106.0  textH=37.7   slackH=68.3   坚持和加强党 的全面领导
+
+=== 纵向余量最小 18 个（负数=溢出）===
+  p2   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    02
+  p3   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    03
+  p4   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    04
+  p5   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    05
+  p6   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    06
+  p7   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    07
+  p8   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    08
+  p9   hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    09
+  p10  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    10
+  p11  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    11
+  p12  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    12
+  p13  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    13
+  p14  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    14
+  p15  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    15
+  p16  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    16
+  p17  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    17
+  p18  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    18
+  p19  hd_num                   text   w=74.0   maxLine=16.8   slackW=57.2  h=18.0   textH=16.8   slackH=1.2    19
+
+文本元素总数=571  任一向余量为负=0
+
+=== 环节标签片底色（采样 y45..47，取众数）===
+  p01=#A0E0B0  p02=#80D0B0  p03=#80D0B0  p04=#80D0B0  p05=#80D0B0  p06=#E0C060  p07=#E0C060  p08=#E0C060  p09=#E0C060  p10=#E0C060  p11=#E0C060  p12=#E0C060  p13=#E0C060  p14=#E0C060  p15=#E0C060  p16=#E0C060  p17=#E0C060  p18=#E0C060  p19=#70C8E0  p20=#70C8E0  p21=#70C8E0  p22=#70C8E0  p23=#70C8E0  p24=#70C8E0  p25=#70C8E0  p26=#70C8E0  p27=#70C8E0  p28=#70C8E0  p29=#70C8E0  p30=#E88870  p31=#E88870  p32=#E88870  p33=#E88870  p34=#E88870  p35=#E88870  p36=#E88870  p37=#E88870  p38=#E88870  p39=#E88870  p40=#E88870  p41=#E88870  p42=#E88870  p43=#B0A8E0  p44=#B0A8E0  p45=#B0A8E0  p46=#A0E0B0
+
+  #E0C060  13 页: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  #E88870  13 页: [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+  #70C8E0  11 页: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+  #80D0B0  4 页: [2, 3, 4, 5]
+  #B0A8E0  3 页: [43, 44, 45]
+  #A0E0B0  2 页: [1, 46]
+
+=== p41 y>=390 元素 ===
+  hd_chip_a          shape  x44.0    y28.0    w22.0    h22.0    
+  hd_chip_b          shape  x52.0    y42.0    w14.0    h14.0    
+  hd_info            text   x80.0    y25.0    w480.0   h18.0    九年级道德与法治（统编版）· 第二单元 进入新时代 · 盐湖区北城初级中学
+  hd_num             text   x566.0   y24.0    w74.0    h18.0    41
+  hd_secbg           shape  x44.0    y44.5    w235.1   h22.0    
+  hd_sec             text   x57.0    y46.5    w209.1   h19.0    环节三 · 力行——循迹盐湖行
+  hd_title           text   x44.0    y71.0    w596.0   h42.0    把想法写成建议：我为家乡献一策
+  hd_rule2           shape  x44.0    y119.0   w128.0   h3.5     
+  hd_rule            shape  x178.0   y120.2   w462.0   h1.5     
+  pjt                text   x44.0    y128.0   w596.0   h28.0    写建议的四步支架
+  pj0                shape  x44.0    y185.7   w140.0   h186.0   
+  pjt0               text   x56.0    y197.7   w116.0   h26.0    ① 现象
+  pjb0               text   x56.0    y235.7   w116.0   h124.0   我在盐湖边看到、 / 听到的一个真实 / 现象或问题。
+  pj1                shape  x193.0   y185.7   w140.0   h186.0   
+  pjt1               text   x205.0   y197.7   w116.0   h26.0    ② 原因
+  pjb1               text   x205.0   y235.7   w116.0   h124.0   这个现象为什么 / 会发生？和哪些 / 因素有关？
+  pj2                shape  x342.0   y185.7   w140.0   h186.0   
+  pjt2               text   x354.0   y197.7   w116.0   h26.0    ③ 建议
+  pjb2               text   x354.0   y235.7   w116.0   h124.0   我建议谁、做什 / 么、怎么做，尽 / 量具体、可操作。 / 
+  pj3                shape  x491.0   y185.7   w140.0   h186.0   
+  pjt3               text   x503.0   y197.7   w116.0   h26.0    ④ 依据
+  pjb3               text   x503.0   y235.7   w116.0   h124.0   我用到了本单元 / 或本课的哪个观 / 点？把它写出来。 / 
+  pjbar              shape  x44.0    y402.9   w596.0   h53.1    
+  pjbar_cap          shape  x51.0    y408.4   w4.0     h42.1    
+  pjbar_t            text   x58.0    y408.9   w568.0   h41.1    示例：现象——盐湖边偶尔还有塑料瓶；原因——游客增多、垃圾桶偏少；建议——增设分类垃 / 圾桶并招募学生志愿者；
+
+=== p27 小元件（h<=5 或 w<=22）===
+  hd_chip_a          shape  x44.0    y28.0    w22.0    h22.0  
+  hd_chip_b          shape  x52.0    y42.0    w14.0    h14.0  
+  hd_rule2           shape  x44.0    y119.0   w128.0   h3.5   
+  hd_rule            shape  x178.0   y120.2   w462.0   h1.5   
+  k_v0               shape  x98.8    y172.0   w2.5     h12.0  
+  k_v1               shape  x219.8   y172.0   w2.5     h12.0  
+  k_v2               shape  x340.8   y172.0   w2.5     h12.0  
+  k_v3               shape  x461.8   y172.0   w2.5     h12.0  
+  k_v4               shape  x582.8   y172.0   w2.5     h12.0  
+  k_bus              shape  x98.8    y184.0   w484.0   h2.5   
+  k_vb0              shape  x98.8    y186.5   w2.5     h13.0  
+  k_vb1              shape  x219.8   y186.5   w2.5     h13.0  
+  k_vb2              shape  x340.8   y186.5   w2.5     h13.0  
+  k_vb3              shape  x461.8   y186.5   w2.5     h13.0  
+  k_vb4              shape  x582.8   y186.5   w2.5     h13.0  
+  k_st0              shape  x44.0    y200.0   w112.0   h5.0   
+  k_st1              shape  x165.0   y200.0   w112.0   h5.0   
+  k_st2              shape  x286.0   y200.0   w112.0   h5.0   
+  k_st3              shape  x407.0   y200.0   w112.0   h5.0   
+  k_st4              shape  x528.0   y200.0   w112.0   h5.0   
+  k_bar_cap          shape  x51.0    y424.6   w4.0     h25.9  

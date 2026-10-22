@@ -1,0 +1,59 @@
+﻿[09:41:06] START alive=6  exemptions granted for dsh 0.2.0-rc.2
+[09:41:06] EXEMPT @arcaneorion/dsh-teaching-board@0.6.0
+[09:41:06]        dsh.cmd : dsh: warning: allowing incompatible plugin versions can break the application or corrupt data. Approval appli |     + CategoryInfo          : NotSpecified: (dsh: warning: a...d DSH versions.:String) [], RemoteException | dsh: allowed @arcaneorion/dsh-teaching-board@0.6.0 for DSH 0.2.0-rc.2
+[09:41:06] INSTALL @arcaneorion/dsh-teaching-board
+[09:41:18] OK     @arcaneorion/dsh-teaching-board exit=0 alive=6
+[09:41:18] EXEMPT dsh-plugin-education@0.3.2
+[09:41:19]        dsh.cmd : dsh: warning: allowing incompatible plugin versions can break the application or corrupt data. Approval appli |     + CategoryInfo          : NotSpecified: (dsh: warning: a...d DSH versions.:String) [], RemoteException | dsh: allowed dsh-plugin-education@0.3.2 for DSH 0.2.0-rc.2
+[09:41:19] INSTALL dsh-plugin-education
+[09:41:34] OK     dsh-plugin-education exit=0 alive=6
+[09:41:34] DONE alive=6
+[09:41:34] --- compatibility.json ---
+{
+  "@arcaneorion/dsh-teaching-board@0.6.0": [
+    "0.2.0-rc.2"
+  ],
+  "dsh-plugin-education@0.3.2": [
+    "0.2.0-rc.2"
+  ]
+}
+
+[09:41:34] --- final bundles ---
+[09:41:34] {
+  "name": "dsh-profile-desktop",
+  "private": true,
+  "dependencies": {
+    "@arcaneorion/dsh-teaching-board": "^0.6.0",
+    "dsh-better-sidebar": "^0.24.1",
+    "dsh-context": "^0.64.0",
+    "dsh-craft-your-textbook": "^1.3.2",
+    "dsh-hotspots": "^1.1.0",
+    "dsh-image-generation": "^0.1.2",
+    "dsh-mindmap": "^0.16.0",
+    "dsh-plugin-education": "^0.3.2",
+    "dsh-ppt-studio": "^1.2.1",
+    "dshmarket": "^1.66.9"
+  },
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "@deepseek-ai/dsh-experimental-agent-team-profile",
+        "@deepseek-ai/dsh-experimental-auto-review",
+        "@deepseek-ai/dsh-experimental-schedule-bundle",
+        "dsh-mindmap",
+        "dsh-ppt-studio",
+        "dsh-craft-your-textbook",
+        "dsh-context",
+        "dsh-better-sidebar",
+        "dsh-hotspots",
+        "dsh-image-generation",
+        "dshmarket",
+        "@arcaneorion/dsh-teaching-board",
+        "dsh-plugin-education"
+      ]
+    }
+  }
+}
+

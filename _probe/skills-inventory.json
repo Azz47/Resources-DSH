@@ -1,0 +1,1415 @@
+[
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "code",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\code\\SKILL.md",
+  "name": "code",
+  "desc": "",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "game-study",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\game-study\\SKILL.md",
+  "name": "game-study",
+  "desc": "",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "learn",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\learn\\SKILL.md",
+  "name": "learn",
+  "desc": "",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "ml",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\ml\\SKILL.md",
+  "name": "ml",
+  "desc": "",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "quant",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\submode\\quant\\SKILL.md",
+  "name": "quant",
+  "desc": "",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@arcaneorion/dsh-teaching-board",
+  "dir": "stage-panel",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@arcaneorion\\dsh-teaching-board\\skills\\stage-panel\\SKILL.md",
+  "name": "stage-panel",
+  "desc": "DSH 教学平面（板书面板）使用手册，随 @arcaneorion/dsh-teaching-board 插件发布：board id 与 op 语义、data-stage-region 替换约定、se",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@changfenhuang/dsh-genui",
+  "dir": "dsh-genui",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@changfenhuang\\dsh-genui\\SKILL.md",
+  "name": "genui",
+  "desc": "Render structured interactive UI inline through the dsh-ui fence. Use for key points, emphasis, comp",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "ding",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\ding\\SKILL.md",
+  "name": "ding",
+  "desc": "Use for Ding-style (钉内/钉外) workplace reminders rooted in the 7.5万字 essay 《置身钉内》 and VP response 《置身钉",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "mama",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\mama\\SKILL.md",
+  "name": "mama",
+  "desc": "妈妈唠叨模式 — 中国式妈妈提醒风格的生产力 coaching。底层行为仍是结构化排障、证据优先、完成质量检查。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "p10",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p10\\SKILL.md",
+  "name": "p10",
+  "desc": "P10 CTO mode — define strategic direction, design org topology, manage P9 teams. Use when user says ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "p7",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p7\\SKILL.md",
+  "name": "p7",
+  "desc": "P7 Senior Engineer mode — solution-driven execution under P8 supervision. Use when user says 'P7模式',",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "p9",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\p9\\SKILL.md",
+  "name": "p9",
+  "desc": "P9 Tech Lead mode — write Task Prompts, manage P8 agent teams, never write code yourself. Use when u",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "pro",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pro\\SKILL.md",
+  "name": "pro",
+  "desc": "PUA Pro extensions: self-evolution notes, compaction state continuity, KPI-style summaries, flavor s",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "pua",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua\\SKILL.md",
+  "name": "pua",
+  "desc": "Use for PUA/try-harder productivity coaching when the user expresses frustration, repeated failure, ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "pua-en",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-en\\SKILL.md",
+  "name": "pua-en",
+  "desc": "Performance-coaching mode for repeated failures, passive behavior, completion-quality issues, or exp",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "pua-ja",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-ja\\SKILL.md",
+  "name": "pua-ja",
+  "desc": "日本語の生産性コーチングモード。明示的な依頼、反復失敗、受け身、検証不足、品質不満のときに、構造化トラブルシューティングと証拠ベースの完了確認を促す。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "pua-loop",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\pua-loop\\SKILL.md",
+  "name": "pua-loop",
+  "desc": "PUA Loop — guided iterative development with recurring checks, completion evidence, and pause/abort ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "shot",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\shot\\SKILL.md",
+  "name": "shot",
+  "desc": "PUA Shot — compact all-in-one PUA reference for explicit injection into sub-agents or short sessions",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@michengai/dsh-pua",
+  "dir": "yes",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@michengai\\dsh-pua\\assets\\pua\\upstream\\skills\\yes\\SKILL.md",
+  "name": "yes",
+  "desc": "SB Leader 夸夸模式 — ENFP 型领导，懂情绪有节奏。底层行为不变（三条红线、方法论），旁白从施压变成共情+鼓励+偶尔戏谑吐槽。Triggers on: '/pua:yes', '夸夸模式",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@tt-a1i/archify-dsh",
+  "dir": "archify",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@tt-a1i\\archify-dsh\\skills\\archify\\SKILL.md",
+  "name": "archify",
+  "desc": "Create polished, validated architecture, workflow, sequence, data-flow, and lifecycle/state diagrams",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "@vectorize-io/hindsight-coding-agents",
+  "dir": "skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\@vectorize-io\\hindsight-coding-agents\\skill\\SKILL.md",
+  "name": "hindsight-coding-agent",
+  "desc": "How this machine's Hindsight coding-agent memory works — the plugin behind the 🧠 banner. Use when th",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "card-theater",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\card-theater\\SKILL.md",
+  "name": "card-theater",
+  "desc": "生成侧边栏叙事 + 3D 卡片轮播的演示动画 HTML 页面。支持滚动翻页、Coverflow 3D、Focus 展开等多种交互模式，内置模式切换（如传输/隧道）、荧光笔高亮、水印图标等效果。适合协议",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "dynamic-archify",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\dynamic-archify\\SKILL.md",
+  "name": "dynamic-archify",
+  "desc": "Create professional architecture, workflow, sequence, data-flow, and lifecycle/state diagrams as sta",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "flowchart",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\flowchart\\SKILL.md",
+  "name": "flowchart",
+  "desc": "生成教育/科普类流程图、概念图、原理演示的动画 HTML 页面。用 CSS/SVG 绘制节点和连线，支持流动箭头、逐步出现、hover 高亮等动画效果。适合技术讲解、视频科普、PPT 配图场景。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "network-protocol-viz",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\network-protocol-viz\\SKILL.md",
+  "name": "network-protocol-viz",
+  "desc": "生成网络协议工作原理的可视化动画 HTML 页面，支持 TCP/IP、以太网帧、IPv4 数据报、路由、DHCP、HTTPS 等协议的图形化动态演示",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "phone-ui-demos",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\phone-ui-demos\\SKILL.md",
+  "name": "phone-ui-demos",
+  "desc": "把产品/知识点/文案做成\"手机系统 UI 风格\"的电影化网页演示动画——观众像在看一台真手机的精心编排录屏：锁屏通知、聊天、设置页、控制中心、App 界面逐镜头呈现，HyperOS/MIUI 级手感动",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "ppt-animation",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\ppt-animation\\SKILL.md",
+  "name": "ppt-animation",
+  "desc": "生成 PPT 风格的翻页 HTML 演示动画，支持暗色炫酷、暖色报纸、简约白色等多套主题，适合视频科普、技术讲解场景",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "video-shot-demos",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\video-shot-demos\\SKILL.md",
+  "name": "video-shot-demos",
+  "desc": "为视频/课程/解说文案制作\"每镜头一个 HTML\"的高完成度网页演示动画（分镜演示页、视频配套演示动画、录屏用动画网页、科普/技术/产品发布可视化镜头）。只要用户提到：给视频做演示动画网页、分镜 HT",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-animations",
+  "dir": "scholar-notes",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-animations\\skills\\scholar-notes\\SKILL.md",
+  "name": "学霸笔记",
+  "desc": "生成手写笔记本风格的单文件 HTML 学习笔记。当用户需要将技术内容、漏洞分析、知识总结等转化为视觉精美的网页笔记时使用。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-craft-your-textbook",
+  "dir": "resources",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-craft-your-textbook\\resources\\SKILL.md",
+  "name": "dsh-craft-your-textbook",
+  "desc": "让你具备\"亲手为自己造一本教材\"的能力——把源材料（教材/考纲/讲义等）加工成 AI 苏格拉底老师能拿去上课的教学蓝本（pure-blueprint），或一本给人读的流畅教材（human-readab",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-copy",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-copy\\SKILL.md",
+  "name": "ppt-studio-copy",
+  "desc": "PPT 工作室的中文文案手册——标题写成结论、要点写成证据、去 AI 味（套话/排比/破折号揭示/三段式/虚词堆叠）、中英混排与术语处理、讲稿怎么写。要写或改页面文案、用户说\"太 AI 了/像机器写的",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-craft",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-craft\\SKILL.md",
+  "name": "ppt-studio-craft",
+  "desc": "PPT 工作室的叙事与版式手册——怎么把一个题材排成有主张的页序、每页一个论点、标题写成结论、按内容量选构图、避免\"每页都是三张卡片\"的模板感。要定纲/定版式、或用户说\"这页怎么排/太挤/太像模板了\"",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-data",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-data\\SKILL.md",
+  "name": "ppt-studio-data",
+  "desc": "PPT 工作室的图与数据手册——图表选型、成品里图表为什么没有标签、怎么补才不触发内容互压、口径与数据来源标注、跨页数字一致、结论句写法。页面要放图表/数字/对比时加载；用户问\"这个数据怎么呈现/图表",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram\\SKILL.md",
+  "name": "ppt-studio-diagram",
+  "desc": "复杂图绘制总纲：何时调用哪个机制（attach/正交化/结构声明/门禁 code 对照）、12 类图的配方索引、验证纪律与坑表。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-compare",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-compare\\SKILL.md",
+  "name": "ppt-studio-diagram-compare",
+  "desc": "左右对比：双列容器 + 中缝；两侧要点等宽对齐，用对比标记而不是堆字。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-flow",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-flow\\SKILL.md",
+  "name": "ppt-studio-diagram-flow",
+  "desc": "流程图：单行/单列顺序 + 轴对齐连线；回边（如抽检不合格）走车道间隙并带标签。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-funnel",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-funnel\\SKILL.md",
+  "name": "ppt-studio-diagram-funnel",
+  "desc": "漏斗/金字塔：custGeom 真梯形逐段收窄（段间严丝合缝）；段内标签声明在段内。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-layers",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-layers\\SKILL.md",
+  "name": "ppt-studio-diagram-layers",
+  "desc": "分层架构：层芯片 + 层带 + 居中箭头；层内一行排布，层间关系用标签写清。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-loop",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-loop\\SKILL.md",
+  "name": "ppt-studio-diagram-loop",
+  "desc": "闭环反馈：环形排布 + 环外折线；斜段属设计意图，用 roleReason 声明；环内连线要顺。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-matrix",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-matrix\\SKILL.md",
+  "name": "ppt-studio-diagram-matrix",
+  "desc": "矩阵/象限：行列网格 + 表头（cols/rowLabels/colLabels），每格一张卡，表头与轴说明写清。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-sequence",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-sequence\\SKILL.md",
+  "name": "ppt-studio-diagram-sequence",
+  "desc": "时序图：参与者盒 + 生命线 + 水平消息箭头；生命线用虚线与窄矩形，标签用白底芯片遮罩。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-state",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-state\\SKILL.md",
+  "name": "ppt-studio-diagram-state",
+  "desc": "状态机：BFS 分层 + 列间走廊 + 转移总线（回边不做特例）；每条转移都要有标签。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-steps-ring",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-steps-ring\\SKILL.md",
+  "name": "ppt-studio-diagram-steps-ring",
+  "desc": "步骤环：真圆 + 圆周编号点（更雅，优先）或卡片环（更快）；点与圆同心、标签留 ≥24px。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-swimlane",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-swimlane\\SKILL.md",
+  "name": "ppt-studio-diagram-swimlane",
+  "desc": "复杂图配方（swimlane）：按 ppt-studio-diagram 总纲选用，含骨架/数值/专属坑/验收清单。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-timeline",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-timeline\\SKILL.md",
+  "name": "ppt-studio-diagram-timeline",
+  "desc": "时间轴/里程碑：水平主轴 + 圆点 + 上下交替标签；轴说明与关键里程碑的高亮取舍。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-diagram-tree",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-diagram-tree\\SKILL.md",
+  "name": "ppt-studio-diagram-tree",
+  "desc": "层级树/组织图：根居中、一级一行、叶一行；正交折线 + 箭头；同组子树要有分组容器。",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-ppt-studio",
+  "dir": "ppt-studio-manual",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-ppt-studio\\skills\\ppt-studio-manual\\SKILL.md",
+  "name": "ppt-studio-manual",
+  "desc": "PPT 工作室（dsh-ppt-studio）答疑手册——**只在用户提问时加载**：用户问\"这个插件怎么用/XX 怎么写/为什么报错/怎么只改一页/有没有单页版\"时，在这里找条款回答。**制作任务进",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer\\SKILL.md",
+  "name": "univer",
+  "desc": "Create, inspect, edit, import, export, and hand off multi-Unit .univer files through DSH tools and i",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-base",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-base\\SKILL.md",
+  "name": "univer-base",
+  "desc": "Create, edit, calculate, inspect, export, and review Univer Base database Units through DSH tools an",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-board",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-board\\SKILL.md",
+  "name": "univer-board",
+  "desc": "Create, edit, chart, inspect, and review Univer Board canvas Units through DSH tools and the Lite In",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-cross-unit-formula",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-cross-unit-formula\\SKILL.md",
+  "name": "univer-cross-unit-formula",
+  "desc": "Author, calculate, update, inspect, and verify cross-Unit formulas through DSH tools and the Lite In",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-doc",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-doc\\SKILL.md",
+  "name": "univer-doc",
+  "desc": "Read, create, edit, paginate, chart, inspect, export, and review Univer Doc Units through DSH tools ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-embed",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-embed\\SKILL.md",
+  "name": "univer-embed",
+  "desc": "Embed one Univer Unit inside another through DSH tools and the Lite Interface. Use proactively when ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-sheet",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-sheet\\SKILL.md",
+  "name": "univer-sheet",
+  "desc": "Read, write, format, calculate, and verify Univer Sheet Units through DSH tools and the Lite Interfa",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "dsh-univer-office",
+  "dir": "univer-slide",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\dsh-univer-office\\skills\\univer-slide\\SKILL.md",
+  "name": "univer-slide",
+  "desc": "Create, redesign, edit, inspect, lint, export, and review Univer Slide Units through DSH tools and t",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "brainstorming",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\brainstorming\\SKILL.md",
+  "name": "brainstorming",
+  "desc": "You MUST use this before any creative work - creating features, building components, adding function",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "diagnosing-superpowers",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\diagnosing-superpowers\\SKILL.md",
+  "name": "diagnosing-superpowers",
+  "desc": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "dispatching-parallel-agents",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\dispatching-parallel-agents\\SKILL.md",
+  "name": "dispatching-parallel-agents",
+  "desc": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential depend",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "executing-plans",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\executing-plans\\SKILL.md",
+  "name": "executing-plans",
+  "desc": "Use when executing an implementation plan in the current session as the implementer yourself — your ",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "finishing-a-development-branch",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\finishing-a-development-branch\\SKILL.md",
+  "name": "finishing-a-development-branch",
+  "desc": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the wor",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "receiving-code-review",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\receiving-code-review\\SKILL.md",
+  "name": "receiving-code-review",
+  "desc": "Use when receiving code review feedback, before implementing suggestions, especially if feedback see",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "requesting-code-review",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\requesting-code-review\\SKILL.md",
+  "name": "requesting-code-review",
+  "desc": "Use when completing tasks, implementing major features, or before merging to verify work meets requi",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "subagent-driven-development",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\subagent-driven-development\\SKILL.md",
+  "name": "subagent-driven-development",
+  "desc": "Use when executing implementation plans with independent tasks in the current session",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "systematic-debugging",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\systematic-debugging\\SKILL.md",
+  "name": "systematic-debugging",
+  "desc": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "test-driven-development",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\test-driven-development\\SKILL.md",
+  "name": "test-driven-development",
+  "desc": "Use when implementing any feature or bugfix, before writing implementation code",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "using-git-worktrees",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\using-git-worktrees\\SKILL.md",
+  "name": "using-git-worktrees",
+  "desc": "Use when starting feature work that needs isolation from current workspace or before executing imple",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "using-superpowers",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\using-superpowers\\SKILL.md",
+  "name": "using-superpowers",
+  "desc": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocat",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "verification-before-completion",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\verification-before-completion\\SKILL.md",
+  "name": "verification-before-completion",
+  "desc": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - req",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "writing-plans",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\writing-plans\\SKILL.md",
+  "name": "writing-plans",
+  "desc": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "active": true
+ },
+ {
+  "source": "plugin",
+  "pkg": "superpowers-dsh",
+  "dir": "writing-skills",
+  "path": "C:\\Users\\Administrator\\.dsh\\profiles\\desktop\\node_modules\\superpowers-dsh\\skills\\writing-skills\\SKILL.md",
+  "name": "writing-skills",
+  "desc": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "agent-reach",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\agent-reach\\SKILL.md",
+  "name": "agent-reach",
+  "desc": "MUST USE when user wants to 调研/research/搜索/search/查/找/look up anything on the internet — e.g. 全网调研 X",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "ask-matt",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\ask-matt\\SKILL.md",
+  "name": "ask-matt",
+  "desc": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "banner-design",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\banner-design\\SKILL.md",
+  "name": "banner-design",
+  "desc": "Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direc",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "brand",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\brand\\SKILL.md",
+  "name": "brand",
+  "desc": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate fo",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "brandkit",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\brandkit\\SKILL.md",
+  "name": "brandkit",
+  "desc": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "chief-of-staff",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\chief-of-staff\\SKILL.md",
+  "name": "chief-of-staff",
+  "desc": "Pursue a long-running goal in a single session by co-ordinating subagents.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "claude-handoff",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\claude-handoff\\SKILL.md",
+  "name": "claude-handoff",
+  "desc": "Hand the current conversation off to a fresh background agent that picks up the work immediately.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "code-review",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\code-review\\SKILL.md",
+  "name": "code-review",
+  "desc": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standard",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "codebase-design",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\codebase-design\\SKILL.md",
+  "name": "codebase-design",
+  "desc": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module'",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "daofa-contest-pack",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\daofa-contest-pack\\SKILL.md",
+  "name": "daofa-contest-pack",
+  "desc": "当用户要参赛、评优或准备评比材料时使用；用户提到「优质课 / 公开课 / 说课 / 教学论文 / 教学案例 / 微课 / 课件作品 / 命题 / 作业设计评比 / 参赛」时也应使用。",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "daofa-lesson-prep",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\daofa-lesson-prep\\SKILL.md",
+  "name": "daofa-lesson-prep",
+  "desc": "当用户要为初中《道德与法治》（统编版七/八/九年级）准备一节课时使用；用户提到「备课 / 写教案 / 做课件 / 做某一课 / 导学案 / 单元卷 / 分层作业 / 作业设计」，或直接给出一课课题时也",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "design",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\design\\SKILL.md",
+  "name": "design",
+  "desc": "Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, G",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "design-system",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\design-system\\SKILL.md",
+  "name": "design-system",
+  "desc": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→se",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "taste-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill\\SKILL.md",
+  "name": "design-taste-frontend",
+  "desc": "tasteskill v2, the anti-slop frontend skill. Art direction for websites, distilled from a study of 2",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "taste-skill-v1",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v1\\SKILL.md",
+  "name": "design-taste-frontend-v1",
+  "desc": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current def",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "taste-skill-v2-experimental",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v2-experimental\\SKILL.md",
+  "name": "design-taste-frontend-v2-experimental",
+  "desc": "Old v2 (experimental) of taste-skill, the single-file dial-driven version, preserved for projects de",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "diagnosing-bugs",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\diagnosing-bugs\\SKILL.md",
+  "name": "diagnosing-bugs",
+  "desc": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug t",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "domain-modeling",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\domain-modeling\\SKILL.md",
+  "name": "domain-modeling",
+  "desc": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or edi",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "frontend-slides",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\frontend-slides\\SKILL.md",
+  "name": "frontend-slides",
+  "desc": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. U",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "output-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\output-skill\\SKILL.md",
+  "name": "full-output-enforcement",
+  "desc": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patte",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "git-guardrails-claude-code",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\git-guardrails-claude-code\\SKILL.md",
+  "name": "git-guardrails-claude-code",
+  "desc": "Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "gpt-tasteskill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\gpt-tasteskill\\SKILL.md",
+  "name": "gpt-taste",
+  "desc": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout va",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "grill-me",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\grill-me\\SKILL.md",
+  "name": "grill-me",
+  "desc": "A relentless interview to sharpen a plan or design.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "grill-with-docs",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\grill-with-docs\\SKILL.md",
+  "name": "grill-with-docs",
+  "desc": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "grilling",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\grilling\\SKILL.md",
+  "name": "grilling",
+  "desc": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "handoff",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\handoff\\SKILL.md",
+  "name": "handoff",
+  "desc": "Compact the current conversation into a handoff document for another agent to pick up.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "soft-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\soft-skill\\SKILL.md",
+  "name": "high-end-visual-design",
+  "desc": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card str",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "human-writing",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\human-writing\\SKILL.md",
+  "name": "human-writing",
+  "desc": "通用中文创作与改稿 Skill。用于知乎回答、论坛长帖、公众号文章、博客、评论、人物故事、历史叙事、新闻与行业解读、科普、教程、评测、个人叙事、小说、故事、对白、口播和演讲稿。默认写成一个见过事、查过",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "humanizer",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\humanizer\\SKILL.md",
+  "name": "humanizer",
+  "desc": "Rewrite AI-sounding text so it reads like the writer without changing what it says.\nUse when editing",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "image-to-code-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\image-to-code-skill\\SKILL.md",
+  "name": "image-to-code",
+  "desc": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generat",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "imagegen-frontend-mobile",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-mobile\\SKILL.md",
+  "name": "imagegen-frontend-mobile",
+  "desc": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "imagegen-frontend-web",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-web\\SKILL.md",
+  "name": "imagegen-frontend-web",
+  "desc": "Elite frontend image-direction skill for generating premium, conversion-aware website design referen",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "implement",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\implement\\SKILL.md",
+  "name": "implement",
+  "desc": "Implement a piece of work based on a spec or set of tickets.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "implement-spec",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\implement-spec\\SKILL.md",
+  "name": "implement-spec",
+  "desc": "Implement the result of /to-spec and /to-tickets in code.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "improve-codebase-architecture",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\improve-codebase-architecture\\SKILL.md",
+  "name": "improve-codebase-architecture",
+  "desc": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill throug",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "brutalist-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\brutalist-skill\\SKILL.md",
+  "name": "industrial-brutalist-ui",
+  "desc": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid gr",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "loop-me",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\loop-me\\SKILL.md",
+  "name": "loop-me",
+  "desc": "Grill me about specs for the workflows I want to build, within this workspace.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "migrate-to-shoehorn",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\migrate-to-shoehorn\\SKILL.md",
+  "name": "migrate-to-shoehorn",
+  "desc": "Migrate test files from `as` type assertions to @total-typescript/shoehorn. Use when user mentions s",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "minimalist-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\minimalist-skill\\SKILL.md",
+  "name": "minimalist-ui",
+  "desc": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, m",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "morph-ppt",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt\\SKILL.md",
+  "name": "morph-ppt",
+  "desc": "Use this skill when the user wants a .pptx with smooth cross-slide animation — PowerPoint Morph tran",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "morph-ppt-3d",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt-3d\\SKILL.md",
+  "name": "morph-ppt-3d",
+  "desc": "3D Morph PPT — extends morph-ppt with GLB model insertion, cinematographic camera, model-content lay",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli\\SKILL.md",
+  "name": "officecli",
+  "desc": "Create, analyze, proofread, and modify Office documents (.docx, .xlsx, .pptx) using the officecli CL",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-academic-paper",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-academic-paper\\SKILL.md",
+  "name": "officecli-academic-paper",
+  "desc": "Use this skill to build academic-style .docx output: journal / conference / thesis chapters carrying",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-data-dashboard",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-data-dashboard\\SKILL.md",
+  "name": "officecli-data-dashboard",
+  "desc": "Use this skill to build a multi-element Excel dashboard — Dashboard sheet on open, multiple formula-",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-docx",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-docx\\SKILL.md",
+  "name": "officecli-docx",
+  "desc": "Use this skill any time a .docx file is involved -- as input, output, or both. This includes: creati",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-financial-model",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-financial-model\\SKILL.md",
+  "name": "officecli-financial-model",
+  "desc": "Use this skill when the user wants to build a financial model — 3-statement model, DCF valuation, LB",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-pitch-deck",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pitch-deck\\SKILL.md",
+  "name": "officecli-pitch-deck",
+  "desc": "Use this skill when the user is building a fundraising / investor pitch deck — seed, Series A / B / ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-pptx",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pptx\\SKILL.md",
+  "name": "officecli-pptx",
+  "desc": "Use this skill any time a .pptx file is involved -- as input, output, or both. This includes: creati",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-word-form",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-word-form\\SKILL.md",
+  "name": "officecli-word-form",
+  "desc": "Use this skill to create fillable Word forms (.docx) with real Content Controls (SDT) + legacy FormF",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "officecli-xlsx",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-xlsx\\SKILL.md",
+  "name": "officecli-xlsx",
+  "desc": "Use this skill any time a .xlsx file is involved -- as input, output, or both. This includes: creati",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "ppt-master",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\ppt-master\\SKILL.md",
+  "name": "ppt-master",
+  "desc": "AI-driven presentation workflow for generating editable PPTX decks and slides, reconstructing page v",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "pptx-layout-craft",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\pptx-layout-craft\\SKILL.md",
+  "name": "pptx-layout-craft",
+  "desc": "当需要改造既有 .pptx 的版式时使用——尤其是「给讲师右侧留站位」「把内容收进窄栏」「改成比赛体量」「通审课件版式」这类要求；也用于把一份课件批量重排或量化验收。",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "pr",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\pr\\SKILL.md",
+  "name": "pr",
+  "desc": "Use when writing a PR body.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "prototype",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\prototype\\SKILL.md",
+  "name": "prototype",
+  "desc": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whe",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "redesign-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\redesign-skill\\SKILL.md",
+  "name": "redesign-existing-projects",
+  "desc": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "research",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\research\\SKILL.md",
+  "name": "research",
+  "desc": "Investigate a question against high-trust primary sources and capture the findings as a Markdown fil",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "retro",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\retro\\SKILL.md",
+  "name": "retro",
+  "desc": "Conduct a retrospective on a coding session.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "scaffold-exercises",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\scaffold-exercises\\SKILL.md",
+  "name": "scaffold-exercises",
+  "desc": "Create exercise directory structures with sections, problems, solutions, and explainers that pass li",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "setup-matt-pocock-skills",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\setup-matt-pocock-skills\\SKILL.md",
+  "name": "setup-matt-pocock-skills",
+  "desc": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, a",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "setup-pre-commit",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\setup-pre-commit\\SKILL.md",
+  "name": "setup-pre-commit",
+  "desc": "Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current r",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "setup-ts-deep-modules",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\setup-ts-deep-modules\\SKILL.md",
+  "name": "setup-ts-deep-modules",
+  "desc": "Wire dependency-cruiser into a TypeScript repo so each package is a deep module, with implementation",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "slides",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\slides\\SKILL.md",
+  "name": "slides",
+  "desc": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting fo",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "stitch-skill",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\stitch-skill\\SKILL.md",
+  "name": "stitch-design-taste",
+  "desc": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforc",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "tdd",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\tdd\\SKILL.md",
+  "name": "tdd",
+  "desc": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "teach",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\teach\\SKILL.md",
+  "name": "teach",
+  "desc": "Teach the user a new skill or concept, within this workspace.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "to-questionnaire",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\to-questionnaire\\SKILL.md",
+  "name": "to-questionnaire",
+  "desc": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "to-spec",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\to-spec\\SKILL.md",
+  "name": "to-spec",
+  "desc": "Turn the current conversation into a spec and publish it to the project issue tracker: no interview,",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "to-tickets",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\to-tickets\\SKILL.md",
+  "name": "to-tickets",
+  "desc": "Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "triage",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\triage\\SKILL.md",
+  "name": "triage",
+  "desc": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if n",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "ui-styling",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\ui-styling\\SKILL.md",
+  "name": "ui-styling",
+  "desc": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "ui-ux-pro-max",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\ui-ux-pro-max\\SKILL.md",
+  "name": "ui-ux-pro-max",
+  "desc": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, bu",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand\\SKILL.md",
+  "name": "understand",
+  "desc": "Analyze a codebase to produce an interactive knowledge graph for understanding architecture, compone",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-chat",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-chat\\SKILL.md",
+  "name": "understand-chat",
+  "desc": "Use when you need to ask questions about a codebase or understand code using a knowledge graph",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-dashboard",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-dashboard\\SKILL.md",
+  "name": "understand-dashboard",
+  "desc": "Launch the interactive web dashboard to visualize a codebase's knowledge graph",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-diff",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-diff\\SKILL.md",
+  "name": "understand-diff",
+  "desc": "Use when you need to analyze git diffs or pull requests to understand what changed, affected compone",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-domain",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-domain\\SKILL.md",
+  "name": "understand-domain",
+  "desc": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Wor",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-explain",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-explain\\SKILL.md",
+  "name": "understand-explain",
+  "desc": "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-figma",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-figma\\SKILL.md",
+  "name": "understand-figma",
+  "desc": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (page",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-knowledge",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-knowledge\\SKILL.md",
+  "name": "understand-knowledge",
+  "desc": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with ",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "understand-onboard",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\understand-onboard\\SKILL.md",
+  "name": "understand-onboard",
+  "desc": "Use when you need to generate an onboarding guide for new team members joining a project",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "wait-what",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\wait-what\\SKILL.md",
+  "name": "wait-what",
+  "desc": "Stop. That last message did not land: re-pitch it.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "wayfinder",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\wayfinder\\SKILL.md",
+  "name": "wayfinder",
+  "desc": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "wizard",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\wizard\\SKILL.md",
+  "name": "wizard",
+  "desc": "Generate an interactive bash wizard that walks a human through steps only they can perform. Use when",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "writing-beats",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\writing-beats\\SKILL.md",
+  "name": "writing-beats",
+  "desc": "Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat l",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "writing-for-agents",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\writing-for-agents\\SKILL.md",
+  "name": "writing-for-agents",
+  "desc": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "writing-fragments",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\writing-fragments\\SKILL.md",
+  "name": "writing-fragments",
+  "desc": "Writing, explore: mine raw fragments, no structure yet.",
+  "active": true
+ },
+ {
+  "source": "user",
+  "pkg": "(user)",
+  "dir": "writing-shape",
+  "path": "C:\\Users\\Administrator\\.dsh\\skills\\writing-shape\\SKILL.md",
+  "name": "writing-shape",
+  "desc": "Writing, exploit: shape raw material into an article, paragraph by paragraph.",
+  "active": true
+ }
+]

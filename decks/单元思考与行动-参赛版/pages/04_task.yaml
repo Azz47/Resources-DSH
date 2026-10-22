@@ -1,0 +1,196 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "亮出总议题：成就何以铸就，青年何以担当。三个子任务串成一条线——看成就、解码原因、落到行动。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 235.268, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#7FD6B0", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 213.268, 18]
+    content: {text: "导引 · 从一次策展邀请开始", fontSize: 14, color: "#1F6B4F", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "本课任务 · 时代答卷人", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#7FD6B0", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#7FD6B0", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#7FD6B0"}, {pos: 100, color: "#1F6B4F", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6B4F"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "04 / 42", fontSize: 14, color: "#7FD6B0", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p04q_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 106, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p04q"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 102, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["p04q_cap", "p04q_t"]
+  - elementId: "p04q_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 108, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p04q_t"
+    elementType: "text"
+    bounds: [56, 109, 572, 37.56]
+    content: {text: "成就何以铸就，青年何以担当？", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p04b0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 177.56, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p04b0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 173.56, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["p04b0_n", "p04b0_nt", "p04b0_t", "p04b0_b"]
+  - elementId: "p04b0_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 182.56, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p04b0_nt"
+    elementType: "text"
+    bounds: [54, 187.56, 30, 20]
+    content: {text: "01", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p04b0_t"
+    elementType: "text"
+    bounds: [94, 181.56, 534, 30.65]
+    content: {text: "1　观展选品——感悟新时代", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p04b0_b"
+    elementType: "text"
+    bounds: [94, 216.21, 534, 28.5]
+    content: {text: "梳理国家发展成就，补充完善展览展品。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p04b1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 268.71000000000004, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p04b1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 264.71000000000004, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["p04b1_n", "p04b1_nt", "p04b1_t", "p04b1_b"]
+  - elementId: "p04b1_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 273.71000000000004, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p04b1_nt"
+    elementType: "text"
+    bounds: [54, 278.71000000000004, 30, 20]
+    content: {text: "02", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p04b1_t"
+    elementType: "text"
+    bounds: [94, 272.71000000000004, 534, 30.65]
+    content: {text: "2　撰写解说——解码新成就", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p04b1_b"
+    elementType: "text"
+    bounds: [94, 307.36, 534, 28.5]
+    content: {text: "结合展板撰写解说词，解码成就背后的密码。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p04b2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 359.86, 592, 83.15]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "条目接地投影"
+  - elementId: "p04b2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 355.86, 596, 83.15]
+    fill: "#E9EFE9"
+    line: {color: "#1F6B4F", width: 1.25}
+    contains: ["p04b2_n", "p04b2_nt", "p04b2_t", "p04b2_b"]
+  - elementId: "p04b2_n"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [54, 364.86, 30, 30]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6B4F"}, {pos: 100, color: "#1F6B4F", alpha: 55}], angle: 135}
+    role: "decoration"
+    roleReason: "序号块"
+  - elementId: "p04b2_nt"
+    elementType: "text"
+    bounds: [54, 369.86, 30, 20]
+    content: {text: "03", fontSize: 14, color: "#1D2B23", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p04b2_t"
+    elementType: "text"
+    bounds: [94, 363.86, 534, 30.65]
+    content: {text: "3　拓展策展——循迹盐湖行", fontSize: 17, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "p04b2_b"
+    elementType: "text"
+    bounds: [94, 398.51, 534, 28.5]
+    content: {text: "立足盐湖调研，设计家乡研学活动方案。", fontSize: 15, color: "#2E4438", fontFamily: "楷体"}

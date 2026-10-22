@@ -1,0 +1,46 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "21"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_8"
+    elementType: text
+    bounds: [455, 193, 471, 209]
+    content:
+      text: "“盐湖的生态价值和功能越来越重要，要统筹做好保护利用工作，让盐湖独特的人文历史资源和生态资源一代代传承下去，逐步恢复其生态功能，更好保护其历史文化价值。 ”"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "Picture_2"
+    elementType: image
+    bounds: [66, 176, 345, 197]
+    fit: cover
+    src: "media/image17.jpeg"
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [113, 379, 272, 58]
+    content:
+      text: "习近平同志在运城盐湖考察调研图片来源：人民日报"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_2"
+    elementType: text
+    bounds: [95, 442, 770, 40]
+    content:
+      text: "从工业矿区到城市生态客厅——这是新时代在河东大地的生动缩影。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_3_txt"
+    elementType: text
+    bounds: [66, 112, 837, 39]
+    content:
+      text: "实践活动·黄河流域生态保护和高质量发展·盐湖之变·小组研学"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_3"
+    elementType: shape
+    bounds: [66, 112, 837, 39]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}

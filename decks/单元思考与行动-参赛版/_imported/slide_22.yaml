@@ -1,0 +1,57 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "22"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_81"
+    elementType: text
+    bounds: [381, 85, 189, 51]
+    content:
+      text: "盐湖之变"
+      fontSize: 32
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "椭圆_1"
+    elementType: shape
+    bounds: [38, 190, 296, 1]
+    kind: ellipse
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "弧形_3"
+    elementType: shape
+    bounds: [162, 477, 296, 1]
+    kind: rect
+    line: {color: "#000000", width: 6}
+  - elementId: "弧形_4"
+    elementType: shape
+    bounds: [335, 480, 286, 1]
+    kind: rect
+    line: {color: "#000000", width: 6}
+  - elementId: "文本框_10"
+    elementType: text
+    bounds: [41, 190, 425, 255]
+    content:
+      text: "文化之变 · 盐韵新生 4600 余年采盐史：“一池河东盐，半部华夏史”河东池盐博物馆建成开放；国家级非遗“五步产盐法”建设体验项目老厂房变身盐梦长廊，“工业锈带”转变为“文旅秀带”"
+      fontSize: 28
+      color: "#FF0000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "弧形_17"
+    elementType: shape
+    bounds: [343, 477, 296, 1]
+    kind: rect
+    line: {color: "#000000", width: 6}
+  - elementId: "弧形_18"
+    elementType: shape
+    bounds: [334, 190, 286, 1]
+    kind: rect
+    line: {color: "#000000", width: 6}
+  - elementId: "文本框_20"
+    elementType: text
+    bounds: [510, 190, 425, 255]
+    content:
+      text: "生态之变 · 退盐还湖2020 年起全面叫停盐湖工业生产，“治山、理水、净湖”一体推进27 个生态修复项目，累计投入约 25.2 亿元；堤埝加固 119.77 公里入选全国首批陆生野生动物重要栖息地名录。"
+      fontSize: 28
+      color: "#FF0000"
+      fontFamily: "华文楷体"
+      align: center

@@ -1,0 +1,233 @@
+{
+  "size": {
+    "width": 960,
+    "height": 540
+  },
+  "theme": {
+    "colors": {
+      "orange": "#E4572E",
+      "ink": "#1F2937",
+      "bg": "#FFFFFF",
+      "light": "#F2F3F5",
+      "gray": "#9AA1A9"
+    },
+    "textStyles": {
+      "title": {
+        "fontSize": 44,
+        "color": "$ink",
+        "bold": true,
+        "lineHeight": 1.2
+      },
+      "h2": {
+        "fontSize": 24,
+        "color": "$ink",
+        "bold": true
+      },
+      "body": {
+        "fontSize": 18,
+        "color": "$ink",
+        "lineHeight": 1.5
+      },
+      "label": {
+        "fontSize": 14,
+        "color": "$ink"
+      },
+      "caption": {
+        "fontSize": 13,
+        "color": "$gray"
+      }
+    },
+    "grid": {
+      "base": 8
+    },
+    "safeArea": {
+      "top": 16,
+      "bottom": 16
+    },
+    "minFontSize": 12,
+    "themeConformance": "strict"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "pageNo": 1,
+      "file": "pages/01_opening.yaml",
+      "name": "pages/01_opening",
+      "background": {
+        "type": "solid",
+        "color": "#FFFFFF"
+      },
+      "safeArea": {
+        "top": 16,
+        "bottom": 16,
+        "left": 0,
+        "right": 0
+      },
+      "expectedOverlaps": [
+        {
+          "pair": [
+            "tag",
+            "tagT"
+          ]
+        }
+      ],
+      "expectedOutOfSafeArea": [],
+      "contrastExempt": [],
+      "overlapMode": "declared",
+      "groups": [],
+      "elements": [
+        {
+          "id": "kick",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 70,
+            "w": 400,
+            "h": 30
+          },
+          "style": {
+            "fontSize": 13,
+            "color": "#E4572E",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 83.85000000000001,
+            "textH": 15.6,
+            "lines": 1,
+            "lineWidths": [
+              73.45
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "PITCH · 路演"
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 130,
+            "w": 840,
+            "h": 200
+          },
+          "style": {
+            "fontSize": 56,
+            "color": "#1F2937",
+            "bold": true,
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 572.88,
+            "textH": 134.4,
+            "lines": 2,
+            "lineWidths": [
+              178.07999999999998,
+              356.16
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "一句话\n说清你做什么"
+        },
+        {
+          "id": "sub",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 360,
+            "w": 840,
+            "h": 60
+          },
+          "style": {
+            "fontSize": 18,
+            "color": "#9AA1A9",
+            "lineHeight": 1.5,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 295.20000000000005,
+            "textH": 27,
+            "lines": 1,
+            "lineWidths": [
+              295.2
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "副标题：为谁解决什么问题（18pt）"
+        },
+        {
+          "id": "tag",
+          "kind": "shape",
+          "bounds": {
+            "x": 60,
+            "y": 452,
+            "w": 120,
+            "h": 36
+          },
+          "shape": "rect",
+          "fill": "#E4572E",
+          "rotation": 0
+        },
+        {
+          "id": "tagT",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 462,
+            "w": 120,
+            "h": 22
+          },
+          "style": {
+            "fontSize": 14,
+            "color": "#FFFFFF",
+            "align": "center",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 42,
+            "textH": 16.8,
+            "lines": 1,
+            "lineWidths": [
+              42
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "公司名"
+        },
+        {
+          "id": "date",
+          "kind": "text",
+          "bounds": {
+            "x": 200,
+            "y": 462,
+            "w": 300,
+            "h": 22
+          },
+          "style": {
+            "fontSize": 13,
+            "color": "#9AA1A9",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 70.85,
+            "textH": 15.6,
+            "lines": 1,
+            "lineWidths": [
+              60.45
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "日期 · 场合"
+        }
+      ]
+    }
+  ]
+}

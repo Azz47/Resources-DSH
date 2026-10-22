@@ -1,0 +1,126 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "三点落到自身：学知识、动手做、立志向。收尾时回到本课总议题，形成闭环。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "（3）青少年怎么做 · 参考答案", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "42 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "a8_q_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 71.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "a8_q"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 71.44]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["a8_q_cap", "a8_q_t"]
+  - elementId: "a8_q_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 59.44]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "a8_q_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 57.44]
+    content: {text: "（3）科技成果走进百姓生活。结合自身实际，谈谈我们青少年可以为此\n做些什么。", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "a8_t_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 191.44, 592, 137.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "a8_t"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 187.44, 596, 137.62]
+    fill: "#F0E8D8"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["a8_t_le", "a8_t_t", "a8_t_b"]
+  - elementId: "a8_t_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 196.44, 3.5, 119.62]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "a8_t_t"
+    elementType: "text"
+    bounds: [56, 196.44, 572, 29.459999999999997]
+    content: {text: "参考答案", fontSize: 17, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "a8_t_b"
+    elementType: "text"
+    bounds: [56, 235.89999999999998, 572, 74.16]
+    content: {text: "① 努力学习科学文化知识，打好基础，培养创新意识和实践能力；② 积\n极参加科技小发明、小制作等活动，勇于探索；③ 关注国家科技发展，\n增强民族自豪感和社会责任感，立志报效祖国。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}

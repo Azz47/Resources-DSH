@@ -1,0 +1,599 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "单元导览",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "本课总任务：做一名“时代答卷人”",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "05 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p04q_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    74.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p04q_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    3,
+    74.0
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p04q_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    158.0,
+    565,
+    54.0
+   ],
+   "content": {
+    "text": "成就何以铸就，青年何以担当？——我们用一个“展”，把这两个问题走一遍。",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p04a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    240.0,
+    189,
+    160.3
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p04a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    250.0,
+    3,
+    140.3
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p04a_k",
+   "elementType": "text",
+   "bounds": [
+    67,
+    256.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "01",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p04a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    279.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "观展选品",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p04a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    309.9,
+    154,
+    74.4
+   ],
+   "content": {
+    "text": "看六块展板，补“五位一体”缺的那一块。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p04b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    249,
+    240.0,
+    189,
+    150
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p04b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    249,
+    250.0,
+    3,
+    130
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p04b_k",
+   "elementType": "text",
+   "bounds": [
+    268,
+    256.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "02",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p04b_t",
+   "elementType": "text",
+   "bounds": [
+    268,
+    279.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "撰写解说",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p04b_b",
+   "elementType": "text",
+   "bounds": [
+    268,
+    309.9,
+    154,
+    49.6
+   ],
+   "content": {
+    "text": "用四步解码法，把现象追成原因。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p04c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    450,
+    240.0,
+    189,
+    150
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p04c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    450,
+    250.0,
+    3,
+    130
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p04c_k",
+   "elementType": "text",
+   "bounds": [
+    469,
+    256.0,
+    154,
+    19.6
+   ],
+   "content": {
+    "text": "03",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  },
+  {
+   "elementId": "p04c_t",
+   "elementType": "text",
+   "bounds": [
+    469,
+    279.6,
+    154,
+    24.3
+   ],
+   "content": {
+    "text": "拓展策展",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p04c_b",
+   "elementType": "text",
+   "bounds": [
+    469,
+    309.9,
+    154,
+    49.6
+   ],
+   "content": {
+    "text": "走进盐池，为家乡设计一场研学。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：策展人第一步做什么？答：“找图片”“排版”。接：先选品。选不对，排得再美也没用。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p04q_bg",
+    "p04q_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04q_bg",
+    "p04q_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04a_bg",
+    "p04a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04a_bg",
+    "p04a_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04a_bg",
+    "p04a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04a_bg",
+    "p04a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04b_bg",
+    "p04b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04b_bg",
+    "p04b_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04b_bg",
+    "p04b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04b_bg",
+    "p04b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04c_bg",
+    "p04c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04c_bg",
+    "p04c_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04c_bg",
+    "p04c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p04c_bg",
+    "p04c_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

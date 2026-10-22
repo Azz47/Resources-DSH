@@ -1,0 +1,468 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "展板三 · 平安：最有安全感的国家之一",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "10 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p09k_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    200,
+    104.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p09k_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    200,
+    3
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p09k_n",
+   "elementType": "text",
+   "bounds": [
+    58,
+    168,
+    180,
+    46
+   ],
+   "content": {
+    "text": "98.23%",
+    "fontSize": 38,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "center",
+    "lineHeight": 1.15
+   }
+  },
+  {
+   "elementId": "p09k_l",
+   "elementType": "text",
+   "bounds": [
+    58,
+    218,
+    180,
+    18.85
+   ],
+   "content": {
+    "text": "群众安全感（连续 6 年）",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "center",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p09c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    260,
+    148,
+    380,
+    106.4
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p09c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    260,
+    158,
+    3,
+    86.4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p09c_b",
+   "elementType": "text",
+   "bounds": [
+    279,
+    164,
+    345,
+    74.4
+   ],
+   "content": {
+    "text": "随着平安中国建设深入推进，我国成为世界上最有安全感的国家之一，也是世界上命案发生率最低的国家之一。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p09i_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    274,
+    300,
+    162.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p09i_im",
+   "elementType": "image",
+   "bounds": [
+    56,
+    282,
+    284,
+    122
+   ],
+   "src": "media/image8.jpeg",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p09i_cp",
+   "elementType": "text",
+   "bounds": [
+    57,
+    410,
+    282,
+    18.85
+   ],
+   "content": {
+    "text": "图片来源：人民网",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p09d_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    360,
+    274,
+    280,
+    122
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p09d_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    360,
+    284,
+    3,
+    102
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p09d_b",
+   "elementType": "text",
+   "bounds": [
+    379,
+    290,
+    245,
+    74.4
+   ],
+   "content": {
+    "text": "安全感不是抽象概念，它是夜里敢一个人走回家，是手机丢了还能找回来。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s1.png",
+  "fit": "cover"
+ },
+ "notes": "问：98.23% 的安全感，能说明什么？答：“说明很好”。接：好在哪？好在它连年稳定——一次高分是运气，连续六年是治理。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p09k_bg",
+    "p09k_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09k_bg",
+    "p09k_n"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09k_bg",
+    "p09k_l"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09c_bg",
+    "p09c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09c_bg",
+    "p09c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09i_bg",
+    "p09i_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09i_bg",
+    "p09i_cp"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09d_bg",
+    "p09d_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p09d_bg",
+    "p09d_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

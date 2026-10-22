@@ -1,0 +1,733 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "思维工具：四步解码法",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "20 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p18l_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    44.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p18l_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    3,
+    44.0
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18l_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    158.0,
+    565,
+    24.0
+   ],
+   "content": {
+    "text": "不背结论，先学会怎么问。",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p18a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    212.0,
+    133,
+    112
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p18a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    222.0,
+    3,
+    92
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    228.0,
+    98,
+    21.6
+   ],
+   "content": {
+    "text": "① 问机制",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p18a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    255.6,
+    98,
+    43.4
+   ],
+   "content": {
+    "text": "它靠什么运转？",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p18ar0",
+   "elementType": "line",
+   "points": [
+    [
+     182,
+     268.0
+    ],
+    [
+     200,
+     268.0
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1.5
+   },
+   "arrow": true,
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    201,
+    212.0,
+    133,
+    112
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p18b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    201,
+    222.0,
+    3,
+    92
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18b_t",
+   "elementType": "text",
+   "bounds": [
+    220,
+    228.0,
+    98,
+    21.6
+   ],
+   "content": {
+    "text": "② 反证",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p18b_b",
+   "elementType": "text",
+   "bounds": [
+    220,
+    255.6,
+    98,
+    43.4
+   ],
+   "content": {
+    "text": "没它，会怎样？",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p18ar1",
+   "elementType": "line",
+   "points": [
+    [
+     335,
+     268.0
+    ],
+    [
+     353,
+     268.0
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1.5
+   },
+   "arrow": true,
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    354,
+    212.0,
+    133,
+    112
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p18c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    354,
+    222.0,
+    3,
+    92
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18c_t",
+   "elementType": "text",
+   "bounds": [
+    373,
+    228.0,
+    98,
+    21.6
+   ],
+   "content": {
+    "text": "③ 比较",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p18c_b",
+   "elementType": "text",
+   "bounds": [
+    373,
+    255.6,
+    98,
+    21.7
+   ],
+   "content": {
+    "text": "谁做到了？",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p18ar2",
+   "elementType": "line",
+   "points": [
+    [
+     488,
+     268.0
+    ],
+    [
+     506,
+     268.0
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1.5
+   },
+   "arrow": true,
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18d_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    507,
+    212.0,
+    133,
+    112
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p18d_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    507,
+    222.0,
+    3,
+    92
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18d_t",
+   "elementType": "text",
+   "bounds": [
+    526,
+    228.0,
+    98,
+    21.6
+   ],
+   "content": {
+    "text": "④ 归纳",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p18d_b",
+   "elementType": "text",
+   "bounds": [
+    526,
+    255.6,
+    98,
+    21.7
+   ],
+   "content": {
+    "text": "共性是什么？",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p18e_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    346.0,
+    592,
+    64
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p18e_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    356.0,
+    3,
+    44
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p18e_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    362.0,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "四步走完，得到的是“可命名的原因”，而不是“感觉很重要”。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：看到现象，第一反应是什么？答：“记住它”。接：先问一句“为什么会这样”——这就是问机制。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p18l_bg",
+    "p18l_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18l_bg",
+    "p18l_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18a_bg",
+    "p18a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18a_bg",
+    "p18a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18a_bg",
+    "p18a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18b_bg",
+    "p18b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18b_bg",
+    "p18b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18b_bg",
+    "p18b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18c_bg",
+    "p18c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18c_bg",
+    "p18c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18c_bg",
+    "p18c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18d_bg",
+    "p18d_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18d_bg",
+    "p18d_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18d_bg",
+    "p18d_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18e_bg",
+    "p18e_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p18e_bg",
+    "p18e_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

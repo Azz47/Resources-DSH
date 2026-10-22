@@ -1,0 +1,29 @@
+﻿==============================================================================
+OURS-46p
+  slide 12192000 x 6858000 EMU = 13.33in x 7.50in
+
+  --- 版面/母版 背景填充
+    layout: inherit/none
+    master: inherit/none
+
+  --- 逐页文字对比度（对同页最大实心矩形背景）
+    显式着色 run 总数 = 706
+    对比度不达标的 (文字色, 背景色) 组合:
+      #2F7A5C on #7FD6B0  contrast= 2.99    22 runs / 10 页  [1, 4, 5, 8, 10, 12, 16, 27, 32, 41]
+      #2E4438 on #EE8A72  contrast= 4.26    11 runs /  3 页  [31, 36, 38]
+      #8A6A1E on #7FD6B0  contrast= 2.92     8 runs /  8 页  [8, 9, 10, 12, 14, 15, 16, 18]
+      #3E574A on #EE8A72  contrast= 3.19     8 runs /  4 页  [31, 34, 36, 38]
+      #1F6383 on #7FD6B0  contrast= 3.83     6 runs /  6 页  [19, 20, 23, 25, 26, 27]
+      #46604F on #7FD6B0  contrast= 3.99     5 runs /  5 页  [8, 10, 12, 16, 23]
+      #8E3F2E on #7FD6B0  contrast= 4.19     5 runs /  5 页  [30, 32, 40, 41, 42]
+      #8E3F2E on #EE8A72  contrast= 2.94     4 runs /  4 页  [31, 34, 36, 38]
+      #FFFFFF on #7FD6B0  contrast= 1.73     3 runs /  3 页  [19, 30, 42]
+      #46604F on #EE8A72  contrast= 2.79     3 runs /  3 页  [31, 34, 38]
+      #3E574A on #6FC7E8  contrast= 4.13     2 runs /  2 页  [21, 28]
+      #1F6383 on #6FC7E8  contrast= 3.47     2 runs /  2 页  [21, 28]
+      #FFFFFF on #FFFFFF  contrast= 1.00     2 runs /  2 页  [24, 37]
+      #3E574A on #B9A7E8  contrast= 3.66     2 runs /  2 页  [45, 46]
+    不达标合计 88 runs = 12.5%
+
+  --- 色彩丰富度: 去重颜色数 = 17
+    高频: #2E4438×259, #12241B×138, #17251D×111, #2F7A5C×74, #FFFFFF×72, #3E574A×61, #7FD6B0×60, #8A6A1E×32, #8E3F2E×30, #1F6383×23, #EE8A72×21, #6FC7E8×17

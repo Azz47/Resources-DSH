@@ -1,0 +1,32 @@
+﻿✓ Lockfile passes supply-chain policies (verified 13s ago)
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 4, reused 0, downloaded 0, added 0
+Progress: resolved 12, reused 0, downloaded 0, added 0
+Progress: resolved 34, reused 0, downloaded 0, added 0
+Progress: resolved 38, reused 0, downloaded 0, added 0
+Progress: resolved 72, reused 0, downloaded 0, added 0
+Progress: resolved 73, reused 0, downloaded 0, added 0
+Progress: resolved 74, reused 0, downloaded 0, added 0
+Progress: resolved 84, reused 0, downloaded 0, added 0
+Progress: resolved 149, reused 0, downloaded 0, added 0
+Progress: resolved 161, reused 0, downloaded 0, added 0
+Progress: resolved 172, reused 0, downloaded 0, added 0
+[WARN] Issues with peer dependencies found. Run "pnpm peers check" to list them.
+
+dependencies:
++ dsh-better-sidebar ^0.24.1
+
+Progress: resolved 176, reused 0, downloaded 0, added 0
+Packages: +163
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 176, reused 1, downloaded 74, added 72
+Progress: resolved 176, reused 1, downloaded 149, added 150
+[WARN] Tarball download average speed 5 KiB/s (size 5 KiB) is below 50 KiB/s: https://registry.npmjs.org/@types/d3-drag/-/d3-drag-3.0.7.tgz (GET)
+[WARN] Tarball download average speed 7 KiB/s (size 13 KiB) is below 50 KiB/s: https://registry.npmjs.org/d3-time/-/d3-time-3.1.0.tgz (GET)
+Progress: resolved 176, reused 1, downloaded 154, added 155
+Progress: resolved 176, reused 1, downloaded 158, added 158
+Progress: resolved 176, reused 1, downloaded 159, added 160
+Progress: resolved 176, reused 1, downloaded 161, added 162
+Progress: resolved 176, reused 1, downloaded 162, added 163, done
+Done in 23.5s using pnpm v11.7.0
+

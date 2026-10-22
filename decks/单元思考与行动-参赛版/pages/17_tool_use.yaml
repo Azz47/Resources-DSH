@@ -1,0 +1,238 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "现场演示一遍：把黄河治理套进四步。学生能听懂“反证”这一步，就说明方法立住了。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 295.74800000000005, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 273.74800000000005, 18]
+    content: {text: "子任务二 · 撰写解说——解码新成就", fontSize: 14, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "四步解码法 · 用在这条河上", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#6FC7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#6FC7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#6FC7E8"}, {pos: 100, color: "#1F6383", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#1F6383"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "17 / 42", fontSize: 14, color: "#6FC7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "p17tag_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 51.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p17tag"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 51.56]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p17tag_cap", "p17tag_t"]
+  - elementId: "p17tag_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 39.56]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p17tag_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 37.56]
+    content: {text: "四步解码法 · 用在这条河上", fontSize: 18, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 173.56, 136, 160.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 169.56, 140, 160.33999999999997]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc0_le", "rc0_t", "rc0_b"]
+  - elementId: "rc0_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [46, 178.56, 3.5, 142.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc0_t"
+    elementType: "text"
+    bounds: [56, 178.56, 116, 29.459999999999997]
+    content: {text: "1　问机制", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc0_b"
+    elementType: "text"
+    bounds: [56, 218.01999999999998, 116, 96.88]
+    content: {text: "统一调度、\n九省协同、\n生态补水、\n法治护航。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [198, 173.56, 136, 160.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [196, 169.56, 140, 160.33999999999997]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc1_le", "rc1_t", "rc1_b"]
+  - elementId: "rc1_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [198, 178.56, 3.5, 142.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc1_t"
+    elementType: "text"
+    bounds: [208, 178.56, 116, 29.459999999999997]
+    content: {text: "2　反证", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc1_b"
+    elementType: "text"
+    bounds: [208, 218.01999999999998, 116, 96.88]
+    content: {text: "没有党中央\n集中统一领\n导，跨九省\n工程难成。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [350, 173.56, 136, 160.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [348, 169.56, 140, 160.33999999999997]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc2_le", "rc2_t", "rc2_b"]
+  - elementId: "rc2_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [350, 178.56, 3.5, 142.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc2_t"
+    elementType: "text"
+    bounds: [360, 189.92, 116, 29.459999999999997]
+    content: {text: "3　比较", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc2_b"
+    elementType: "text"
+    bounds: [360, 229.38, 116, 74.16]
+    content: {text: "别国大河治\n理常因跨区\n协调失败。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "rc3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [502, 173.56, 136, 160.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 52}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片接地投影（融合：卡片与板面之间加一层过渡）"
+  - elementId: "rc3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [500, 169.56, 140, 160.33999999999997]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["rc3_le", "rc3_t", "rc3_b"]
+  - elementId: "rc3_le"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [502, 178.56, 3.5, 142.33999999999997]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 0}], angle: 90}
+    role: "decoration"
+    roleReason: "卡片左侧渐隐色边（母题）"
+  - elementId: "rc3_t"
+    elementType: "text"
+    bounds: [512, 178.56, 116, 29.459999999999997]
+    content: {text: "4　归纳", fontSize: 17, color: "#1F6383", fontFamily: "黑体", bold: true}
+  - elementId: "rc3_b"
+    elementType: "text"
+    bounds: [512, 218.01999999999998, 116, 96.88]
+    content: {text: "抽象出不可\n替代的条件，\n再用课本验\n证。", fontSize: 16, color: "#2E4438", fontFamily: "楷体"}
+  - elementId: "p17sum_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 351.9, 592, 48.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "p17sum"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 347.9, 596, 48.72]
+    fill: "#E9EFE9"
+    line: {color: "#1F6383", width: 1.25}
+    contains: ["p17sum_cap", "p17sum_t"]
+  - elementId: "p17sum_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 353.9, 4, 36.72]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#1F6383"}, {pos: 100, color: "#1F6383", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "p17sum_t"
+    elementType: "text"
+    bounds: [56, 354.9, 572, 34.72]
+    content: {text: "四步走完，答案就不是“背”出来的，而是推出来的。", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

@@ -1,0 +1,1513 @@
+{
+ "repos": [
+  {
+   "repo": "mattpocock/skills",
+   "branch": "cache",
+   "tree_sha": "49dd158d1076134a641b33efb035946536778336",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\mattpocock__skills.json",
+   "skills": {
+    "ask-matt": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\ask-matt",
+     "upstream_dir": "skills/engineering/ask-matt",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "PHASE-BOUNDARIES.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "chief-of-staff": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\chief-of-staff",
+     "upstream_dir": "skills/in-progress/chief-of-staff",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "claude-handoff": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\claude-handoff",
+     "upstream_dir": "skills/in-progress/claude-handoff",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "code-review": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\code-review",
+     "upstream_dir": "skills/engineering/code-review",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "codebase-design": {
+     "status": "仅换行差异 4 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\codebase-design",
+     "upstream_dir": "skills/engineering/codebase-design",
+     "files_local": 4,
+     "files_upstream": 4,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "DEEPENING.md",
+      "DESIGN-IT-TWICE.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "diagnosing-bugs": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\diagnosing-bugs",
+     "upstream_dir": "skills/engineering/diagnosing-bugs",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "scripts/hitl-loop.template.sh"
+     ]
+    },
+    "domain-modeling": {
+     "status": "仅换行差异 4 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\domain-modeling",
+     "upstream_dir": "skills/engineering/domain-modeling",
+     "files_local": 4,
+     "files_upstream": 4,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "ADR-FORMAT.md",
+      "GLOSSARY-FORMAT.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "git-guardrails-claude-code": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\git-guardrails-claude-code",
+     "upstream_dir": "skills/misc/git-guardrails-claude-code",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "scripts/block-dangerous-git.sh"
+     ]
+    },
+    "grill-me": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\grill-me",
+     "upstream_dir": "skills/productivity/grill-me",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "grill-with-docs": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\grill-with-docs",
+     "upstream_dir": "skills/engineering/grill-with-docs",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "grilling": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\grilling",
+     "upstream_dir": "skills/productivity/grilling",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "handoff": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\handoff",
+     "upstream_dir": "skills/productivity/handoff",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "implement": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\implement",
+     "upstream_dir": "skills/engineering/implement",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "implement-spec": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\implement-spec",
+     "upstream_dir": "skills/engineering/implement-spec",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "improve-codebase-architecture": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\improve-codebase-architecture",
+     "upstream_dir": "skills/engineering/improve-codebase-architecture",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "HTML-REPORT.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "loop-me": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\loop-me",
+     "upstream_dir": "skills/in-progress/loop-me",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "migrate-to-shoehorn": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\migrate-to-shoehorn",
+     "upstream_dir": "skills/misc/migrate-to-shoehorn",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "pr": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\pr",
+     "upstream_dir": "skills/engineering/pr",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "CREDITS.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "prototype": {
+     "status": "仅换行差异 4 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\prototype",
+     "upstream_dir": "skills/engineering/prototype",
+     "files_local": 4,
+     "files_upstream": 4,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "LOGIC.md",
+      "SKILL.md",
+      "UI.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "research": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\research",
+     "upstream_dir": "skills/engineering/research",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "retro": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\retro",
+     "upstream_dir": "skills/engineering/retro",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "scaffold-exercises": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\scaffold-exercises",
+     "upstream_dir": "skills/misc/scaffold-exercises",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "setup-matt-pocock-skills": {
+     "status": "仅换行差异 7 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\setup-matt-pocock-skills",
+     "upstream_dir": "skills/engineering/setup-matt-pocock-skills",
+     "files_local": 7,
+     "files_upstream": 7,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "domain.md",
+      "issue-tracker-github.md",
+      "issue-tracker-gitlab.md",
+      "issue-tracker-local.md",
+      "triage-labels.md"
+     ]
+    },
+    "setup-pre-commit": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\setup-pre-commit",
+     "upstream_dir": "skills/misc/setup-pre-commit",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "setup-ts-deep-modules": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\setup-ts-deep-modules",
+     "upstream_dir": "skills/in-progress/setup-ts-deep-modules",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "dependency-cruiser.config.cjs"
+     ]
+    },
+    "tdd": {
+     "status": "仅换行差异 4 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\tdd",
+     "upstream_dir": "skills/engineering/tdd",
+     "files_local": 4,
+     "files_upstream": 4,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "mocking.md",
+      "tests.md"
+     ]
+    },
+    "teach": {
+     "status": "仅换行差异 6 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\teach",
+     "upstream_dir": "skills/productivity/teach",
+     "files_local": 6,
+     "files_upstream": 6,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "GLOSSARY-FORMAT.md",
+      "LEARNING-RECORD-FORMAT.md",
+      "MISSION-FORMAT.md",
+      "RESOURCES-FORMAT.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "to-questionnaire": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\to-questionnaire",
+     "upstream_dir": "skills/productivity/to-questionnaire",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "to-spec": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\to-spec",
+     "upstream_dir": "skills/engineering/to-spec",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "to-tickets": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\to-tickets",
+     "upstream_dir": "skills/engineering/to-tickets",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "triage": {
+     "status": "仅换行差异 4 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\triage",
+     "upstream_dir": "skills/engineering/triage",
+     "files_local": 4,
+     "files_upstream": 4,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "AGENT-BRIEF.md",
+      "OUT-OF-SCOPE.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "wait-what": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\wait-what",
+     "upstream_dir": "skills/productivity/wait-what",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "wayfinder": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\wayfinder",
+     "upstream_dir": "skills/engineering/wayfinder",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "wizard": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\wizard",
+     "upstream_dir": "skills/engineering/wizard",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml",
+      "template.sh"
+     ]
+    },
+    "writing-beats": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\writing-beats",
+     "upstream_dir": "skills/in-progress/writing-beats",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "writing-for-agents": {
+     "status": "仅换行差异 3 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\writing-for-agents",
+     "upstream_dir": "skills/productivity/writing-for-agents",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL-MECHANICS.md",
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "writing-fragments": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\writing-fragments",
+     "upstream_dir": "skills/in-progress/writing-fragments",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    },
+    "writing-shape": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\writing-shape",
+     "upstream_dir": "skills/in-progress/writing-shape",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "agents/openai.yaml"
+     ]
+    }
+   },
+   "summary": {
+    "up_to_date": 0,
+    "crlf_only": 38,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "branch": "cache",
+   "tree_sha": "7246805992a42b7bba37d4cac83b01416f0c6c44",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\nextlevelbuilder__ui-ux-pro-max-skill.json",
+   "skills": {
+    "banner-design": {
+     "status": "仅换行差异 2 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\banner-design",
+     "upstream_dir": "cli/assets/skills/banner-design",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "references/banner-sizes-and-styles.md"
+     ]
+    },
+    "brand": {
+     "status": "仅换行差异 18 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\brand",
+     "upstream_dir": "cli/assets/skills/brand",
+     "files_local": 18,
+     "files_upstream": 18,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "references/approval-checklist.md",
+      "references/asset-organization.md",
+      "references/brand-guideline-template.md",
+      "references/color-palette-management.md",
+      "references/consistency-checklist.md",
+      "references/logo-usage-rules.md",
+      "references/messaging-framework.md",
+      "references/typography-specifications.md",
+      "references/update.md",
+      "references/visual-identity.md",
+      "references/voice-framework.md",
+      "scripts/extract-colors.cjs",
+      "scripts/inject-brand-context.cjs",
+      "scripts/sync-brand-to-tokens.cjs",
+      "scripts/tests/test_sync_brand_to_tokens.py",
+      "scripts/validate-asset.cjs",
+      "templates/brand-guidelines-starter.md"
+     ]
+    },
+    "design": {
+     "status": "仅换行差异 37 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\design",
+     "upstream_dir": "cli/assets/skills/design",
+     "files_local": 37,
+     "files_upstream": 37,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "data/cip/deliverables.csv",
+      "data/cip/industries.csv",
+      "data/cip/mockup-contexts.csv",
+      "data/cip/styles.csv",
+      "data/icon/styles.csv",
+      "data/logo/colors.csv",
+      "data/logo/industries.csv",
+      "data/logo/styles.csv",
+      "references/banner-sizes-and-styles.md",
+      "references/cip-deliverable-guide.md",
+      "references/cip-design.md",
+      "references/cip-prompt-engineering.md",
+      "references/cip-style-guide.md",
+      "references/design-routing.md",
+      "references/icon-design.md",
+      "references/logo-color-psychology.md",
+      "references/logo-design.md",
+      "references/logo-prompt-engineering.md",
+      "references/logo-style-guide.md",
+      "references/slides-copywriting-formulas.md",
+      "references/slides-create.md",
+      "references/slides-html-template.md",
+      "references/slides-layout-patterns.md",
+      "references/slides-strategies.md",
+      "references/slides.md",
+      "references/social-photos-design.md",
+      "scripts/cip/core.py",
+      "scripts/cip/generate.py",
+      "scripts/cip/render-html.py",
+      "scripts/cip/search.py",
+      "scripts/icon/generate.py",
+      "scripts/logo/core.py",
+      "scripts/logo/generate.py",
+      "scripts/logo/search.py",
+      "scripts/logo/tests/test_generate.py",
+      "scripts/tests/test_icon_generate.py"
+     ]
+    },
+    "design-system": {
+     "status": "仅换行差异 27 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\design-system",
+     "upstream_dir": "cli/assets/skills/design-system",
+     "files_local": 27,
+     "files_upstream": 27,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "data/slide-backgrounds.csv",
+      "data/slide-charts.csv",
+      "data/slide-color-logic.csv",
+      "data/slide-copy.csv",
+      "data/slide-layout-logic.csv",
+      "data/slide-layouts.csv",
+      "data/slide-strategies.csv",
+      "data/slide-typography.csv",
+      "references/component-specs.md",
+      "references/component-tokens.md",
+      "references/primitive-tokens.md",
+      "references/semantic-tokens.md",
+      "references/states-and-variants.md",
+      "references/tailwind-integration.md",
+      "references/token-architecture.md",
+      "scripts/embed-tokens.cjs",
+      "scripts/fetch-background.py",
+      "scripts/generate-slide.py",
+      "scripts/generate-tokens.cjs",
+      "scripts/html-token-validator.py",
+      "scripts/search-slides.py",
+      "scripts/slide-token-validator.py",
+      "scripts/slide_search_core.py",
+      "scripts/tests/test_validate_tokens.py",
+      "scripts/validate-tokens.cjs",
+      "templates/design-tokens-starter.json"
+     ]
+    },
+    "slides": {
+     "status": "仅换行差异 6 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\slides",
+     "upstream_dir": "cli/assets/skills/slides",
+     "files_local": 6,
+     "files_upstream": 6,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "references/copywriting-formulas.md",
+      "references/create.md",
+      "references/html-template.md",
+      "references/layout-patterns.md",
+      "references/slide-strategies.md"
+     ]
+    },
+    "ui-styling": {
+     "status": "真实差异 82 (改0/上游增0/本机多82) + 换行15",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\ui-styling",
+     "upstream_dir": "cli/assets/skills/ui-styling",
+     "files_local": 98,
+     "files_upstream": 16,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [
+      "canvas-fonts/ArsenalSC-OFL.txt",
+      "canvas-fonts/ArsenalSC-Regular.ttf",
+      "canvas-fonts/BigShoulders-Bold.ttf",
+      "canvas-fonts/BigShoulders-OFL.txt",
+      "canvas-fonts/BigShoulders-Regular.ttf",
+      "canvas-fonts/Boldonse-OFL.txt",
+      "canvas-fonts/Boldonse-Regular.ttf",
+      "canvas-fonts/BricolageGrotesque-Bold.ttf",
+      "canvas-fonts/BricolageGrotesque-OFL.txt",
+      "canvas-fonts/BricolageGrotesque-Regular.ttf",
+      "canvas-fonts/CrimsonPro-Bold.ttf",
+      "canvas-fonts/CrimsonPro-Italic.ttf",
+      "canvas-fonts/CrimsonPro-OFL.txt",
+      "canvas-fonts/CrimsonPro-Regular.ttf",
+      "canvas-fonts/DMMono-OFL.txt",
+      "canvas-fonts/DMMono-Regular.ttf",
+      "canvas-fonts/EricaOne-OFL.txt",
+      "canvas-fonts/EricaOne-Regular.ttf",
+      "canvas-fonts/GeistMono-Bold.ttf",
+      "canvas-fonts/GeistMono-OFL.txt",
+      "canvas-fonts/GeistMono-Regular.ttf",
+      "canvas-fonts/Gloock-OFL.txt",
+      "canvas-fonts/Gloock-Regular.ttf",
+      "canvas-fonts/IBMPlexMono-Bold.ttf",
+      "canvas-fonts/IBMPlexMono-OFL.txt",
+      "canvas-fonts/IBMPlexMono-Regular.ttf",
+      "canvas-fonts/IBMPlexSerif-Bold.ttf",
+      "canvas-fonts/IBMPlexSerif-BoldItalic.ttf",
+      "canvas-fonts/IBMPlexSerif-Italic.ttf",
+      "canvas-fonts/IBMPlexSerif-Regular.ttf",
+      "canvas-fonts/InstrumentSans-Bold.ttf",
+      "canvas-fonts/InstrumentSans-BoldItalic.ttf",
+      "canvas-fonts/InstrumentSans-Italic.ttf",
+      "canvas-fonts/InstrumentSans-OFL.txt",
+      "canvas-fonts/InstrumentSans-Regular.ttf",
+      "canvas-fonts/InstrumentSerif-Italic.ttf",
+      "canvas-fonts/InstrumentSerif-Regular.ttf",
+      "canvas-fonts/Italiana-OFL.txt",
+      "canvas-fonts/Italiana-Regular.ttf",
+      "canvas-fonts/JetBrainsMono-Bold.ttf"
+     ],
+     "crlf_only": [
+      "LICENSE.txt",
+      "SKILL.md",
+      "references/canvas-design-system.md",
+      "references/shadcn-accessibility.md",
+      "references/shadcn-components.md",
+      "references/shadcn-theming.md",
+      "references/tailwind-customization.md",
+      "references/tailwind-responsive.md",
+      "references/tailwind-utilities.md",
+      "scripts/requirements.txt",
+      "scripts/shadcn_add.py",
+      "scripts/tailwind_config_gen.py",
+      "scripts/tests/requirements.txt",
+      "scripts/tests/test_shadcn_add.py",
+      "scripts/tests/test_tailwind_config_gen.py"
+     ]
+    },
+    "ui-ux-pro-max": {
+     "status": "仅换行差异 73 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\ui-ux-pro-max",
+     "upstream_dir": ".claude/skills/ui-ux-pro-max",
+     "files_local": 73,
+     "files_upstream": 73,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "data/app-interface.csv",
+      "data/catalog-summary.json",
+      "data/charts.csv",
+      "data/colors.csv",
+      "data/data-provenance.json",
+      "data/google-font-licenses.json",
+      "data/google-fonts.csv",
+      "data/icons.csv",
+      "data/landing.csv",
+      "data/motion.csv",
+      "data/phosphor-icons-upstream.json",
+      "data/products.csv",
+      "data/react-performance.csv",
+      "data/stacks/angular.csv",
+      "data/stacks/astro.csv",
+      "data/stacks/avalonia.csv",
+      "data/stacks/flutter.csv",
+      "data/stacks/html-tailwind.csv",
+      "data/stacks/javafx.csv",
+      "data/stacks/jetpack-compose.csv",
+      "data/stacks/laravel.csv",
+      "data/stacks/nextjs.csv",
+      "data/stacks/nuxt-ui.csv",
+      "data/stacks/nuxtjs.csv",
+      "data/stacks/react-native.csv",
+      "data/stacks/react.csv",
+      "data/stacks/shadcn.csv",
+      "data/stacks/svelte.csv",
+      "data/stacks/swiftui.csv",
+      "data/stacks/threejs.csv",
+      "data/stacks/uno.csv",
+      "data/stacks/uwp.csv",
+      "data/stacks/vue.csv",
+      "data/stacks/winui.csv",
+      "data/stacks/wpf.csv",
+      "data/styles.csv",
+      "data/typography.csv",
+      "data/ui-reasoning.csv",
+      "data/ux-guidelines.csv"
+     ]
+    }
+   },
+   "summary": {
+    "up_to_date": 0,
+    "crlf_only": 6,
+    "outdated": 1,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "leonxlnx/taste-skill",
+   "branch": "cache",
+   "tree_sha": "a60a36dc2bb3bb77ccf17f2f62041f5ca8a458b9",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\leonxlnx__taste-skill.json",
+   "skills": {
+    "brandkit": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\brandkit",
+     "upstream_dir": "skills/brandkit",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "brutalist-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\brutalist-skill",
+     "upstream_dir": "skills/brutalist-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "gpt-tasteskill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\gpt-tasteskill",
+     "upstream_dir": "skills/gpt-tasteskill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "image-to-code-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\image-to-code-skill",
+     "upstream_dir": "skills/image-to-code-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "imagegen-frontend-mobile": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-mobile",
+     "upstream_dir": "skills/imagegen-frontend-mobile",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "imagegen-frontend-web": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\imagegen-frontend-web",
+     "upstream_dir": "skills/imagegen-frontend-web",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "minimalist-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\minimalist-skill",
+     "upstream_dir": "skills/minimalist-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "output-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\output-skill",
+     "upstream_dir": "skills/output-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "redesign-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\redesign-skill",
+     "upstream_dir": "skills/redesign-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "soft-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\soft-skill",
+     "upstream_dir": "skills/soft-skill",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "stitch-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\stitch-skill",
+     "upstream_dir": "skills/stitch-skill",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "taste-skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill",
+     "upstream_dir": "skills/taste-skill",
+     "files_local": 29,
+     "files_upstream": 29,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "taste-skill-v1": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v1",
+     "upstream_dir": "skills/taste-skill-v1",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "taste-skill-v2-experimental": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\taste-skill-v2-experimental",
+     "upstream_dir": "skills/taste-skill-v2-experimental",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 14,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "blader/humanizer",
+   "branch": "cache",
+   "tree_sha": "225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\blader__humanizer.json",
+   "skills": {
+    "(root)": {
+     "status": "真实差异 9 (改0/上游增0/本机多9)",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\humanizer",
+     "upstream_dir": "",
+     "files_local": 14,
+     "files_upstream": 5,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [
+      ".claude-plugin/marketplace.json",
+      ".claude-plugin/plugin.json",
+      ".cursor-plugin/plugin.json",
+      ".github/ISSUE_TEMPLATE/config.yml",
+      ".github/ISSUE_TEMPLATE/new-pattern.yml",
+      ".github/ISSUE_TEMPLATE/rewrite-problem.yml",
+      ".github/workflows/validate.yml",
+      "agents/openai.yaml",
+      "scripts/validate-package.py"
+     ],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 0,
+    "crlf_only": 0,
+    "outdated": 1,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "panniantong/agent-reach",
+   "branch": "cache",
+   "tree_sha": "94f06c1969dfc1834001269d79d3ad0972d9dee6",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\panniantong__agent-reach.json",
+   "skills": {
+    "skill": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\agent-reach",
+     "upstream_dir": "agent_reach/skill",
+     "files_local": 9,
+     "files_upstream": 9,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 1,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "Egonex-AI/Understand-Anything",
+   "branch": "cache",
+   "tree_sha": "f2d0164f72fe678805c34245a6df36acededfebd",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\Egonex-AI__Understand-Anything.json",
+   "skills": {
+    "understand": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand",
+     "upstream_dir": "understand-anything-plugin/skills/understand",
+     "files_local": 55,
+     "files_upstream": 55,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-chat": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-chat",
+     "upstream_dir": "understand-anything-plugin/skills/understand-chat",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-dashboard": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-dashboard",
+     "upstream_dir": "understand-anything-plugin/skills/understand-dashboard",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-diff": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-diff",
+     "upstream_dir": "understand-anything-plugin/skills/understand-diff",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-domain": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-domain",
+     "upstream_dir": "understand-anything-plugin/skills/understand-domain",
+     "files_local": 2,
+     "files_upstream": 2,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-explain": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-explain",
+     "upstream_dir": "understand-anything-plugin/skills/understand-explain",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-figma": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-figma",
+     "upstream_dir": "understand-anything-plugin/skills/understand-figma",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-knowledge": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-knowledge",
+     "upstream_dir": "understand-anything-plugin/skills/understand-knowledge",
+     "files_local": 3,
+     "files_upstream": 3,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    },
+    "understand-onboard": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\understand-onboard",
+     "upstream_dir": "understand-anything-plugin/skills/understand-onboard",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 9,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "zarazhangrui/frontend-slides",
+   "branch": "cache",
+   "tree_sha": "9906a34d640d2111f724544cbc50f7f130569ae1",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\zarazhangrui__frontend-slides.json",
+   "skills": {
+    "frontend-slides": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\frontend-slides",
+     "upstream_dir": "plugins/frontend-slides/skills/frontend-slides",
+     "files_local": 79,
+     "files_upstream": 79,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 1,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "hugohe3/ppt-master",
+   "branch": "main",
+   "tree_sha": "8070d3df1f6f54b5fb60a9ae66e79c664f050212",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\hugohe3__ppt-master.json",
+   "skills": {
+    "ppt-master": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\ppt-master",
+     "upstream_dir": "skills/ppt-master",
+     "files_local": 13016,
+     "files_upstream": 13016,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 1,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "iOfficeAI/OfficeCLI",
+   "branch": "cache",
+   "tree_sha": "fb98e593612dee2cec36847666671dba502e60aa",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\iOfficeAI__OfficeCLI.json",
+   "skills": {
+    "(root)": {
+     "status": "真实差异 15 (改0/上游增15/本机多0) + 换行1",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\OfficeCLI",
+     "upstream_dir": "",
+     "files_local": 1,
+     "files_upstream": 16,
+     "changed": [],
+     "missing_locally": [
+      "CONTRIBUTING.md",
+      "CONTRIBUTING.zh.md",
+      "LICENSE",
+      "NOTICE",
+      "README.md",
+      "README_ja.md",
+      "README_ko.md",
+      "README_zh.md",
+      "SECURITY.md",
+      "THIRD-PARTY-NOTICES.txt",
+      "build.sh",
+      "dev-install.sh",
+      "install.ps1",
+      "install.sh",
+      "officecli.slnx"
+     ],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "morph-ppt": {
+     "status": "仅换行差异 84 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt",
+     "upstream_dir": "skills/morph-ppt",
+     "files_local": 111,
+     "files_upstream": 111,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md",
+      "reference/decision-rules.md",
+      "reference/morph-helpers.py",
+      "reference/morph-helpers.sh",
+      "reference/pptx-design.md",
+      "reference/styles/INDEX.md",
+      "reference/styles/bw--brutalist-raw/build.sh",
+      "reference/styles/bw--brutalist-raw/style.md",
+      "reference/styles/bw--mono-line/build.sh",
+      "reference/styles/bw--mono-line/style.md",
+      "reference/styles/bw--swiss-bauhaus/build.sh",
+      "reference/styles/bw--swiss-bauhaus/style.md",
+      "reference/styles/bw--swiss-system/style.md",
+      "reference/styles/dark--architectural-plan/build.sh",
+      "reference/styles/dark--architectural-plan/style.md",
+      "reference/styles/dark--aurora-softedge/style.md",
+      "reference/styles/dark--blueprint-grid/build.sh",
+      "reference/styles/dark--blueprint-grid/style.md",
+      "reference/styles/dark--circle-digital/build.sh",
+      "reference/styles/dark--circle-digital/style.md",
+      "reference/styles/dark--cosmic-neon/build.sh",
+      "reference/styles/dark--cosmic-neon/style.md",
+      "reference/styles/dark--cyber-future/build.sh",
+      "reference/styles/dark--cyber-future/style.md",
+      "reference/styles/dark--diagonal-cut/build.sh",
+      "reference/styles/dark--diagonal-cut/style.md",
+      "reference/styles/dark--editorial-story/build.sh",
+      "reference/styles/dark--editorial-story/style.md",
+      "reference/styles/dark--investor-pitch/build.sh",
+      "reference/styles/dark--investor-pitch/style.md",
+      "reference/styles/dark--liquid-flow/build.sh",
+      "reference/styles/dark--liquid-flow/style.md",
+      "reference/styles/dark--luxury-minimal/build.sh",
+      "reference/styles/dark--luxury-minimal/style.md",
+      "reference/styles/dark--midnight-blueprint/style.md",
+      "reference/styles/dark--neon-productivity/build.sh",
+      "reference/styles/dark--neon-productivity/style.md",
+      "reference/styles/dark--obsidian-amber/style.md",
+      "reference/styles/dark--premium-navy/build.sh",
+      "reference/styles/dark--premium-navy/style.md"
+     ]
+    },
+    "morph-ppt-3d": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\morph-ppt-3d",
+     "upstream_dir": "skills/morph-ppt-3d",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli",
+     "upstream_dir": "skills/officecli",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-academic-paper": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-academic-paper",
+     "upstream_dir": "skills/officecli-academic-paper",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-data-dashboard": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-data-dashboard",
+     "upstream_dir": "skills/officecli-data-dashboard",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-docx": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-docx",
+     "upstream_dir": "skills/officecli-docx",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-financial-model": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-financial-model",
+     "upstream_dir": "skills/officecli-financial-model",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-pitch-deck": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pitch-deck",
+     "upstream_dir": "skills/officecli-pitch-deck",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-pptx": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-pptx",
+     "upstream_dir": "skills/officecli-pptx",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-word-form": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-word-form",
+     "upstream_dir": "skills/officecli-word-form",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    },
+    "officecli-xlsx": {
+     "status": "仅换行差异 1 文件（CRLF）",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\officecli-xlsx",
+     "upstream_dir": "skills/officecli-xlsx",
+     "files_local": 1,
+     "files_upstream": 1,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": [
+      "SKILL.md"
+     ]
+    }
+   },
+   "summary": {
+    "up_to_date": 0,
+    "crlf_only": 11,
+    "outdated": 1,
+    "not_installed": 0
+   }
+  },
+  {
+   "repo": "KKKKhazix/human-writing",
+   "branch": "cache",
+   "tree_sha": "4fda173f3fef7fb808f3eba991eeb2528ea4b189",
+   "truncated": false,
+   "cache": "D:\\Resources\\DSH\\_probe\\upstream-trees\\KKKKhazix__human-writing.json",
+   "skills": {
+    "human-writing": {
+     "status": "最新",
+     "local_dir": "C:\\Users\\Administrator\\.dsh\\skills\\human-writing",
+     "upstream_dir": "human-writing",
+     "files_local": 11,
+     "files_upstream": 11,
+     "changed": [],
+     "missing_locally": [],
+     "extra_locally": [],
+     "crlf_only": []
+    }
+   },
+   "summary": {
+    "up_to_date": 1,
+    "crlf_only": 0,
+    "outdated": 0,
+    "not_installed": 0
+   }
+  }
+ ],
+ "errors": []
+}

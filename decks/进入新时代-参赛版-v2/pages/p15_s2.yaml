@@ -1,0 +1,361 @@
+{
+ "elements": [
+  {
+   "elementId": "op_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    48,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    44,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    44,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_n",
+   "elementType": "text",
+   "bounds": [
+    48,
+    96,
+    260,
+    130
+   ],
+   "content": {
+    "text": "02",
+    "fontSize": 104,
+    "color": "#C97B57",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.05
+   }
+  },
+  {
+   "elementId": "op_t",
+   "elementType": "text",
+   "bounds": [
+    48,
+    236,
+    592,
+    52
+   ],
+   "content": {
+    "text": "撰写解说：把现象追成原因",
+    "fontSize": 30,
+    "color": "#FFFFFF",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_r",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     298
+    ],
+    [
+     148,
+     298
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 3
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_l",
+   "elementType": "text",
+   "bounds": [
+    48,
+    314,
+    592,
+    28
+   ],
+   "content": {
+    "text": "解说词不是复述成绩，是回答三个“为什么”。",
+    "fontSize": 18,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "op_b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    348.72,
+    6,
+    6
+   ],
+   "fill": "#D9A57E",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    342,
+    57.44,
+    24.8
+   ],
+   "content": {
+    "text": "变了吗",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b0_t",
+   "elementType": "text",
+   "bounds": [
+    127.44,
+    342,
+    512.56,
+    24.8
+   ],
+   "content": {
+    "text": "用两个数字说清变化。",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    385.52,
+    6,
+    6
+   ],
+   "fill": "#D9A57E",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    378.8,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "为什么变",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b1_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    378.8,
+    496.08,
+    24.8
+   ],
+   "content": {
+    "text": "用四步法把原因一条条追出来。",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    422.32,
+    6,
+    6
+   ],
+   "fill": "#D9A57E",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    415.6,
+    73.92,
+    24.8
+   ],
+   "content": {
+    "text": "凭什么说",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b2_t",
+   "elementType": "text",
+   "bounds": [
+    143.92,
+    415.6,
+    496.08,
+    24.8
+   ],
+   "content": {
+    "text": "每条原因都要有事实撑着。",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#B9C9D4",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "17 / 45",
+    "fontSize": 13,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_d_rust.png",
+  "fit": "cover"
+ },
+ "notes": "问：解说词和复述成绩有什么区别？答：“差不多”。接：差三个“为什么”——变了吗、为什么变、凭什么这么说。"
+}

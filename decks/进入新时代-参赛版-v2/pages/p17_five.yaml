@@ -1,0 +1,633 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "变化不是一件事，是五件事同时发生",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "19 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p17map_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    272,
+    246.85
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p17map_im",
+   "elementType": "image",
+   "bounds": [
+    56,
+    156,
+    256,
+    206
+   ],
+   "src": "media/doc_yellowriver.png",
+   "fit": "cover"
+  },
+  {
+   "elementId": "p17map_cp",
+   "elementType": "text",
+   "bounds": [
+    57,
+    368,
+    254,
+    18.85
+   ],
+   "content": {
+    "text": "黄河干流走向 · 示意图",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.45
+   }
+  },
+  {
+   "elementId": "p17n0",
+   "elementType": "text",
+   "bounds": [
+    342,
+    152,
+    22,
+    28
+   ],
+   "content": {
+    "text": "①",
+    "fontSize": 17,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17t0",
+   "elementType": "text",
+   "bounds": [
+    366,
+    152,
+    274,
+    26
+   ],
+   "content": {
+    "text": "水量统一调度",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17d0",
+   "elementType": "text",
+   "bounds": [
+    366,
+    178,
+    274,
+    22
+   ],
+   "content": {
+    "text": "全河统筹分配，守住生态流量",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17ln1",
+   "elementType": "line",
+   "points": [
+    [
+     342,
+     200
+    ],
+    [
+     640,
+     200
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "p17n1",
+   "elementType": "text",
+   "bounds": [
+    342,
+    208,
+    22,
+    28
+   ],
+   "content": {
+    "text": "②",
+    "fontSize": 17,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17t1",
+   "elementType": "text",
+   "bounds": [
+    366,
+    208,
+    274,
+    26
+   ],
+   "content": {
+    "text": "九省（区）协同治污",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17d1",
+   "elementType": "text",
+   "bounds": [
+    366,
+    234,
+    274,
+    22
+   ],
+   "content": {
+    "text": "上下游联防，流域水质稳步提升",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17ln2",
+   "elementType": "line",
+   "points": [
+    [
+     342,
+     256
+    ],
+    [
+     640,
+     256
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "p17n2",
+   "elementType": "text",
+   "bounds": [
+    342,
+    264,
+    22,
+    28
+   ],
+   "content": {
+    "text": "③",
+    "fontSize": 17,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17t2",
+   "elementType": "text",
+   "bounds": [
+    366,
+    264,
+    274,
+    26
+   ],
+   "content": {
+    "text": "生态补水",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17d2",
+   "elementType": "text",
+   "bounds": [
+    366,
+    290,
+    274,
+    22
+   ],
+   "content": {
+    "text": "向河口、湿地补水，修复河流健康",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17ln3",
+   "elementType": "line",
+   "points": [
+    [
+     342,
+     312
+    ],
+    [
+     640,
+     312
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "p17n3",
+   "elementType": "text",
+   "bounds": [
+    342,
+    320,
+    22,
+    28
+   ],
+   "content": {
+    "text": "④",
+    "fontSize": 17,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17t3",
+   "elementType": "text",
+   "bounds": [
+    366,
+    320,
+    274,
+    26
+   ],
+   "content": {
+    "text": "水土流失治理",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17d3",
+   "elementType": "text",
+   "bounds": [
+    366,
+    346,
+    274,
+    22
+   ],
+   "content": {
+    "text": "黄土高原植被修复，面积与强度双降",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17ln4",
+   "elementType": "line",
+   "points": [
+    [
+     342,
+     368
+    ],
+    [
+     640,
+     368
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "p17n4",
+   "elementType": "text",
+   "bounds": [
+    342,
+    376,
+    22,
+    28
+   ],
+   "content": {
+    "text": "⑤",
+    "fontSize": 17,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17t4",
+   "elementType": "text",
+   "bounds": [
+    366,
+    376,
+    274,
+    26
+   ],
+   "content": {
+    "text": "《黄河保护法》护航",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p17d4",
+   "elementType": "text",
+   "bounds": [
+    366,
+    402,
+    274,
+    22
+   ],
+   "content": {
+    "text": "把制度固化为法律，法治保障长治久安",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "src_note",
+   "elementType": "text",
+   "bounds": [
+    48,
+    462,
+    592,
+    20
+   ],
+   "content": {
+    "text": "资料来源：水利部黄河水利委员会公开报道、《中华人民共和国黄河保护法》",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：五条线索里哪条最根本？答：多半选“治理”。接：都对，但要能说出理由。我更关心你们怎么排出主次。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p17map_bg",
+    "p17map_im"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p17map_bg",
+    "p17map_cp"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

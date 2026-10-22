@@ -1,0 +1,27 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "19"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "矩形_圆角_1_txt"
+    elementType: text
+    bounds: [66, 99, 573, 47]
+    content:
+      text: "小组合作探究成果：解说词"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_1"
+    elementType: shape
+    bounds: [66, 99, 573, 47]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "文本框_3"
+    elementType: text
+    bounds: [62, 180, 577, 251]
+    content:
+      text: "黄河，从 226 天断流到连续 27 年不断流。 这条母亲河的“重生”告诉我们：奇迹不是凭空发生的。 它的背后，站着党的全面领导、科学理论的指引、制度的优势和人民至上的立场。 从断流到安澜，这条大河的变迁，就是国家发展奇迹生动缩影。 解码成就，不是为了记住几个结论，而是学会用这把钥匙，去读懂我们的国家。"
+      fontSize: 24
+      fontFamily: "华文楷体"

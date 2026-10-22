@@ -1,0 +1,427 @@
+﻿{
+  "hostCore": "0.2.1-rc.2",
+  "startedAt": 1792410468723,
+  "lastBootCrash": 1792310017479.3591,
+  "bootClean": true,
+  "rows": [
+    {
+      "name": "@arcaneorion/dsh-teaching-board",
+      "version": "0.6.0",
+      "notes": [],
+      "errors": [
+        "peer 不满足 @deepseek-ai/dsh-client-ui-conversation: 需要 0.2.0-rc.1，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-client-ui-chat: 需要 0.2.0-rc.1，实际 0.2.1-rc.2"
+      ],
+      "mtime": 1791337270820.5413,
+      "clientRel": "./src/client.js",
+      "bytes": 44025
+    },
+    {
+      "name": "@changfenhuang/dsh-genui",
+      "version": "0.13.0",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308297197.8865,
+      "clientRel": "./lib/client.js",
+      "bytes": 696079
+    },
+    {
+      "name": "@haoranwang0921/dsh-session-cleaner",
+      "version": "1.1.0",
+      "notes": [],
+      "errors": [
+        "peer 不满足 @deepseek-ai/dsh-host-webserver: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-session: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-session-persistence: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-workspace: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-message-feedback: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-system-prompt: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2"
+      ],
+      "mtime": 1791339185031.0068,
+      "clientRel": "./lib/client.js",
+      "bytes": 13353
+    },
+    {
+      "name": "@michengai/dsh-agency-agents",
+      "version": "1.2.7",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792409728191.5754,
+      "clientRel": "./lib/client.js",
+      "bytes": 675399
+    },
+    {
+      "name": "@michengai/dsh-archive-manager",
+      "version": "1.1.5",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792409740287.2405,
+      "clientRel": "./lib/client.js",
+      "bytes": 238138
+    },
+    {
+      "name": "@michengai/dsh-automation",
+      "version": "1.0.4",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792409278916.4683,
+      "clientRel": "./lib/client.js",
+      "bytes": 178826
+    },
+    {
+      "name": "@michengai/dsh-btw",
+      "version": "1.0.0",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308325047.5547,
+      "clientRel": "./lib/client.js",
+      "bytes": 444036
+    },
+    {
+      "name": "@michengai/dsh-code-review",
+      "version": "1.0.1",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791338687649.854,
+      "clientRel": "./lib/client.js",
+      "bytes": 2861
+    },
+    {
+      "name": "@michengai/dsh-codex-ui",
+      "version": "1.1.43",
+      "notes": [
+        "OK",
+        "peer react-dom 未安装"
+      ],
+      "errors": [],
+      "mtime": 1792409767661.3894,
+      "clientRel": "./lib/client.js",
+      "bytes": 589800
+    },
+    {
+      "name": "@michengai/dsh-im-connect",
+      "version": "1.0.2",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308347627.329,
+      "clientRel": "./lib/client.js",
+      "bytes": 277771
+    },
+    {
+      "name": "@michengai/dsh-pua",
+      "version": "1.0.1",
+      "notes": [
+        "OK",
+        "peer react-dom 未安装（optional）"
+      ],
+      "errors": [],
+      "mtime": 1792308354261.0808,
+      "clientRel": "./lib/client.js",
+      "bytes": 391061
+    },
+    {
+      "name": "@michengai/dsh-simplify",
+      "version": "1.0.1",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308362306.4958,
+      "clientRel": "./lib/client.js",
+      "bytes": 1676
+    },
+    {
+      "name": "@michengai/dsh-skills-manager",
+      "version": "1.2.6",
+      "notes": [
+        "OK",
+        "peer react-dom 未安装"
+      ],
+      "errors": [],
+      "mtime": 1792308367417.399,
+      "clientRel": "./lib/client.js",
+      "bytes": 204118
+    },
+    {
+      "name": "@nanmicoder/dsh-agent-teams",
+      "version": "0.1.25",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791977422346.3003,
+      "clientRel": "./lib/client.js",
+      "bytes": 233847
+    },
+    {
+      "name": "@openmaic/dsh-openmaic",
+      "version": "0.4.0",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791341173317.834,
+      "clientRel": "./lib/client.js",
+      "bytes": 2587449
+    },
+    {
+      "name": "@tt-a1i/archify-dsh",
+      "version": "1.0.0",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    },
+    {
+      "name": "@vectorize-io/hindsight-coding-agents",
+      "version": "0.8.1",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    },
+    {
+      "name": "billion-context",
+      "version": "0.1.202",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792307726637.032,
+      "clientRel": "./dist/agent/dsh-native-client.js",
+      "bytes": 14484
+    },
+    {
+      "name": "dsh-animations",
+      "version": "1.2.4",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791340871761.858,
+      "clientRel": "./lib/client.js",
+      "bytes": 35600
+    },
+    {
+      "name": "dsh-better-sidebar",
+      "version": "0.28.0",
+      "notes": [
+        "OK",
+        "peer @huanlin/dsh-plugin-better-locale 未安装（optional）",
+        "peer react-dom 未安装"
+      ],
+      "errors": [],
+      "mtime": 1792309294156.8926,
+      "clientRel": "./lib/client.js",
+      "bytes": 1523257
+    },
+    {
+      "name": "dsh-context",
+      "version": "0.73.3",
+      "notes": [
+        "OK",
+        "peer react-dom 未安装（optional）"
+      ],
+      "errors": [],
+      "mtime": 1792410437842.2583,
+      "clientRel": "./lib/client.js",
+      "bytes": 478417
+    },
+    {
+      "name": "dsh-craft-your-textbook",
+      "version": "1.3.4",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791976506133.6272,
+      "clientRel": "./lib/client.js",
+      "bytes": 534890
+    },
+    {
+      "name": "dsh-free-search",
+      "version": "0.9.3",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308383012.6653,
+      "clientRel": "./lib/client.js",
+      "bytes": 119097
+    },
+    {
+      "name": "dsh-hotspots",
+      "version": "1.1.0",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791337050620.804,
+      "clientRel": "./dsh/client.js",
+      "bytes": 31445
+    },
+    {
+      "name": "dsh-image-gen",
+      "version": "0.9.1",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792310134919.6765,
+      "clientRel": "./lib/client.js",
+      "bytes": 4886570
+    },
+    {
+      "name": "dsh-mindmap",
+      "version": "0.17.0",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791976542417.4917,
+      "clientRel": "./client.js",
+      "bytes": 263842
+    },
+    {
+      "name": "dsh-ops",
+      "version": "0.3.0",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    },
+    {
+      "name": "dsh-plugin-education",
+      "version": "0.3.2",
+      "notes": [
+        "服务端插件（无客户端）"
+      ],
+      "errors": [
+        "peer 不满足 @deepseek-ai/dsh-fs: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-system-prompt: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-tools: 需要 ^0.1.0-rc.6，实际 0.2.1-rc.2"
+      ],
+      "mtime": 0
+    },
+    {
+      "name": "dsh-plugin-wallpaper-engine",
+      "version": "1.3.3",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792308387773.4004,
+      "clientRel": "./lib/client.js",
+      "bytes": 4542261
+    },
+    {
+      "name": "dsh-ppt-studio",
+      "version": "1.2.3",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    },
+    {
+      "name": "dsh-run2skill",
+      "version": "0.5.0-alpha.4",
+      "notes": [],
+      "errors": [
+        "peer 不满足 @deepseek-ai/cordis: 需要 4.0.4，实际 4.0.5",
+        "peer 不满足 @deepseek-ai/dsh-agent-preset-registry: 需要 0.2.0-rc.2，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-client-ui-primitives: 需要 0.2.0-rc.2，实际 0.2.1-rc.2",
+        "peer 不满足 @deepseek-ai/dsh-typert-protocol: 需要 0.2.0-rc.2，实际 0.2.1-rc.2"
+      ],
+      "mtime": 1791341871035.06,
+      "clientRel": "./lib/client.js",
+      "bytes": 352815
+    },
+    {
+      "name": "dsh-skill-mcp-manager",
+      "version": "1.2.2",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791337439291.634,
+      "clientRel": "./client/client.js",
+      "bytes": 42087
+    },
+    {
+      "name": "dsh-univer-office",
+      "version": "0.3.7",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1791390712543.863,
+      "clientRel": "./lib/client.js",
+      "bytes": 1115335
+    },
+    {
+      "name": "dsh-vision-router",
+      "version": "3.0.4",
+      "notes": [
+        "OK",
+        "peer sharp 未安装（optional）"
+      ],
+      "errors": [],
+      "mtime": 1792308400616.1565,
+      "clientRel": "./lib/client.js",
+      "bytes": 261754
+    },
+    {
+      "name": "dsh-whale-widget",
+      "version": "0.4.2",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    },
+    {
+      "name": "dshmarket",
+      "version": "1.66.42",
+      "notes": [
+        "OK"
+      ],
+      "errors": [],
+      "mtime": 1792409288062.63,
+      "clientRel": "./client/client.js",
+      "bytes": 806857
+    },
+    {
+      "name": "superpowers-dsh",
+      "version": "0.3.0",
+      "notes": [
+        "OK",
+        "服务端插件（无客户端）"
+      ],
+      "errors": [],
+      "mtime": 0
+    }
+  ]
+}

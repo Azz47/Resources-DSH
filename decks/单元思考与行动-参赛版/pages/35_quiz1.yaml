@@ -1,0 +1,222 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "选择题限时一分钟，先读题干再选。答案 B，请学生说为什么排除 A。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "课堂练习 1 · 新时代的认识", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "35 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "q1_stem_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 94.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_stem"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 94.16]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_stem_cap", "q1_stem_t"]
+  - elementId: "q1_stem_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 82.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_stem_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 80.16]
+    content: {text: "课堂练习 1　进入新时代，我国社会主要矛盾已经转化为人民日益增长\n的美好生活需要和不平衡不充分的发展之间的矛盾，在生态文明、法治\n建设、民生改善等领域取得一系列辉煌成就。下列对新时代认识正确的\n是（　）", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "q1_o0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 210.16, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_o0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 206.16, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_o0_cap", "q1_o0_t"]
+  - elementId: "q1_o0_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 212.16, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_o0_t"
+    elementType: "text"
+    bounds: [56, 213.16, 572, 26.4]
+    content: {text: "A. 新时代意味着我国已经建成社会主义现代化强国", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q1_o1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 254.56, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_o1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 250.56, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_o1_cap", "q1_o1_t"]
+  - elementId: "q1_o1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 256.56, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_o1_t"
+    elementType: "text"
+    bounds: [56, 257.56, 572, 26.4]
+    content: {text: "B. 新时代是全国各族人民团结奋斗、不断创造美好生活的时代", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q1_o2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 298.96, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_o2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 294.96, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_o2_cap", "q1_o2_t"]
+  - elementId: "q1_o2_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 300.96, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_o2_t"
+    elementType: "text"
+    bounds: [56, 301.96, 572, 26.4]
+    content: {text: "C. 新时代我国社会主要矛盾已经得到彻底解决", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q1_o3_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 343.35999999999996, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_o3"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 339.35999999999996, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_o3_cap", "q1_o3_t"]
+  - elementId: "q1_o3_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 345.35999999999996, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_o3_t"
+    elementType: "text"
+    bounds: [56, 346.35999999999996, 572, 26.4]
+    content: {text: "D. 新时代标志着我国已经实现全体人民共同富裕", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q1_ans_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 393.75999999999993, 592, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q1_ans"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 389.75999999999993, 596, 34]
+    fill: "#F0E8D8"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q1_ans_cap", "q1_ans_t"]
+  - elementId: "q1_ans_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 395.75999999999993, 4, 22]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q1_ans_t"
+    elementType: "text"
+    bounds: [56, 396.75999999999993, 572, 20]
+    content: {text: "答案：B", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

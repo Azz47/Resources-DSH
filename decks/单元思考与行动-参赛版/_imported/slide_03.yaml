@@ -1,0 +1,101 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: |
+  请注意：
+  1.正文标题为：黑体，30号字；
+  2.正文内容为：华文楷体，尽量不小于24号，特殊辅助性文字不低于18；根据文字量可适当调整。内容文字一行一般不能超过28个字，单页文字一般不能超过8行。
+  3.拍摄版本呈现内容务必与上传版本呈现的内容完全一致。
+  
+  英文
+  1.正文标题为：以Times New Roman为主,可搭配使用Arial。字号为32—36号，特别强调可以用40号。
+  2.正文内容为：以Times New Roman为主,可搭配使用Arial。字号为24—28号，特别强调可用32号。
+  3.英文每行一般不能超过15个单词；单页文字一般不能超过8行。
+  
+  
+  3
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "圆角矩形_18"
+    elementType: shape
+    bounds: [146, 136, 271, 42]
+    kind: roundRect
+    fill: "#01431D"
+    line: {color: "#000000", width: 3}
+  - elementId: "矩形_19"
+    elementType: shape
+    bounds: [129, 133, 47, 47]
+    kind: rect
+    fill: "#01621F"
+    line: {color: "#000000", width: 3}
+  - elementId: "文本框_20"
+    elementType: text
+    bounds: [84, 176, 464, 36]
+    content:
+      text: "1 观展选品——感悟新时代"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_21"
+    elementType: text
+    bounds: [179, 236, 455, 36]
+    content:
+      text: "梳理国家发展成就，补充完善展览展品"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "圆角矩形_23"
+    elementType: shape
+    bounds: [146, 136, 271, 42]
+    kind: roundRect
+    fill: "#711000"
+    line: {color: "#000000", width: 3}
+  - elementId: "矩形_24"
+    elementType: shape
+    bounds: [129, 133, 47, 47]
+    kind: rect
+    fill: "#AF0000"
+    line: {color: "#000000", width: 3}
+  - elementId: "文本框_25"
+    elementType: text
+    bounds: [85, 368, 371, 36]
+    content:
+      text: "3 拓展策展——循迹盐湖行"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_26"
+    elementType: text
+    bounds: [179, 428, 450, 36]
+    content:
+      text: "立足盐湖调研，设计家乡研学活动方案"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "标题_27"
+    elementType: text
+    bounds: [59, 94, 831, 45]
+    content:
+      text: "时代答卷人——策展探悟新时代：成就何以铸就，青年何以担当？"
+      fontSize: 30
+  - elementId: "圆角矩形_28"
+    elementType: shape
+    bounds: [146, 136, 271, 42]
+    kind: roundRect
+    fill: "#014E6A"
+    line: {color: "#000000", width: 3}
+  - elementId: "矩形_29"
+    elementType: shape
+    bounds: [129, 133, 47, 47]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000", width: 3}
+  - elementId: "文本框_31"
+    elementType: text
+    bounds: [85, 279, 371, 36]
+    content:
+      text: "2 撰写解说——解码新成就"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_32"
+    elementType: text
+    bounds: [179, 336, 493, 36]
+    content:
+      text: "结合展板撰写解说词，解码成就背后的密码"
+      fontSize: 24
+      fontFamily: "华文楷体"

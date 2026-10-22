@@ -1,0 +1,197 @@
+pageType: "content"
+background: {"type": "image", "src": "media/image1.jpeg", "fit": "cover"}
+notes: "答案 B。提醒③“生态保护可以脱离经济发展单独推进”是典型错误说法，这类选项要先划掉。"
+expectedOutOfSafeArea: ["rb_rule", "rb_chip_a", "rb_chip_b", "rb_tag1", "rb_tag2", "rb_tagrule", "rb_num"]
+elements:
+  - elementId: "hd_secbg"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 22, 206.54000000000002, 24]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#E9EFE9"}, {pos: 100, color: "#E9EFE9", alpha: 96}], angle: 0}
+    role: "decoration"
+    roleReason: "环节标签衬底"
+    contains: ["hd_sec", "hd_secbar"]
+  - elementId: "hd_secbar"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [48, 25, 3.5, 18]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 90}
+    role: "decoration"
+    roleReason: "环节标签左侧色标（母题）"
+  - elementId: "hd_sec"
+    elementType: "text"
+    bounds: [58, 25, 184.54000000000002, 18]
+    content: {text: "收束 · 小结·评价·练习", fontSize: 14, color: "#584C86", fontFamily: "黑体", bold: true}
+  - elementId: "hd_title"
+    elementType: "text"
+    bounds: [44, 50, 596, 38]
+    content: {text: "课堂练习 2 · 黄河保护法", fontSize: 24, color: "#F4F8F4", fontFamily: "黑体", bold: true}
+  - elementId: "hd_rule2"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [44, 90, 128, 3.5]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#B9A7E8", alpha: 100}], angle: 0}
+  - elementId: "hd_rule"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [178, 91.2, 462, 1.5]
+    fill: {color: "#B9A7E8", alpha: 40}
+  - elementId: "rb_rule"
+    elementType: "line"
+    points: [[652, 112], [652, 448]]
+    line: {color: "#7E9A85", width: 1.5}
+  - elementId: "rb_chip_a"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [648, 96, 12, 12]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#B9A7E8"}, {pos: 100, color: "#584C86", alpha: 100}], angle: 135}
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（呼应页眉双色块）"
+  - elementId: "rb_chip_b"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [652, 94, 8, 8]
+    fill: "#584C86"
+    role: "decoration"
+    roleReason: "右侧分栏线顶端母题（小方块叠压）"
+  - elementId: "rb_tag1"
+    elementType: "text"
+    bounds: [866, 102, 74, 22]
+    content: {text: "第二单元", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tag2"
+    elementType: "text"
+    bounds: [866, 124, 74, 22]
+    content: {text: "进入新时代", fontSize: 14, color: "#BFD2C2", fontFamily: "黑体", align: "center"}
+  - elementId: "rb_tagrule"
+    elementType: "line"
+    points: [[884, 178], [922, 178]]
+    line: {color: "#7E9A85", width: 1}
+  - elementId: "rb_num"
+    elementType: "text"
+    bounds: [866, 164, 74, 22]
+    content: {text: "36 / 42", fontSize: 14, color: "#B9A7E8", fontFamily: "黑体", bold: true, align: "center"}
+  - elementId: "q2_stem_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 104, 592, 94.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q2_stem"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 100, 596, 94.16]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q2_stem_cap", "q2_stem_t"]
+  - elementId: "q2_stem_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 106, 4, 82.16]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q2_stem_t"
+    elementType: "text"
+    bounds: [56, 107, 572, 80.16]
+    content: {text: "课堂练习 2　《中华人民共和国黄河保护法》为黄河流域生态保护和高\n质量发展提供坚实法治保障，坚持共同抓好大保护，协同推进大治理。\n这一举措体现（　）", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}
+  - elementId: "q2_o0_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 210.16, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q2_o0"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 206.16, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q2_o0_cap", "q2_o0_t"]
+  - elementId: "q2_o0_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 212.16, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q2_o0_t"
+    elementType: "text"
+    bounds: [56, 213.16, 572, 26.4]
+    content: {text: "① 坚持依法治国，建设法治中国　　② 践行绿水青山就是金山银山理念", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q2_o1_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 254.56, 592, 62.8]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q2_o1"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 250.56, 596, 62.8]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q2_o1_cap", "q2_o1_t"]
+  - elementId: "q2_o1_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 256.56, 4, 50.8]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q2_o1_t"
+    elementType: "text"
+    bounds: [56, 257.56, 572, 48.8]
+    content: {text: "③ 生态保护可以脱离经济发展单独推进　　④ 走绿色发展道路，促进人\n与自然和谐共生", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q2_o2_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 321.36, 592, 40.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q2_o2"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 317.36, 596, 40.4]
+    fill: "#E9EFE9"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q2_o2_cap", "q2_o2_t"]
+  - elementId: "q2_o2_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 323.36, 4, 28.4]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q2_o2_t"
+    elementType: "text"
+    bounds: [56, 324.36, 572, 26.4]
+    content: {text: "A. ①②③　　B. ①②④　　C. ①③④　　D. ②③④", fontSize: 16, color: "#1D2B23", fontFamily: "楷体"}
+  - elementId: "q2_ans_sh"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [46, 371.76, 592, 34]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#0E1A12"}, {pos: 100, color: "#0E1A12", alpha: 46}], angle: 90}
+    role: "decoration"
+    roleReason: "横条接地投影"
+  - elementId: "q2_ans"
+    elementType: "shape"
+    kind: "roundRect"
+    bounds: [44, 367.76, 596, 34]
+    fill: "#F0E8D8"
+    line: {color: "#584C86", width: 1.25}
+    contains: ["q2_ans_cap", "q2_ans_t"]
+  - elementId: "q2_ans_cap"
+    elementType: "shape"
+    kind: "rect"
+    bounds: [51, 373.76, 4, 22]
+    fill: {type: "gradient", stops: [{pos: 0, color: "#584C86"}, {pos: 100, color: "#584C86", alpha: 10}], angle: 90}
+    role: "decoration"
+    roleReason: "横条左侧书签色标（母题）"
+  - elementId: "q2_ans_t"
+    elementType: "text"
+    bounds: [56, 374.76, 572, 20]
+    content: {text: "答案：B", fontSize: 16, color: "#1D2B23", fontFamily: "黑体", bold: true}

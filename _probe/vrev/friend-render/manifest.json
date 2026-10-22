@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "D:\\Resources\\xwechat_files\\wxid_9ka181duelek22_80a9\\msg\\file\\2026-10\\单元思考与行动(1).pptx",
+  "sourceSha256": "7a0830d185e261882ecb44c2da54c834404e2f4d96247befc75a04cd065537c7",
+  "dpi": 144,
+  "pageCount": 40,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0001.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 244061
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0002.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 81080
+    },
+    {
+      "index": 3,
+      "page": 3,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0003.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 100310
+    },
+    {
+      "index": 4,
+      "page": 4,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0004.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 113334
+    },
+    {
+      "index": 5,
+      "page": 5,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0005.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 440979
+    },
+    {
+      "index": 6,
+      "page": 6,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0006.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 705527
+    },
+    {
+      "index": 7,
+      "page": 7,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0007.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 714387
+    },
+    {
+      "index": 8,
+      "page": 8,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0008.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 84826
+    },
+    {
+      "index": 9,
+      "page": 9,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0009.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 573002
+    },
+    {
+      "index": 10,
+      "page": 10,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0010.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1209265
+    },
+    {
+      "index": 11,
+      "page": 11,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0011.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1020509
+    },
+    {
+      "index": 12,
+      "page": 12,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0012.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 71298
+    },
+    {
+      "index": 13,
+      "page": 13,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0013.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 103927
+    },
+    {
+      "index": 14,
+      "page": 14,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0014.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 121974
+    },
+    {
+      "index": 15,
+      "page": 15,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0015.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 103609
+    },
+    {
+      "index": 16,
+      "page": 16,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0016.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 110679
+    },
+    {
+      "index": 17,
+      "page": 17,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0017.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 142866
+    },
+    {
+      "index": 18,
+      "page": 18,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0018.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 70711
+    },
+    {
+      "index": 19,
+      "page": 19,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0019.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 104002
+    },
+    {
+      "index": 20,
+      "page": 20,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0020.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 73942
+    },
+    {
+      "index": 21,
+      "page": 21,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0021.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 797880
+    },
+    {
+      "index": 22,
+      "page": 22,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0022.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 80467
+    },
+    {
+      "index": 23,
+      "page": 23,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0023.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 122150
+    },
+    {
+      "index": 24,
+      "page": 24,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0024.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 119402
+    },
+    {
+      "index": 25,
+      "page": 25,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0025.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 108964
+    },
+    {
+      "index": 26,
+      "page": 26,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0026.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 660247
+    },
+    {
+      "index": 27,
+      "page": 27,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0027.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 70835
+    },
+    {
+      "index": 28,
+      "page": 28,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0028.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 56144
+    },
+    {
+      "index": 29,
+      "page": 29,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0029.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 75321
+    },
+    {
+      "index": 30,
+      "page": 30,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0030.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 154182
+    },
+    {
+      "index": 31,
+      "page": 31,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0031.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1351509
+    },
+    {
+      "index": 32,
+      "page": 32,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0032.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 108711
+    },
+    {
+      "index": 33,
+      "page": 33,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0033.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 97210
+    },
+    {
+      "index": 34,
+      "page": 34,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0034.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 80099
+    },
+    {
+      "index": 35,
+      "page": 35,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0035.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 104678
+    },
+    {
+      "index": 36,
+      "page": 36,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0036.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 114176
+    },
+    {
+      "index": 37,
+      "page": 37,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0037.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 85552
+    },
+    {
+      "index": 38,
+      "page": 38,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0038.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 71205
+    },
+    {
+      "index": 39,
+      "page": 39,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0039.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 115473
+    },
+    {
+      "index": 40,
+      "page": 40,
+      "path": "D:\\Resources\\DSH\\_probe\\vrev\\friend-render\\page-0040.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 72872
+    }
+  ],
+  "missingFonts": [
+    "华文楷体"
+  ]
+}

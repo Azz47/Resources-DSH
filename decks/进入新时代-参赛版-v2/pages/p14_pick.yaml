@@ -1,0 +1,521 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#2E6E8F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "动手：补一块展板，说一句理由",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "15 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p14c0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p14c0_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    67.1
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p14c0_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第一步 · 归位",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p14c0_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "六块展板分别属于哪个建设领域？用一句话说清依据。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14c1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    247.1,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p14c1_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    257.1,
+    3,
+    67.1
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p14c1_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    263.1,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第二步 · 找薄",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p14c1_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    293.4,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "六块都铺满了，哪一块的说服力最弱？缺的是什么证据？",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14c2_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    346.2,
+    592,
+    87.1
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p14c2_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    356.2,
+    3,
+    67.1
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p14c2_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    362.2,
+    557,
+    24.3
+   ],
+   "content": {
+    "text": "第三步 · 选品",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p14c2_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    392.5,
+    557,
+    24.8
+   ],
+   "content": {
+    "text": "如果要为这块展板选一件展品，你选什么？它凭什么代表新时代？",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p14q_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    449.3,
+    592,
+    41.0
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 4
+  },
+  {
+   "elementId": "p14q_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    449.3,
+    3,
+    41.0
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p14q_t",
+   "elementType": "text",
+   "bounds": [
+    63,
+    459.3,
+    565,
+    21.0
+   ],
+   "content": {
+    "text": "评价标准：证据是否可靠 · 归位是否准确 · 理由是否说到了“为什么”。",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s1.png",
+  "fit": "cover"
+ },
+ "notes": "问：只留一块，你留哪块？答：“科技，最厉害”。接：可以，但要说清它凭什么——说不出判据，就只是偏好。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p14c0_bg",
+    "p14c0_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c0_bg",
+    "p14c0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c0_bg",
+    "p14c0_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c1_bg",
+    "p14c1_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c1_bg",
+    "p14c1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c1_bg",
+    "p14c1_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c2_bg",
+    "p14c2_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c2_bg",
+    "p14c2_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14c2_bg",
+    "p14c2_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14q_bg",
+    "p14q_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p14q_bg",
+    "p14q_t"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

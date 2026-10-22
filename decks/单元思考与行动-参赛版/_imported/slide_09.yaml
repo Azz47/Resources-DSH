@@ -1,0 +1,61 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "9"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [28, 82, 374, 46]
+    content:
+      text: "小组展示：展板四 民主法治"
+      fontSize: 28
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_2_txt"
+    elementType: text
+    bounds: [459, 76, 144, 62]
+    content:
+      text: "政治建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_2"
+    elementType: shape
+    bounds: [459, 76, 144, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_3"
+    elementType: shape
+    bounds: [399, 95, 47, 25]
+    kind: rightArrow
+  - elementId: "Picture_2"
+    elementType: image
+    bounds: [66, 333, 198, 113]
+    fit: cover
+    src: "media/image9.jpeg"
+  - elementId: "文本框_5"
+    elementType: text
+    bounds: [77, 298, 177, 32]
+    content:
+      text: "图片来源：人民网"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_6"
+    elementType: text
+    bounds: [77, 446, 177, 32]
+    content:
+      text: "图片来源：人民日报"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_7"
+    elementType: text
+    bounds: [286, 151, 353, 333]
+    content:
+      text: "发展全过程人民民主，坚持全面依法治国，社会主义政治制度优势充分彰显。 《中华人民共和国生态环境法典》：完善我国法律体系，以法治护航美丽中国建设。 设立基层立法联系点：民意直达国家立法机关，是全过程人民民主的生动实践。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "图片_4"
+    elementType: image
+    bounds: [66, 181, 198, 121]
+    fit: cover
+    src: "media/image10.png"

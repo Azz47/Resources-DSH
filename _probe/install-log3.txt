@@ -1,0 +1,6 @@
+﻿[09:43:26] START round-3 alive=6
+[09:43:26] INSTALL dsh-todo-board
+[09:43:39] OK     dsh-todo-board exit=0 alive=6
+[09:43:39] INSTALL dsh-skill-mcp-manager
+[09:44:09] OK     dsh-skill-mcp-manager exit=0 alive=6
+[09:44:09] INSTALL @michengai/dsh-archive-manager

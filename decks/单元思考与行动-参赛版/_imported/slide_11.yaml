@@ -1,0 +1,56 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "11"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "图片_13"
+    elementType: image
+    bounds: [66, 189, 238, 200]
+    fit: cover
+    src: "media/image15.png"
+  - elementId: "图片_15"
+    elementType: image
+    bounds: [313, 220, 238, 200]
+    fit: cover
+    src: "media/image16.jpeg"
+  - elementId: "文本框_16"
+    elementType: text
+    bounds: [551, 205, 382, 250]
+    content:
+      text: "“共抓大保护，不搞大开发”，十年间，长江经济带优良水质比例从67%提升到96.5%。 致力于“让黄河成为造福人民的幸福河”，打好黄河“几字弯”攻坚战，一体推进山水林田湖草沙保护和治理，筑牢生态屏障。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+  - elementId: "文本框_17"
+    elementType: text
+    bounds: [153, 94, 478, 51]
+    content:
+      text: "小组展示：展板六 “江河战略”"
+      fontSize: 32
+      color: "#C00000"
+      fontFamily: "华文楷体"
+  - elementId: "文本框_18"
+    elementType: text
+    bounds: [66, 420, 238, 64]
+    content:
+      text: "左图：长江 右图：黄河图片来源：人民日报"
+      fontSize: 20
+      fontFamily: "华文楷体"
+  - elementId: "矩形_圆角_6_txt"
+    elementType: text
+    bounds: [663, 94, 194, 62]
+    content:
+      text: "生态文明建设"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_6"
+    elementType: shape
+    bounds: [663, 94, 194, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "箭头_右_7"
+    elementType: shape
+    bounds: [615, 116, 47, 25]
+    kind: rightArrow

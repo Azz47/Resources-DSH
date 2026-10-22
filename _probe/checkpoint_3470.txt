@@ -1,0 +1,78 @@
+﻿type=user/message seq=3469 time=2026-10-14T15:00:32.727Z
+This is an automatically generated checkpoint condensing an earlier span of the conversation to free up context. Treat the captured context as established background and build on it without restating it. Continue the task directly from the messages that follow, without acknowledging this checkpoint.
+
+<compacted-summary>
+---
+## Primary Request and Intent
+- **Deck under work**: 《第二单元 进入新时代 · 单元思考与行动》(统编版《道德与法治》九年级上册, 基础教育精品课参赛), 46 pages, at `D:\Resources\DSH\decks\单元思考与行动-参赛版\`.
+- **Standing hard constraint (from the original brief)**: content confined to x ∈ [44, 640] pt; the **right 1/3 (640–960) must stay empty** — the lecturer stands there.
+- **Latest request (m01499, OPEN)**: 「融合效果还是差点；右边稍微弄点东西装饰一下，太空白夜影响观感，但是需要知道这部分的作用，不要冲突」 → (a) the props/board blending still isn't good enough; (b) add a *subtle* decoration in the right 1/3 because it looks too blank, but must **not occupy/conflict with the lecturer's standing area**.
+- Prior request chain this session:
+  - User said (m01136): 「左下角的记事本，割裂感很强，还是不对，继续改，在此基础上，可以适当使用一些艺术字等，不要让内容看起来很单调」
+  - User said (m01132): 「继续，怎么不动了」
+  - User said (m00756): 「消除的太刻意了，以及有些空间利用、划分不合理，再次调整，要尽量利用所有可利用的，充分借鉴其他优秀作品」
+  - User said (m00206): 「在最新版的基础上，检查内容字体方框区域与背景图片是否有重叠，颜色对比度是否容易辨别…做一些创新，该生图就添加，该增加动画就增加，跳出固有框架，但是要符合参赛要求」
+  - User (m01133-region): 「消除挪动的痕迹太明显了，要消除就消除干净，挪动就去掉痕迹，空出来的地方用符合主题的东西点缀一下，不然太空了」
+
+## Key Technical Concepts
+- PPT Studio pipeline: change `_tools/*.py` → `python _tools/build.py` regenerates all 46 `pages/*.yaml` + `deck.yaml` → `ppt_render` → `ppt_verify` → `ppt_measure` → `ppt_shot` (Edge screenshots) → `ppt_export` → `_tools/add_transitions.py` → `_tools/anim.py`.
+- **DSL facts (verified by reading `C:\Users\Administrator\.dsh\profiles\desktop\node_modules\dsh-ppt-studio\lib\pptd\`)**:
+  - `schema.js:43` `TEXT_STYLE_KEYS = ['fontSize','fontFamily','color','bold','italic','align','lineHeight','wrap','letterSpacing']`; **`letterSpacing` is a no-op** (not emitted by `render-html.js:113-125` nor `export-pptx.js:647-654`); `italic` works.
+  - **Gradients only on shapes**: `fill: {type:'gradient', stops:[{pos,color,alpha?}], angle?}` (`schema.js:79-105`). Text has only solidFill — no gradient/stroke/shadow.
+  - `content×content` overlap = **content-collision ERROR, not declarable**; `role="decoration"` shapes over text are auto-exempt ⇒ "art text" = gradient plate + big text only.
+  - `theme-conformance`: any color not in `theme.colors` is a **[✗] error**, not advice.
+  - `SHAPE_KINDS` = rect/roundRect/ellipse/triangle/custGeom + arrows + pentagon/hexagon/chevron/parallelogram/diamond/octagon/star5 + flowchart*, `notchedRightArrow`.
+- Local Chinese fonts: only 仿宋/黑体/楷体/宋体/微软雅黑/微软雅黑 Light/新宋体 → do not use decorative fonts.
+- Corpus `D:\Resources\DSH\corpus\`: `_analysis2/summary.json` = 2520 pages / 508 courseware, median_coverage 0.222, median_colorfulness 34.3, **light_bg_ratio 0.965**; reference decks use per-page section chips, full-canvas fill, light backgrounds.
+
+## Files and Code
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\deck.yaml` — size [960,540]; colors incl. `board #2E4A3D`, `panel #2A4436`, `chalk #FFFFFF`, `soft #E4EEE2`, `dim #C2D8C2`, `faint #BCD0BC`, `ink #12241B`; `safeArea {top:24,bottom:48,left:36,right:320}`; `minFontSize: 12`; 46 pages p01…p46.
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_tools\kit.py` (~491 lines) — the single source of layout truth:
+  - Constants: `W,H=960,540`; `L=44`; `R=640`; `CW=596`; `TOP=122`; `BOT=480`; **`BOT_SAFE=456`**; `SEC` (intro `#7FD6B0/#2F7A5C`, s1 `#E8C15A/#8A6A1E`, s2 `#6FC7E8/#1F6383`, s3 `#EE8A72/#8E3F2E`, end `#B9A7E8/#584C86`); `SEC_LABEL`; `KAI="楷体"`; `HEI="黑体"`.
+  - Functions: `wch`, `fs`, `tw(text,size)=sum(wch)*fs(size)`, `wrap`, `need_h(text,width,size,lh=1.35,pad=6)`, `T(eid,bounds,text,size,color,family=KAI,bold,align,lineHeight,wrap_on,role,width)`, `S(eid,bounds,kind,fill,line,role,reason)`, **`grad(c1, c2=None, angle=90, a2=100)`**, `Ln`, `Img`, `header(els,sec,title,num,title_size=25)`, `footer`, `srcnote(els,text,y=430)`, `_yext`, `_shift`, `_grow`, `justify(els,target=None,gap_cap=34.0,grow_cap=120.0,min_gap=4.0)`, `panel`, `panelc`, `card(pid,x,y,w,accent,title,body,tsize=17,bsize=14,pad=14,title_color,body_color,fill,min_h=0)`, `bar(eid,x,y,w,accent,text,size=16,color="#12241B",h=None,pad=14,bold,align)`, **`hero(sec,big,sub=None,seal=None,y=TOP,big_size=34,sub_size=16,pad=32)`**, `row`, `bullet_rows(prefix,items,y,accent,size=16,gap=10,num=True,width=CW,x0=L)`, `page`, `dump_yaml`.
+  - `header()` now emits: `hd_chip_a` `[L,28,22,22]` `grad(c1,c2,135)`; `hd_chip_b` `[52,42,14,14]` c2; `hd_info` `[L+36,25,480,18]` 12pt DIM; `hd_num` `[566,24,74,18]` 14pt c1; **`hd_secbg` = pill `[L,44.5,pw,22]` roundRect `grad(c1,c1,0,78)`** with `contains=["hd_sec"]`, `pw = tw(lab,14)+44`; `hd_sec` text `[L+13,46.5,pw-26,19]` 14pt `#12241B`; `hd_title` `[L,71,CW,42]` 30pt CHALK; `hd_rule2` `[L,119,128,3.5]` `grad(c2,c1,0)`; `hd_rule` `[L+134,120.2,CW-134,1.5]` `{color:c1,alpha:42}`.
+  - `card()` adds left edge `pid+"_le"` `[x+2,y+9,3.5,max(10,h-18)]` `grad(accent,accent,90,0)` role=decoration, inside `contains`; body text vertically centred when `min_h`/`justify` grows the card.
+  - `bar()` adds `eid+"_cap"` `[x+7,y+5.5,4,max(8,h-11)]` `grad("#12241B","#12241B",90,25)` role=decoration, inside `contains`.
+  - `bullet_rows()` number chip is now `"ellipse"` 34×30 `grad(accent,accent,135,58)`, text `[x0,cy+5,34,20]` 14pt `#12241B`.
+  - `hero()` emits `hr_panel` `[L,y,CW,h]` roundRect `grad(c2,c2,90,3)` + 1.0 c1 outline (role=decoration), `hr_edge` `[L,y+10,5,h-20]` `grad(c1,c1,90,12)`, `hr_big` `[L+pad,y+26,iw,bh]` big_size bold CHALK lh 1.32, `hr_sub` `[L+pad,y+26+bh+18,iw-58,sh]`, `hr_seal`+`hr_sealt` **38×38** (must stay <40 or `justify()` grows it).
+  - `justify()` groups body elements into y-overlapping "rows", absorbs slack into gaps (capped by `gap_cap`), can grow the tallest shape row (`grow_cap`) and shrink it when overflowing; calls in `build.py` `emit()`.
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_tools\build.py` (~1024 lines) — `emit(name, sec, title, notes, num, body, title_size=25, page_type="content", decl=None, src=None, fill=None)`; auto fill target `BOT_SAFE` (cover `BOT_SAFE-26`, `end` page no fill); page emits: p01_cover L58, p02_scene L98, p06_s1_open L177, p07_tasklist L194, p08 L213, p12 L284, p13 L297, p14 L315, p15 L331, p16 L354, p16b_speak L396, p17_s1_sum L400, **p18_s2_open L418 (now `hero("s2", …, seal="归因", y=132, big_size=32)` + bar at `y+_hh+18`)**, p19_method L433, p27_s2_sum L613, **p28_s3_open L630 (`hero("s3","走一走　·　问一问　·　写一走", …, seal="力行", y=150, big_size=34)`)**, p29_saltlake L643, p30_quote L666, p31_datawall L698, p32_photos L715, p37_proposal L860, **p38_s3_sum L884 (`hero("s3","看见　→　认同　→　参与", …, seal="收束", y=150, big_size=34)`)**, p39_summary L908, p40_homework L938, p41b_source L954, p41_end L959. Theme writer: `dim`/`faint` from kit constants, `ink: "#12241B"` at L1015.
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_tools\rebuild_bg.py` — rebuilds `media/image1.jpeg` from `_tools/image1.original.jpeg`. Constants: `SAFE_TOP_PX=684` (456pt), `SCAN_X=(36,962)`, `BOTTOM_STRIP_Y=(555,745)`, `BOTTOM_MAX=795`, `SHIFT=320`, `FEATHER=14`, `INK_THRESH=70`, `PAD=8`, **`DROP_LEFT_PX=0`** (no cluster dropped), **`BLEND=34`**, `FRAME_X=46`, `FRAME_DY=260`. Functions: `ir_of`, `find_blobs`, `measure_ledge`, `feather_rect`, `soften`, `pick_shift`. Measured: wood tray starts y=702, green wall y=740, image 810 tall; detected clusters `(36,191,591,717)` notepad+pencil (155×126) and `(685,786,667,701)` chalk (101×34); books at x 1295–1441 untouched.
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_tools\add_transitions.py` — injects `<p:transition spd="med|slow"><p:fade/></p:transition>` into each `ppt/slides/slideN.xml`; slow on pages 1,6,19,30,46.
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_tools\check_export.py`, `check_geom.py`, `anim.py` (builds the single-file HTML player from `preview/deck.html`).
+- `D:\Resources\DSH\decks\单元思考与行动-参赛版\_probe\` — `fill.py` (per-page content bbox/empty bands), `contact.py` (6×8 contact sheet → `_probe/contact_all.png`), `dbg_justify.py`, `measure_render.py`, `ledge_slope.py`, `seam.py` (row-step seam detector).
+- Deliverables: `第二单元 进入新时代-单元思考与行动-参赛版.pptx` (2,747,357 B, 46 slides, all with transitions) and `第二单元 进入新时代-动画演示.html` (3.74 MB, 46 pages).
+- Preview URL: `http://127.0.0.1:19387/ppt-preview/c9c65eef3b/pages/deck.html`.
+
+## Errors and Fixes
+- `theme-conformance` errors on p2/p14/p33: new elements used `#0E2018`, not in `theme.colors` → replaced all with theme `ink` `#12241B` (13 errors → 0).
+- `content-collision` `hr_sub` × `hr_sealt` (32×11 px) on the 3 hero pages → `hr_sub` width changed to `iw-58`.
+- Seal rendered ~52×100 instead of 52×52: `justify()` treats shapes with h ≥ 40 as growable plates → seal reduced to **38×38** (below the threshold).
+- `justify()` mis-moved a bar **upward** (`s3_bar` 396 → 259.75): `room = [max(0.0, min(gap_cap, g+gap_cap)) - max(0.0, g)]` could be negative and `add = slack*(r/total)` could exceed `room` → fixed to `max(0.0, min(...) - max(0.0,g))` and `min(r, slack*(r/total))`.
+- New `[✗] unexpected-overlap` on p2 (`ac0`/`ac1` × `s1bar`, 1.55 px) and p33 (`dwbar` × `sn`, 1.3 px): caused by the `bar()`/`srcnote()` clamps `y = min(y, BOT_SAFE - h)` pulling bars into content → **removed both clamps** and let `justify()` compress gaps; added a shrink branch (shapes h ≥ 60, `dh = max(rest, -min(20.0, best_h*0.18))`).
+- Decorative-colour pill low contrast (`#8E3F2E` vs `#12241B` = 2.34) → pill fill changed from `grad(c2,c1,0)` to `grad(c1,c1,0,78)`.
+- Background seam: left-edge block used a hard split at `x=FRAME_X` between vertical-sampled frame and horizontal-sampled board → visible vertical seam; fixed with a **34 px crossfade** (`BLEND=34`), plus the block padded ±26 px in y so the feather band sits outside the ink residue.
+- Earlier erase attempts left the notepad's white edge/dot-line residues (cleanup loop kept re-reporting `(36,46,696,740)`) → root cause: two separately feathered fills leak the original at the shared seam; final fix = move the notepad down instead of erasing it, plus pixel-level ink masks.
+
+## Pending Jobs
+- **m01499 (open)**: improve "融合效果" (the props still read as pasted-on rather than blended into the blackboard); and add a **subtle** decoration in the right 1/3 because it looks too blank — must not conflict with the lecturer's standing area.
+- Not requested but noted: `contest-rework` iterative leftovers and `_skilltest` backup remain untouched; micro-lesson MP4 impossible (no ffmpeg).
+
+## Current Work
+- Just finished and delivered background v3: re-ran `_tools/rebuild_bg.py` (`DROP_LEFT_PX=0`, `BLEND=34`) so the notepad+pencil+chalk now sits at the **bottom-left on the tray** (pasted at x 0..156, y 684..795, scale 0.78), chalk at centre (x 677..794, y 684..734), books untouched at the right; then `build.py` → `ppt_render` → `ppt_verify` (46 pages, 0 errors, 门禁 ✓ 通过) → `ppt_export` (parity 706/706) → `add_transitions.py` (46/46, slow on 1/6/19/30/46) → `anim.py` → `ppt_preview` → `present` + contact sheet.
+- Numeric seam check via `_probe/seam.py`: frame band max row-step 48.1 (original same location 168.0); board band max 148.3 at y=695 = the real tray edge (original 167.2) → no abnormal seam.
+
+## Next Step
+- Start on m01499: (a) make the props blend into the board better (e.g. soft contact shadow / lower-contrast edge treatment at the paste boundary in `_tools/rebuild_bg.py` step 2), and (b) design a non-conflicting right-1/3 decoration — the right third is the lecturer's standing zone, so the decoration must be edge-anchored or very low-contrast (e.g. a faint chalk-style watermark / a thin vertical rail hugging x≈940–960 or the top edge), then re-run build → render → verify → export → transitions → anim → preview.
+
+## Critical Context
+- **Hard constraint**: x ∈ [44, 640] is the content corridor; **640–960 must stay free for the lecturer** — any right-third decoration must be *knowingly* placed (the user explicitly said 「需要知道这部分的作用，不要冲突」) and must not sit where a person stands (avoid the mid-height band, x > 640).
+- **No PowerPoint on this machine**: `ppt_visual` falls back to LibreOffice, which renders this deck ~1.5× zoomed and crops the bottom half (proved: python-pptx reads shapes at y[24,456.2] correctly; Edge `ppt_shot` is correct). All visual review must use `ppt_shot` + `read_image` / `vision_crop`; always tell the user to re-check in their own PowerPoint.
+- Page skeleton after this round: header (gradient chip + info + number + **section pill** + 30 pt title + gradient rule) → cards/rows/bullet-rows with **oval number badges** and **left fading edge** → bottom `bar()` with a **bookmark cap**; hero pages p19/p30/p42 additionally have a full-width gradient plate + 34 pt display text + 环节 seal (归因/力行/收束).
+- Background props all sit with tops at **y=684 px = 456 pt**, sitting on the wood tray (702–740 px) / green wall (740–810 px); `BOT_SAFE=456` in `kit.py` matches.
+- `build.py` is deterministic and was verified byte-identical to the committed `pages/*.yaml` (46/46) — always rebuild via `python _tools/build.py`, never hand-edit page YAMLs; then re-run `ppt_render` before `ppt_verify` (verify reads the stale `preview/layout.json` otherwise).
+- Three AI images are in `media/`: `ai-eco.jpg` (1024×1536), `ai-culture.jpg` (1024×1536), `ai-livelihood.jpg` (916×624); disclosure lives on page 42 (素材引用与出处) and in the speaker notes.
+- AGENTS.md was updated mid-session: report loaded skills / summoned experts / their output on every delivery; `git` is not on PATH (use `D:\tools\git\bin\git.exe`); status reports must use `render_ui` or a ```dsh-ui``` fence, never markdown tables.
+- **Open objectives**: improve prop-to-board blending and add a non-conflicting right-third decoration (m01499).
+---
+</compacted-summary>

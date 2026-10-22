@@ -1,0 +1,79 @@
+# 进入新时代 · 单元思考与行动 —— 参赛版 v2（从零重建，不继承任何旧模板）
+version: 1
+title: "第二单元 进入新时代 · 单元思考与行动"
+size: [960, 540]
+theme:
+  colors:
+    ink: "#17242E"
+    ink2: "#3B4B57"
+    muted: "#3B4B57"
+    rule: "#D3D7D6"
+    card: "#FFFFFF"
+    paper: "#F6F3EC"
+    navy: "#0E2A47"
+    steel: "#2E6E8F"
+    gold: "#A8812F"
+    rust: "#B4552F"
+    teal: "#1C6B60"
+    ondark: "#EAF0F4"
+    ondark2: "#B9C9D4"
+    white: "#FFFFFF"
+    tint: "#FBF8F0"
+    seco1: "#4E7FA6"
+    seco2: "#C97B57"
+    seco3: "#4F9E92"
+    lite2: "#D9A57E"
+    lite3: "#7FC0B6"
+  textStyles:
+    pageTitle: {fontSize: 28, color: $ink, bold: true}
+    cardTitle: {fontSize: 18, color: $ink, bold: true}
+    body: {fontSize: 16, color: $ink2}
+    note: {fontSize: 14, color: $muted}
+  safeArea: {top: 40, bottom: 44, left: 32, right: 48}
+  minFontSize: 14
+pages:
+  - pages/p01_cover.yaml
+  - pages/p02_unit.yaml
+  - pages/p03_four.yaml
+  - pages/p03b_basis.yaml
+  - pages/p04_task.yaml
+  - pages/p05_ctx.yaml
+  - pages/p06_s1.yaml
+  - pages/p07_tech.yaml
+  - pages/p08_traffic.yaml
+  - pages/p09_safe.yaml
+  - pages/p10_law.yaml
+  - pages/p11_culture.yaml
+  - pages/p12_river.yaml
+  - pages/p13_five.yaml
+  - pages/p14_pick.yaml
+  - pages/p14b_integ.yaml
+  - pages/p15_s2.yaml
+  - pages/p16_two.yaml
+  - pages/p17_five.yaml
+  - pages/p18_tool.yaml
+  - pages/p19_apply.yaml
+  - pages/p20_four.yaml
+  - pages/p21_scaffold.yaml
+  - pages/p22_demo.yaml
+  - pages/p22b_integ.yaml
+  - pages/p23_s3.yaml
+  - pages/p24_salt.yaml
+  - pages/p25_salt2.yaml
+  - pages/p26_steps.yaml
+  - pages/p27_plan.yaml
+  - pages/p28_report.yaml
+  - pages/p29_tips.yaml
+  - pages/p30_debate.yaml
+  - pages/p31_answer.yaml
+  - pages/p31b_integ.yaml
+  - pages/p36_q1.yaml
+  - pages/p37_q2.yaml
+  - pages/p38_q3.yaml
+  - pages/p40_m1.yaml
+  - pages/p42_key.yaml
+  - pages/p32_hw.yaml
+  - pages/p33_rubric.yaml
+  - pages/p34_sum.yaml
+  - pages/p35_end.yaml
+  - pages/p44_thanks.yaml

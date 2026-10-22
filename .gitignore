@@ -1,0 +1,51 @@
+# ---- DSH 工作区提交策略：只提交文档与脚本 ----
+# 大体积/归档目录（不入库）
+_archive/
+_backup/
+.kg-scratch/
+corpus/
+dsh-image-gen/
+demo/
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+*.log
+# 环境文件：一律排除，防止以后误填 token
+.env
+.env.*
+!.env.example
+# 各类备份快照
+*.bak-*
+*.bak
+*~
+# 系统与缓存
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+# DSH 插件运行期产物（截图/缓存，非源码）
+.dsh-vision-router/
+.dsh-imagegen/
+.mindmaps/
+
+# 二进制与大体积中间产物（.pptx/.pdf 等交付件由 decks 单独管理，不入库）
+*.pptx
+*.docx
+*.xlsx
+*.pdf
+# 诊断用的原始会话/日志快照（体积大且非知识资产）
+*.jsonl
+_probe/_*
+
+# 大体积中间产物与截图（png/jpeg 多为调试截图，非文档资产）
+*.png
+*.jpeg
+*.jpg
+*.tgz
+_probe/upstream-trees/
+_probe/corpus_sheets/
+generate/image/
+
+# 内嵌图片占比 98.5% 的素材型大 HTML（非文档）
+_specs/layout-atlas.html

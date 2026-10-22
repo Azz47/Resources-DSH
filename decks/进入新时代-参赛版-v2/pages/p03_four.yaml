@@ -1,0 +1,547 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "单元导览",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "新时代“新”在哪里：四个关键词",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "03 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p03a_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p03a_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    158,
+    3,
+    116
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p03a_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "矛盾新变化",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p03a_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    194.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p03b_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    148,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p03b_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    158,
+    3,
+    116
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p03b_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    164,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "历史新方位",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p03b_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    194.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "中国特色社会主义进入新时代，我国发展站到新的历史起点。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p03c_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    298,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p03c_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    308,
+    3,
+    116
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p03c_t",
+   "elementType": "text",
+   "bounds": [
+    67,
+    314,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "理论新飞跃",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p03c_b",
+   "elementType": "text",
+   "bounds": [
+    67,
+    344.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "习近平新时代中国特色社会主义思想，是当代中国马克思主义。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p03d_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    350,
+    298,
+    290,
+    136
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p03d_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    350,
+    308,
+    3,
+    116
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p03d_t",
+   "elementType": "text",
+   "bounds": [
+    369,
+    314,
+    255,
+    24.3
+   ],
+   "content": {
+    "text": "发展新成就",
+    "fontSize": 18,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p03d_b",
+   "elementType": "text",
+   "bounds": [
+    369,
+    344.3,
+    255,
+    49.6
+   ],
+   "content": {
+    "text": "经济、政治、文化、社会、生态文明建设取得历史性成就。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：“新”到底新在哪，说四个词。答：多数说不全。接：矛盾、方位、理论、成就，四个词就是本单元的骨架。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p03a_bg",
+    "p03a_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03a_bg",
+    "p03a_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03a_bg",
+    "p03a_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03b_bg",
+    "p03b_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03b_bg",
+    "p03b_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03b_bg",
+    "p03b_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03c_bg",
+    "p03c_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03c_bg",
+    "p03c_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03c_bg",
+    "p03c_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03d_bg",
+    "p03d_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03d_bg",
+    "p03d_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p03d_bg",
+    "p03d_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

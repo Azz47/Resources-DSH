@@ -1,0 +1,36 @@
+=== 1. overflow 语义判定 ===
+样本: id | box.w | textW | maxLineW | overflowX | overflowY | lines
+  s1c_b          | w=568    | textW=1167.2  | maxLine=532.8   | ovfX=599    | ovfY=0    | lines=3
+  ac0_b          | w=264    | textW=514.5   | maxLine=255     | ovfX=251    | ovfY=0    | lines=3
+  ac1_b          | w=264    | textW=384.8   | maxLine=240     | ovfX=121    | ovfY=0    | lines=2
+  bc0_b          | w=163    | textW=833.2   | maxLine=135     | ovfX=670    | ovfY=0    | lines=6
+  bc1_b          | w=163    | textW=613.5   | maxLine=144.8   | ovfX=451    | ovfY=0    | lines=5
+  bc2_b          | w=163    | textW=494.2   | maxLine=135     | ovfX=331    | ovfY=0    | lines=4
+  s2bar_t        | w=568    | textW=924.7   | maxLine=537.6   | ovfX=357    | ovfY=0    | lines=2
+  d1c_b          | w=568    | textW=948.0   | maxLine=532.8   | ovfX=380    | ovfY=0    | lines=2
+  dc0_b          | w=163    | textW=261.1   | maxLine=154     | ovfX=98     | ovfY=0    | lines=2
+  dc1_b          | w=163    | textW=275.1   | maxLine=140     | ovfX=112    | ovfY=0    | lines=2
+  dc2_b          | w=163    | textW=289.1   | maxLine=140     | ovfX=126    | ovfY=0    | lines=2
+  ec0_b          | w=264    | textW=345.1   | maxLine=238     | ovfX=81     | ovfY=0    | lines=2
+  ec1_b          | w=264    | textW=331.1   | maxLine=238     | ovfX=67     | ovfY=0    | lines=2
+  fc1_t          | w=264    | textW=314.7   | maxLine=228.0   | ovfX=51     | ovfY=0    | lines=2
+  fc1_b          | w=264    | textW=387.1   | maxLine=238     | ovfX=123    | ovfY=0    | lines=2
+  i1b            | w=252    | textW=1155    | maxLine=228.2   | ovfX=903    | ovfY=0    | lines=7
+
+  取样元素 s1c_b: w=568, textW=1167.2, maxLineW=532.8, ovfX=599
+  → 若 ovfX ≈ w - maxLineW = 35.2 ：表示【剩余空间】
+  → 若 ovfX ≈ maxLineW - w = -35.2 ：表示【真实溢出】
+
+=== 2. 自算内容互压 (text/image/table/chart 两两交叠) ===
+  规则: 一方完全包含于另一方 = 承载(忽略); 部分交叠 或 text×text = 记为风险
+  => 风险对总数 = 0
+
+=== 3. 页眉/页脚/页码 等跨页元件识别 ===
+  页顶(y<70)/页底(y>470)/右侧(x>560) 且 id 在 >=20 页重复出现的元件:
+   ('hd_chip_a', 'shape', 44, 28, 22, 22) 出现 44 页
+   ('hd_chip_b', 'shape', 52, 42, 14, 14) 出现 44 页
+   ('hd_info', 'text', 80, 25, 480, 18) 出现 44 页
+   ('hd_num', 'text', 566, 24, 74, 18) 出现 44 页
+   ('hd_secbg', 'shape', 44, 44, 235, 22) 出现 37 页
+   ('hd_sec', 'text', 57, 46, 209, 19) 出现 37 页
+  => 共 6 个跨页固定元件

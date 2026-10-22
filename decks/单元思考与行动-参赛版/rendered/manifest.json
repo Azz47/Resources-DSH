@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "D:\\Resources\\DSH\\decks\\单元思考与行动-参赛版\\第二单元 进入新时代-单元思考与行动-参赛版-2026.pptx",
+  "sourceSha256": "215de80cd02004fc38561c9b22b842b250b3c69339ccc60a47a98d42bada7d2b",
+  "dpi": 144,
+  "pageCount": 42,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "D:\\Resources\\DSH\\decks\\单元思考与行动-参赛版\\rendered\\page-0001.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 231469
+    },
+    {
+      "index": 2,
+      "page": 7,
+      "path": "D:\\Resources\\DSH\\decks\\单元思考与行动-参赛版\\rendered\\page-0002.png",
+      "width": 1921,
+      "height": 1081,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 1094725
+    }
+  ],
+  "missingFonts": []
+}

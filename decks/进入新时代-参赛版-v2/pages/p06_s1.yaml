@@ -1,0 +1,361 @@
+{
+ "elements": [
+  {
+   "elementId": "op_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    48,
+    4,
+    16
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    44,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节一 · 观展选品",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    44,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同",
+    "fontSize": 14,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_n",
+   "elementType": "text",
+   "bounds": [
+    48,
+    96,
+    260,
+    130
+   ],
+   "content": {
+    "text": "01",
+    "fontSize": 104,
+    "color": "#4E7FA6",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.05
+   }
+  },
+  {
+   "elementId": "op_t",
+   "elementType": "text",
+   "bounds": [
+    48,
+    236,
+    592,
+    52
+   ],
+   "content": {
+    "text": "观展选品：先看见，再判断",
+    "fontSize": 30,
+    "color": "#FFFFFF",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_r",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     298
+    ],
+    [
+     148,
+     298
+    ]
+   ],
+   "line": {
+    "color": "#2E6E8F",
+    "width": 3
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_l",
+   "elementType": "text",
+   "bounds": [
+    48,
+    314,
+    592,
+    28
+   ],
+   "content": {
+    "text": "三选一：补一块展板 · 说清一条逻辑 · 挑一件代表展品",
+    "fontSize": 18,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "op_b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    348.72,
+    6,
+    6
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    342,
+    24.48,
+    24.8
+   ],
+   "content": {
+    "text": "看",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b0_t",
+   "elementType": "text",
+   "bounds": [
+    94.48,
+    342,
+    545.52,
+    24.8
+   ],
+   "content": {
+    "text": "六块展板各属哪个领域？",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    385.52,
+    6,
+    6
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    378.8,
+    24.48,
+    24.8
+   ],
+   "content": {
+    "text": "找",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b1_t",
+   "elementType": "text",
+   "bounds": [
+    94.48,
+    378.8,
+    545.52,
+    24.8
+   ],
+   "content": {
+    "text": "哪一块最单薄？找出证据补上。",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    422.32,
+    6,
+    6
+   ],
+   "fill": "#2E6E8F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "op_b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    415.6,
+    24.48,
+    24.8
+   ],
+   "content": {
+    "text": "判",
+    "fontSize": 16,
+    "color": "#EAF0F4",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "op_b2_t",
+   "elementType": "text",
+   "bounds": [
+    94.48,
+    415.6,
+    545.52,
+    24.8
+   ],
+   "content": {
+    "text": "只留一块，你留哪块？说清理由。",
+    "fontSize": 16,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#B9C9D4",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#A8812F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "07 / 45",
+    "fontSize": 13,
+    "color": "#B9C9D4",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_d_steel.png",
+  "fit": "cover"
+ },
+ "notes": "问：看展要带问题吗？答：“随便看看”。接：带三个——它是哪个领域、哪块最薄、只留一块你留哪块。"
+}

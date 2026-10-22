@@ -1,0 +1,224 @@
+{
+  "size": {
+    "width": 960,
+    "height": 540
+  },
+  "theme": {
+    "colors": {
+      "navy": "#16355C",
+      "ink": "#1F2937",
+      "gray": "#6B7280",
+      "light": "#E5E9F0",
+      "bg": "#FFFFFF",
+      "accent": "#8C1D40"
+    },
+    "textStyles": {
+      "title": {
+        "fontSize": 30,
+        "color": "$navy",
+        "bold": true
+      },
+      "h2": {
+        "fontSize": 20,
+        "color": "$navy",
+        "bold": true
+      },
+      "body": {
+        "fontSize": 16,
+        "color": "$ink",
+        "lineHeight": 1.5
+      },
+      "label": {
+        "fontSize": 13,
+        "color": "$ink"
+      },
+      "caption": {
+        "fontSize": 12,
+        "color": "$gray"
+      }
+    },
+    "grid": {
+      "base": 8
+    },
+    "safeArea": {
+      "top": 40,
+      "bottom": 24
+    },
+    "minFontSize": 12,
+    "themeConformance": "strict"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "pageNo": 1,
+      "file": "pages/01_opening.yaml",
+      "name": "pages/01_opening",
+      "background": {
+        "type": "solid",
+        "color": "#FFFFFF"
+      },
+      "safeArea": {
+        "top": 40,
+        "bottom": 24,
+        "left": 0,
+        "right": 0
+      },
+      "expectedOverlaps": [],
+      "expectedOutOfSafeArea": [],
+      "contrastExempt": [],
+      "overlapMode": "declared",
+      "groups": [],
+      "elements": [
+        {
+          "id": "topLine",
+          "kind": "line",
+          "bounds": {
+            "x": 60,
+            "y": 60,
+            "w": 840,
+            "h": 1
+          },
+          "points": [
+            [
+              60,
+              60
+            ],
+            [
+              900,
+              60
+            ]
+          ]
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 100,
+            "w": 840,
+            "h": 120
+          },
+          "style": {
+            "fontSize": 36,
+            "color": "#16355C",
+            "bold": true,
+            "lineHeight": 1.35,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 520.9200000000001,
+            "textH": 48.6,
+            "lines": 1,
+            "lineWidths": [
+              520.9200000000001
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "报告题目：所在研究/项目名称"
+        },
+        {
+          "id": "subtitle",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 250,
+            "w": 840,
+            "h": 40
+          },
+          "style": {
+            "fontSize": 16,
+            "color": "#6B7280",
+            "lineHeight": 1.5,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 231.20000000000002,
+            "textH": 24,
+            "lines": 1,
+            "lineWidths": [
+              218.4
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "副标题：研究定位 / 一句话摘要"
+        },
+        {
+          "id": "authors",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 330,
+            "w": 840,
+            "h": 30
+          },
+          "style": {
+            "fontSize": 13,
+            "color": "#1F2937",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 197.6,
+            "textH": 15.6,
+            "lines": 1,
+            "lineWidths": [
+              176.8
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "作者：xxx ｜ 单位：xxx ｜ 日期"
+        },
+        {
+          "id": "footLine",
+          "kind": "line",
+          "bounds": {
+            "x": 60,
+            "y": 480,
+            "w": 840,
+            "h": 1
+          },
+          "points": [
+            [
+              60,
+              480
+            ],
+            [
+              900,
+              480
+            ]
+          ]
+        },
+        {
+          "id": "venue",
+          "kind": "text",
+          "bounds": {
+            "x": 60,
+            "y": 492,
+            "w": 840,
+            "h": 20
+          },
+          "style": {
+            "fontSize": 12,
+            "color": "#6B7280",
+            "lineHeight": 1.2,
+            "wrap": true
+          },
+          "metrics": {
+            "textW": 121.19999999999999,
+            "textH": 14.399999999999999,
+            "lines": 1,
+            "lineWidths": [
+              111.6
+            ],
+            "overflowY": 0,
+            "overflowX": 0
+          },
+          "text": "会议/汇报名称 · 地点"
+        }
+      ]
+    }
+  ]
+}

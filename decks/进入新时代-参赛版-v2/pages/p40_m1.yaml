@@ -1,0 +1,433 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "收束 · 我们的答卷",
+    "fontSize": 14,
+    "color": "#0E2A47",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 责任意识",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "课堂练习（五）· 材料分析",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#0E2A47",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#0E2A47",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "39 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p40m_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    147.1
+   ],
+   "fill": "#FBF8F0",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p40m_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    4,
+    147.1
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p40m_t",
+   "elementType": "text",
+   "bounds": [
+    70,
+    166,
+    552,
+    81.6
+   ],
+   "content": {
+    "text": "1972—1999 年，黄河有 22 年断流，1997 年利津断面断流 226 天。1999 年 3 月 1 日起实施全河水量统一调度；截至 2026 年 8 月，已连续 27 年不断流。",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "宋体",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.7
+   }
+  },
+  {
+   "elementId": "p40m_c",
+   "elementType": "text",
+   "bounds": [
+    70,
+    257.6,
+    552,
+    19.5
+   ],
+   "content": {
+    "text": "材料",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p40q0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    317.82,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p40q0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    311.1,
+    35.69,
+    24.8
+   ],
+   "content": {
+    "text": "(1)",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p40q0_t",
+   "elementType": "text",
+   "bounds": [
+    105.69,
+    311.1,
+    534.31,
+    24.8
+   ],
+   "content": {
+    "text": "用两个数字概括黄河的变化。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p40q1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    352.62,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p40q1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    345.9,
+    35.69,
+    24.8
+   ],
+   "content": {
+    "text": "(2)",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p40q1_t",
+   "elementType": "text",
+   "bounds": [
+    105.69,
+    345.9,
+    534.31,
+    24.8
+   ],
+   "content": {
+    "text": "运用四步解码法，说明“统一调度”为什么是关键。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p40q2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    387.42,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p40q2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    380.7,
+    35.69,
+    24.8
+   ],
+   "content": {
+    "text": "(3)",
+    "fontSize": 16,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p40q2_t",
+   "elementType": "text",
+   "bounds": [
+    105.69,
+    380.7,
+    534.31,
+    24.8
+   ],
+   "content": {
+    "text": "这对我们参与家乡建设有什么启示？",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_intro.png",
+  "fit": "cover"
+ },
+ "notes": "问：三个小问是什么关系？答：“三个问题”。接：是一层比一层深——概括、分析、启示，答完第一问才有第二问。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p40m_bg",
+    "p40m_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p40m_bg",
+    "p40m_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p40m_bg",
+    "p40m_c"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

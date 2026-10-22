@@ -1,0 +1,433 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "一段可以照着改的解说词",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "24 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p22q_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48,
+    148,
+    592,
+    181.1
+   ],
+   "fill": "#FBF8F0",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p22q_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    4,
+    181.1
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22q_t",
+   "elementType": "text",
+   "bounds": [
+    70,
+    166,
+    552,
+    115.6
+   ],
+   "content": {
+    "text": "1997 年，黄河利津断面断流 226 天；如今，这条河已连续 27 年不断流。之所以能变，一是 1999 年起全河水量统一调度，二是九省（区）协同治污、向湿地补水。这告诉我们：治理一条河，靠的是一套能统筹的制度。",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "宋体",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.7
+   }
+  },
+  {
+   "elementId": "p22q_c",
+   "elementType": "text",
+   "bounds": [
+    70,
+    291.6,
+    552,
+    19.5
+   ],
+   "content": {
+    "text": "——学生习作（示例，可仿写）",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p22b0_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    350.98,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22b0_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    345.1,
+    51.26,
+    21.7
+   ],
+   "content": {
+    "text": "有对比",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b0_t",
+   "elementType": "text",
+   "bounds": [
+    121.26,
+    345.1,
+    518.74,
+    21.7
+   ],
+   "content": {
+    "text": "两个数字放在一句话里。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b1_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    380.68,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22b1_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    374.8,
+    51.26,
+    21.7
+   ],
+   "content": {
+    "text": "有原因",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b1_t",
+   "elementType": "text",
+   "bounds": [
+    121.26,
+    374.8,
+    518.74,
+    21.7
+   ],
+   "content": {
+    "text": "两条原因，各带一个事实。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b2_d",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    410.38,
+    6,
+    6
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22b2_l",
+   "elementType": "text",
+   "bounds": [
+    62,
+    404.5,
+    51.26,
+    21.7
+   ],
+   "content": {
+    "text": "有升华",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b2_t",
+   "elementType": "text",
+   "bounds": [
+    121.26,
+    404.5,
+    518.74,
+    21.7
+   ],
+   "content": {
+    "text": "落到“制度”，不喊口号。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：这段示例好在哪？答：“写得好”。接：好在这三句——有对比、有原因、有升华，而且每个原因都带一个事实。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p22q_bg",
+    "p22q_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22q_bg",
+    "p22q_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22q_bg",
+    "p22q_c"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

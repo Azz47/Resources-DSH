@@ -1,0 +1,38 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "27"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_1"
+    elementType: text
+    bounds: [63, 96, 576, 86]
+    content:
+      text: "思辨探究：盐湖保护、家乡建设，是政府的事，和我们中学生无关？"
+      fontSize: 28
+      fontFamily: "华文楷体"
+  - elementId: "矩形_2"
+    elementType: shape
+    bounds: [128, 224, 449, 213]
+    kind: rect
+    fill: "#000000"
+  - elementId: "直接连接符_10"
+    elementType: line
+    bounds: [168, 287, 365, 1]
+    points: [[168,287],[533,288]]
+    line: {color: "#711000", width: 1}
+  - elementId: "文本框_15"
+    elementType: text
+    bounds: [143, 234, 417, 46]
+    content:
+      text: "这种观点不对！"
+      fontSize: 28
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "文本框_17"
+    elementType: text
+    bounds: [146, 287, 417, 145]
+    content:
+      text: "新时代发展，人人共建、人人共享。 我们青少年不是旁观者，而是时代的见证者、家乡发展的参与者和建设者。"
+      fontSize: 24
+      fontFamily: "华文楷体"
+      align: center

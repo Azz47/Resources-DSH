@@ -1,0 +1,807 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节三 · 拓展策展",
+    "fontSize": 14,
+    "color": "#1C6B60",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 责任意识 · 法治观念",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "调研报告：七个部分，缺一项都不完整",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#1C6B60",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "31 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p28r0_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r0_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    148,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r0_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    156,
+    132,
+    22
+   ],
+   "content": {
+    "text": "一、方案摘要",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r0_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    156,
+    420,
+    22
+   ],
+   "content": {
+    "text": "目的、对象、内容、方式。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r1_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    192,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r1_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    192,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r1_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    200,
+    132,
+    22
+   ],
+   "content": {
+    "text": "二、调研过程",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r1_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    200,
+    420,
+    22
+   ],
+   "content": {
+    "text": "时间、路线、走访对象与记录。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r2_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    236,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r2_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    236,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r2_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    244,
+    132,
+    22
+   ],
+   "content": {
+    "text": "三、变化事实",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r2_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    244,
+    420,
+    22
+   ],
+   "content": {
+    "text": "用事实与数据说清“变了什么”。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r3_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    280,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r3_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    280,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r3_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    288,
+    132,
+    22
+   ],
+   "content": {
+    "text": "四、存在问题",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r3_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    288,
+    420,
+    22
+   ],
+   "content": {
+    "text": "真实短板，须有现场证据。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r4_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    324,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r4_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    324,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r4_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    332,
+    132,
+    22
+   ],
+   "content": {
+    "text": "五、对策建议",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r4_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    332,
+    420,
+    22
+   ],
+   "content": {
+    "text": "有问题依据、有理论支撑、有可行做法。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r5_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    368,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r5_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    368,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r5_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    376,
+    132,
+    22
+   ],
+   "content": {
+    "text": "六、小组感悟",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r5_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    376,
+    420,
+    22
+   ],
+   "content": {
+    "text": "家乡之变让我们懂得了什么。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r6_bg",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    412,
+    592,
+    36
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   }
+  },
+  {
+   "elementId": "p28r6_k",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    412,
+    4,
+    36
+   ],
+   "fill": "#1C6B60",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p28r6_t",
+   "elementType": "text",
+   "bounds": [
+    64,
+    420,
+    132,
+    22
+   ],
+   "content": {
+    "text": "七、附录",
+    "fontSize": 14,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p28r6_v",
+   "elementType": "text",
+   "bounds": [
+    206,
+    420,
+    420,
+    22
+   ],
+   "content": {
+    "text": "照片、访谈记录、资料来源清单。",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s3.png",
+  "fit": "cover"
+ },
+ "notes": "问：报告里最难写的是哪部分？答：“感悟”。接：是“存在问题”——只写成绩的报告，不叫调研，叫宣传。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p28r0_bg",
+    "p28r0_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r0_bg",
+    "p28r0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r0_bg",
+    "p28r0_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r1_bg",
+    "p28r1_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r1_bg",
+    "p28r1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r1_bg",
+    "p28r1_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r2_bg",
+    "p28r2_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r2_bg",
+    "p28r2_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r2_bg",
+    "p28r2_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r3_bg",
+    "p28r3_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r3_bg",
+    "p28r3_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r3_bg",
+    "p28r3_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r4_bg",
+    "p28r4_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r4_bg",
+    "p28r4_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r4_bg",
+    "p28r4_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r5_bg",
+    "p28r5_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r5_bg",
+    "p28r5_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r5_bg",
+    "p28r5_v"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r6_bg",
+    "p28r6_k"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r6_bg",
+    "p28r6_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p28r6_bg",
+    "p28r6_v"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

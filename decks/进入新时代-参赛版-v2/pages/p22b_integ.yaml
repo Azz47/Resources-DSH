@@ -1,0 +1,388 @@
+{
+ "elements": [
+  {
+   "elementId": "hd_sq",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48,
+    56,
+    4,
+    16
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_tag",
+   "elementType": "text",
+   "bounds": [
+    60,
+    52,
+    300,
+    22
+   ],
+   "content": {
+    "text": "环节二 · 撰写解说",
+    "fontSize": 14,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_core",
+   "elementType": "text",
+   "bounds": [
+    404,
+    52,
+    236,
+    22
+   ],
+   "content": {
+    "text": "核心素养 · 政治认同 · 健全人格",
+    "fontSize": 14,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "right",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "hd_tt",
+   "elementType": "text",
+   "bounds": [
+    48,
+    78,
+    592,
+    40
+   ],
+   "content": {
+    "text": "重点整合：四条原因，迁移回六块展板",
+    "fontSize": 28,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.25
+   }
+  },
+  {
+   "elementId": "hd_ru",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     640,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "hd_ac",
+   "elementType": "line",
+   "points": [
+    [
+     48,
+     128
+    ],
+    [
+     112,
+     128
+    ]
+   ],
+   "line": {
+    "color": "#B4552F",
+    "width": 2
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_rule",
+   "elementType": "line",
+   "points": [
+    [
+     648,
+     96
+    ],
+    [
+     648,
+     462
+    ]
+   ],
+   "line": {
+    "color": "#D9D6CB",
+    "width": 1,
+    "dash": "dash"
+   },
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_mark",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    647,
+    96,
+    10,
+    4
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "rb_vt",
+   "elementType": "text",
+   "bounds": [
+    662,
+    112,
+    22,
+    210
+   ],
+   "content": {
+    "text": "第\n二\n单\n元\n \n进\n入\n新\n时\n代",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.42
+   }
+  },
+  {
+   "elementId": "rb_num",
+   "elementType": "text",
+   "bounds": [
+    662,
+    400,
+    60,
+    24
+   ],
+   "content": {
+    "text": "25 / 45",
+    "fontSize": 13,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.5
+   }
+  },
+  {
+   "elementId": "p22b0_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    48.0,
+    152,
+    288.0,
+    200
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p22b0_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    48.0,
+    162,
+    3,
+    180
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22b0_t",
+   "elementType": "text",
+   "bounds": [
+    67.0,
+    168,
+    253.0,
+    22.95
+   ],
+   "content": {
+    "text": "空间站长期驻留",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p22b0_b",
+   "elementType": "text",
+   "bounds": [
+    67.0,
+    196.95,
+    253.0,
+    99.2
+   ],
+   "content": {
+    "text": "党的领导：新型举国体制把航天工程立为国家任务；\n制度优势：集中力量办大事，跨部门、跨单位协同攻关。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b1_bg",
+   "elementType": "shape",
+   "kind": "roundRect",
+   "bounds": [
+    352.0,
+    152,
+    288.0,
+    200
+   ],
+   "fill": "#FFFFFF",
+   "line": {
+    "color": "#D3D7D6",
+    "width": 1
+   },
+   "radius": 6
+  },
+  {
+   "elementId": "p22b1_bar",
+   "elementType": "shape",
+   "kind": "rect",
+   "bounds": [
+    352.0,
+    162,
+    3,
+    180
+   ],
+   "fill": "#B4552F",
+   "role": "decoration"
+  },
+  {
+   "elementId": "p22b1_t",
+   "elementType": "text",
+   "bounds": [
+    371.0,
+    168,
+    253.0,
+    22.95
+   ],
+   "content": {
+    "text": "安全感 98.23%",
+    "fontSize": 17,
+    "color": "#17242E",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.35
+   }
+  },
+  {
+   "elementId": "p22b1_b",
+   "elementType": "text",
+   "bounds": [
+    371.0,
+    196.95,
+    253.0,
+    99.2
+   ],
+   "content": {
+    "text": "以人民为中心：平安中国建设把群众感受当作标尺；\n制度优势：基层治理网格化，矛盾在社区就化解。",
+    "fontSize": 16,
+    "color": "#3B4B57",
+    "fontFamily": "微软雅黑",
+    "bold": false,
+    "align": "left",
+    "lineHeight": 1.55
+   }
+  },
+  {
+   "elementId": "p22b_x",
+   "elementType": "text",
+   "bounds": [
+    48,
+    368,
+    592,
+    58
+   ],
+   "content": {
+    "text": "同一套原因，能解释不同的成就——这才叫“解码”，不是背四条结论。",
+    "fontSize": 20,
+    "color": "#B4552F",
+    "fontFamily": "微软雅黑",
+    "bold": true,
+    "align": "left",
+    "lineHeight": 1.4
+   }
+  }
+ ],
+ "background": {
+  "type": "image",
+  "src": "media/bg_p_s2.png",
+  "fit": "cover"
+ },
+ "notes": "问：四条原因记住了吗？答：“记住了”。接：记住不算本事，能拿它解释一块新展板才算——试一个空间站。",
+ "expectedOverlaps": [
+  {
+   "pair": [
+    "p22b0_bg",
+    "p22b0_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22b0_bg",
+    "p22b0_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22b0_bg",
+    "p22b0_b"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22b1_bg",
+    "p22b1_bar"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22b1_bg",
+    "p22b1_t"
+   ],
+   "reason": "色块衬底"
+  },
+  {
+   "pair": [
+    "p22b1_bg",
+    "p22b1_b"
+   ],
+   "reason": "色块衬底"
+  }
+ ]
+}

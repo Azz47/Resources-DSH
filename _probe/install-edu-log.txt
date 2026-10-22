@@ -1,0 +1,11 @@
+﻿[10:39:27] START alive=9
+[10:39:27] INSTALL dsh-animations
+[10:41:20] OK     dsh-animations exit=0 alive=8
+[10:41:20] INSTALL @changfenhuang/dsh-genui
+[10:41:41] OK     @changfenhuang/dsh-genui exit=0 alive=8
+[10:41:41] INSTALL @linxin666/dsh-client-ui-skill-explorer
+[10:41:53] OK     @linxin666/dsh-client-ui-skill-explorer exit=0 alive=9
+[10:41:53] INSTALL dsh-echocat-skill-panel
+[10:42:10] OK     dsh-echocat-skill-panel exit=0 alive=9
+[10:42:10] DONE alive=9
+[10:42:10] dep count: 29

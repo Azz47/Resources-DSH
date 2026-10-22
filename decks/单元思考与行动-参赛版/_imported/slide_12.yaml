@@ -1,0 +1,59 @@
+# 导入自原 pptx（几何仅供参考，可由 layout 编辑器重排；样式已保留；v0.9.1 prst 形状/渐变直通）
+pageType: content
+notes: "12"
+background: {"type":"image","src":"media/image1.jpeg","fit":"cover"}
+elements:
+  - elementId: "文本框_9"
+    elementType: text
+    bounds: [116, 110, 511, 44]
+    content:
+      text: "子任务2：撰写解说——解码新成就"
+      fontSize: 30
+      fontFamily: "黑体"
+      align: center
+  - elementId: "直接连接符_1"
+    elementType: line
+    bounds: [161, 164, 438, 2]
+    points: [[161,166],[599,164]]
+    line: {color: "#014E6A", width: 1}
+  - elementId: "矩形_4"
+    elementType: shape
+    bounds: [167, 119, 29, 29]
+    kind: rect
+    fill: "#014E6A"
+    line: {color: "#000000"}
+  - elementId: "矩形_10"
+    elementType: shape
+    bounds: [183, 137, 19, 19]
+    kind: rect
+    fill: "#1784AD"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_6_txt"
+    elementType: text
+    bounds: [66, 197, 280, 62]
+    content:
+      text: "分析原因·小组讨论"
+      fontSize: 28
+      color: "#000000"
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_6"
+    elementType: shape
+    bounds: [66, 197, 280, 62]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
+  - elementId: "矩形_圆角_7_txt"
+    elementType: text
+    bounds: [66, 319, 573, 79]
+    content:
+      text: "结合所学知识，分析新时代党和国家事业取得辉煌成就的原因。"
+      fontSize: 28
+      fontFamily: "华文楷体"
+      align: center
+  - elementId: "矩形_圆角_7"
+    elementType: shape
+    bounds: [66, 319, 573, 79]
+    kind: roundRect
+    fill: "#000000"
+    line: {color: "#000000"}
